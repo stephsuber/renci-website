@@ -1,0 +1,14 @@
+id: cbizon
+name: 
+  first: Chris
+  last: Bizon
+email: fake@email.com
+title: Director of Analytics and Data Science
+phone: 919-445-8745
+online_presence:
+  twitter: whoami
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

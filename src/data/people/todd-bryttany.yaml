@@ -1,0 +1,14 @@
+id: btodd
+name:
+  first: Bryttany
+  last: Todd
+email: fake@email.com
+title: Research Project Manager
+phone: 919-445-6825
+online_presence:
+  twitter: null
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

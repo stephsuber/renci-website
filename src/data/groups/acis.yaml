@@ -1,0 +1,15 @@
+id: acis
+name: Advanced Cyberinfrastructure Support
+description: Advanced Cyberinfrastructure Support
+featuredImage: null
+lead: msliwowski
+members:
+  - rjones
+  - cdickens
+  - lleathers
+  - crutledge
+projects:
+online_presence:
+  url: https://wiki.renci.org/
+  github: null
+  twitter: nope

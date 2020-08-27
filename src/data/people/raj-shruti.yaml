@@ -1,0 +1,14 @@
+id: sraj
+name:
+  first: Shruti
+  last: Raj
+email: fake@email.com
+title: lorem ipsum
+phone: 919-999-9999
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet.'

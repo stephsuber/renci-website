@@ -1,0 +1,14 @@
+id: plinebaugh
+name:
+  first: Paul
+  last: Linebaugh
+email: fake@email.com
+title: Cloud and Linux System Administrator
+phone: 919-445-3572
+online_presence:
+  twitter: null
+  github: not_real
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

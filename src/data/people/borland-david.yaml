@@ -1,0 +1,14 @@
+id: dborland
+name: 
+  first: David
+  last: Borland
+email: fake@email.com
+title: Senior Visualization Researcher
+phone: 919-445-1111
+online_presence:
+  twitter: whoami
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

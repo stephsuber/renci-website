@@ -1,0 +1,13 @@
+id: ncds
+name: National Consortium for Data Science
+description: data science consortium national data science consortium national data science consortium national 
+lead:
+  - smckeen
+members:
+  - smckeen
+  - dcarsey
+  - ssuber
+online_presence:
+  url: https://www.datascienceconsortium.org/
+  github: ""
+  twitter: ncds

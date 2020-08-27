@@ -1,0 +1,25 @@
+id: nrig
+name: Networking Research Infrastructure Group
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+featuredImage: null
+lead: ibaldin
+members:
+  - ibaldin
+  - pruth
+  - amandal
+  - mcevik
+  - yxin
+  - exin
+  - szeng
+  - cwong
+  - escott
+  - kthareja
+  - mstealey
+projects:
+  - chameleon
+  - fabric
+  - geni
+online_presence:
+  url: https://nrig.renci.org
+  github: null
+  twitter: nope

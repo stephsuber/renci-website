@@ -1,0 +1,14 @@
+id: dmoore
+name:
+  first: Daniel
+  last: Moore
+email: fake@email.com
+title: Applications Engineer
+phone: 919-445-1063
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

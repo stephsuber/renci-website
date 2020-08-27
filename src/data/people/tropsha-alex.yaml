@@ -1,0 +1,14 @@
+id: atropsha
+name:
+  first: Alex
+  last: Tropsha
+email: fake@email.com
+title: Chief Domain Scientist for Molecular Informatics
+phone: 919-445-2357
+online_presence:
+  twitter: null
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

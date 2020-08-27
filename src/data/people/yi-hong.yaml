@@ -1,0 +1,14 @@
+id: hyi
+name:
+  first: Hong
+  last: Yi
+email: fake@email.com
+title: Senior Research Scientist
+phone: 919-445-0800
+online_presence:
+  twitter: null
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

@@ -1,0 +1,14 @@
+id: jreilly
+name:
+  first: Jason
+  last: Reilly
+email: fake@email.com
+title: Senior Research Software Developer
+phone: 919-445-3886
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

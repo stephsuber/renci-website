@@ -1,0 +1,14 @@
+id: crutledge
+name:
+  first: Chris
+  last: Rutledge
+email: fake@email.com
+title: Linux Administrator
+phone: 919-445-8530
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

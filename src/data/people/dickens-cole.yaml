@@ -1,0 +1,14 @@
+id: cdickens
+name: 
+  first: Cole
+  last: Dickens
+email: fake@email.com
+title: Systems Specialist
+phone: 919-445-1883
+online_presence:
+  twitter: whoami
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

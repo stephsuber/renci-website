@@ -1,0 +1,14 @@
+id: powen
+name:
+  first: Phil
+  last: Owen
+email: fake@email.com
+title: Research Software Architect
+phone: 919-445-8417
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

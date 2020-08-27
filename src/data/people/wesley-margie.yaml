@@ -1,0 +1,14 @@
+id: mwesley
+name:
+  first: Margie
+  last: Wesley
+email: fake@email.com
+title: Accountant
+phone: 919-445-2360
+online_presence:
+  twitter: null
+  github: null
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

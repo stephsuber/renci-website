@@ -1,0 +1,14 @@
+id: spetrie
+name:
+  first: Samantha
+  last: Petrie
+email: fake@email.com
+title: Student Intern, Office of the Director
+phone: 919-445-6384
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

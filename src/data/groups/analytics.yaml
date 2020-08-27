@@ -1,0 +1,22 @@
+id: analytics
+name: Analytics
+description: lorem ipsum data sciencum
+lead: cbizon
+members:
+  - cbizon
+  - clenhardt
+  - bblanton
+  - lstillwell
+  - kbradford
+  - lchristopherson
+  - sshrivastava
+  - hlander
+  - dborland
+  - jbalhoff
+projects:
+  - data-translator
+  - earth-data-science
+online_presence:
+  url: null
+  github: null
+  twitter: nope

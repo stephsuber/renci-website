@@ -1,0 +1,7 @@
+---
+title: Postdoctoral Research Associate
+unc_position_number: "PDS00250"
+publish_date: 2020-03-23
+active: true
+---
+The postdoctoral research associate will have the responsibility to advance a number of research projects, working in close collaboration with RENCI investigators. The individual is expected to have skills and experience in Genetics, Biomedical Health Sciences, and/or Data Science and is expected to contribute to the development and execution of research projects in these areas. Specifically, the individual will assist the RENCI investigator on the Obesity Hub, which attempts to discover novel obesity biology through a variety of techniques, including integration of multi-omics data with prior information into a knowledge graph upon which novel analytic approaches can be developed. The postdoctoral research associate will perform GWAS and -omics analysis, and develop methods to discover biological heterogeneity. Further, this individual will implement graph-analytic techniques to derive statistically-significant explanatory patterns from knowledge graphs containing integrated data and knowledge. The individual will also assist with preparing proposals and reports and disseminating research results through conferences and scholarly publications.

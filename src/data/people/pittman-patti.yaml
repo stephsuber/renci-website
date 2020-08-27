@@ -1,0 +1,14 @@
+id: ppittman
+name:
+  first: Patti
+  last: Pittman
+email: fake@email.com
+title: Accounting Technician
+phone: 919-445-4255
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

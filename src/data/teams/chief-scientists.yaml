@@ -1,0 +1,9 @@
+id: chief-scientists
+name: Chief Scientists
+description: Lorem ipsum dolor sit amet!
+lead: 
+members:
+  - rluettich
+  - arajasekar
+  - kwilhelmsen
+  - atropsha

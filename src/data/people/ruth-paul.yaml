@@ -1,0 +1,14 @@
+id: pruth
+name:
+  first: Paul
+  last: Ruth
+email: fake@email.com
+title: lorem ipsum what
+phone: 919-123-9999
+online_presence:
+  twitter: what
+  github: nope
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet ameta met.'

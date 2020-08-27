@@ -1,0 +1,12 @@
+id: management
+name: Management Team
+description: Lorem ipsum dolor!!
+lead: 
+members:
+  - kandrews
+  - ibaldin
+  - bblanton
+  - cbizon
+  - jcoposky
+  - bhurst
+  - msilwowski

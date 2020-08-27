@@ -1,0 +1,14 @@
+id: rjones
+name:
+  first: Robert
+  last: Jones
+email: fake@email.com
+title: Systems Specialist
+phone: 919-445-1683
+online_presence:
+  twitter: null
+  github: not_real
+  instagram: null
+  linkedin: null
+  youtube: null
+bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
