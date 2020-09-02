@@ -27,12 +27,6 @@ export default ({ data, pageContext }) => {
                 photo={ photo ? photo.childImageSharp.fixed : avatar.childImageSharp.fixed }
             />
 
-            <Section title="About">
-                <Paragraph>
-                    { bio }
-                </Paragraph>
-            </Section>
-
             <Section title="Contributions">
                 {
                     groups && (
@@ -77,8 +71,14 @@ export default ({ data, pageContext }) => {
                 }
             </Section>
 
+            <Section title="About">
+                <Paragraph>
+                    { bio }
+                </Paragraph>
+            </Section>
+
             {
-                allNews && (
+                allNews.length && (
                     <Section title="Recent News">
                         {
                             allNews.slice(0, 2).map((article, i) => (
