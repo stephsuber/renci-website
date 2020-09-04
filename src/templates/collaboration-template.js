@@ -61,6 +61,13 @@ export const collaborationQuery = graphql`
                 id
                 fullName
             }
+            featuredImage {
+                childImageSharp {
+                    fluid {
+                        ...GatsbyImageSharpFluid
+                    }
+                }
+            }
             online_presence {
                 url
                 twitter

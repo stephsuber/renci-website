@@ -8,6 +8,7 @@ import { ArticlePreview } from '../components/news'
 export default ({ data, pageContext }) => {
     const { projectsYaml: {
         name,
+        featuredImage,
         email,
         description,
         online_presence,
@@ -16,7 +17,7 @@ export default ({ data, pageContext }) => {
     
     return (
         <Fragment>
-            <Hero>
+            <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
                 <Title>{ name }</Title>
                 <div>{ email }</div>
                 <Paragraph>
@@ -61,6 +62,13 @@ export const projectQuery = graphql`
             name
             email
             description
+            featuredImage {
+                childImageSharp {
+                    fluid {
+                        ...GatsbyImageSharpFluid
+                    }
+                }
+            }
             online_presence {
                 url
                 twitter
