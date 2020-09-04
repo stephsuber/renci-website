@@ -19,7 +19,6 @@ export default ({ data, pageContext }) => {
         <Fragment>
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
                 <Title>{ name }</Title>
-                <div>{ email }</div>
                 <Paragraph>
                     { description }
                 </Paragraph>
