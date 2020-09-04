@@ -22,9 +22,11 @@ const ArticleTitle = styled(Heading)(({ theme }) => `
     color: ${ theme.color.darkgrey };
 `)
 
+const TitleContainer = styled.div``
+
 const BodyContainer = styled.div`
     // border: 1px solid #f99;
-    max-height: 200px;
+    max-height: 150px;
     overflow-y: hidden;
     position: relative;
     &::after {
@@ -70,9 +72,11 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
                         )
                     }
                     <Col xs={ 12 } md={ hasFeaturedImage ? 8 : 12 } lg={ hasFeaturedImage ? 9 : 12 }>
-                        <BodyContainer>
+                        <TitleContainer>
                             <ArticleDate>{ article.frontmatter.publish_date }</ArticleDate>
                             <ArticleTitle><Link to={ path }>{ article.frontmatter.title }</Link></ArticleTitle>
+                        </TitleContainer>
+                        <BodyContainer>
                             <div dangerouslySetInnerHTML={{ __html: article.excerpt }} />
                         </BodyContainer>
                         <ArrowLink to={ path } text="Continue Reading" float="right" />
