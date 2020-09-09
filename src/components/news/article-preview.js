@@ -42,7 +42,6 @@ const BodyContainer = styled.div`
 `
 
 export const ArticlePreview = ({ article, path, compact = false }) => {
-    console.log(article)
     const hasFeaturedImage = (article.frontmatter.featuredImage !== null) && (compact === false)
     return (
         <Wrapper>

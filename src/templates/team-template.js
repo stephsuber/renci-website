@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
-import { Title } from '../components/typography'
+import { Title, Paragraph } from '../components/typography'
 import { ArrowLink } from '../components/link'
-import { StaffList } from '../components/people'
+import { MembersList } from '../components/people'
 
 export default ({ data, pageContext }) => {
     const { teamsYaml: {
@@ -25,28 +25,19 @@ export default ({ data, pageContext }) => {
 
             <Container>
                 <Section title="Team Details">
-
                     <Article title="Description">
-                        { description }
-                    </Article>
-                    
-                    <Article title="Members">
-                        {
-                            members.map(person => (
-                                <Fragment key={ person.id }>
-                                    <ArrowLink
-                                        to={ `/people/${ person.id }` }
-                                        text={ `${ person.fullName } ${ lead && person.id === lead.id ? '(lead)' : '' }` }
-                                    /> <br/>
-                                </Fragment>
-                            ))
-                        }
+                        <Paragraph>
+                            { description }
+                        </Paragraph>
                     </Article>
                 </Section>
 
                 <Section title="Team Members">
-                    <StaffList staff={ members } />    
+                    <Article>
+                        <MembersList members={ members } />
+                    </Article>
                 </Section>
+
 
             </Container>
         </Fragment>
@@ -75,6 +66,13 @@ export const groupQuery = graphql`
                 title
                 fields {
                     path
+                }
+                photo {
+                    childImageSharp {
+                        fixed(width: 350, height: 350) {
+                            ...GatsbyImageSharpFixed
+                        }
+                    }
                 }
             }
         }

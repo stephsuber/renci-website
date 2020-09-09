@@ -9,11 +9,12 @@ const Header = styled(Heading)(({ theme }) => `
     margin: 0;
     padding: 1rem 0;
     @media (min-width: 992px) {
-        padding: .33rem 1rem;
+        padding: 0 1rem;
     }
 `)
 
 const Wrapper = styled.section(({ theme, fullWidth }) => `
+    // border: 1px solid #f99; * { border: 1px solid #f99; }
     width: 100%;
     &:not(:first-child) {
         border-top: 2px solid ${ theme.color.lightgrey };

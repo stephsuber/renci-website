@@ -10,8 +10,7 @@ export const Heading = styled.h2(({ theme }) => `
         font-size: 1.33rem;
     }
     color: ${ theme.color.darkgrey };
-    padding: 0.25rem 0;
-    margin: 0;
+    line-height: 1.5;
 `)
 
 export const Subheading = styled.h4`

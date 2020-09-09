@@ -78,7 +78,7 @@ export default ({ data, pageContext }) => {
             </Section>
 
             {
-                allNews.length && (
+                allNews.length > 0 && (
                     <Section title="Recent News">
                         {
                             allNews.slice(0, 2).map((article, i) => (

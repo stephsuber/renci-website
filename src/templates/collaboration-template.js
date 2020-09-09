@@ -5,6 +5,7 @@ import { Title } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
+import { MembersList } from '../components/people'
 
 export default ({ data, pageContext }) => {
     const { collaborationsYaml: {
@@ -55,9 +56,13 @@ export default ({ data, pageContext }) => {
                     )
                 }
 
-                <Section title="Contributors">
-                    { members.map(person => <div key={ person.id }><ArrowLink to={ `/people/${ person.id }` } text={ person.fullName } /></div>) }
-                </Section>
+                {
+                    members && (
+                        <Section title="Contributors">
+                            <MembersList members={ members } />
+                        </Section>
+                    )
+                }
                 
                 {
                     projects && (
@@ -103,6 +108,16 @@ export const collaborationQuery = graphql`
             members {
                 id
                 fullName
+                fields {
+                    path
+                }
+                photo {
+                    childImageSharp {
+                        fixed(width: 350, height: 350) {
+                            ...GatsbyImageSharpFixed
+                        }
+                    }
+                }
             }
             featuredImage {
                 childImageSharp {

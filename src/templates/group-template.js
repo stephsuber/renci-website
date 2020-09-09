@@ -5,6 +5,7 @@ import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
+import { MembersList } from '../components/people'
 
 export default ({ data, pageContext }) => {
     const { groupsYaml: {
@@ -92,13 +93,7 @@ export default ({ data, pageContext }) => {
                 {
                     members && (
                         <Section title="Contributors">
-                            {
-                                members.map(person => (
-                                    <Fragment key={ person.id }>
-                                        <ArrowLink to={ `/people/${ person.id }` } text={ `${ person.fullName } ${ person.id === lead.id ? '(lead)' : '' }` } /> <br/>
-                                    </Fragment>
-                                ))
-                            }
+                            <MembersList members={ members } />
                         </Section>
                     )
                 }
@@ -128,6 +123,16 @@ export const groupQuery = graphql`
             members {
                 id
                 fullName
+                fields {
+                    path
+                }
+                photo {
+                    childImageSharp {
+                        fixed(width: 350, height: 350) {
+                            ...GatsbyImageSharpFixed
+                        }
+                    }
+                }
             }
             online_presence {
                 url
