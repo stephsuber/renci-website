@@ -32,7 +32,7 @@ const Overlay = styled.div(({ theme, color }) => `
 
 const Wrapper = styled.div(({ theme, backgroundColor }) => `
     position: relative;
-    min-height: 400px;
+    min-height: 500px;
     overflow: hidden;
     // width: 1400px;
     // margin: auto;
@@ -48,7 +48,7 @@ export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children 
                 backgroundImage && (
                     <Img
                         fluid={ backgroundImage }
-                        style={{ height: '400px' }}
+                        style={{ height: '500px' }}
                         imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }}
                     />
                 )
