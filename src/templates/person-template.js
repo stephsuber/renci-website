@@ -31,13 +31,15 @@ export default ({ data, pageContext }) => {
                 {
                     groups && (
                         <Article title="Research Groups">
-                            {
-                                groups.map(group => (
-                                    <Fragment key={ group.id }>
-                                        <ArrowLink to={ group.fields.path } text={ group.name } /> <br/>
-                                    </Fragment>
-                                ))
-                            }
+                            <Paragraph>
+                                {
+                                    groups.map(group => (
+                                        <Fragment key={ group.id }>
+                                            <ArrowLink to={ group.fields.path } text={ group.name } /> <br/>
+                                        </Fragment>
+                                    ))
+                                }
+                            </Paragraph>
                         </Article>
                     )
                 }
@@ -45,13 +47,15 @@ export default ({ data, pageContext }) => {
                 {
                     collaborations && (
                         <Article title="Collaborations">
-                            {
-                                collaborations.map(collaboration => (
-                                    <Fragment key={ collaboration.id }>
-                                        <ArrowLink to={ collaboration.fields.path } text={ collaboration.name } /> <br/>
-                                    </Fragment>
-                                ))
-                            }
+                            <Paragraph>
+                                {
+                                    collaborations.map(collaboration => (
+                                        <Fragment key={ collaboration.id }>
+                                            <ArrowLink to={ collaboration.fields.path } text={ collaboration.name } /> <br/>
+                                        </Fragment>
+                                    ))
+                                }
+                            </Paragraph>
                         </Article>
                     )
                 }
