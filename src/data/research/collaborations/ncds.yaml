@@ -7,6 +7,8 @@ members:
   - smckeen
   - dcarsey
   - ssuber
+projects:
+  - data-matters
 online_presence:
   url: https://www.datascienceconsortium.org/
   github: ""
