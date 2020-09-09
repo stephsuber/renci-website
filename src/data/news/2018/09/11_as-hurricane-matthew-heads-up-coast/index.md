@@ -5,7 +5,7 @@ link: https://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-sw
 spotlight: false
 publish_date: 2018-09-11T08:00:00
 author: subers
-featuredImage: ./coastline.jpg
+featuredImage: ./hurricane-matthew.png
 groups:
     - earth-data-science
     - 
