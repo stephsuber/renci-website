@@ -16,6 +16,9 @@ const teamsQuery = graphql`{
                     email
                     title
                 }
+                fields {
+                    path
+                }
             }
         }
     }
