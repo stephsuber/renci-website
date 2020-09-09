@@ -7,7 +7,7 @@ import { Container as Grid, Row, Col, Visible } from 'react-grid-system'
 import { ArrowLink } from '../link'
 
 const Wrapper = styled.article`
-    margin: 1rem -1rem;
+    margin: 0 -1rem;
 `
 
 const ArticleDate = styled.h2`
@@ -42,6 +42,7 @@ const BodyContainer = styled.div`
 `
 
 export const ArticlePreview = ({ article, path, compact = false }) => {
+    console.log(article)
     const hasFeaturedImage = (article.frontmatter.featuredImage !== null) && (compact === false)
     return (
         <Wrapper>

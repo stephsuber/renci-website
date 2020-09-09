@@ -11,9 +11,9 @@ module.exports = {
         { resolve: `gatsby-source-filesystem`, options: { name: `images`, path: `${ __dirname }/src/images` }, },
         { resolve: `gatsby-source-filesystem`, options: { name: `people`, path: `${ __dirname }/src/data/people` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `teams`, path: `${ __dirname }/src/data/teams` } },
-        { resolve: `gatsby-source-filesystem`, options: { name: `groups`, path: `${ __dirname }/src/data/groups` } },
-        { resolve: `gatsby-source-filesystem`, options: { name: `projects`, path: `${ __dirname }/src/data/projects` } },
-        { resolve: `gatsby-source-filesystem`, options: { name: `collaborations`, path: `${ __dirname }/src/data/collaborations` } },
+        { resolve: `gatsby-source-filesystem`, options: { name: `groups`, path: `${ __dirname }/src/data/research/groups` } },
+        { resolve: `gatsby-source-filesystem`, options: { name: `projects`, path: `${ __dirname }/src/data/research/projects` } },
+        { resolve: `gatsby-source-filesystem`, options: { name: `collaborations`, path: `${ __dirname }/src/data/research/collaborations` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `news`, path: `${ __dirname }/src/data/news` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `events`, path: `${ __dirname }/src/data/events` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `careers`, path: `${ __dirname }/src/data/careers` } },
@@ -63,6 +63,7 @@ module.exports = {
         // COLLABORATIONS
         "CollaborationsYaml.members": `PeopleYaml`, // Link collaborationmembers to people
         "CollaborationsYaml.lead": `PeopleYaml`, // Link collaborationmembers to people
+        "CollaborationsYaml.projects": `ProjectsYaml`, // Show projects in full for collaboration queries
         // NEWS
         "MarkdownRemark.frontmatter.author": "PeopleYaml",
         "MarkdownRemark.frontmatter.people": "PeopleYaml",

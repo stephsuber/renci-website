@@ -16,6 +16,11 @@ const collaborationsQuery = graphql`{
                     email
                     title
                 }
+                projects {
+                    id
+                    name
+                    description
+                }
                 online_presence {
                     url
                     github

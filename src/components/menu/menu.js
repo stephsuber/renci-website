@@ -92,7 +92,6 @@ export const Menu = ({ items, dark }) => {
                 <IconButton>
                     <MagnifyingGlassIcon size={ 24 } fill={ theme.color.grey } />
                 </IconButton>
-                <MenuLink to="#" dark={ dark }>Sign In</MenuLink>
             </ToolsMenu>
         </Navigation>
     )

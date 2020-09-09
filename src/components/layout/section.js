@@ -16,7 +16,7 @@ const Header = styled(Heading)(({ theme }) => `
 const Wrapper = styled.section(({ theme, fullWidth }) => `
     width: 100%;
     &:not(:first-child) {
-        border-top: 1px solid ${ theme.color.lightgrey };
+        border-top: 2px solid ${ theme.color.lightgrey };
     }
     margin: 1rem auto;
     padding: ${ theme.spacing.large };

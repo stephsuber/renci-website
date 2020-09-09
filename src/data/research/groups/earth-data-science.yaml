@@ -3,7 +3,13 @@ name: Earth Data Science
 email: fake@email.com
 featuredImage: earth-data-science.jpg
 description: this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science.  
+lead: bblanton
+members:
+  - clenhardt
+  - lstillwell
 online_presence:
   url: https://eds.renci.org/
   github: 
   twitter: 
+
+

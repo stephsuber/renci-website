@@ -34,6 +34,8 @@ const Wrapper = styled.div(({ theme, backgroundColor }) => `
     position: relative;
     min-height: 400px;
     overflow: hidden;
+    // width: 1400px;
+    // margin: auto;
     background-color: ${ backgroundColor };
 `)
 

@@ -4,10 +4,10 @@ export const Heading = styled.h2(({ theme }) => `
     text-align: ${ ({ center }) => center ? 'center' : 'left' };
     font-size: 1.75rem;
     @media (min-width: 600px) {
-        font-size: 4.5vw;
+        font-size: 3.0vw;
     }
     @media (min-width: 992px) {
-        font-size: 2.0rem;
+        font-size: 1.33rem;
     }
     color: ${ theme.color.darkgrey };
     padding: 0.25rem 0;

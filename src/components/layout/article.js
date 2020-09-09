@@ -11,7 +11,7 @@ const Header = styled.h3`
     font-weight: bold;
     // text-transform: uppercase;
     margin: 0;
-    line-height: 2.35;
+    line-height: 1.25;
 `
 
 const Body = styled.div``

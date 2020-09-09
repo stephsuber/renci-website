@@ -1,6 +1,6 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useEffect, useState } from 'react'
 import { graphql } from 'gatsby'
-import { Container, Section, Hero, HorizontalRule } from '../components/layout'
+import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
@@ -11,10 +11,21 @@ export default ({ data, pageContext }) => {
         name,
         members,
         online_presence,
+        projects,
         featuredImage,
         news,
     }} = data
     
+    const [currentProjects, setCurrentProjects] = useState([])
+    const [pastProjects, setPastProjects] = useState([])
+
+    useEffect(() => {
+        if (projects) {
+            setCurrentProjects(projects.filter(project => !project.archived))
+            setPastProjects(projects.filter(project => project.archived))
+        }
+    }, [projects])
+
     return (
         <Fragment>
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
@@ -48,6 +59,38 @@ export default ({ data, pageContext }) => {
                     { members.map(person => <div key={ person.id }><ArrowLink to={ `/people/${ person.id }` } text={ person.fullName } /></div>) }
                 </Section>
                 
+                {
+                    projects && (
+                        <Section title="Projects">
+                            {
+                                currentProjects.length > 0 && (
+                                    <Article title="Current">
+                                        {
+                                            currentProjects.map(project => (
+                                                <Fragment key={ project.id }>
+                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                </Fragment>
+                                            ))
+                                        }
+                                    </Article>
+                                )
+                            }
+                            {
+                                pastProjects.length > 0 && (
+                                    <Article title="Past">
+                                        {
+                                            pastProjects.map(project => (
+                                                <Fragment key={ project.id }>
+                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                </Fragment>
+                                            ))
+                                        }
+                                    </Article>
+                                )
+                            }
+                        </Section>
+                    )
+                }
             </Container>
         </Fragment>
     )
@@ -72,6 +115,11 @@ export const collaborationQuery = graphql`
                 url
                 twitter
                 github
+            }
+            projects {
+                id
+                name
+                archived
             }
             news {
                 id

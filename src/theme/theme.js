@@ -15,7 +15,7 @@ export const theme = {
         black: '#181818',
         darkgrey: '#3e3e3e',
         grey: '#aab',
-        lightgrey: '#eaeaea',
+        lightgrey: '#ddd',
         whitish: '#f9f9f9',
         white: '#fff',
         success: '#5e9b8b',

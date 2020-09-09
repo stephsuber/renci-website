@@ -7,6 +7,9 @@ lead:
 members:
   - sahalt
   - sdavis
+projects:
+  - bdc-cici
+  - bdc-fellows
 online_presence:
   url: https://biodatacatalyst.nhlbi.nih.gov/
   github: 
