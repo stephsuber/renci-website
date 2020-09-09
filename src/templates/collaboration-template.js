@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, useState } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
-import { Title } from '../components/typography'
+import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
@@ -70,26 +70,30 @@ export default ({ data, pageContext }) => {
                             {
                                 currentProjects.length > 0 && (
                                     <Article title="Current">
-                                        {
-                                            currentProjects.map(project => (
-                                                <Fragment key={ project.id }>
-                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                </Fragment>
-                                            ))
-                                        }
+                                        <Paragraph>
+                                            {
+                                                currentProjects.map(project => (
+                                                    <Fragment key={ project.id }>
+                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                    </Fragment>
+                                                ))
+                                            }
+                                        </Paragraph>
                                     </Article>
                                 )
                             }
                             {
                                 pastProjects.length > 0 && (
                                     <Article title="Past">
-                                        {
-                                            pastProjects.map(project => (
-                                                <Fragment key={ project.id }>
-                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                </Fragment>
-                                            ))
-                                        }
+                                        <Paragraph>
+                                            {
+                                                pastProjects.map(project => (
+                                                    <Fragment key={ project.id }>
+                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                    </Fragment>
+                                                ))
+                                            }
+                                        </Paragraph>
                                     </Article>
                                 )
                             }

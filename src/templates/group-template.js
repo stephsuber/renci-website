@@ -63,26 +63,30 @@ export default ({ data, pageContext }) => {
                             {
                                 currentProjects.length > 0 && (
                                     <Article title="Current">
-                                        {
-                                            currentProjects.map(project => (
-                                                <Fragment key={ project.id }>
-                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                </Fragment>
-                                            ))
-                                        }
+                                        <Paragraph>
+                                            {
+                                                currentProjects.map(project => (
+                                                    <Fragment key={ project.id }>
+                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                    </Fragment>
+                                                ))
+                                            }
+                                        </Paragraph>
                                     </Article>
                                 )
                             }
                             {
                                 pastProjects.length > 0 && (
                                     <Article title="Past">
-                                        {
-                                            pastProjects.map(project => (
-                                                <Fragment key={ project.id }>
-                                                    <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                </Fragment>
-                                            ))
-                                        }
+                                        <Paragraph>
+                                            {
+                                                pastProjects.map(project => (
+                                                    <Fragment key={ project.id }>
+                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
+                                                    </Fragment>
+                                                ))
+                                            }
+                                        </Paragraph>
                                     </Article>
                                 )
                             }
