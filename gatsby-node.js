@@ -18,7 +18,7 @@ exports.onCreateNode = ({ node, actions }) => {
     if (node.internal.type === 'PeopleYaml') { createNodeField({ node, name: 'path', value: `/people/${ node.id }` }) }
     if (node.internal.type === 'GroupsYaml') { createNodeField({ node, name: 'path', value: `/research/${ node.id }` }) }
     if (node.internal.type === 'TeamsYaml') { createNodeField({ node, name: 'path', value: `/teams/${ node.id }` }) }
-    if (node.internal.type === 'CollaborationsYaml') { createNodeField({ node, name: 'path', value: `/collaborations/${ node.id }` }) }
+    if (node.internal.type === 'CollaborationsYaml') { createNodeField({ node, name: 'path', value: `/research/${ node.id }` }) }
     if (node.internal.type === 'ProjectsYaml') { createNodeField({ node, name: 'path', value: `/projects/${ node.id }` }) }
 }
 
@@ -317,7 +317,7 @@ exports.createPages = ({ actions, graphql }) => {
         const collaborations = result.data.collaborations.edges
         console.log(`\nCreating collaboration pages...`)
         collaborations.forEach(({ node }) => {
-            const path = `/collaborations/${ node.id }`
+            const path = `/research/${ node.id }`
             console.log(` - ${ node.name } (${ path })`)
             createPage({
                 id: node.id,

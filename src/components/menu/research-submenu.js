@@ -32,13 +32,13 @@ export const ResearchSubmenu = () => {
                 <Col xs={ 12 } md={ 6 } component={ NavColumn }>
                     <NavHeading>Research Groups</NavHeading>
                     <NavList style={{ listStyleType: 'none' }}>
-                        { groups.map((group, i) => <NavListItem key={ group.id }><ArrowLink to={ `/research/${ group.id }` } text={ group.name } /></NavListItem>) }
+                        { groups.map((group, i) => <NavListItem key={ group.id }><ArrowLink to={ group.fields.path } text={ group.name } /></NavListItem>) }
                     </NavList>
                 </Col>
                 <Col xs={ 12 } md={ 6 } component={ NavColumn }>
                     <NavHeading>Collaborations & Team Science</NavHeading>
                     <NavList style={{ listStyleType: 'none' }}>
-                        { collaborations.map((collaboration, i) => <NavListItem key={ collaboration.id }><ArrowLink to={ `/collaborations/${ collaboration.id }` } text={ collaboration.name } /></NavListItem>) }
+                        { collaborations.map((collaboration, i) => <NavListItem key={ collaboration.id }><ArrowLink to={ collaboration.fields.path } text={ collaboration.name } /></NavListItem>) }
                     </NavList>
                 </Col>
             </Row>
