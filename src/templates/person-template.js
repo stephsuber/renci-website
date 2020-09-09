@@ -6,6 +6,7 @@ import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
 import { Profile } from '../components/people'
 import { useAvatar } from '../hooks'
+import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
     const {
@@ -31,15 +32,7 @@ export default ({ data, pageContext }) => {
                 {
                     groups && (
                         <Article title="Research Groups">
-                            <Paragraph>
-                                {
-                                    groups.map(group => (
-                                        <Fragment key={ group.id }>
-                                            <ArrowLink to={ group.fields.path } text={ group.name } /> <br/>
-                                        </Fragment>
-                                    ))
-                                }
-                            </Paragraph>
+                            <List items={ groups.map(group => <ArrowLink key={ group.id } to={ group.fields.path } text={ group.name } />) } />
                         </Article>
                     )
                 }
@@ -47,15 +40,7 @@ export default ({ data, pageContext }) => {
                 {
                     collaborations && (
                         <Article title="Collaborations">
-                            <Paragraph>
-                                {
-                                    collaborations.map(collaboration => (
-                                        <Fragment key={ collaboration.id }>
-                                            <ArrowLink to={ collaboration.fields.path } text={ collaboration.name } /> <br/>
-                                        </Fragment>
-                                    ))
-                                }
-                            </Paragraph>
+                            <List items={ collaborations.map(collaboration => <ArrowLink key={ collaboration.id } to={ collaboration.fields.path } text={ collaboration.name } />) } />
                         </Article>
                     )
                 }
@@ -63,13 +48,7 @@ export default ({ data, pageContext }) => {
                 {
                     teams && (
                         <Article title="Teams">
-                            {
-                                teams.map(team => (
-                                    <Fragment key={ team.id }>
-                                        <ArrowLink to={ team.fields.path } text={ team.name } /> <br/>
-                                    </Fragment>
-                                ))
-                            }
+                            <List items={ teams.map(team => <ArrowLink key={ team.id } to={ team.fields.path } text={ team.name } />) } />
                         </Article>
                     )
                 }

@@ -6,6 +6,7 @@ import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
 import { MembersList } from '../components/people'
+import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
     const { collaborationsYaml: {
@@ -70,30 +71,14 @@ export default ({ data, pageContext }) => {
                             {
                                 currentProjects.length > 0 && (
                                     <Article title="Current">
-                                        <Paragraph>
-                                            {
-                                                currentProjects.map(project => (
-                                                    <Fragment key={ project.id }>
-                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                    </Fragment>
-                                                ))
-                                            }
-                                        </Paragraph>
+                                        <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                                     </Article>
                                 )
                             }
                             {
                                 pastProjects.length > 0 && (
                                     <Article title="Past">
-                                        <Paragraph>
-                                            {
-                                                pastProjects.map(project => (
-                                                    <Fragment key={ project.id }>
-                                                        <ArrowLink to={ `/projects/${ project.id }` } text={ project.name } /> <br/>
-                                                    </Fragment>
-                                                ))
-                                            }
-                                        </Paragraph>
+                                        <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                                     </Article>
                                 )
                             }
@@ -139,6 +124,9 @@ export const collaborationQuery = graphql`
                 id
                 name
                 archived
+                fields {
+                    path
+                }
             }
             news {
                 id
