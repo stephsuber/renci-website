@@ -11,6 +11,23 @@ members:
   - powen
   - ylin
 projects:
+  - data-translator
+  - data-translator-aragorn
+  - data-translator-icees
+  - data-translator-robokop
+  - data-translator-standards-and-reference-implementations
+  - cell-cycle
+  - gene-screen
+  - nc-tracs
+  - nc-tracs-informatics-and-data-science
+  - nc-genes
+  - nc-nexus
+  - obesity-hub
+  - platform-for-analyzing-whole-brain-images
+  - semantic-infrastructure-for-noctua-and-gene-ontology
+  - surgical-critical-care-initiative
+  - unc-superfund-research-program
+  - scate
 online_presence:
   url: null
   github: null

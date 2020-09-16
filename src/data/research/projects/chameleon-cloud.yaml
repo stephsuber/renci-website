@@ -1,7 +1,7 @@
-id: chameleon
-name: Chameleon
+id: chameleon-cloud
+name: Chameleon Cloud
 description: this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. 
-featuredImage: chameleon.jpg
+featuredImage: chameleon-cloud.jpg
 email: fake@email.com
 online_presence:
   url: https://www.chameleoncloud.org

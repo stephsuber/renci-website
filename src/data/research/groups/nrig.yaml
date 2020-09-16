@@ -16,9 +16,22 @@ members:
   - kthareja
   - mstealey
 projects:
-  - chameleon
+  - aerpaw
+  - atlanticwave-sdx
+  - chameleon-cloud
+  - ci-coe-pilot
+  - distinct
+  - dynamo
+  - enter
+  - exogeni
   - fabric
   - geni
+  - impact
+  - iris
+  - lassaress
+  - panorama-360
+  - safe-superfacilities
+  - scidas
 online_presence:
   url: https://nrig.renci.org
   github: null

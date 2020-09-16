@@ -8,8 +8,8 @@ members:
   - sahalt
   - sdavis
 projects:
-  - bdc-cici
-  - bdc-fellows
+  - bdc3-cici
+  - bdc3-fellows
 online_presence:
   url: https://biodatacatalyst.nhlbi.nih.gov/
   github: 

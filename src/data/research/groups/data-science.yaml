@@ -15,8 +15,19 @@ members:
   - dborland
   - jbalhoff
 projects:
-  - data-translator
-  - earth-data-science
+  - brain-i
+  - chemotext2
+  - data-analysis-for-entrepreneurial-ecosystem
+  - data-commons
+  - dot-roadway-safety
+  - evry-scope
+  - family-planning-national-training-center
+  - helx
+  - hydroshare
+  - inca
+  - man-to-molecule-to-man
+  - percept
+  - phyloreferencing
 online_presence:
   url: null
   github: null

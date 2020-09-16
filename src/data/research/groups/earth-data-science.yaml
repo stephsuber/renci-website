@@ -8,6 +8,17 @@ members:
   - bblanton
   - clenhardt
   - lstillwell
+projects:
+  - adcirc-lite-nc
+  - adcirc-viz
+  - storm-surge-forecasting
+  - coastal-probabilistic-hazard-analysis
+  - coupling-flood-models
+  - evac-mod
+  - galapagos-science-center
+  - nc-pfas
+  - rapid
+  - storm-simulations-for-travelers-insurance
 online_presence:
   url: https://eds.renci.org/
   github: 
