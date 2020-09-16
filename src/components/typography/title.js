@@ -2,8 +2,9 @@ import styled from 'styled-components'
 
 export const Title = styled.h1(({ theme, center }) => `
     text-align: ${ center ? 'center' : 'left' };
-    font-size: clamp(2rem, 6vw, 3.5rem);
+    font-size: clamp(2rem, 5vw, 3rem);
     color: ${ theme.color.darkgrey };
+    font-weight: 400;
     padding: 0.25rem 0.5rem;
     padding: 0;
     margin: ${ theme.spacing.medium } 0;

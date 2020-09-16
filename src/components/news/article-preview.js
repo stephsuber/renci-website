@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
-import { Heading } from '../typography'
+import { Subheading } from '../typography'
 import { Container as Grid, Row, Col, Visible } from 'react-grid-system'
 import { ArrowLink } from '../link'
 
@@ -18,7 +18,7 @@ const ArticleDate = styled.h2`
     line-height: 2.35;
 `
 
-const ArticleTitle = styled(Heading)(({ theme }) => `
+const ArticleTitle = styled(Subheading)(({ theme }) => `
     color: ${ theme.color.darkgrey };
 `)
 
