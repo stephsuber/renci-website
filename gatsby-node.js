@@ -138,6 +138,16 @@ exports.createResolvers = ({ createResolvers }) => {
                     })
                 }
             },
+            group: {
+                type: ["GroupsYaml"],
+                resolve(source, args, context, info) {
+                    return context.nodeModel.runQuery({
+                        query: { filter: { projects: { elemMatch: { id: { eq: source.id } } } } },
+                        type: "GroupsYaml",
+                        firstOnly: false,
+                    })
+                }
+            },
         },
     }
     createResolvers(resolvers)

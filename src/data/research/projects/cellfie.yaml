@@ -2,7 +2,7 @@ id: cellfie
 name: Cellfie
 description: this is a brief description of cellfie. this is a brief description of cellfie. this is a brief description of cellfie. this is a brief description of cellfie. this is a brief description of cellfie. this is a brief description of cellfie. this is a brief description of cellfie. 
 email: fake@email.com
-online_presence:
+www:
   url: https://cellfie.renci.org
   github: https://github.com/RENCI/cellfie
   twitter:

@@ -2,7 +2,7 @@ id: evac-mod
 name: Evac Mod
 email: fake@email.com
 description: ADCIRC is a system of computer programs for solving time-dependent, free surface circulation and transport problems in two and three dimensions. These programs utilize the finite element method in space allowing the use of highly flexible, unstructured grids.
-online_presence:
+www:
   url: http://adcirc.org/
   github: 
   twitter:

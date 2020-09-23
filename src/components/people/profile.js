@@ -53,7 +53,7 @@ const Footer = styled.div`
     }
 `
 
-export const Profile = ({ name, title, email, online_presence, photo, phone }) => {
+export const Profile = ({ name, title, email, www, photo, phone }) => {
     return (
         <Wrapper>
             <PhotoContainer>
@@ -67,12 +67,12 @@ export const Profile = ({ name, title, email, online_presence, photo, phone }) =
             </Details>
             <Footer>
                 <SocialLinks
-                    url={ online_presence.url }
-                    twitter={ online_presence.twitter }
-                    github={ online_presence.github }
-                    instagram={ online_presence.instagram }
-                    linkedin={ online_presence.linkedin }
-                    youtube={ online_presence.youtube }
+                    url={ www.url }
+                    twitter={ www.twitter }
+                    github={ www.github }
+                    instagram={ www.instagram }
+                    linkedin={ www.linkedin }
+                    youtube={ www.youtube }
                 />                
             </Footer>
         </Wrapper>

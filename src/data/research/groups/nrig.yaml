@@ -2,7 +2,6 @@ id: nrig
 name: Networking Research Infrastructure Group
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featuredImage: nrig.jpg
-lead: ibaldin
 members:
   - ibaldin
   - pruth
@@ -32,7 +31,7 @@ projects:
   - panorama-360
   - safe-superfacilities
   - scidas
-online_presence:
+www:
   url: https://nrig.renci.org
   github: null
   twitter: nope

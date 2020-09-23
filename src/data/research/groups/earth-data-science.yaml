@@ -3,7 +3,6 @@ name: Earth Data Science
 email: fake@email.com
 featuredImage: earth-data-science.jpg
 description: this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science.  
-lead: bblanton
 members:
   - bblanton
   - clenhardt
@@ -67,7 +66,7 @@ funding:
     name: FEMA
     url: http://www.fema.gov/
 
-online_presence:
+www:
   url: https://eds.renci.org/
   github: 
   twitter: 

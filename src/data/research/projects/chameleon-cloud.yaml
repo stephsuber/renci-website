@@ -3,7 +3,7 @@ name: Chameleon Cloud
 description: this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. this is a brief description of chameleon. 
 featuredImage: chameleon-cloud.jpg
 email: fake@email.com
-online_presence:
+www:
   url: https://www.chameleoncloud.org
   github: chameleoncloud
   twitter:

@@ -16,7 +16,7 @@ const groupsQuery = graphql`{
                     email
                     title
                 }
-                online_presence {
+                www {
                     url
                     github
                     twitter

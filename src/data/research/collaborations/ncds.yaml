@@ -9,7 +9,7 @@ members:
   - ssuber
 projects:
   - data-matters
-online_presence:
+www:
   url: https://www.datascienceconsortium.org/
   github: ""
   twitter: ncds

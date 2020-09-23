@@ -13,7 +13,7 @@ export default ({ data, pageContext }) => {
         name,
         members,
         description,
-        online_presence,
+        www,
         projects,
         featuredImage,
         partners,
@@ -41,7 +41,7 @@ export default ({ data, pageContext }) => {
             </Hero>
 
             <Container>
-                <SocialLinks url={ online_presence.url } twitter={ online_presence.twitter } github={ online_presence.github } />
+                <SocialLinks url={ www.url } twitter={ www.twitter } github={ www.github } />
                 
                 {
                     <Section title="RENCI's Role">
@@ -146,7 +146,7 @@ export const collaborationQuery = graphql`
                 }
             }
             description
-            online_presence {
+            www {
                 url
                 twitter
                 github

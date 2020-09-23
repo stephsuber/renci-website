@@ -11,11 +11,10 @@ import { ContributorsList, MembersList } from '../components/contributors'
 export default ({ data, pageContext }) => {
     const { groupsYaml: {
         name,
-        lead,
         members,
         partners,
         funding,
-        online_presence,
+        www,
         projects,
         news,
         featuredImage,
@@ -41,7 +40,7 @@ export default ({ data, pageContext }) => {
             </Hero>
 
             <Container>
-                <SocialLinks url={ online_presence.url } twitter={ online_presence.twitter } github={ online_presence.github } />
+                <SocialLinks url={ www.url } twitter={ www.twitter } github={ www.github } />
 
                 {
                     news && (
@@ -65,14 +64,14 @@ export default ({ data, pageContext }) => {
                         <Section title="Projects">
                             {
                                 currentProjects.length > 0 && (
-                                    <Article title="Current">
+                                    <Article title="Current Projects">
                                         <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                                     </Article>
                                 )
                             }
                             {
                                 pastProjects.length > 0 && (
-                                    <Article title="Past">
+                                    <Article title="Past Projects">
                                         <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                                     </Article>
                                 )
@@ -86,7 +85,7 @@ export default ({ data, pageContext }) => {
                         <Section title="Contributors">
                             {
                                 members && (
-                                    <Article title="Members">
+                                    <Article title="RENCI Team">
                                         <MembersList members={ members } />
                                     </Article>
                                 )
@@ -130,10 +129,6 @@ export const groupQuery = graphql`
             fields {
                 path
             }
-            lead {
-                id
-                fullName
-            }
             members {
                 id
                 fullName
@@ -156,7 +151,7 @@ export const groupQuery = graphql`
                 name
                 url
             }
-            online_presence {
+            www {
                 url
                 twitter
                 github

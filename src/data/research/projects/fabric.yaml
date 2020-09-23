@@ -2,7 +2,7 @@ id: fabric
 name: FABRIC
 email: fake@email.com
 description: FABRIC is a unique national research infrastructure to enable cutting-edge and exploratory research at-scale in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
-online_presence:
+www:
   url: https://www.fabric-testbed.net/
   github: https://github.com/fabric-testbed
   twitter: FABRICtestbed

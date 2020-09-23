@@ -4,20 +4,24 @@ import { Container, Article, Section, Hero, HorizontalRule } from '../components
 import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArticlePreview } from '../components/news'
+import { MembersList } from '../components/contributors'
 
 export default ({ data, pageContext }) => {
     const { projectsYaml: {
         name,
         featuredImage,
+        group,
+        members,
         email,
         description,
-        online_presence,
+        www,
         news,
     }} = data
     
     return (
         <Fragment>
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
+                <strong>{ group && group[0].name }</strong>
                 <Title>{ name }</Title>
                 <Paragraph>
                     { description }
@@ -25,13 +29,27 @@ export default ({ data, pageContext }) => {
             </Hero>
 
             <Container>
-                <SocialLinks url={ online_presence.url } twitter={ online_presence.twitter } github={ online_presence.github } />
+                <SocialLinks url={ www.url } twitter={ www.twitter } github={ www.github } />
                 
                 <Section title="Project Details">
                     <Article title="Description">
                         <Paragraph>{ description }</Paragraph>
                     </Article>
                 </Section>
+
+                {
+                    members && (
+                        <Section title="Contributors">
+                            {
+                                members && (
+                                    <Article title="RENCI Team">
+                                        <MembersList members={ members } />
+                                    </Article>
+                                )
+                            }
+                        </Section>
+                    )
+                }
 
                 {
                     news && (
@@ -68,7 +86,28 @@ export const projectQuery = graphql`
                     }
                 }
             }
-            online_presence {
+            group {
+                id
+                name
+                fields {
+                    path
+                }
+            }
+            members {
+                id
+                fullName
+                fields {
+                    path
+                }
+                photo {
+                    childImageSharp {
+                        fixed(width: 350, height: 350) {
+                            ...GatsbyImageSharpFixed
+                        }
+                    }
+                }
+            }
+            www {
                 url
                 twitter
                 github

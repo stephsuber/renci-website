@@ -1,14 +1,14 @@
-id: data-science
-name: Data Science
+id: analytics
+name: Analytics
 description: lorem ipsum data sciencum
-featuredImage: data-science.jpg
-lead: cbizon
+featuredImage: analytics.jpg
 members:
   - cbizon
   - clenhardt
   - bblanton
   - lstillwell
   - kbradford
+  - krobasky
   - lchristopherson
   - sshrivastava
   - hlander
@@ -16,7 +16,9 @@ members:
   - jbalhoff
 projects:
   - brain-i
+  - cellfie
   - chemotext2
+  - ctmd
   - data-analysis-for-entrepreneurial-ecosystem
   - data-commons
   - dot-roadway-safety
@@ -28,7 +30,9 @@ projects:
   - man-to-molecule-to-man
   - percept
   - phyloreferencing
-online_presence:
+  - precision-dosing
+  - some-past-project
+www:
   url: null
   github: null
   twitter: nope

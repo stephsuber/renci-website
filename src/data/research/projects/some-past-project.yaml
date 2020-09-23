@@ -3,7 +3,7 @@ name: Some Past Project
 email: fake@email.com
 archived: true
 description: this is a brief description of some past project. this is a brief description of some past project. this is a brief description of some past project. this is a brief description of some past project. this is a brief description of some past project. this is a brief description of some past project. this is a brief description of some past project. 
-online_presence:
+www:
   url: https://txscience.renci.org/some-past-project
   github: https://github.com/RENCI/some-past-project
   twitter:

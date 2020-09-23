@@ -27,12 +27,17 @@ const LetterLink = styled.a(({ theme }) => `
     padding: 0.25rem 0;
 `)
 
-const Profiles = styled.div`
+const Profiles = styled.div(({ theme }) => `
     flex: 1;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-`
+    margin: ${ theme.spacing.medium };
+    & > * {
+        margin-right: ${ theme.spacing.medium };
+        margin-bottom: ${ theme.spacing.medium };
+    }
+`) 
 
 export const StaffList = ({ staff = [], nav }) => {
     const avatar = useAvatar()

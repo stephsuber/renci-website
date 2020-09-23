@@ -21,7 +21,7 @@ const collaborationsQuery = graphql`{
                     name
                     description
                 }
-                online_presence {
+                www {
                     url
                     github
                     twitter

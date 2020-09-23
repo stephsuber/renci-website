@@ -2,7 +2,7 @@ id: bdc3-cici
 name: "BDC3: CICI"
 description: brief description of CICI
 email: some@email.com
-online_presence:
+www:
   url: null
   github: null
   twitter: null

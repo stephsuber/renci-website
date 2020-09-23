@@ -3,7 +3,7 @@ name: Data Matters
 description: Data Matters™ is a week-long series of one and two-day courses aimed at students and professionals in business, research, and government. The short course series is sponsored by the Odum Institute for Research in Social Science at UNC-Chapel Hill, the National Consortium for Data Science, RENCI and North Carolina State University.
 featuredImage: data-matters.png
 email: an@email.com
-online_presence:
+www:
   url: https:/datamatters.org/
   github: null
   twitter: null

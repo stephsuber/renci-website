@@ -2,7 +2,6 @@ id: systems
 name: Systems
 description: systems systems systems systems systems 
 featuredImage: null
-lead: scox
 members:
   - scox
   - hxu
@@ -17,7 +16,7 @@ members:
   - okapeljushnik
   - ccalloway
 projects: 
-online_presence:
+www:
   url: null
   github: null
   twitter: nope

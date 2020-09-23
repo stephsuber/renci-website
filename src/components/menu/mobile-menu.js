@@ -70,7 +70,7 @@ export const MobileMenu = ({ items }) => {
             <Toggler onClick={ handleToggleMenu } active={ visible } />
             {
                 items && items.map(item => (
-                    <Overlay visible={ visible }>
+                    <Overlay key={ item.text } visible={ visible }>
                         <Navigation>
                             {
                                 items.map(item => (

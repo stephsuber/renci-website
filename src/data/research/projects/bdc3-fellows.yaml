@@ -2,7 +2,7 @@ id: bdc3-fellows
 name: "BDC3: Fellows Program"
 description: brief description of fellows
 email: an@email.com
-online_presence:
+www:
   url: https://biodatacatalyst.nhlbi.nihgov/fellows
   github: null
   twitter: null

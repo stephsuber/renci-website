@@ -2,7 +2,6 @@ id: health-informatics
 name: Health Informatics
 description: healthy information
 featuredImage: null
-lead: kwilhelmsen
 members:
   - kwilhelmsen
   - jtilson
@@ -28,7 +27,7 @@ projects:
   - surgical-critical-care-initiative
   - unc-superfund-research-program
   - scate
-online_presence:
+www:
   url: null
   github: null
   twitter: nope

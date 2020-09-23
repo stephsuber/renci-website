@@ -10,7 +10,7 @@ import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
     const {
-        peopleYaml: { fullName, photo, title, email, phone, online_presence, bio, groups, collaborations, teams, news, authoredNews }
+        peopleYaml: { fullName, photo, title, email, phone, www, bio, groups, collaborations, teams, news, authoredNews }
     } = data
     const avatar = useAvatar()
     const allNews = [].concat(news, authoredNews).filter(n => n !== null)
@@ -23,7 +23,7 @@ export default ({ data, pageContext }) => {
                 title={ title }
                 email={ email }
                 phone={ phone }
-                online_presence={ online_presence }
+                www={ www }
                 bio={ bio }
                 photo={ photo ? photo.childImageSharp.fixed : avatar.childImageSharp.fixed }
             />
@@ -94,7 +94,7 @@ export const personQuery = graphql`
                     }
                 }
             }
-            online_presence {
+            www {
                 twitter
                 github
                 instagram

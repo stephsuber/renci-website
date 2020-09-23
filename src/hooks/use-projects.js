@@ -8,7 +8,7 @@ const projectsQuery = graphql`{
                 name
                 email
                 description
-                online_presence {
+                www {
                     url
                     github
                     twitter

@@ -11,6 +11,7 @@ import { Menu, MobileMenu, ResearchSubmenu } from '../../menu'
 import { useBrand, useWindow } from '../../../hooks'
 import { Container as Grid, Row, Col } from 'react-grid-system'
 import { ExternalLink } from '../../link'
+import { asciiLogo } from '../../../data/ascii-logo'
 
 import "../../../styles/base.css"
 
@@ -98,7 +99,10 @@ export const DefaultLayout = ({ children, currentPath }) => {
     const [compact, setCompact] = useState(windowWidth < 1000)
     const logos = useBrand()
 
+    useEffect(() => console.log(asciiLogo), [])
+
     useEffect(() => setCompact(windowWidth < 1000), [windowWidth])
+
     useLayoutEffect(() => {
         setDarkHeader(currentPath === '/' ? 1 : 0)
     }, [currentPath])
