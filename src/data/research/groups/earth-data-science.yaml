@@ -19,6 +19,54 @@ projects:
   - nc-pfas
   - rapid
   - storm-simulations-for-travelers-insurance
+partners: 
+  -
+    name: Cornell University
+    url: https://www.cornell.edu/
+  -
+    name: University of Delaware
+    url: https://www.udel.edu/
+  -
+    name: State University of New York, Stonybrook
+    url: http://www.stonybrook.edu/
+  -
+    name: University of Oklahoma
+    url: https://www.ou.edu/
+  -
+    name: North Carolina State University
+    url: https://www.ncsu.edu/
+  -
+    name: Argonne National Labs
+    url: https://www.anl.gov/
+  -
+    name: Coastal Resilience Center
+    url: http://coastalresiliencecenter.unc.edu/
+  -
+    name: NC Division of Emergency Management
+    url: https://www.ncdps.gov/Index2.cfm?a=000003,000010
+  -
+    name: UNC-Chapel Hill Institute for Marine Sciences
+    url: http://ims.unc.edu/
+  -
+    name: US Army Corps of Engineers, Field Research Facility
+    url: http://www.usace.army.mil/
+funding: 
+  -
+    name: National Science Foundation
+    url: https://www.nsf.gov/
+  -
+    name: NOAA/NHC
+    url: http://www.noaa.gov/
+  -
+    name: Department of Homeland Security/Office of University Programs
+    url: https://www.dhs.gov/
+  -
+    name: State of North Carolina
+    url: http://www.nc.gov/
+  -
+    name: FEMA
+    url: http://www.fema.gov/
+
 online_presence:
   url: https://eds.renci.org/
   github: 

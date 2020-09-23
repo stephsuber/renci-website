@@ -5,14 +5,16 @@ import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
-import { MembersList } from '../components/people'
 import { List } from '../components/list'
+import { ContributorsList, MembersList } from '../components/contributors'
 
 export default ({ data, pageContext }) => {
     const { groupsYaml: {
         name,
         lead,
         members,
+        partners,
+        funding,
         online_presence,
         projects,
         news,
@@ -80,9 +82,29 @@ export default ({ data, pageContext }) => {
                 }
 
                 {
-                    members && (
+                    (members || partners || funding) && (
                         <Section title="Contributors">
-                            <MembersList members={ members } />
+                            {
+                                members && (
+                                    <Article title="Members">
+                                        <MembersList members={ members } />
+                                    </Article>
+                                )
+                            }
+                            {
+                                partners && (
+                                    <Article title="Partners">
+                                        <ContributorsList contributors={ partners } />
+                                    </Article>
+                                )
+                            }
+                            {
+                                funding && (
+                                    <Article title="Funding">
+                                        <ContributorsList contributors={ funding } />
+                                    </Article>
+                                )
+                            }
                         </Section>
                     )
                 }
@@ -125,6 +147,14 @@ export const groupQuery = graphql`
                         }
                     }
                 }
+            }
+            partners {
+                name
+                url
+            }
+            funding {
+                name
+                url
             }
             online_presence {
                 url

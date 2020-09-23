@@ -7,7 +7,7 @@ import { Subheading, Meta } from '../typography'
 const Wrapper = styled.div`
     flex: 1;
     max-width: 200px;
-    margin: 1rem;
+    margin: 0;
     & .gatsby-image-wrapper {
         transition: filter 250ms;
         filter: saturate(0.6);

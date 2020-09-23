@@ -3,12 +3,11 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.ul(({ theme, bullets }) => `
   padding: 0;
-  margin: 0;
-  margin-bottom: ${ theme.spacing.medium };
+  margin: ${ theme.spacing.medium } 0;
   list-style-type: ${ bullets };
 `)
 
-export const ListItem = styled.li(({ theme }) => `
+const ListItem = styled.li(({ theme }) => `
   padding: 0;
   margin: 0;
 `)

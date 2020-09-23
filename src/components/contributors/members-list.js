@@ -6,10 +6,15 @@ import { SocialLinks } from '../social-links'
 import { MiniProfile } from '../people'
 import { useAvatar } from '../../hooks'
 
-const Wrapper = styled.div`
+const Wrapper = styled.div(({ theme }) => `
     display: flex;
     flex-wrap: wrap;
-`
+    margin: ${ theme.spacing.medium } 0;
+    & > * {
+        margin-right: ${ theme.spacing.medium };
+        margin-bottom: ${ theme.spacing.medium };
+    }
+`)
 
 export const MembersList = ({ members }) => {
     const avatar = useAvatar()

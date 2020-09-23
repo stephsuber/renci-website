@@ -5,13 +5,14 @@ import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { ArticlePreview } from '../components/news'
-import { MembersList } from '../components/people'
+import { ContributorsList, MembersList } from '../components/contributors'
 import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
     const { collaborationsYaml: {
         name,
         members,
+        description,
         online_presence,
         projects,
         featuredImage,
@@ -43,6 +44,12 @@ export default ({ data, pageContext }) => {
                 <SocialLinks url={ online_presence.url } twitter={ online_presence.twitter } github={ online_presence.github } />
                 
                 {
+                    <Section title="RENCI's Role">
+                        <Paragraph>{ description }</Paragraph>
+                    </Section>
+                }
+
+                {
                     news && (
                         <Section title="Recent News">
                             {
@@ -60,9 +67,29 @@ export default ({ data, pageContext }) => {
                 }
 
                 {
-                    members && (
+                    (members || partners || funding) && (
                         <Section title="Contributors">
-                            <MembersList members={ members } />
+                            {
+                                members && (
+                                    <Article title="Members">
+                                        <MembersList members={ members } />
+                                    </Article>
+                                )
+                            }
+                            {
+                                partners && (
+                                    <Article title="Partners">
+                                        <ContributorsList contributors={ partners } />
+                                    </Article>
+                                )
+                            }
+                            {
+                                funding && (
+                                    <Article title="Funding">
+                                        <ContributorsList contributors={ funding } />
+                                    </Article>
+                                )
+                            }
                         </Section>
                     )
                 }
@@ -88,22 +115,6 @@ export default ({ data, pageContext }) => {
                     )
                 }
 
-                {
-                    partners && (
-                        <Section title="Partners">
-                            <pre>{ JSON.stringify(partners, null, 2) }</pre>
-                        </Section>
-                    )
-                }
-                
-                {
-                    funding && (
-                        <Section title="Funding">
-                            <pre>{ JSON.stringify(funding, null, 2) }</pre>
-                        </Section>
-                    )
-                }
-                
             </Container>
         </Fragment>
     )
@@ -134,6 +145,7 @@ export const collaborationQuery = graphql`
                     }
                 }
             }
+            description
             online_presence {
                 url
                 twitter
