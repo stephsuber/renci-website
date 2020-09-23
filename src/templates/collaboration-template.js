@@ -15,6 +15,8 @@ export default ({ data, pageContext }) => {
         online_presence,
         projects,
         featuredImage,
+        partners,
+        funding,
         news,
     }} = data
     
@@ -85,6 +87,23 @@ export default ({ data, pageContext }) => {
                         </Section>
                     )
                 }
+
+                {
+                    partners && (
+                        <Section title="Partners">
+                            <pre>{ JSON.stringify(partners, null, 2) }</pre>
+                        </Section>
+                    )
+                }
+                
+                {
+                    funding && (
+                        <Section title="Funding">
+                            <pre>{ JSON.stringify(funding, null, 2) }</pre>
+                        </Section>
+                    )
+                }
+                
             </Container>
         </Fragment>
     )
@@ -127,6 +146,14 @@ export const collaborationQuery = graphql`
                 fields {
                     path
                 }
+            }
+            partners {
+                name
+                url
+            }
+            funding {
+                name
+                url
             }
             news {
                 id

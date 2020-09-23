@@ -7,6 +7,52 @@ lead:
 members:
   - sahalt
   - sdavis
+  - marcussamie86
+  - cerdmann
+  - pkerr
+  - clenhardt
+  - amiller
+  - ppatton
+  - subers
+  - mwatson
+partners:
+  -
+    name: Broad Institute
+    url: https://www.broadinstitute.org/
+  -
+    name: Harvard Medical School
+    url: https://hms.harvard.edu/
+  -
+    name: NHLBI Informatics Research Center
+    url: https://www.nhlbiwgs.org/group/irc
+  -
+    name: RTI International
+    url: https://www.rti.org/
+  -
+    name: Seven Bridges Genomics, Inc.
+    url: https://www.sevenbridges.com/
+  -
+    name: TOPMed Data Coordinating Center
+    url: https://www.nhlbiwgs.org/group/dcc
+  -
+    name: US Department of Veterans Affairs
+    url: https://www.va.gov/
+  -
+    name: University of Santa Cruz
+    url: https://www.ucsc.edu/
+  -
+    name: University of Chicago
+    url: https://www.uchicago.edu/
+  -
+    name: University of North Carolina at Chapel Hill
+    url: https://www.unc.edu/
+  -
+    name: Vanderbilt University Medical Center
+    url: https://www.vumc.org/
+funding:
+  -
+    name: National Heart, Lung, and Blood Institute
+    url: https://www.nhlbi.nih.gov/
 projects:
   - bdc3-cici
   - bdc3-fellows
