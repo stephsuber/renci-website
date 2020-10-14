@@ -1,8 +1,17 @@
 id: distinct
 name: DISTINCT
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  DISTINCT aims to improve the robustness and reliability of electric power systems by creating a distributed multi-loop networked system for wide-area control of large power grids.
+renci_role: !markdown |
+  This project aims to develop a transformative distributed networked control system for wide-area power grid systems. RENCI is one of three collaborating institutions, along with North Carolina State University and the University of South Florida. The project uses the RENCI-developed [ExoGENI](/projects/exogeni) testbed. 
+members:
+  - yxin
+partners:
+  - NC State University
+  - University of South Florida
+funding:
+  - NSF
 www:
   url: 
   github: 

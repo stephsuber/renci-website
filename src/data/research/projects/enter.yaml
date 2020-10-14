@@ -1,8 +1,32 @@
 id: enter
 name: ENTeR
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  Enabling Network Research and the Evolution of a Next Generation Midscale Infrastructure (ENTeR) helps the computer and information science and engineering (CISE) community prepare to transition to next-generation mid-scale research infrastructure while ensuring existing research infrastructure remains available and relevant during the transition.
+renci_role: !markdown |
+  [GENI](https://www.geni.net/), an open infrastructure for at-scale networking and distributed systems research and education that spans the United States, has been a primary research resource for the CISE community. As researchers transition from GENI to new platforms capable of supporting a much larger portion of the CISE community, ENTeR will update, adapt, operate, and maintain the GENI infrastructure to support novel at-scale networking research while helping to facilitate the transition to next generation mid-scale research infrastructure.
+ 
+  GENI infrastructure is managed through ENTeR by RENCI and the University of Kentucky. Additional ENTeR collaborators include the University of Maryland, the University of Utah, and Internet2.
+
+  During the transition, ENTeR will ensure that the critical portions of the GENI infrastructure needed by the majority of the researchers remain available and relevant. Critical components that will be supported include:
+  
+  - The InstaGENI and ExoGENI edge clouds, the stitching service components that allow experimenters to build inter-site topologies;
+  - The GENI Clearinghouse, GENI Portal, and the GENI Desktop that provide easy experimenter access to GENI tools; and
+  - The GENI Monitoring Service that allows users and operators/providers to collect infrastructure measurement data.
+   
+  The team will also continue to support new research and experimentation efforts in GENI through project and account management, infrastructure support for tutorials and other outreach events, and issue tracking and troubleshooting.
+members:
+  - ibaldin
+  - kthareja
+  - mcevik
+  - mtavares
+partners:
+  - University of Kentucky
+  - University of Maryland
+  - University of Utah
+  - Internet2
+funding:
+  - NSF
 www:
   url: 
   github: 

@@ -1,9 +1,32 @@
 id: exogeni
 name: ExoGENI
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  [ExoGENI](http://www.exogeni.net/) is part of the Global Environment for Network Innovations (GENI) federated testbed. By linking GENI to open cloud computing and dynamic circuit fabrics, ExoGENI provides an ideal platform for experimentation in advanced networking and networked cloud computing.
+renci_role: !markdown |
+  The RENCI team led the development of ExoGENI in collaboration with Duke University and IBM.
+
+  ExoGENI orchestrates a federation of independent cloud sites located across the U.S. and circuit providers, linking them to other GENI tools and resources. Individual ExoGENI deployments consist of cloud site "racks" on host campuses, linked with national research networks through programmable exchange points.
+   
+  ExoGENI offers a powerful unified hosting platform for deeply networked, multi-domain, multi-site cloud applications. VLAN-based switching and OpenFlow enable flexible networking operations, while Open Resource Control Architecture (ORCA) provides a control framework. Sophisticated algorithms take advantage of semantic resource descriptions using the OWL variant of Network Description Language.
+   
+  ExoGENI serves as a prototype for FABRIC, a larger, evolving platform linking third-party cloud sites, transport networks, and other infrastructure services to enable real-world deployment of innovative distributed services and new visions of a future Internet.
+members:
+  - ibaldin
+  - yxin
+  - mcevik
+  - mstealey
+  - pruth
+  - kthareja
+  - efu
+  - mtavares
+partners:
+  - Duke University
+  - IBM
+funding:
+  - GENI Project Office
+  - NSF
 www:
-  url: 
+  url: http://www.exogeni.net/
   github: 
   twitter: 

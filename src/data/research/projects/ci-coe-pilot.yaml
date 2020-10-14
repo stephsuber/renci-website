@@ -1,8 +1,28 @@
 id: ci-coe-pilot
 name: CI COE Pilot
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  The Cyberinfrastructure Center of Excellence (CI CoE) pilot study aims to establish a reservoir of expertise on best cyberinfrastructure practices for the nation’s largest research facilities.
+renci_role: !markdown |
+  The CI CoE pilot provides leadership, expertise, and active support to cyberinfrastructure practitioners at National Science Foundation Major Facilities and throughout the research ecosystem in order to ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend. The CI CoE is a platform for knowledge sharing and community building; a partner for establishing and improving Major Facilities’ cyberinfrastructure architecture; and a forum for cyberinfrastructure sustainability, workforce development, and training.
+  RENCI’s role is focused on the cyberinfrastructure requirements. This includes:
+  - Understanding the infrastructures that are now in use, assessing the need for new templates for future facilities, and analyzing what has worked well or poorly in the past. 
+  - Creating a repository for lessons learned and current tools relevant to data management systems, data processing facilities, software tools, and other cyberinfrastructure systems that support large science facilities. 
+  - Providing a forum for discussion among large facility personnel and the broader academic community.
+  - Addressing training and workforce development needs to help large facility planners and operators cultivate their in-house expertise forging new career paths for cyberinfrastructure professionals.
+  The project uses the National Ecological Observatory Network, which collects data for insights on changes in U.S. ecosystems, as a test case for initial information gathering. After the pilot, the effort will be broadened to encompass other large facilities.
+members:
+  - amandal
+  - ibaldin
+  - escott
+  - lchristopherson
+partners:
+  - University of Southern California Information Sciences Institute (lead)
+  - University of Utah
+  - University of Notre Dame
+  - Indiana University
+funding: 
+  - National Science Foundation grant \#1842042
 www:
   url: 
   github: 

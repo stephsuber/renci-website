@@ -1,8 +1,29 @@
 id: dynamo
 name: DyNamo
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  Scientists face numerous challenges when integrating data from multiple scientific instruments and data stores into their workflows. The Delivering a Dynamic Network-Centric Platform for Data-Driven Science (DyNamo) project helps increase scientific productivity through a platform that manages high-performance data flows and coordinates access to cyberinfrastructure.
+renci_role: !markdown |
+  RENCI leads the DyNamo project, which aims to develop a network-centric platform to enable high performance, adaptive data flows and coordinated access to cyberinfrastructure facilities and data repositories for researchers in adaptive weather sensing and ocean sciences.
+ 
+  While recent advances in dynamic, networked cloud infrastructures like NSF GENI and Software Defined Networking (SDN) provide the building blocks to construct integrated, reconfigurable, end-to-end infrastructure, scientific applications and workflows have seldom taken advantage of these advanced capabilities. By leveraging prior work in programmatic control of dynamic infrastructure and novel SDN-aware network services, DyNamo develops new algorithms, policies, and mechanisms in a novel network-centric platform.
+   
+  DyNamo will:
+  - Enable programmable, on-demand access to high-bandwidth, configurable network paths from community data repositories to national cyberinfrastructure facilities.
+  - Engage with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities to bridge the gap between data-driven, observational science workflows and novel network mechanisms and services.
+  - Help satisfy data, computational and storage requirements of CASA and OOI workflows, enabling researchers to test new algorithms and models in real time with live streaming data.
+  - Enhance interactions between Pegasus, the network-centric platform, and new network-aware workflow scheduling algorithms in Pegasus.
+members:
+  - amandal
+  - cwang
+  - pruth
+  - kthareja
+partners:
+  - University of Southern California, Information Sciences Institute
+  - University of Massachusetts at Amherst
+  - Rutgers University
+funding:
+  - NSF grant 1826997
 www:
   url: 
   github: 

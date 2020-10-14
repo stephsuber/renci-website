@@ -9,11 +9,14 @@ import { MembersList } from '../components/contributors'
 export default ({ data, pageContext }) => {
     const { projectsYaml: {
         name,
+        description,
+        renci_role,
         featuredImage,
         group,
         members,
+        partners,
+        funding,
         email,
-        description,
         www,
         news,
     }} = data
@@ -23,9 +26,7 @@ export default ({ data, pageContext }) => {
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
                 <strong>{ group && group[0].name }</strong>
                 <Title>{ name }</Title>
-                <Paragraph>
-                    { description }
-                </Paragraph>
+                <Paragraph dangerouslySetInnerHTML={{ __html: description }} />
             </Hero>
 
             <Container>
@@ -33,23 +34,29 @@ export default ({ data, pageContext }) => {
                 
                 <Section title="Project Details">
                     <Article title="Description">
-                        <Paragraph>{ description }</Paragraph>
+                        <Paragraph dangerouslySetInnerHTML={{ __html: renci_role }} />
                     </Article>
+                    {
+                        members && <Article title="Contributors"><MembersList members={ members } /></Article>
+                    }
+                    {
+                        partners && (
+                            <Article title="Partners">
+                                <pre>{ JSON.stringify(partners, null, 2) }</pre>
+                            </Article>
+                        )
+                    }
+
+                    {
+                        funding && (
+                            <Article title="Funding">
+                                <pre>{ JSON.stringify(funding, null, 2) }</pre>
+                            </Article>
+                        )
+                    }
                 </Section>
 
-                {
-                    members && (
-                        <Section title="Contributors">
-                            {
-                                members && (
-                                    <Article title="RENCI Team">
-                                        <MembersList members={ members } />
-                                    </Article>
-                                )
-                            }
-                        </Section>
-                    )
-                }
+
 
                 {
                     news && (
@@ -79,6 +86,7 @@ export const projectQuery = graphql`
             name
             email
             description
+            renci_role
             featuredImage {
                 childImageSharp {
                     fluid {
@@ -107,6 +115,8 @@ export const projectQuery = graphql`
                     }
                 }
             }
+            funding
+            partners
             www {
                 url
                 twitter

@@ -1,8 +1,27 @@
 id: iris
 name: IRIS
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  Data-driven science depends on the integrity of data and computational processes, yet unintentional errors can compromise data integrity. To keep corrupt data out of the scientific record, the Integrity Introspection for Scientific Workflows (IRIS) project will automatically detect integrity anomalies in science cyberinfrastructure.
+renci_role: !markdown |
+  Scientists in many fields use National Science Foundation (NSF) national cyberinfrastructure to store, analyze, and exchange data. While most of the time everything goes as planned, failures and unintentional corruption can occur at various layers of the system software and hardware. Without tools to collect and analyze integrity-relevant data while workflows are executing, many of these errors go undetected and corrupt data becomes part of the scientific record.
+   
+  The IRIS project, led by RENCI, aims to help ensure the integrity of scientific workflows through an integrity introspection, correlation, and analysis framework.
+   
+  IRIS will:
+  - Collect application and infrastructure data and use statistical and machine learning (ML) algorithms to analyze it for anomalies.
+  - Experiment with novel ML-based methods in the RENCI-developed ExoGENI testbed before validating and making them available on NSF production cyberinfrastructure.
+  - Integrate with the Pegasus workflow management system and be available to scientists working with other cyberinfrastructure such as campus clusters, clouds, or leadership-class facilities.
+  - Make its framework, the Chaos Jungle, available for use by other computer scientists and cyberinfrastructure designers for testing anomaly detection algorithms and infrastructure robustness.
+  - Engage with science application partners in gravitational-wave physics, earthquake science, and bioinformatics to deploy the analysis framework for their workflows and fine-tune the threat models, the testbed, ML model training, and ML model validation in a feedback loop.
+members:
+  - amandal
+  - efu
+partners:
+  - University of Southern California, Information Sciences Institute
+  - Indiana University
+funding: 
+  - NSF grant 1839900
 www:
   url: 
   github: 

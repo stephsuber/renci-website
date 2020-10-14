@@ -1,8 +1,29 @@
 id: scidas
 name: SciDAS
 email: fake@email.com
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  Scientists use numerous tools and resources to access and analyze large data sets, but these tools can be disjointed and difficult to find. Scientific Data Analysis at Scale (SciDAS) aims to help researchers discover data, move it across networks, and take full advantage of national and international scientific resources to accelerate insights and innovation.
+renci_role: !markdown |
+  RENCI leads the effort to integrate cyber tools and technologies into the Scientific Data Analysis at Scale (SciDAS) infrastructure. SciDAS is designed to support all aspects of distributed, data-driven research by integrating NSF-funded cyberinfrastructure systems into one package. 
+
+  Many of these infrastructure systems were developed at RENCI, including:
+  - [iRODS](/projects/irods), the integrated Rule Oriented Data System
+  - ADAMANT (Adaptive Data-Aware Multi-Domain Application Network Topologies), which leverages ExoGENI along with national research and education networks to create elastic, isolated environments to execute complex distributed tasks
+  - [SAFE Superfacilities](/projects/safe-superfacilities), which securely automates and monitors the creation of virtual super-facilities to link scientists to multiple resources
+  - RADII (Resource Aware Data-centric collaborative Infrastructure), which enables scientists to map collaborative data-drive activities onto dynamically configurable cloud infrastructure
+  - [Hydroshare](/projects/hydroshare), an open-source collaborative system for sharing hydrologic data and models
+
+  The fluid and flexible SciDAS cyberinfrastructure will help scientists work with terabytes to exabytes of data more efficiently and effectively. The SciDAS team works closely with domain scientists to refine the system with real data sets and use cases, with the first scientific use case involving building gene co-expression networks for systems biology.
+members:
+  - scox
+  - igilani
+  - msin
+  - mkothapalli
+partners:
+  - Clemson University
+  - University of Washington
+funding:
+  - NSF grant 1659300
 www:
   url: 
   github: 

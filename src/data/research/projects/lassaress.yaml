@@ -1,8 +1,23 @@
 id: lassaress
 name: LASSaRESS
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  LASSaRESS aims to create a low cost, self-configurable, highly flexible, mobile system that can locate oil leaks and other contaminants with minimal human intervention.
+renci_role: !markdown |
+  Oil leaks cause substantial environmental damage and economic losses. LASSaRESS aims to create a smart, flexible, large-scale sensing and response service system for monitoring and management of ground, air, and waterborne contaminants. RENCI will design the cloud-based data collection, analysis, and visualization pipeline for this collaborative project with Duke University’s Pratt School of Engineering and PFT Technology, LLC. 
+   
+  The LASSaRESS system will collect and analyze leak source data by connecting mini-mass spectrometers through a dynamically configurable cloud computing network. Once developed, the system will be field-tested with a controlled, low-level perfluorocarbon tracer leak.
+   
+  Ultimately, the project aims to create a cost-effective, scalable, smart underground oil leak location system that can be modified to serve a host of applications in leak detection and pollution measurement including applications in gas leak detection, water leak detection, and pollution monitoring. By leveraging cloud computing technologies, the techniques developed through this project also have the potential to improve future generations of distributed networked sensors.
+members:
+  - ibaldin
+  - kthareja
+  - jmcmanus
+partners:
+  - Duke University
+  - PFT Technology, LLC
+funding:
+  - 
 www:
   url: 
   github: 

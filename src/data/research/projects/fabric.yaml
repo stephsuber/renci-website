@@ -1,7 +1,45 @@
 id: fabric
 name: FABRIC
 email: fake@email.com
-description: FABRIC is a unique national research infrastructure to enable cutting-edge and exploratory research at-scale in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
+description: !markdown |
+  [FABRIC](https://fabric-testbed.net/) is a nationwide testbed for reimagining how data can be stored, computed, and moved through shared infrastructure. This unique research infrastructure is designed to enable cutting-edge research in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
+renci_role: !markdown |
+  As the lead institution on this $20 million project, RENCI is contributing to all aspects of [FABRIC](https://fabric-testbed.net/).
+ 
+  FABRIC is being designed as an everywhere-programmable, nationwide instrument composed of novel extensible network elements equipped with large amounts of compute and storage, interconnected by high speed, dedicated optical links. It will connect a number of specialized testbeds (5G/IoT PAWR, NSF Clouds) and high-performance computing facilities to create a rich fabric for a wide variety of experimental activities.
+
+  FABRIC will allow scientists to explore what a new Internet could look like at scale, and help determine the internet architecture of the future. The team takes a multidisciplinary approach to supporting end users as well as science domains that depend on large-scale intelligent networks.
+
+  To advance cybersecurity, FABRIC will enable at-scale, more realistic research by peering with production networks to observe behavior. It will also integrate high-performance computing, wireless, and Internet of Things functionality to create a diverse environment combining programmable core and edge networks, large computational resources, and multiple computing capabilities including machine learning and artificial intelligence.
+members:
+  - ibaldin
+  - efu
+  - kthareja
+  - mtavares
+  - mcevik
+  - mstealey
+  - pruth
+  - yguo
+partners:
+  - University of Kentucky
+  - Clemson University
+  - Illinois Institute of Technology
+  - ESnet
+  - Columbia University
+  - The University of Utah
+  - National Center for Supercomputing Applications
+  - Florida International University
+  - Georgia Institute of Technology
+  - Internet2
+  - Rutgers University
+  - SRI International
+  - Texas Advanced Computing Center
+  - University of Chicago
+  - UC San Diego
+  - US Ignite
+  - University of Virginia
+funding:
+  - NSF grant 1935966
 www:
   url: https://www.fabric-testbed.net/
   github: https://github.com/fabric-testbed

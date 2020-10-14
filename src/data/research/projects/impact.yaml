@@ -1,9 +1,28 @@
 id: impact
 name: ImPACT
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: !markdown |
+  Infrastructure for Privacy-Assured CompuTations ([ImPACT](https://cyberimpact.us/)) enables scientists to share and analyze data across institutional boundaries while keeping data safe and in regulatory compliance.
+renci_role: !markdown |
+  Scientific progress requires multi-institutional and cross-disciplinary sharing and analysis of data. [ImPACT](https://cyberimpact.us/) aims to help researchers spend less time thinking about security and more time advancing science by lowering the barriers that impede researchers from using privacy-restricted data in collaborative settings.  
+
+  As project lead, RENCI collaborates with a diverse team of partners to advance an integrative model for management of trust by deploying a collection of supportive mechanisms at scale into a model cyberinfrastructure. The project develops methodologies and software with best practices in networking, data management, security, and privacy preservation to fit a variety of [use cases](https://cyberimpact.us/services/use-cases/). 
+members:
+  - ibaldin
+  - mstealey
+  - lchristopherson
+  - yguo
+partners:
+  - The Odum Institute for Research in Social Science
+  - Duke University Social Science Research Institute
+  - Duke University Office of Information Technology
+  - Duke University Computer Science
+  - DataWorks NC
+  - Center for Trustworthy Cybersecurity Infrastructure
+  - Center for Applied Cybersecurity Research, Indiana University
+funding:
+  - NSF award OAC-1659367
 www:
-  url: 
+  url: https://cyberimpact.us/
   github: 
   twitter: 
