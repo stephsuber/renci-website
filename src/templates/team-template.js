@@ -3,14 +3,13 @@ import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { ArrowLink } from '../components/link'
-import { MembersList } from '../components/people'
+import { MembersList } from '../components/contributors'
 
 export default ({ data, pageContext }) => {
     const { teamsYaml: {
         name,
         description,
         members,
-        lead,
         featuredImage
     }} = data
     
@@ -38,24 +37,16 @@ export default ({ data, pageContext }) => {
                     </Article>
                 </Section>
 
-
             </Container>
         </Fragment>
     )
 }
 
-export const groupQuery = graphql`
+export const teamQuery = graphql`
     query($id: String!) {
         teamsYaml( id: { eq: $id }) {
             name
             description
-            lead {
-                id
-                name {
-                    first
-                    last
-                }
-            }
             members {
                 id
                 fullName
