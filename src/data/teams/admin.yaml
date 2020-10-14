@@ -1,7 +1,6 @@
 id: admin
 name: Administrative
 description: Lorem adminipsum dolor sit amet!
-lead: amieczkowska
 members:
   - amieczkowska
   - jzollars
