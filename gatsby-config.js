@@ -7,7 +7,19 @@ module.exports = {
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-styled-components`,
-        `gatsby-transformer-yaml`,
+        {
+          resolve: 'gatsby-transformer-yaml-full',
+          options: {
+            plugins: [
+              {
+                resolve: 'gatsby-yaml-full-markdown',
+                options: {
+                  unwrapSingleLine: true
+                }
+              }
+            ],
+          },
+        },
         { resolve: `gatsby-source-filesystem`, options: { name: `images`, path: `${ __dirname }/src/images` }, },
         { resolve: `gatsby-source-filesystem`, options: { name: `people`, path: `${ __dirname }/src/data/people` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `teams`, path: `${ __dirname }/src/data/teams` } },
