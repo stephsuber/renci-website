@@ -31,6 +31,12 @@ const newsQuery = graphql`{
                             last
                         }
                     }
+                    groups {
+                        id
+                    }
+                    projects {
+                        id
+                    }
                 }
                 html
                 excerpt(pruneLength: 500)

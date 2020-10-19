@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { useFormState } from 'react-use-form-state'
 import { Select, TextInput } from '../form'
-import { useProjects } from '../../hooks'
+import { useGroups, useProjects } from '../../hooks'
 
 const Wrapper = styled.div(({ theme }) => `
     padding: ${ theme.spacing.large } 0;
@@ -28,16 +28,27 @@ const SearchInput = styled(TextInput)`
     background: url('${ magnifyingGlassSvg }') 100% / 24px no-repeat transparent;
 `
 
-export const NewsFilterForm = () => {
+export const NewsFilterForm = ({ groupId, projectId, changeGroupHandler, changeProjectHandler }) => {
+    const groups = useGroups()
     const projects = useProjects()
     const [formState, { text, select }] = useFormState()
+    const groupOptions = groups.map(group => ({ value: group.id, label: group.name }))
     const projectOptions = projects.map(project => ({ value: project.id, label: project.name }))
-
-    console.log(formState.values)
 
     return (
         <Wrapper>
-            <Select { ...select('project') } options={ [{ value: '', label: 'Select Project' }].concat(projectOptions) } />
+            <Select
+                { ...select('group') }
+                options={ [{ value: '', label: 'Select Group' }].concat(groupOptions) }
+                onChange={ changeGroupHandler }
+                value={ groupId }
+            />
+            <Select
+                { ...select('project') }
+                options={ [{ value: '', label: 'Select Project' }].concat(projectOptions) }
+                onChange={ changeProjectHandler }
+                value={ projectId }
+            />
             <SearchInput { ...text('query') } placeholder="Search News" />
         </Wrapper>
     )

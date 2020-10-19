@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useEffect, useState } from 'react'
 import { SEO } from '../components/seo'
 import { Container, Section, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
@@ -8,27 +8,51 @@ import { NewsFilterForm } from '../components/news'
 
 const NewsPage = () => {
     const articles = useNews()
+    const [projectId, setProjectId] = useState('')
+    const [groupId, setGroupId] = useState('')
+    const [filteredNews, setFilteredNews] = useState(articles)
+
+    const handleGroupChange = event => setGroupId(event.target.value)
+    const handleProjectChange = event => setProjectId(event.target.value)
+
+    useEffect(() => {
+        if (groupId || projectId) {
+            let newArticles = [...articles]
+            if (groupId) {
+                newArticles = newArticles.filter(article => article.frontmatter.groups.map(g => g.id).includes(groupId))
+            }
+            if (projectId) {
+                newArticles = newArticles.filter(article => article.frontmatter.projects.map(p => p.id).includes(projectId))
+            }
+            setFilteredNews(newArticles)
+        } else {
+            setFilteredNews(articles)
+        }
+    }, [groupId, projectId])
 
     return (
         <Container className="container">
             <SEO title="RENCI News" />
             
-            <Title>News at RENCI</Title>
+            <Title>RENCI News</Title>
             
             <HorizontalRule />
             
-            <NewsFilterForm />
+            <NewsFilterForm
+                projectId={ projectId }
+                changeProjectHandler={ handleProjectChange }
+                groupId={ groupId }
+                changeGroupHandler={ handleGroupChange }
+            />
             
             <Section fullWidth>
                 {
-                    articles.map((article, i) => {
-                        return (
-                            <Fragment key={ article.id }>
-                                <ArticlePreview article={ article } path={ article.path } />
-                                { i < articles.length - 1 && <HorizontalRule /> }
-                            </Fragment>
-                        )
-                    })
+                    filteredNews.map((article, i) => (
+                        <Fragment key={ article.id }>
+                            <ArticlePreview article={ article } path={ article.path } />
+                            { i < articles.length - 1 && <HorizontalRule /> }
+                        </Fragment>
+                    ))
                 }
             </Section>
 

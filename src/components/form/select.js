@@ -36,7 +36,7 @@ export const Select = ({ name, options, ...props }) => {
 Select.propTypes = {
     name: PropTypes.string.isRequired,
     options: PropTypes.arrayOf(PropTypes.shape({
-        value: PropTypes.number.isRequired,
+        value: PropTypes.string.isRequired,
         label: PropTypes.string.isRequired,
     })),
 }
