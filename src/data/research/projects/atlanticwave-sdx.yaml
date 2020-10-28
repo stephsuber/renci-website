@@ -12,11 +12,11 @@ renci_role: !markdown |
 members:
   - yxin
 partners:
-  - Florida International University
-  - University of Southern California 
+  - fiu
+  - university-of-southern-california
 funding:
-  - NSF
-  - Florida International University
+  - fiu
+  - nsf
 www:
   url: 
   github: 

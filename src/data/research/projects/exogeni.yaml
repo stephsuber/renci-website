@@ -21,11 +21,11 @@ members:
   - efu
   - mtavares
 partners:
-  - Duke University
-  - IBM
+  - duke-university
+  - ibm
 funding:
-  - GENI Project Office
-  - NSF
+  - geni-project-office
+  - nsf
 www:
   url: http://www.exogeni.net/
   github: 

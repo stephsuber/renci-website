@@ -17,12 +17,12 @@ members:
   - escott
   - lchristopherson
 partners:
-  - University of Southern California Information Sciences Institute (lead)
-  - University of Utah
-  - University of Notre Dame
-  - Indiana University
+  - usc-isi
+  - utah-university
+  - university-of-notre-dame
+  - indiana-university
 funding: 
-  - National Science Foundation grant \#1842042
+  - nsf
 www:
   url: 
   github: 

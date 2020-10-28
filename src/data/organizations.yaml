@@ -1,0 +1,44 @@
+-
+  id: duke-university
+  name: Duke University
+  url: https://duke.edu/
+-
+ id: ibm
+ name: IBM
+ url: https://www.ibm.com/
+-
+  id: nsf
+  name: National Science Foundation
+  url: https://www.nsf.gov/
+-
+  id: dod
+  name: US Department of Defense
+  url: https://dod.defense.gov/
+-
+  id: geni-project-office
+  name: GENI Project Office
+  url: https://www.geni.com/projects
+-
+  id: indiana-university
+  name: Indiana University
+  url: https://www.iu.edu/
+-
+  id: usc-isi
+  name: University of Southern California Information Sciences Institute
+  url: https://www.isi.edu/
+-
+  id: university-of-notre-dame
+  name: University of Notre Dame
+  url: https://www.nd.edu/
+-
+  id: utah-university
+  name: University of Utah
+  url: https://www.utah.edu/
+-
+  id: fiu
+  name: Florida International University
+  url: https://www.fiu.edu/
+-
+  id: university-of-southern-california
+  name: University of Southern California
+  url: https://www.usc.edu/

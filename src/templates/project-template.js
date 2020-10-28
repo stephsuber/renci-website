@@ -4,7 +4,7 @@ import { Container, Article, Section, Hero, HorizontalRule } from '../components
 import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArticlePreview } from '../components/news'
-import { MembersList } from '../components/contributors'
+import { ContributorsList, MembersList } from '../components/contributors'
 
 export default ({ data, pageContext }) => {
     const { projectsYaml: {
@@ -36,24 +36,12 @@ export default ({ data, pageContext }) => {
                     <Article title="Description">
                         <Paragraph dangerouslySetInnerHTML={{ __html: renci_role }} />
                     </Article>
-                    {
-                        members && <Article title="Contributors"><MembersList members={ members } /></Article>
-                    }
-                    {
-                        partners && (
-                            <Article title="Partners">
-                                <pre>{ JSON.stringify(partners, null, 2) }</pre>
-                            </Article>
-                        )
-                    }
 
-                    {
-                        funding && (
-                            <Article title="Funding">
-                                <pre>{ JSON.stringify(funding, null, 2) }</pre>
-                            </Article>
-                        )
-                    }
+                    { members && <Article title="Contributors"><MembersList members={ members } /></Article> }
+                    
+                    { partners && <Article title="Partners"><ContributorsList contributors={ partners } /></Article> }
+                    
+                    { funding && <Article title="Funding"><ContributorsList contributors={ funding } /></Article> }
                 </Section>
 
 
@@ -115,8 +103,16 @@ export const projectQuery = graphql`
                     }
                 }
             }
-            funding
-            partners
+            funding {
+                id
+                name
+                url
+            }
+            partners {
+                id
+                name
+                url
+            }
             www {
                 url
                 twitter

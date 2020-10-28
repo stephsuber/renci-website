@@ -21,6 +21,7 @@ module.exports = {
           },
         },
         { resolve: `gatsby-source-filesystem`, options: { name: `images`, path: `${ __dirname }/src/images` }, },
+        { resolve: `gatsby-source-filesystem`, options: { name: `data`, path: `${ __dirname }/src/data` }, },
         { resolve: `gatsby-source-filesystem`, options: { name: `people`, path: `${ __dirname }/src/data/people` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `teams`, path: `${ __dirname }/src/data/teams` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `groups`, path: `${ __dirname }/src/data/research/groups` } },
@@ -78,6 +79,8 @@ module.exports = {
         "CollaborationsYaml.projects": `ProjectsYaml`, // Show projects in full for collaboration queries
         // PROJECTS
         "ProjectsYaml.members": `PeopleYaml`, // Link project members to people
+        "ProjectsYaml.funding": `OrganizationsYaml`, // Link project funders to organizations
+        "ProjectsYaml.partners": `OrganizationsYaml`, // Link project partners to organizations
         // NEWS
         "MarkdownRemark.frontmatter.author": "PeopleYaml",
         "MarkdownRemark.frontmatter.people": "PeopleYaml",
