@@ -19,11 +19,11 @@ members:
   - pruth
   - kthareja
 partners:
-  - University of Southern California, Information Sciences Institute
-  - University of Massachusetts at Amherst
-  - Rutgers University
+  - usc-isi
+  - umass-amherst
+  - rutgers-university
 funding:
-  - NSF grant 1826997
+  - nsf
 www:
   url: 
   github: 

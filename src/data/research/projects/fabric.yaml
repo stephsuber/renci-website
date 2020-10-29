@@ -21,23 +21,23 @@ members:
   - pruth
   - yguo
 partners:
-  - University of Kentucky
-  - Clemson University
-  - Illinois Institute of Technology
-  - ESnet
-  - Columbia University
-  - The University of Utah
-  - National Center for Supercomputing Applications
-  - Florida International University
-  - Georgia Institute of Technology
-  - Internet2
-  - Rutgers University
-  - SRI International
-  - Texas Advanced Computing Center
-  - University of Chicago
-  - UC San Diego
-  - US Ignite
-  - University of Virginia
+  - university-of-kentucky
+  - clemson-university
+  - iit
+  - esnet
+  - columbia-university
+  - university-of-utah
+  - National ncsa
+  - fiu
+  - ga-tech
+  - internet2
+  - rutgers-university
+  - sri-international
+  - tacc
+  - university-of-chicago
+  - ucsd
+  - us-ignite
+  - uva
 funding:
   - nsf
 www:

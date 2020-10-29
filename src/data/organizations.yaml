@@ -1,44 +1,180 @@
 -
-  id: duke-university
+  name: Center for Applied Cybersecurity Research, Indiana University
+  id: indiana-cacr
+  url: https://cacr.iu.edu/
+-
+  name: Center for Trustworthy Cybersecurity Infrastructure
+  id: ctci
+  urk: 
+-
+  name: Clemson University
+  id: clemson-university
+  url: https://www.clemson.edu/
+-
+  name: Columbia University
+  id: columbia-uniersity
+  url: http://www.columbia.edu/
+-
+  name: DataWorks NC
+  id: dataworks-nc
+  url: https://dataworks-nc.org/
+-
   name: Duke University
+  id: duke-university
   url: https://duke.edu/
+-
+  name: Duke University Computer Science
+  id: duke-cs
+  url: http://www.cs.duke.edu/
+-
+  name: Duke University Office of Information Technology
+  id: duke-oit
+  url: https://oit.duke.edu/
+-
+  name: Duke University Social Science Research Institute
+  id: duke-ssri
+  url: https://ssri.duke.edu/  
+-
+  name: ESnet
+  id: esnet
+  url: https://www.eset.com/
+-
+  name: Florida International University
+  id: fiu
+  url: https://www.fiu.edu/
+-
+  name: GENI Project Office
+  id: geni-project-office
+  url: https://www.geni.com/projects
+-
+  name: Georgia Institute of Technology
+  id: ga-tech
+  url: https://www.gatech.edu/
 -
  id: ibm
  name: IBM
  url: https://www.ibm.com/
 -
-  id: nsf
-  name: National Science Foundation
-  url: https://www.nsf.gov/
+  name: iCAIR
+  id: icair
+  url: https://icair.ac.uk/
 -
-  id: dod
-  name: US Department of Defense
-  url: https://dod.defense.gov/
+  name: Illinois Institute of Technology
+  id: iit
+  url: https://www.iit.edu/
 -
-  id: geni-project-office
-  name: GENI Project Office
-  url: https://www.geni.com/projects
+  name: Internet2
+  id: internet2
+  url: https://internet2.edu/
 -
-  id: indiana-university
   name: Indiana University
+  id: indiana-university
   url: https://www.iu.edu/
 -
-  id: usc-isi
-  name: University of Southern California Information Sciences Institute
-  url: https://www.isi.edu/
+  name: Lawrence Berkeley National Laboratory
+  id: lbnl
+  url: https://www.lbl.gov/
 -
-  id: university-of-notre-dame
+  name: National Center for Supercomputing Applications
+  id: ncsa
+  url: http://www.ncsa.illinois.edu/
+-
+  name: National Science Foundation
+  id: nsf
+  url: https://www.nsf.gov/
+-
+  name: NC State University
+  id: nc-state-university
+  url: https://www.ncsu.edu/
+-
+  name: Northwestern University
+  id: northwestern-university
+  url: https://www.northwestern.edu/
+-
+  name: Oak Ridge National Laboratory
+  id: ornl
+  url: https://www.ornl.gov/
+-
+  name: The Odum Institute for Research in Social Science
+  id: odum-institute
+  url: https://odum.unc.edu/
+-
+  name: PFT Technology, LLC
+  id: pft-technology-llc
+  url: https://www.pfttech.com/
+-
+  name: Rutgers University
+  id: rutgers-university
+  url: http://www.rutgers.edu/
+-
+  name: SRI International
+  id: sri-international
+  url: https://www.sri.com/
+-
+  name: Texas Advanced Computing Center
+  id: tacc
+  url: https://www.tacc.utexas.edu/
+-
+  name: U.S. Department of Defense
+  id: us-dod
+  url: https://dod.defense.gov/
+-
+  name: U.S. Department of Energy
+  id: us-doe
+  url: https://www.energy.gov/
+-
+  name: US Ignite
+  id: us-ignite
+  url: https://www.us-ignite.org/
+-
+  name: University of Chicago
+  id: university-of-chicago
+  url: https://www.uchicago.edu/
+-
+  name: University of Chicago Computation Institute
+  id: chicago-ci
+  url: https://ci.uchicago.edu/
+-
+  name: University of Kentucky
+  id: university-of-kentucky
+  url: https://www.uk.edu/
+-
+  name: University of Maryland
+  id: university-of-maryland
+  url: https://umd.edu/
+-
+  name: University of Massachusetts at Amherst
+  id: umass-amherst
+  url: https://www.umass.edu/
+-
   name: University of Notre Dame
+  id: university-of-notre-dame
   url: https://www.nd.edu/
 -
-  id: utah-university
+  name: University of South Florida
+  id: university-of-south-florida
+  url: https://www.usf.edu/
+-
+  name: University of Southern California
+  id: university-of-southern-california
+  url: https://www.usc.edu/
+-
+  name: University of Virginia
+  id: uva
+  url: https://www.virginia.edu/
+-
+  name: UC San Diego
+  id: ucsd
+  url: https://www.ucsd.edu/
+-
+  name: University of Southern California Information Sciences Institute
+  id: usc-isi
+  url: https://www.isi.edu/
+-
   name: University of Utah
+  id: utah-university
   url: https://www.utah.edu/
 -
-  id: fiu
-  name: Florida International University
-  url: https://www.fiu.edu/
--
-  id: university-of-southern-california
-  name: University of Southern California
-  url: https://www.usc.edu/
+  name: University of Washington
+  id: university-of-washington
+  url: http://www.washington.edu/

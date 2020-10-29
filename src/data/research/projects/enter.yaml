@@ -21,12 +21,12 @@ members:
   - mcevik
   - mtavares
 partners:
-  - University of Kentucky
-  - University of Maryland
-  - University of Utah
-  - Internet2
+  - university-of-kentucky
+  - university-of-maryland
+  - university-of-utah
+  - internet2
 funding:
-  - NSF
+  - nsf
 www:
   url: 
   github: 

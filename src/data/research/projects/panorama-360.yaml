@@ -18,11 +18,11 @@ members:
   - pruth
   - kthareja
 partners:
-  - University of Southern California
-  - Lawrence Berkeley National Laboratory
-  - Oak Ridge National Laboratory
+  - university-of-southern-california
+  - lbnl
+  - ornl
 funding:
-  - U.S. Department of Energy award \#DE-SC0012636M
+  - us-doe
 www:
   url: https://panorama360.github.io/
   github: 

@@ -18,10 +18,10 @@ members:
   - amandal
   - efu
 partners:
-  - University of Southern California, Information Sciences Institute
-  - Indiana University
+  - usc-isi
+  - indiana-university
 funding: 
-  - NSF grant 1839900
+  - nsf
 www:
   url: 
   github: 

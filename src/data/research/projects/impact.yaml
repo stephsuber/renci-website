@@ -13,15 +13,15 @@ members:
   - lchristopherson
   - yguo
 partners:
-  - The Odum Institute for Research in Social Science
-  - Duke University Social Science Research Institute
-  - Duke University Office of Information Technology
-  - Duke University Computer Science
-  - DataWorks NC
-  - Center for Trustworthy Cybersecurity Infrastructure
-  - Center for Applied Cybersecurity Research, Indiana University
+  - odum-institute
+  - duke-ssri
+  - duke-oit
+  - duke-cs
+  - dataworks-nc
+  - ctci
+  - indiana-cacr
 funding:
-  - NSF award OAC-1659367
+  - nsf
 www:
   url: https://cyberimpact.us/
   github: 

@@ -8,10 +8,10 @@ renci_role: !markdown |
 members:
   - yxin
 partners:
-  - NC State University
-  - University of South Florida
+  - nc-state-university
+  - university-of-south-florida
 funding:
-  - NSF
+  - nsf
 www:
   url: 
   github: 

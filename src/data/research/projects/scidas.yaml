@@ -20,10 +20,10 @@ members:
   - msin
   - mkothapalli
 partners:
-  - Clemson University
-  - University of Washington
+  - clemson-university
+  - university-of-washington
 funding:
-  - NSF grant 1659300
+  - nsf
 www:
   url: 
   github: 

@@ -14,10 +14,10 @@ members:
   - mcevik
   - mtavares
 partners:
-  - University of Chicago Computation Institute 
-  - Northwestern University
-  - Texas Advanced Computing Center
-  - iCAIR
+  - chicago-ci
+  - northwestern-university
+  - tacc
+  - icair
 funding: 
   - nsf
 featuredImage: chameleon-cloud.jpg
