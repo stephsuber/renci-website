@@ -1,16 +1,15 @@
 import React, { useEffect, useLayoutEffect, useState } from 'react'
 import styled from 'styled-components'
 import PropTypes from 'prop-types'
-import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import { Header }from './header'
 import { Main } from './main'
 import { Footer } from './footer'
 import { Container } from '../container'
 import { Menu, MobileMenu, ResearchSubmenu } from '../../menu'
+import { Link } from '../../link'
 import { useBrand, useWindow } from '../../../hooks'
 import { Container as Grid, Row, Col } from 'react-grid-system'
-import { ExternalLink } from '../../link'
 import { asciiLogo } from '../../../data/ascii-logo'
 
 import "../../../styles/base.css"
@@ -55,9 +54,9 @@ const FooterContents = () => {
                 <Col xs={ 12 } md={ 6 } lg={ 3 }>
                     <strong>Partners</strong>
                     <p>
-                        <ExternalLink to="https://www.unc.edu/">UNC-Chapel Hill</ExternalLink> <br/>
-                        <ExternalLink to="https://www.ncsu.edu/">NC State University</ExternalLink> <br/>
-                        <ExternalLink to="https://duke.edu/">Duke University</ExternalLink>
+                        <Link to="https://www.unc.edu/">UNC-Chapel Hill</Link> <br/>
+                        <Link to="https://www.ncsu.edu/">NC State University</Link> <br/>
+                        <Link to="https://duke.edu/">Duke University</Link>
                     </p>
                 </Col>
                 <Col xs={ 12 } md={ 6 } lg={ 3 }>
@@ -88,11 +87,6 @@ const menuItems = [
     { path: '/publications', text: 'Publications' },
 ]
 
-const Brand = styled(Link).attrs({
-    to: '/',
-    alt: 'Navigate to RENCI Home'
-})``
-
 export const DefaultLayout = ({ children, currentPath }) => {
     const { windowWidth } = useWindow()
     const [darkHeader, setDarkHeader] = useState(1)
@@ -110,13 +104,13 @@ export const DefaultLayout = ({ children, currentPath }) => {
     return (
         <Page>
             <Header dark={ darkHeader }>
-                <Brand>
+                <Link to="/" alt="Navigate to RENCI Home">
                     {
                         darkHeader
                         ? <Img fixed={ logos.dark } style={{ width: '180px', margin: '6px 1rem' }} imgStyle={{ width: 'auto', height: '100%' }} alt="Navigate to RENCI Home" />
                         : <Img fixed={ logos.light } style={{ width: '180px', margin: '6px 1rem' }} imgStyle={{ width: 'auto', height: '100%' }} alt="Navigate to RENCI Home" />
                     }
-                </Brand>
+                </Link>
                 { compact ? <MobileMenu items={ menuItems } /> : <Menu items={ menuItems } dark={ darkHeader } /> }
             </Header>
             <Main>{ children }</Main>
