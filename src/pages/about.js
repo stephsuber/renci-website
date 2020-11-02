@@ -3,8 +3,11 @@ import { SEO } from '../components/seo'
 import { Container, Article, Section } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { ArrowLink } from '../components/link'
+import { useOrganizations } from '../hooks'
+import { ContributorsList } from '../components/contributors'
 
 const AboutPage = () => {
+    const organizations = useOrganizations()
     return (
         <Container>
             <SEO title="About RENCI" />
@@ -22,6 +25,10 @@ const AboutPage = () => {
 
                 <Article title="How We Do It">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos assumenda eveniet cupiditate asperiores quia quaerat, odio expedita reprehenderit earum aperiam, tempora doloremque et cum voluptas sunt omnis beatae provident, dolores alias eius obcaecati ullam? Expedita iste cum eos ipsam esse unde reprehenderit vero reiciendis illo velit porro vitae nihil obcaecati maxime voluptatem, consectetur rerum sunt dolor optio. Consequuntur eos ea similique alias quo omnis sint architecto recusandae minima, odit modi, cum ipsa, nihil magnam numquam eum fuga quibusdam! Quis assumenda, laboriosam modi, eveniet doloribus, numquam commodi iusto reiciendis iure cupiditate, facilis quos mollitia eaque ipsa natus sunt. Numquam minima quasi illum sunt accusantium nulla non modi doloribus vitae ipsa adipisci iste, necessitatibus, tempora atque unde veniam debitis eius incidunt eveniet voluptatum totam laboriosam aspernatur quaerat! Natus dolorem a praesentium debitis tempora, optio cumque aspernatur nisi odio veniam modi necessitatibus blanditiis at voluptatum dicta maxime, velit dolorum maiores ea, delectus ducimus nam laudantium ab saepe! Iste beatae ipsum, excepturi laudantium similique nulla? Veniam dicta sequi, aliquid fuga nam, aperiam modi aliquam id totam natus molestias earum quasi sapiente molestiae. Minus fuga tempora, dignissimos voluptatum incidunt ullam ad cum, totam similique facilis ducimus doloremque adipisci reprehenderit! Accusantium, perferendis provident quaerat iusto quos!
+                </Article>
+
+                <Article title="Our Collaborators">
+                    <ContributorsList contributors={ organizations } />
                 </Article>
             </Section>
 
