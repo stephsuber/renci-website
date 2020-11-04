@@ -37,11 +37,29 @@ export default ({ data, pageContext }) => {
                         <Paragraph dangerouslySetInnerHTML={{ __html: renci_role }} />
                     </Article>
 
-                    { members && <Article title="Contributors"><MembersList members={ members } /></Article> }
+                    {
+                        members && (
+                            <Article title="Contributors">
+                                <MembersList members={ members } />
+                            </Article>
+                        )
+                    }
                     
-                    { partners && <Article title="Partners"><ContributorsList contributors={ partners } /></Article> }
+                    {
+                        partners && (
+                            <Article title="Partners">
+                                <ContributorsList contributors={ partners.sort((a,b) => a.name.toLowerCase() > b.name.toLowerCase()) } />
+                            </Article>
+                        )
+                    }
                     
-                    { funding && <Article title="Funding"><ContributorsList contributors={ funding } /></Article> }
+                    {
+                        funding && (
+                            <Article title="Funding">
+                                <ContributorsList contributors={ funding.sort((a,b) => a.name.toLowerCase() > b.name.toLowerCase()) } />
+                            </Article>
+                        )
+                    }
                 </Section>
 
 
