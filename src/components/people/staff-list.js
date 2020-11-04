@@ -24,7 +24,12 @@ const LettersMenu = styled.nav(({ theme }) => `
 
 const LetterLink = styled.a(({ theme }) => `
     text-decoration: none;
-    padding: 0.25rem 0;
+    padding: 0.25rem 0.5rem;
+    border-radius 4px;
+    transition: background-color 250ms, color 250ms;
+    &:hover {
+        background-color: ${ theme.color.lightgrey };
+    }
 `)
 
 const Profiles = styled.div(({ theme }) => `
