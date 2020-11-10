@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700&display=swap');
+@import '../fonts/atlas-grotesk/fonts.css';
 
 *, *::before, *::after {
     box-sizing: border-box;
 }
 html {
-    font-family: Heebo, sans-serif;
+    font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     scroll-behavior: smooth;
@@ -202,7 +202,7 @@ html {
 }
 body {
     color: hsla(0, 0%, 0%, 0.8);
-    font-family: Heebo, sans-serif;
+    font-family: 'Atlas Grotesk Web', sans-serif;
     font-weight: normal;
     word-wrap: break-word;
     font-kerning: normal;
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     margin: 0;
     color: inherit;
-    font-family: Heebo, sans-serif;
+    font-family: 'Atlas Grotesk Web', sans-serif;
     text-rendering: optimizeLegibility;
     line-height: 1.1;
     letter-spacing: 0.1rem;
