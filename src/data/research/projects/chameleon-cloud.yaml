@@ -1,7 +1,6 @@
 id: chameleon-cloud
 name: Chameleon Cloud
-description: !markdown |
-  [Chameleon](https://www.chameleoncloud.org/) is an open, large-scale, deeply reconfigurable testbed system for computer science systems research and experimentation.
+description: Chameleon is an open, large-scale, deeply reconfigurable testbed system for computer science systems research and experimentation. 
 renci_role: !markdown |
   [Chameleon](https://www.chameleoncloud.org/) supports a wide variety of capabilities for researching systems, networking, and distributed and cluster computing and security. It was created as a bare metal reconfiguration system giving users full control of the software stack including root privileges, kernel customization, and console access. Unlike traditional computer science experimental systems (which have overwhelmingly been configured by in-house infrastructures), Chameleon adapted OpenStack, a mainstream open source cloud technology, to provide its capabilities. This has a range of practical benefits including familiar interfaces for users and operators, workforce development potential, leverage of contributions from the community, and the potential to contribute to infrastructure with millions of users.
  

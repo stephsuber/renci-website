@@ -1,6 +1,7 @@
 id: scidas
 name: SciDAS
 email: fake@email.com
+featuredImage: scidas.jpg
 description: !markdown |
   Scientists use numerous tools and resources to access and analyze large data sets, but these tools can be disjointed and difficult to find. Scientific Data Analysis at Scale (SciDAS) aims to help researchers discover data, move it across networks, and take full advantage of national and international scientific resources to accelerate insights and innovation.
 renci_role: !markdown |

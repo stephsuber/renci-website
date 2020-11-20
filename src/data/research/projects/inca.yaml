@@ -1,8 +1,22 @@
 id: inca
 name: INCA
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: >
+  An Intelligent Concept Agent for Assisting with the Application of Metadata (INCA) uses machine learning techniques to automatically apply relevant metadata to research data.   
+renci_role: !markdown |
+  The INCA project aims to develop an intelligent concept assistant that will allow researchers to generate and share sets of metadata elements relevant to their project and use machine learning techniques to automatically apply this to data. The agent is based around a personalized dashboard of metadata elements that can be collected from multiple specialized portals, as well as sites such as Wikipedia. These elements can be coupled with classifiers that can be used to self-identify datasets to which they may be relevant, making the selection of appropriate vocabularies easier for researchers.
+   
+  The system is designed for a variety of use cases, including annotation of the National Center for Biomedical Information Bio-Samples repository and annotation of images within the Figshare repository.
+   
+  RENCI is developing an ontology design pattern software [framework]((https://github.com/INCATools/dosdp-tools)) to be used by developers of and contributors to key vocabularies and ontologies. In addition, RENCI is developing a [tool](https://github.com/INCATools/boomer) for evaluating potential mappings across ontologies using a combination of deductive reasoning and probabilistic inference, to be used for INCA’s automatic terminology integration.
+members:
+  - jbalhoff
+  - jreilly
+partners:
+  - lbnl
+funding:
+  - lbnl
+  - nih-nhgri
 www:
   url: http://adcirc.org/
   github: 

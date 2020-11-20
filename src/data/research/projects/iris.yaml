@@ -1,6 +1,7 @@
 id: iris
 name: IRIS
 email: fake@email.com
+featuredImage: iris.jpg
 description: !markdown |
   Data-driven science depends on the integrity of data and computational processes, yet unintentional errors can compromise data integrity. To keep corrupt data out of the scientific record, the Integrity Introspection for Scientific Workflows (IRIS) project will automatically detect integrity anomalies in science cyberinfrastructure.
 renci_role: !markdown |

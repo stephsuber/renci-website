@@ -2,10 +2,10 @@ id: panorama-360
 name: Panorama 360
 archived: false
 email: fake@email.com
-description:  !markdown |
-  [Panorama 360](https://panorama360.github.io/) uses cutting-edge computational science to improve scientific workflows. With machine learning algorithms and sophisticated analyses, Panorama 360 enables scientists to leverage a variety of end-to-end infrastructures to capture data and perform large-scale calculations in multiple operational modes while benefiting from rapid feedback on their experiments.
+featuredImage: panorama-360.jpg
+description:  Panorama 360 uses cutting-edge computational science to improve scientific workflows. With machine learning algorithms and sophisticated analyses, Panorama 360 enables scientists to leverage a variety of end-to-end infrastructures to capture data and perform large-scale calculations in multiple operational modes while benefiting from rapid feedback on their experiments.
 renci_role: !markdown |
-  Panorama 360 is an expansion of [PANORAMA](https://renci.org/research/panorama/).RENCI has collaborated on both projects with the [University of Southern California](https://www.usc.edu/) (the lead institution) and other partners.
+  [Panorama 360](https://panorama360.github.io/) is an expansion of [PANORAMA](https://renci.org/research/panorama/). RENCI has collaborated on both projects with the [University of Southern California](https://www.usc.edu/) (the lead institution) and other partners.
    
   For Panorama 360, the RENCI team is initially focusing on automating workflows for three U.S. Department of Energy applications that process streaming data, combine data streams, and perform large-scale calculations emblematic of parameter sweeps. The team is also advancing systems to adapt infrastructure and workflows in response to detected anomalies.
    

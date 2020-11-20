@@ -1,8 +1,8 @@
 id: atlanticwave-sdx
 name: AtlanticWave-SDX
 email: fake@email.com
-description: !markdown |
-  AtlanticWave-SDX helps domain scientists and network engineers around the world take advantage of Open Exchange Points (OXPs), which connect multiple networks for large-scale, data-intensive research and engineering applications.  
+featuredImage: atlanticwave-sdx.jpg
+description: AtlanticWave-SDX helps domain scientists and network engineers around the world take advantage of Open Exchange Points (OXPs), which connect multiple networks for large-scale, data-intensive research and engineering applications.  
 renci_role: !markdown |
   The AtlanticWave-SDX (AW-SDX) project is creating a new way for domain scientists and network engineers to use OXPs to support science workflows. RENCI is responsible for developing, testing, and deploying a distributed software defined exchange controller software, which links a large number of data sources and scientific users to advanced distributed OXPs.
    

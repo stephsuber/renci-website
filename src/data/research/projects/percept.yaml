@@ -1,9 +1,20 @@
 id: percept
 name: PERCEPT
 email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: >
+  PERCEPT aims to enhance STEM education with a new model for teaching and learning core physics concepts using a haptic force-feedback device coupled with interactive simulations.  
+renci_role: !markdown |
+  Research has shown that many elementary school teachers lack a firm grasp of what forces are and struggle to reason about foundational physics concepts such as using the idea of forces as interactions. These ideas are "stepping stone" concepts for much of physics learning and a disciplinary core idea in the Next Generation Science Standards.
+   
+  [PERCEPT](https://perceptproject.weebly.com/) attends to the interfaces between teaching and learning physics through iterative user-inspired research to provide foundational knowledge for a new model of teaching and learning core physics concepts. RENCI supports the project by developing haptically-enabled science simulations (HESSs), a technology for touch-enabled simulation and training.
+members:
+  - dborland
+partners:
+  - nc-state-university
+  - davidson-college
+funding:
+  - nsf
 www:
-  url: http://adcirc.org/
+  url: 
   github: 
   twitter:

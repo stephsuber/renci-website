@@ -17,6 +17,7 @@ members:
 projects:
   - brain-i
   - cellfie
+  - ccdh
   - chemotext2
   - ctmd
   - data-analysis-for-entrepreneurial-ecosystem
@@ -30,7 +31,10 @@ projects:
   - man-to-molecule-to-man
   - percept
   - phyloreferencing
+  - platform-for-analyzing-whole-brain-images
   - precision-dosing
+  - scate
+  - semantic-infrastructure-for-noctua-and-gene-ontology
   - some-past-project
 www:
   url: null

@@ -1,6 +1,7 @@
 id: ci-coe-pilot
 name: CI CoE Pilot
 email: fake@email.com
+featuredImage: ci-coe-pilot.jpg
 description: !markdown |
   The Cyberinfrastructure Center of Excellence (CI CoE) pilot study aims to establish a reservoir of expertise on best cyberinfrastructure practices for the nation’s largest research facilities.
 renci_role: !markdown |

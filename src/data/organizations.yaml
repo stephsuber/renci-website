@@ -1,11 +1,19 @@
 -
+  name: Battelle Memorial Institute
+  id: battelle
+  url: https://www.battelle.org/
+-
+  name: California Institute of Technology
+  id: caltech
+  url: https://www.caltech.edu/
+-
   name: Center for Applied Cybersecurity Research, Indiana University
   id: indiana-cacr
   url: https://cacr.iu.edu/
 -
   name: Center for Trustworthy Cybersecurity Infrastructure
   id: ctci
-  urk: 
+  url: 
 -
   name: Clemson University
   id: clemson-university
@@ -18,6 +26,10 @@
   name: DataWorks NC
   id: dataworks-nc
   url: https://dataworks-nc.org/
+-
+  name: Davidson College
+  id: davidson-college
+  url: https://www.davidson.edu/
 -
   name: Duke University
   id: duke-university
@@ -38,6 +50,10 @@
   name: ESnet
   id: esnet
   url: https://www.eset.com/
+-
+  name: Federal Office of Population Affairs, U.S. Department of Health and Human Services
+  id: hhs-opa
+  url: https://opa.hhs.gov/
 -
   name: Florida International University
   id: fiu
@@ -71,9 +87,21 @@
   id: indiana-university
   url: https://www.iu.edu/
 -
+  name: Jackson Laboratory
+  id: jackson-laboratory
+  url: https://www.jax.org/
+-
+  name: Johns Hopkins University
+  id: johns-hopkins-university
+  url: https://www.jhu.edu/
+-
   name: Lawrence Berkeley National Laboratory
   id: lbnl
   url: https://www.lbl.gov/
+-
+  name: Leidos Biomedical
+  id: leidos-biomedical
+  url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
 -
   name: National Center for Supercomputing Applications
   id: ncsa
@@ -87,6 +115,18 @@
   id: nc-state-university
   url: https://www.ncsu.edu/
 -
+  name: National Institutes of Health
+  id: nih
+  url: https://www.nih.gov/
+-
+  name: NIH National Human Genome Research Institute
+  id: nih-nhgri
+  url: https://www.genome.gov/
+-
+  name: NIH National Cancer Institute
+  id: nih-nci
+  url: https://www.cancer.gov/
+-
   name: Northwestern University
   id: northwestern-university
   url: https://www.northwestern.edu/
@@ -99,9 +139,21 @@
   id: odum-institute
   url: https://odum.unc.edu/
 -
+  name: Oregon Health Sciences University
+  id: oregon-hsu
+  url: https://www.ohsu.edu/
+-
+  name: Oregon State University
+  id: oregon-state-university
+  url: https://oregonstate.edu/
+-
   name: PFT Technology, LLC
   id: pft-technology-llc
   url: https://www.pfttech.com/
+-
+  name: RENCI
+  id: renci
+  url: https://www.renci.org/
 -
   name: Rutgers University
   id: rutgers-university
@@ -111,9 +163,17 @@
   id: sri-international
   url: https://www.sri.com/
 -
+  name: Stanford University
+  id: stanford-university
+  url: https://www.stanford.edu/
+-
   name: Texas Advanced Computing Center
   id: tacc
   url: https://www.tacc.utexas.edu/
+-
+  name: Trial Innovation Network
+  id: trial-innovation-network
+  url: https://trialinnovationnetwork.org/
 -
   name: U.S. Department of Defense
   id: us-dod
@@ -122,6 +182,10 @@
   name: U.S. Department of Energy
   id: us-doe
   url: https://www.energy.gov/
+-
+  name: U.S. Department of Health and Human Services
+  id: us-dhhs
+  urll: https://www.hhs.gov/
 -
   name: US Ignite
   id: us-ignite
@@ -135,6 +199,10 @@
   id: chicago-ci
   url: https://ci.uchicago.edu/
 -
+  name: University of Florida
+  id: university-of-florida
+  url: http://www.ufl.edu/
+-
   name: University of Kentucky
   id: university-of-kentucky
   url: https://www.uk.edu/
@@ -146,6 +214,34 @@
   name: University of Massachusetts at Amherst
   id: umass-amherst
   url: https://www.umass.edu/
+-
+  name: University of North Carolina at Chapel Hill Department of Biology
+  id: unc-biology
+  url: https://bio.unc.edu/
+-
+  name: University of North Carolina at Chapel Hill Department of Genetics
+  id: unc-genetics
+  url: https://www.med.unc.edu/genetics/
+-
+  name: University of North Carolina at Chapel Hill Department of Psychiatry
+  id: unc-psychiatry
+  url: https://www.med.unc.edu/psych/
+-
+  name: University of North Carolina Eshelman Institute of Innovation
+  id: unc-eii
+  url: https://unceii.org/
+-
+  name: University of North Carolina Eshelman School of Pharmacy
+  id: unc-pharmacy
+  url: https://pharmacy.unc.edu/
+-
+  name: Program for Precision Medicine in Health Care, UNC School of Medicine
+  id: unc-ppmh
+  url: https://www.med.unc.edu/ppmh/
+-
+  name: University of North Carolina at Chapel Hill Gillings School of Public Health
+  id: unc-sph
+  url: https://sph.unc.edu/
 -
   name: University of Notre Dame
   id: university-of-notre-dame
@@ -178,3 +274,7 @@
   name: University of Washington
   id: university-of-washington
   url: http://www.washington.edu/
+-
+  name: Virginia Polytechnic Institute and State University
+  id: virginia-tech
+  url: https://vt.edu/

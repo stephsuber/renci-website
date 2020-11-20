@@ -1,6 +1,7 @@
 id: lassaress
 name: LASSaRESS
 email: fake@email.com
+featuredImage: lassaress.jpg
 description: !markdown |
   LASSaRESS aims to create a low cost, self-configurable, highly flexible, mobile system that can locate oil leaks and other contaminants with minimal human intervention.
 renci_role: !markdown |

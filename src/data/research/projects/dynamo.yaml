@@ -1,6 +1,7 @@
 id: dynamo
 name: DyNamo
 email: fake@email.com
+featuredImage: dynamo.jpg
 description: !markdown |
   Scientists face numerous challenges when integrating data from multiple scientific instruments and data stores into their workflows. The Delivering a Dynamic Network-Centric Platform for Data-Driven Science (DyNamo) project helps increase scientific productivity through a platform that manages high-performance data flows and coordinates access to cyberinfrastructure.
 renci_role: !markdown |

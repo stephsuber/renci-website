@@ -83,8 +83,8 @@ const menuItems = [
     { path: '/research', text: 'Research', submenu: ResearchSubmenu },
     { path: '/people', text: 'People' },
     { path: '/news', text: 'News' },
-    { path: '/events', text: 'Events' },
-    { path: '/publications', text: 'Publications' },
+    // { path: '/events', text: 'Events' },
+    // { path: '/publications', text: 'Publications' },
 ]
 
 export const DefaultLayout = ({ children, currentPath }) => {

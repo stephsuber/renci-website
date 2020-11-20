@@ -1,6 +1,7 @@
 id: enter
 name: ENTeR
 email: fake@email.com
+featuredImage: enter.jpg
 description: !markdown |
   Enabling Network Research and the Evolution of a Next Generation Midscale Infrastructure (ENTeR) helps the computer and information science and engineering (CISE) community prepare to transition to next-generation mid-scale research infrastructure while ensuring existing research infrastructure remains available and relevant during the transition.
 renci_role: !markdown |
