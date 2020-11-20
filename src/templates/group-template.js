@@ -44,7 +44,7 @@ export default ({ data, pageContext }) => {
 
                 {
                     news && (
-                        <Section title="News & Events">
+                        <Section title="News">
                             {
                                 news.slice(0, 2).map((article, i) => {
                                     return (

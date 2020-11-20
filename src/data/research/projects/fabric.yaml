@@ -2,8 +2,8 @@ id: fabric
 name: FABRIC
 email: fake@email.com
 featuredImage: fabric.jpg
-description: !markdown |
-  [FABRIC](https://fabric-testbed.net/) is a nationwide testbed for reimagining how data can be stored, computed, and moved through shared infrastructure. This unique research infrastructure is designed to enable cutting-edge research in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
+description: >
+  FABRIC is a nationwide testbed for reimagining how data can be stored, computed, and moved through shared infrastructure. This unique research infrastructure is designed to enable cutting-edge research in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
 renci_role: !markdown |
   As the lead institution on this $20 million project, RENCI is contributing to all aspects of [FABRIC](https://fabric-testbed.net/).
  
