@@ -1,7 +1,22 @@
 id: coupling-flood-models
 name: Coupling Flood Models
 email: fake@email.com
-description: ADCIRC is a system of computer programs for solving time-dependent, free surface circulation and transport problems in two and three dimensions. These programs utilize the finite element method in space allowing the use of highly flexible, unstructured grids.
+description: >
+  RENCI experts are developing new ways to connect riverine hydraulic models to the coastal storm surge model ADCIRC to better simulate and predict interactions between riverine flooding and coastal storm surge.
+renci_role: !markdown |
+  Today’s flood models struggle to accurately capture the zone where inland rivers and coastal waters interact, yet this zone plays an important role in the flooding threats faced by coastal communities. As part of the NOAA Integrated Ocean Observations System/Coastal Ocean Modeling Testbed project, RENCI is adapting the [ADCIRC](http://adcirc.org/) storm surge, tide, and wind-wave model to establish a testbed for different approaches to coupling models for riverine and coastal flooding. Several upland/hydrologic/hydraulic models are being studied, including the NOAA National Water Model, the U.S. Army Corps model Gridded Surface Subsurface Hydrologic Analysis (GSSHA), and LISFLOOD-FP. Hurricane Florence (2018), which caused extensive damage and brought compound flooding in several locations, is the project’s primary test case.
+ 
+  By better characterizing the dynamics of areas subject to compound flooding, the project team aims to help researchers and decision makers forecast and prevent dangerous floods where hurricane-driven storm surge meets precipitation-related riverine runoff.  
+members:
+  - bblanton
+  - yfeng
+  - rluettich
+partners:
+  - university-of-texas
+  - seahorse-coastal
+  - NOAA Coast Survey Development Lab
+funding:
+  - noaa
 www:
   url: http://adcirc.org/
   github: 

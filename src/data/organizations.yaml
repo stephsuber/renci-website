@@ -111,13 +111,25 @@
   id: nsf
   url: https://www.nsf.gov/
 -
-  name: NC State University
+  name: North Carolina State University
   id: nc-state-university
   url: https://www.ncsu.edu/
+-
+  name: North Carolina State University Center for Geospatial Analytics
+  id: ncsu-geospatial
+  url: https://cnr.ncsu.edu/geospatial/
 -
   name: National Institutes of Health
   id: nih
   url: https://www.nih.gov/
+-
+  name: National Oceanic and Atmospheric Administration
+  id: noaa
+  url: https://www.noaa.gov/
+-
+  name: NC General Assembly
+  id: nc-general-assembly
+  url: https://www.ncleg.gov/
 -
   name: NIH National Human Genome Research Institute
   id: nih-nhgri
@@ -159,6 +171,10 @@
   id: rutgers-university
   url: http://www.rutgers.edu/
 -
+  name: Seahorse Coastal Consulting
+  id: seahorse-coastal
+  url: https://www.seahorsecoastal.com/
+-
   name: SRI International
   id: sri-international
   url: https://www.sri.com/
@@ -190,6 +206,10 @@
   name: US Ignite
   id: us-ignite
   url: https://www.us-ignite.org/
+-
+  name: Universidad San Francisco de Quito
+  id: usfq
+  url: https://www.usfq.edu.ec/
 -
   name: University of Chicago
   id: university-of-chicago
@@ -223,6 +243,14 @@
   id: unc-genetics
   url: https://www.med.unc.edu/genetics/
 -
+  name: University of North Carolina at Chapel Hill Department of Geography
+  id: unc-geography
+  url: https://geography.unc.edu/
+-
+  name: University of North Carolina at Chapel Hill Center for Galapagos Studies
+  id: unc-galapagos
+  url: https://galapagos.unc.edu/
+-
   name: University of North Carolina at Chapel Hill Department of Psychiatry
   id: unc-psychiatry
   url: https://www.med.unc.edu/psych/
@@ -254,6 +282,10 @@
   name: University of Southern California
   id: university-of-southern-california
   url: https://www.usc.edu/
+-
+  name: University of Texas at Austin
+  id: university-of-texas
+  url: https://www.utexas.edu/
 -
   name: University of Virginia
   id: uva

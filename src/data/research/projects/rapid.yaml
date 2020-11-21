@@ -2,7 +2,17 @@ id: rapid
 name: RAPID
 email: fake@email.com
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  RAPID is a collaborative research project focused on building digital infrastructure and communities to assess drinking water hazards caused by hurricanes.
+renci_role: !markdown |
+  During hurricanes, flooding and damage to infrastructure can compromise drinking water supplies and cause contamination. RAPID, which grew out of prior efforts related to Hurricane Maria in 2017 and was initiated after Hurricane Florence hit the Carolinas in 2018, aims to increase access to post-hurricane water quality data through access to cyberinfrastructure, capacity development, and community-building among groups focused on post-disaster water quality issues.
+
+  The project is creating a series of workshops and other activities aimed at accelerating research through network-to-network collaborations, data needs and availability assessment, data collection, and educational activities focused on data curation and cyberinfrastructure. RENCI is responsible for facilitating a workshop in North Carolina workshop, providing access to its hydrologic research platform [HydroShare](https://www.hydroshare.org/), and contributing data curation and community-building expertise.
+members:
+  - clenhardt
+partners:
+  - university-of-washington
+funding:
+  - nsf
 www:
   url: 
   github: 
