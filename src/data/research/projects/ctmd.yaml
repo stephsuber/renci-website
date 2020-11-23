@@ -3,7 +3,7 @@ name: Clinical Trial Management Dashboard
 email: fake@email.com
 description: >
   Clinical trials are essential to safe healthcare, but they are complex and often involve many investigators, institutions, facilities, participants, funding streams, and regulatory requirements. The clinical trial management dashboard streamlines and facilitates the management of proposals for these vital studies.
-renci_role: !markdown |
+renciRole: !markdown |
   The clinical trial management dashboard is created by RENCI in partnership with the Duke Trial Innovation Center. 
 
   The RENCI team started with an unstructured dataset representing thousands of table columns for hundreds of clinical trial proposals. The data were curated into a tractable data model, which informed the design and development of an automated pipeline for ingesting and transforming the data and making it accessible via a dashboard designed to deliver custom, advanced visualizations. This pipeline is easily adaptable as the dataset grows and contracts, while highly interactive tables, charts, diagrams, and networks enhance the dashboard’s accessibility and utility. 

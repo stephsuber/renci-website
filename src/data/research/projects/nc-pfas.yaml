@@ -3,7 +3,7 @@ name: NC PFAS Testing Network Data Science Team
 email: fake@email.com
 description: >
   RENCI co-leads the data science team for the North Carolina Per and Polyfluoroalkyl Substances Testing (PFAST) Network, an effort to assess and address environmental contamination from PFAS chemicals in the state.
-renci_role: !markdown |
+renciRole: !markdown |
   Per and polyfluoroalkyl (PFAS) substances are chemicals used in the production of non-stick surfaces, fire suppression foams, and other products and processes. After these chemicals were found in North Carolina’s Cape Fear River, the NC General Assembly allocated funds to create a research network focused on identifying PFAS in air and water across the state, understanding its potential health impacts, and informing remediation and risk communication. 
 
   RENCI co-leads the project’s data science team, which is responsible for creating the data curation and dissemination cyberinfrastructure, along with collaborators at North Carolina State University. 

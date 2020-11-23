@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: fabric.jpg
 description: >
   FABRIC is a nationwide testbed for reimagining how data can be stored, computed, and moved through shared infrastructure. This unique research infrastructure is designed to enable cutting-edge research in networking, cybersecurity, distributed computing and storage systems, machine learning, and science applications.
-renci_role: !markdown |
+renciRole: !markdown |
   As the lead institution on this $20 million project, RENCI is contributing to all aspects of [FABRIC](https://fabric-testbed.net/).
  
   FABRIC is being designed as an everywhere-programmable, nationwide instrument composed of novel extensible network elements equipped with large amounts of compute and storage, interconnected by high speed, dedicated optical links. It will connect a number of specialized testbeds (5G/IoT PAWR, NSF Clouds) and high-performance computing facilities to create a rich fabric for a wide variety of experimental activities.

@@ -3,7 +3,7 @@ name: Family Planning National Training Center for Service Delivery Improvement
 email: fake@email.com
 description: >
   RENCI develops tools to support UNC’s Family Planning National Training Center for Service Delivery Improvement project.
-renci_role: !markdown |
+renciRole: !markdown |
   The Family Planning National Training Center for Service Delivery Improvement is a project of the University of North Carolina at Chapel Hill to help grow the federally supported Title X Family Planning workforce in leading change amid complexity and uncertainty.
    
   RENCI develops tools to help the project team extract insights from a set of maps to describe the roles and needs of individual contributors and to support ongoing planning for team initiatives. One tool, System Support Mapping, structures individuals' description of their role, responsibility, needs, and resource assessments in family planning initiatives. RENCI is developing an interactive editable visualization of the System Support Maps to further enhance this tool.

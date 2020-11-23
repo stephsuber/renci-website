@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: ci-coe-pilot.jpg
 description: !markdown |
   The Cyberinfrastructure Center of Excellence (CI CoE) pilot study aims to establish a reservoir of expertise on best cyberinfrastructure practices for the nation’s largest research facilities.
-renci_role: !markdown |
+renciRole: !markdown |
   The CI CoE pilot provides leadership, expertise, and active support to cyberinfrastructure practitioners at National Science Foundation Major Facilities and throughout the research ecosystem in order to ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend. The CI CoE is a platform for knowledge sharing and community building; a partner for establishing and improving Major Facilities’ cyberinfrastructure architecture; and a forum for cyberinfrastructure sustainability, workforce development, and training.
   RENCI’s role is focused on the cyberinfrastructure requirements. This includes:
   - Understanding the infrastructures that are now in use, assessing the need for new templates for future facilities, and analyzing what has worked well or poorly in the past. 

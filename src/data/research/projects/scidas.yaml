@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: scidas.jpg
 description: !markdown |
   Scientists use numerous tools and resources to access and analyze large data sets, but these tools can be disjointed and difficult to find. Scientific Data Analysis at Scale (SciDAS) aims to help researchers discover data, move it across networks, and take full advantage of national and international scientific resources to accelerate insights and innovation.
-renci_role: !markdown |
+renciRole: !markdown |
   RENCI leads the effort to integrate cyber tools and technologies into the Scientific Data Analysis at Scale (SciDAS) infrastructure. SciDAS is designed to support all aspects of distributed, data-driven research by integrating NSF-funded cyberinfrastructure systems into one package. 
 
   Many of these infrastructure systems were developed at RENCI, including:

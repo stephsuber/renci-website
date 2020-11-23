@@ -3,7 +3,7 @@ name: SCATE
 email: fake@email.com
 description: >
   SCATE aims to help researchers study how biological traits evolve by enabling machine-actionable semantics for comparative analyses of trait evolution.
-renci_role: !markdown |
+renciRole: !markdown |
   To help researchers recombine biological trait data, model trait evolution, and generate testable hypotheses for the drivers of trait adaptation, RENCI and its collaborators are building a centralized computational infrastructure that affords comparative analysis tools the ability to compute with morphological knowledge, through scalable online application programming interfaces (APIs). This will allow developers and users of comparative analysis tools to tap into machine reasoning-powered capabilities and data with machine-actionable semantics. RENCI leads semantic technology infrastructure development for the project.
 members:
   - jbalhoff

@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: enter.jpg
 description: !markdown |
   Enabling Network Research and the Evolution of a Next Generation Midscale Infrastructure (ENTeR) helps the computer and information science and engineering (CISE) community prepare to transition to next-generation mid-scale research infrastructure while ensuring existing research infrastructure remains available and relevant during the transition.
-renci_role: !markdown |
+renciRole: !markdown |
   [GENI](https://www.geni.net/), an open infrastructure for at-scale networking and distributed systems research and education that spans the United States, has been a primary research resource for the CISE community. As researchers transition from GENI to new platforms capable of supporting a much larger portion of the CISE community, ENTeR will update, adapt, operate, and maintain the GENI infrastructure to support novel at-scale networking research while helping to facilitate the transition to next generation mid-scale research infrastructure.
  
   GENI infrastructure is managed through ENTeR by RENCI and the University of Kentucky. Additional ENTeR collaborators include the University of Maryland, the University of Utah, and Internet2.

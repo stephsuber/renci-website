@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: iris.jpg
 description: !markdown |
   Data-driven science depends on the integrity of data and computational processes, yet unintentional errors can compromise data integrity. To keep corrupt data out of the scientific record, the Integrity Introspection for Scientific Workflows (IRIS) project will automatically detect integrity anomalies in science cyberinfrastructure.
-renci_role: !markdown |
+renciRole: !markdown |
   Scientists in many fields use National Science Foundation (NSF) national cyberinfrastructure to store, analyze, and exchange data. While most of the time everything goes as planned, failures and unintentional corruption can occur at various layers of the system software and hardware. Without tools to collect and analyze integrity-relevant data while workflows are executing, many of these errors go undetected and corrupt data becomes part of the scientific record.
    
   The IRIS project, led by RENCI, aims to help ensure the integrity of scientific workflows through an integrity introspection, correlation, and analysis framework.

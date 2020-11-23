@@ -10,7 +10,7 @@ export default ({ data, pageContext }) => {
   const { projectsYaml: {
     name,
     description,
-    renci_role,
+    renciRole,
     featuredImage,
     group,
     members,
@@ -51,7 +51,7 @@ export default ({ data, pageContext }) => {
 
         <Section title="RENCI's Role">
           <Article>
-            <Paragraph dangerouslySetInnerHTML={{ __html: renci_role }} />
+            <Paragraph dangerouslySetInnerHTML={{ __html: renciRole }} />
           </Article>
         </Section>
 
@@ -92,7 +92,7 @@ export const projectQuery = graphql`
       name
       email
       description
-      renci_role
+      renciRole
       featuredImage {
         childImageSharp {
           fluid {

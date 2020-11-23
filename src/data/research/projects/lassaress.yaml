@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: lassaress.jpg
 description: !markdown |
   LASSaRESS aims to create a low cost, self-configurable, highly flexible, mobile system that can locate oil leaks and other contaminants with minimal human intervention.
-renci_role: !markdown |
+renciRole: !markdown |
   Oil leaks cause substantial environmental damage and economic losses. LASSaRESS aims to create a smart, flexible, large-scale sensing and response service system for monitoring and management of ground, air, and waterborne contaminants. RENCI will design the cloud-based data collection, analysis, and visualization pipeline for this collaborative project with Duke University’s Pratt School of Engineering and PFT Technology, LLC. 
    
   The LASSaRESS system will collect and analyze leak source data by connecting mini-mass spectrometers through a dynamically configurable cloud computing network. Once developed, the system will be field-tested with a controlled, low-level perfluorocarbon tracer leak.

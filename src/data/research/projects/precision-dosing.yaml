@@ -4,7 +4,7 @@ email: fake@email.com
 featuredImage: precision-dosing.jpg
 description: >
   Delivering care individualized to the patient can be tricky. RENCI and its partners are using artificial intelligence to integrate innovative models, including models for dosing treatment regimens, with patient electronic health records to help inform medical decision making.
-renci_role: !markdown |
+renciRole: !markdown |
   The RENCI team is developing a physician decision support (PDS) development stack to provide decision support in the clinical environment by capturing and analyzing the information needed to individualize treatment regimens. The project aims to facilitate the delivery of precision medicine by automating risk stratification, updating model parameters as new data becomes available, providing data-driven recommendations, and helping clinicians incorporate patient feedback on their responses to treatments.
 
   The development stack will enable direct integration with electronic health record systems through Fast Healthcare Interoperability Resources (FHIR) and data mapping plugins, while also providing a permissive licensed software and API specification for easy integration of new, third-party therapeutic guidance models. This design will facilitate continuous improvement in the guidance models and their use in research, training, and clinical workflows. With administrative and research dashboards, the development stack can also serve as a testbed to simulate patient parameters and test new models in development.
