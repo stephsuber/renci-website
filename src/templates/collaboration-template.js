@@ -11,14 +11,14 @@ import { List } from '../components/list'
 export default ({ data, pageContext }) => {
     const { collaborationsYaml: {
         name,
-        members,
         description,
+        renciRole,
+        members,
         www,
         projects,
         featuredImage,
         partners,
         funding,
-        news,
     }} = data
     
     const [currentProjects, setCurrentProjects] = useState([])
@@ -35,9 +35,7 @@ export default ({ data, pageContext }) => {
         <Fragment>
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
                 <Title>{ name }</Title>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid incidunt quaerat distinctio est, inventore. Asperiores ex repudiandae quam saepe, blanditiis sed temporibus est dolore aperiam nobis? Aliquam eveniet, sit assumenda.
-                </p>
+                <Paragraph>{ description }</Paragraph>
             </Hero>
 
             <Container>
@@ -47,23 +45,6 @@ export default ({ data, pageContext }) => {
                     <Section title="RENCI's Role">
                         <Paragraph>{ description }</Paragraph>
                     </Section>
-                }
-
-                {
-                    news && (
-                        <Section title="Recent News">
-                            {
-                                news.slice(0, 2).map((article, i) => {
-                                    return (
-                                        <Fragment key={ article.id }>
-                                            <ArticlePreview article={ article } path={ article.fields.path } compact />
-                                            { i < news.length - 1 && <HorizontalRule /> }
-                                        </Fragment>
-                                    )
-                                })
-                            }
-                        </Section>
-                    )
                 }
 
                 {
@@ -124,6 +105,8 @@ export const collaborationQuery = graphql`
     query($id: String!) {
         collaborationsYaml( id: { eq: $id }) {
             name
+            description
+            renciRole
             members {
                 id
                 fullName
@@ -145,7 +128,6 @@ export const collaborationQuery = graphql`
                     }
                 }
             }
-            description
             www {
                 url
                 twitter
@@ -166,24 +148,6 @@ export const collaborationQuery = graphql`
             funding {
                 name
                 url
-            }
-            news {
-                id
-                fields {
-                    path
-                }
-                frontmatter {
-                    title
-                    publish_date(formatString: "MMMM DD, YYYY")
-                    featuredImage {
-                        childImageSharp {
-                            previewSize: fixed(width: 300, height: 300) {
-                                ...GatsbyImageSharpFixed
-                            }
-                        }
-                    }
-                }
-                excerpt(pruneLength: 500)
             }
         }
     }

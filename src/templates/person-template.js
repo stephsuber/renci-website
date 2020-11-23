@@ -10,10 +10,20 @@ import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
     const {
-        peopleYaml: { fullName, photo, title, email, phone, www, bio, groups, collaborations, teams, news, authoredNews }
+        peopleYaml: {
+            fullName,
+            photo,
+            title,
+            email,
+            phone,
+            www,
+            bio,
+            groups,
+            collaborations,
+            teams,
+        }
     } = data
     const avatar = useAvatar()
-    const allNews = [].concat(news, authoredNews).filter(n => n !== null)
 
     return (
         <Container>
@@ -59,21 +69,6 @@ export default ({ data, pageContext }) => {
                     { bio }
                 </Paragraph>
             </Section>
-
-            {
-                allNews.length > 0 && (
-                    <Section title="Recent News">
-                        {
-                            allNews.slice(0, 2).map((article, i) => (
-                                <Fragment key={ article.id }>
-                                    <ArticlePreview article={ article } path={ article.fields.path } compact />
-                                    { i < allNews.length - 1 && <HorizontalRule /> }
-                                </Fragment>
-                            ))
-                        }
-                    </Section>
-                )
-            }
 
         </Container>
     )
@@ -122,42 +117,6 @@ export const personQuery = graphql`
                 fields {
                     path
                 }
-            }
-            news {
-                id
-                fields {
-                    path
-                }
-                frontmatter {
-                    title
-                    publish_date(formatString: "MMMM DD, YYYY")
-                    featuredImage {
-                        childImageSharp {
-                            previewSize: fixed(width: 300, height: 300) {
-                                ...GatsbyImageSharpFixed
-                            }
-                        }
-                    }
-                }
-                excerpt(pruneLength: 500)
-            }
-            authoredNews {
-                id
-                fields {
-                    path
-                }
-                frontmatter {
-                    title
-                    publish_date(formatString: "MMMM DD, YYYY")
-                    featuredImage {
-                        childImageSharp {
-                            previewSize: fixed(width: 300, height: 300) {
-                                ...GatsbyImageSharpFixed
-                            }
-                        }
-                    }
-                }
-                excerpt(pruneLength: 500)
             }
         }
     }

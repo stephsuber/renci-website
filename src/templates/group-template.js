@@ -11,12 +11,12 @@ import { ContributorsList, MembersList } from '../components/contributors'
 export default ({ data, pageContext }) => {
     const { groupsYaml: {
         name,
+        description,
         members,
         partners,
         funding,
         www,
         projects,
-        news,
         featuredImage,
     }} = data
 
@@ -34,31 +34,12 @@ export default ({ data, pageContext }) => {
         <Fragment>
             <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
                 <Title>{ name }</Title>
-                <Paragraph>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid incidunt quaerat distinctio est, inventore. Asperiores ex repudiandae quam saepe, blanditiis sed temporibus est dolore aperiam nobis? Aliquam eveniet, sit assumenda.
-                </Paragraph>
+                <Paragraph>{ description }</Paragraph>
             </Hero>
 
             <Container>
                 <SocialLinks url={ www.url } twitter={ www.twitter } github={ www.github } />
 
-                {
-                    news && (
-                        <Section title="News">
-                            {
-                                news.slice(0, 2).map((article, i) => {
-                                    return (
-                                        <Fragment key={ article.id }>
-                                        <ArticlePreview article={ article } path={ article.fields.path } compact />
-                                            { i < news.length - 1 && <HorizontalRule /> }
-                                        </Fragment>
-                                    )
-                                })
-                            }
-                        </Section>
-                    )
-                }
-                
                 {
                     projects && (
                         <Section title="Projects">
@@ -119,6 +100,7 @@ export const groupQuery = graphql`
         groupsYaml( id: { eq: $id }) {
             id
             name
+            description
             featuredImage {
                 childImageSharp {
                     fluid {
@@ -163,24 +145,6 @@ export const groupQuery = graphql`
                 fields {
                     path
                 }
-            }
-            news {
-                id
-                fields {
-                    path
-                }
-                frontmatter {
-                    title
-                    publish_date(formatString: "MMMM DD, YYYY")
-                    featuredImage {
-                        childImageSharp {
-                            previewSize: fixed(width: 300, height: 300) {
-                                ...GatsbyImageSharpFixed
-                            }
-                        }
-                    }
-                }
-                excerpt(pruneLength: 500)
             }
         }
     }
