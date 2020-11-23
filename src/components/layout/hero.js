@@ -42,6 +42,14 @@ const Wrapper = styled.div(({ theme, backgroundColor }) => `
   // width: 1400px;
   // margin: auto;
   background-color: ${ backgroundColor };
+  background-image: linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
+  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
+  linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
+  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
+  linear-gradient(60deg, ${ theme.color.renciBlue } 25%, transparent 25.5%, transparent 75%, ${ theme.color.renciBlue } 75%, ${ theme.color.renciBlue }), 
+  linear-gradient(60deg, ${ theme.color.renciBlue } 25%, transparent 25.5%, transparent 75%, ${ theme.color.renciBlue } 75%, ${ theme.color.renciBlue });
+  background-size:40px 70px;
+  background-position: 0 0, 0 0, 20px 35px, 20px 35px, 0 0, 20px 35px;
 `)
 
 export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children }) => {
