@@ -74,6 +74,6 @@ Hero.propTypes = {
 }
 
 Hero.defaultProps = {
-  backgroundColor: '#eee',
+  backgroundColor: '#334',
   overlayColor: '#fff',
 }
