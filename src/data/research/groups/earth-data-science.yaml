@@ -2,7 +2,8 @@ id: earth-data-science
 name: Earth Data Science
 email: fake@email.com
 featuredImage: earth-data-science.jpg
-description: this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science. this is a brief description of earth data science.  
+description: >
+  RENCI catalyzes data-driven discoveries in Earth science. Our nationally-recognized subject matter experts lead and contribute to projects that advance fundamental science and inform decision making in areas such as natural disasters, water, oceans, climate, and weather.  
 members:
   - bblanton
   - clenhardt

@@ -1,6 +1,7 @@
 id: nrig
 name: Networking Research Infrastructure Group
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: >
+  RENCI creates cyberinfrastructure solutions that enhance scientific research. With expertise in networking, architectures, distributed systems, and applications, our work enables secure and efficient collaboration and data management for cutting-edge computer science and data-intensive domain research.
 featuredImage: nrig.jpg
 members:
   - ibaldin
