@@ -2,7 +2,8 @@ import React from 'react'
 import { SEO } from '../components/seo'
 import { Container, Article, Section } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
-import { ArrowLink } from '../components/link'
+import { ArrowLink, Link } from '../components/link'
+import { List } from '../components/list'
 import { useOrganizations } from '../hooks'
 import { ContributorsList } from '../components/contributors'
 
@@ -19,8 +20,12 @@ const AboutPage = () => {
             </Paragraph>
 
             <Section title="Overview">
-                <Article title="What We Do">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, sequi quia, eaque reiciendis officiis, velit hic voluptates omnis dolorem vel, porro maiores quisquam. Quam quod atque ut ea porro. Autem natus aliquam repellat beatae at excepturi unde tempore modi aspernatur.
+                <Article title="We Do Data Science">
+                    <Paragraph>
+                      Every sector of society is undergoing a historic transformation driven by big data.
+                      RENCI is committed to transforming data into discoveries by partnering with leading universities, government, and the private sector
+                      to create tools and technologies that facilitate data access, sharing, analysis, management, and archiving. 
+                    </Paragraph>
                 </Article>
 
                 <Article title="How We Do It">

@@ -5,6 +5,7 @@ import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArticlePreview } from '../components/news'
 import { ContributorsList, MembersList } from '../components/contributors'
+import { Link } from '../components/link'
 
 export default ({ data, pageContext }) => {
   const { projectsYaml: {
@@ -23,7 +24,7 @@ export default ({ data, pageContext }) => {
   return (
     <Fragment>
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
-        <strong>{ group && group[0].name }</strong>
+        { group[0] && <Link to={ group[0].fields.path }>{ group[0].name }</Link> }
         <Title>{ name }</Title>
         <Paragraph dangerouslySetInnerHTML={{ __html: description }} />
       </Hero>
