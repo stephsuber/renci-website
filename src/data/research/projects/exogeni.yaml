@@ -2,10 +2,10 @@ id: exogeni
 name: ExoGENI
 email: fake@email.comv
 featuredImage: exogeni.jpg
-description: !markdown |
-  [ExoGENI](http://www.exogeni.net/) is part of the Global Environment for Network Innovations (GENI) federated testbed. By linking GENI to open cloud computing and dynamic circuit fabrics, ExoGENI provides an ideal platform for experimentation in advanced networking and networked cloud computing.
+description: >
+  ExoGENI is part of the Global Environment for Network Innovations (GENI) federated testbed. By linking GENI to open cloud computing and dynamic circuit fabrics, ExoGENI provides an ideal platform for experimentation in advanced networking and networked cloud computing.
 renciRole: !markdown |
-  The RENCI team led the development of ExoGENI in collaboration with Duke University and IBM.
+  The RENCI team led the development of [ExoGENI](http://www.exogeni.net/) in collaboration with Duke University and IBM.
 
   ExoGENI orchestrates a federation of independent cloud sites located across the U.S. and circuit providers, linking them to other GENI tools and resources. Individual ExoGENI deployments consist of cloud site "racks" on host campuses, linked with national research networks through programmable exchange points.
    

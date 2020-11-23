@@ -2,8 +2,8 @@ id: acis
 name: Advanced Cyberinfrastructure Support
 description: Advanced Cyberinfrastructure Support
 featuredImage: null
-lead: msliwowski
 members:
+  - msliwowski
   - rjones
   - cdickens
   - lleathers

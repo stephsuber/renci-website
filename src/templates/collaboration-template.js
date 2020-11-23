@@ -43,7 +43,7 @@ export default ({ data, pageContext }) => {
                 
                 {
                     <Section title="RENCI's Role">
-                        <Paragraph>{ description }</Paragraph>
+                        <Paragraph dangerouslySetInnerHTML={{ __html: renciRole }} />
                     </Section>
                 }
 
@@ -107,6 +107,11 @@ export const collaborationQuery = graphql`
             name
             description
             renciRole
+            www {
+                url
+                twitter
+                github
+            }
             members {
                 id
                 fullName
@@ -128,10 +133,13 @@ export const collaborationQuery = graphql`
                     }
                 }
             }
-            www {
+            partners {
+                name
                 url
-                twitter
-                github
+            }
+            funding {
+                name
+                url
             }
             projects {
                 id
@@ -140,14 +148,6 @@ export const collaborationQuery = graphql`
                 fields {
                     path
                 }
-            }
-            partners {
-                name
-                url
-            }
-            funding {
-                name
-                url
             }
         }
     }

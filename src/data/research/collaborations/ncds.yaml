@@ -1,12 +1,32 @@
 id: ncds
 name: National Consortium for Data Science
-description: data science consortium national data science consortium national data science consortium national 
-lead:
-  - smckeen
+description: >
+  The NCDS connects diverse communities of data science experts to support a 21st century data-driven economy by
+  building data science career pathways and creating a data-literate workforce,
+  bridging the gap between data scientists in the public and private sectors, and
+  supporting open and democratized data
+renciRole: !markdown |
+  RENCI played a lead role in establishing the NCDS in 2012 and is one of the founding members. We continue to lead and contribute to a variety of NCDS programs and initiatives:
+
+  - NCDS Career Events provide exposure and opportunities for students of all degree levels to Data Analytics and Data Science careers.   
+  - The [Data Matters](/projects/data-matters) Short Course Series helps scientists, business managers, and government officials better understand the field of data science and provides practical skills to apply in their organizations.
+  - The Data Economy is collaboration with the North Carolina Board of Science, Technology and Innovation to understand and support the role of Data Science in driving economic development.
 members:
+  - sahalt
   - smckeen
   - dcarsey
-  - ssuber
+  - akrishnamurthy
+  - subers
+  - amiller
+  - clenhardt
+partners:
+  - nc-state-university
+  - renci
+  - rti-international
+  - unc-charlotte
+  - unc-greensboro
+funding:
+  - nsf
 projects:
   - data-matters
 www:

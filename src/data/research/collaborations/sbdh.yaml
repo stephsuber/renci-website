@@ -1,12 +1,19 @@
 id: sbdh
 name: South Big Data Hub
-description: south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details south big data hub details 
-lead:
-  - ssuber
+description: >
+  The South Big Data Regional Innovation Hub (South Hub) is one of four Big Data Regional Innovation Hubs established in 2015 by the NSF. Run jointly by Georgia Tech and RENCI, the South Hub builds public-private partnerships to address data science challenges specific to the US South. 
+renciRole: !markdown |
+  In partnership with Georgia Tech, RENCI leverages its expertise in software development, data management, outreach, and project management to support data science collaboration across the South Region - and to coordinate nationally with the other three NSF-funded big data hubs.
+
+  South Hub focus areas are: data science education and workforce; data sharing and cyberinfrastructure; health and health disparities; materials and advanced manufacturing; smart communities; and social cybersecurity.
 members:
-  - ssuber
-  - dcarsey
-  - ssuber
+  - sahalt
+  - subers
+  - jzollars
+partners:
+  - ga-tech
+funding:
+  - nsf
 www:
   url: https://southbigdatahub.org/
   github: 

@@ -89,6 +89,11 @@ export const projectQuery = graphql`
           path
         }
       }
+      www {
+        url
+        twitter
+        github
+      }
       members {
         id
         fullName
@@ -103,20 +108,15 @@ export const projectQuery = graphql`
           }
         }
       }
-      funding {
-        id
-        name
-        url
-      }
       partners {
         id
         name
         url
       }
-      www {
+      funding {
+        id
+        name
         url
-        twitter
-        github
       }
     }
   }

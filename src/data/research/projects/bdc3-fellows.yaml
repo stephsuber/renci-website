@@ -1,7 +1,18 @@
 id: bdc3-fellows
 name: "BDC3: Fellows Program"
-description: brief description of fellows
+description: >
+  The NHLBI BioData Catalyst Fellows Program provides early-career researchers the opportunity to receive funding to support research on novel and innovative data science and data-focused research problems. The program is open to academic disciplines conducting biomedical research, particularly in heart, lung, blood, and sleep domains.
+renciRole: !markdown |
+  RENCI is responsible for developing, marketing, administering, and coordinating the [NHLBI BioData Catalyst Fellows Program](https://biodatacatalyst.nhlbi.nih.gov/fellows/program) on behalf of the BioData Catalyst Coordinating Center. 
 email: an@email.com
+members:
+  - sahalt
+  - sdavis
+  - cerdmann
+  - pkerr
+  - ppatton
+partners:
+  - nhlbi
 www:
   url: https://biodatacatalyst.nhlbi.nihgov/fellows
   github: null

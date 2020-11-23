@@ -15,7 +15,8 @@ members:
   - fjiang
   - okapeljushnik
   - ccalloway
-projects: 
+projects:
+  - secure-research-space
 www:
   url: null
   github: null

@@ -1,7 +1,6 @@
 id: hr
 name: Human Resources
 description: lorem  
-lead: jtodd
 members:
   - jtodd
   - abradfield

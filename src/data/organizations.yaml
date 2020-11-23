@@ -3,6 +3,10 @@
   id: battelle
   url: https://www.battelle.org/
 -
+  name: Broad Institute
+  id: broad-institute
+  url: https://www.broadinstitute.org/
+-
   name: California Institute of Technology
   id: caltech
   url: https://www.caltech.edu/
@@ -15,6 +19,10 @@
   id: ctci
   url: 
 -
+  name: Children's Hospital of Philadelphia
+  id: chop
+  url: https://www.chop.edu/
+-
   name: Clemson University
   id: clemson-university
   url: https://www.clemson.edu/
@@ -26,6 +34,10 @@
   name: DataWorks NC
   id: dataworks-nc
   url: https://dataworks-nc.org/
+-
+  name: Deliotte Consulting
+  id: deliotte-consulting
+  url: https://www2.deloitte.com/global/en/services/consulting-deloitte.html
 -
   name: Davidson College
   id: davidson-college
@@ -67,8 +79,12 @@
   id: ga-tech
   url: https://www.gatech.edu/
 -
- id: ibm
+  name: Harvard Medical School
+  id: harvard-medical-school
+  url: https://hms.harvard.edu/
+-
  name: IBM
+ id: ibm
  url: https://www.ibm.com/
 -
   name: iCAIR
@@ -103,9 +119,17 @@
   id: leidos-biomedical
   url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
 -
+  name: Michigan Imputation Server
+  id: michigan-imputation-server
+  ur: https://imputationserver.sph.umich.edu/index.html#!pages/home
+-
   name: National Center for Supercomputing Applications
   id: ncsa
   url: http://www.ncsa.illinois.edu/
+-
+  name: National Heart, Lung, and Blood Institute
+  id: nhlbi
+  url: https://www.nhlbi.nih.gov/
 -
   name: National Science Foundation
   id: nsf
@@ -131,6 +155,14 @@
   id: nc-general-assembly
   url: https://www.ncleg.gov/
 -
+  name: NC TraCS
+  id: nc-tracs
+  url: https://tracs.unc.edu/
+-
+  name: NIH Office of Data Science Strategy
+  id: nih-odss
+  url: https://datascience.nih.gov/about/odss
+-
   name: NIH National Human Genome Research Institute
   id: nih-nhgri
   url: https://www.genome.gov/
@@ -138,6 +170,10 @@
   name: NIH National Cancer Institute
   id: nih-nci
   url: https://www.cancer.gov/
+-
+  name: NHLBI Informatics Research Center
+  id: nhlbi-irc
+  url: https://www.nhlbiwgs.org/group/irc
 -
   name: Northwestern University
   id: northwestern-university
@@ -167,6 +203,10 @@
   id: renci
   url: https://www.renci.org/
 -
+  name: RTI International
+  id: rti-international
+  url: https://www.rti.org/
+-
   name: Rutgers University
   id: rutgers-university
   url: http://www.rutgers.edu/
@@ -183,9 +223,17 @@
   id: stanford-university
   url: https://www.stanford.edu/
 -
+  name: Seven Bridges Genomics, Inc.
+  id: seven-bridges
+  url: https://www.sevenbridges.com/
+-
   name: Texas Advanced Computing Center
   id: tacc
   url: https://www.tacc.utexas.edu/
+-
+  name: TOPMed Data Coordinating Center
+  id: topmed
+  url: https://www.nhlbiwgs.org/group/dcc
 -
   name: Trial Innovation Network
   id: trial-innovation-network
@@ -202,6 +250,10 @@
   name: U.S. Department of Health and Human Services
   id: us-dhhs
   urll: https://www.hhs.gov/
+-
+  name: US Department of Veterans Affairs
+  id: us-va
+  url: https://www.va.gov/
 -
   name: US Ignite
   id: us-ignite
@@ -235,6 +287,18 @@
   id: umass-amherst
   url: https://www.umass.edu/
 -
+  name: University of North Carolina at Chapel Hill
+  id: unc
+  url: https://www.unc.edu/
+-
+  name: University of North Carolina Charlotte
+  id: unc-charlotte
+  url: https://www.uncc.edu/
+-
+  name: University of North Carolina Greensboro
+  id: unc-greensboro
+  url: https://www.uncg.edu/
+-
   name: University of North Carolina at Chapel Hill Department of Biology
   id: unc-biology
   url: https://bio.unc.edu/
@@ -242,6 +306,10 @@
   name: University of North Carolina at Chapel Hill Department of Genetics
   id: unc-genetics
   url: https://www.med.unc.edu/genetics/
+-
+  name: University of North Carolina at Chapel Hill Hospitals
+  id: unc-hospitals
+  url: http://www.unchealthcare.org/site
 -
   name: University of North Carolina at Chapel Hill Department of Geography
   id: unc-geography
@@ -254,6 +322,10 @@
   name: University of North Carolina at Chapel Hill Department of Psychiatry
   id: unc-psychiatry
   url: https://www.med.unc.edu/psych/
+-
+  name: University of North Carolina at Chapel Hill School of Information and Library Science
+  id: unc-sils
+  url: http://sils.unc.edu/
 -
   name: University of North Carolina Eshelman Institute of Innovation
   id: unc-eii
@@ -270,6 +342,10 @@
   name: University of North Carolina at Chapel Hill Gillings School of Public Health
   id: unc-sph
   url: https://sph.unc.edu/
+-
+  name: University of North Carolina at Chapel Hill Research Computing
+  id: unc-its-research-computing
+  url: https://its.unc.edu/research-computing/
 -
   name: University of Notre Dame
   id: university-of-notre-dame
@@ -291,9 +367,13 @@
   id: uva
   url: https://www.virginia.edu/
 -
-  name: UC San Diego
+  name: University of California San Diego
   id: ucsd
   url: https://www.ucsd.edu/
+-
+  name: University of Santa Cruz
+  id: uc-santa-cruz
+  url: https://www.ucsc.edu/
 -
   name: University of Southern California Information Sciences Institute
   id: usc-isi
@@ -306,6 +386,10 @@
   name: University of Washington
   id: university-of-washington
   url: http://www.washington.edu/
+-
+  name: Vanderbilt University Medical Center
+  id: vumc
+  url: https://www.vumc.org/
 -
   name: Virginia Polytechnic Institute and State University
   id: virginia-tech
