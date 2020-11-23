@@ -24,7 +24,9 @@ const LettersMenu = styled.nav(({ theme }) => `
 
 const LetterLink = styled.a(({ theme }) => `
     text-decoration: none;
-    padding: 0.25rem 0.5rem;
+    padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
+    min-width: 2rem;
+    text-align: center;
     border-radius 4px;
     transition: background-color 250ms, color 250ms;
     &:hover {
