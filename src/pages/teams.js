@@ -3,11 +3,10 @@ import { SEO } from '../components/seo'
 import { Container, Section, Hero, Article } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { ArrowLink } from '../components/link'
-import { useCollaborations, useTeams } from '../hooks'
+import { useTeams } from '../hooks'
 
 const TeamsPage = () => {
     const teams = useTeams()
-    const collaborations = useCollaborations()
 
     return (
         <Fragment>

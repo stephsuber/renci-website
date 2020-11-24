@@ -1,8 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Container, Article, Section, Hero, HorizontalRule } from '../layout'
-import { Title, Paragraph } from '../typography'
-import { SocialLinks } from '../social-links'
 import { MiniProfile } from '../people'
 import { useAvatar } from '../../hooks'
 

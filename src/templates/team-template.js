@@ -2,7 +2,6 @@ import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
-import { ArrowLink } from '../components/link'
 import { MembersList } from '../components/contributors'
 
 export default ({ data, pageContext }) => {

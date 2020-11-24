@@ -1,10 +1,9 @@
 import React, { Fragment, useEffect, useState } from 'react'
 import { graphql } from 'gatsby'
-import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
+import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
-import { ArticlePreview } from '../components/news'
 import { ContributorsList, MembersList } from '../components/contributors'
 import { List } from '../components/list'
 

@@ -28,7 +28,7 @@ const NewsPage = () => {
         } else {
             setFilteredNews(articles)
         }
-    }, [groupId, projectId])
+    }, [articles, groupId, projectId])
 
     return (
         <Container className="container">

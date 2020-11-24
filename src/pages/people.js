@@ -2,7 +2,7 @@ import React, { useEffect } from "react"
 import { SEO } from '../components/seo'
 import { usePeople } from '../hooks'
 import { Container, Section } from '../components/layout'
-import { Title, Paragraph } from '../components/typography'
+import { Title } from '../components/typography'
 import { StaffList } from '../components/people'
 
 const PeoplePage = () => {

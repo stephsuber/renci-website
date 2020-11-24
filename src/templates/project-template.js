@@ -1,9 +1,8 @@
 import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
-import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
+import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
-import { ArticlePreview } from '../components/news'
 import { ContributorsList, MembersList } from '../components/contributors'
 import { Link } from '../components/link'
 
@@ -17,7 +16,6 @@ export default ({ data, pageContext }) => {
     members,
     partners,
     funding,
-    email,
     www,
   }} = data
   

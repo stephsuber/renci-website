@@ -31,7 +31,7 @@ const SearchInput = styled(TextInput)`
 export const NewsFilterForm = ({ groupId, projectId, changeGroupHandler, changeProjectHandler }) => {
     const groups = useGroups()
     const projects = useProjects()
-    const [formState, { text, select }] = useFormState()
+    const [, { text, select }] = useFormState()
     const groupOptions = groups.map(group => ({ value: group.id, label: group.name }))
     const projectOptions = projects.map(project => ({ value: project.id, label: project.name }))
 
