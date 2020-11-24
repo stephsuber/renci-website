@@ -2,8 +2,8 @@ id: impact
 name: ImPACT
 email: fake@email.com
 featuredImage: impact.jpg
-description: !markdown |
-  Infrastructure for Privacy-Assured CompuTations ([ImPACT](https://cyberimpact.us/)) enables scientists to share and analyze data across institutional boundaries while keeping data safe and in regulatory compliance.
+description: >
+  ImPACT &mdash; Infrastructure for Privacy-Assured CompuTations &mdash; enables scientists to share and analyze data across institutional boundaries while keeping data safe and in regulatory compliance.
 renciRole: !markdown |
   Scientific progress requires multi-institutional and cross-disciplinary sharing and analysis of data. [ImPACT](https://cyberimpact.us/) aims to help researchers spend less time thinking about security and more time advancing science by lowering the barriers that impede researchers from using privacy-restricted data in collaborative settings.  
 
