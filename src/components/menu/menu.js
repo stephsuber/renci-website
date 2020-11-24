@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import { IconButton } from '../buttons'
 import { MagnifyingGlassIcon } from '../icons'
 import { Tray } from './tray'
+import { ChevronDownIcon } from '../icons'
 
 export const Navigation = styled.nav`
     display: flex;
@@ -79,7 +80,7 @@ export const Menu = ({ items, dark }) => {
                         onMouseEnter={ handleOpenTray } onMouseLeave={ handleCloseTray }
                         onFocus={ handleOpenTray } onBlur={ handleCloseTray }
                     >
-                        <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }</MenuLink>
+                        <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }&nbsp;<ChevronDownIcon size={ 16 } fill={ theme.color.darkgrey } /></MenuLink>
                         { trayOpen && <Tray onClick={ handleCloseTray }>{ React.createElement(item.submenu) }</Tray> }
                     </MenuItem>
                 ) : (
