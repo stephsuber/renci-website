@@ -30,6 +30,11 @@ exports.createSchemaCustomization = ({ actions }) => {
             groups: [GroupsYaml] @link(by: "members.id", from: "id")
             collaborations: [CollaborationsYaml] @link(by: "members.id", from: "id")
         }
+        type OrganizationsYaml implements Node {
+            id: ID!
+            name: String!
+            url: String!
+        }
     `
     createTypes(typeDefs)
 }
