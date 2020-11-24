@@ -14,7 +14,7 @@ projects:
   - storm-surge-forecasting
   - coastal-probabilistic-hazard-analysis
   - coupling-flood-models
-  - evac-mod
+  - evacuation-modeling
   - galapagos-science-center
   - nc-pfas
   - rapid

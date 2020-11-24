@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.ul(({ theme, bullets }) => `
   padding: 0;
-  margin: ${ theme.spacing.medium } 0;
+  margin: ${ theme.spacing.small } 0;
   list-style-type: ${ bullets };
 `)
 

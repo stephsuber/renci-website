@@ -16,6 +16,7 @@ members:
   - jbalhoff
 projects:
   - brain-i
+  - cell-cycle
   - cellfie
   - ccdh
   - chemotext2

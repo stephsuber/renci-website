@@ -1,5 +1,5 @@
 id: systems
-name: Systems
+name: Software Systems Architecture
 description: systems systems systems systems systems 
 featuredImage: null
 members:
@@ -9,7 +9,7 @@ members:
   - mshoffner
   - mkothapalli
   - amukherjee
-  - igilano
+  - igilani
   - mrajarikam
   - dsikes
   - fjiang
