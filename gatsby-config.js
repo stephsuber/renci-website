@@ -71,6 +71,8 @@ module.exports = {
         "TeamsYaml.lead": `PeopleYaml`, // Link team leads to person
         // GROUPS
         "GroupsYaml.members": `PeopleYaml`, // Link group members to people
+        "GroupsYaml.partners": `OrganizationsYaml`, // Link group partners to organizations
+        "GroupsYaml.funding": `OrganizationsYaml`, // Link group funders to organizations
         "GroupsYaml.projects": `ProjectsYaml`, // Show projects in full for group queries
         // COLLABORATIONS
         "CollaborationsYaml.members": `PeopleYaml`, // Link collaboration members to people
