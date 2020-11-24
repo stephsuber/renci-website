@@ -24,7 +24,8 @@ export default ({ data, pageContext }) => {
     }
   } = data
   const avatar = useAvatar()
-  const activities = [...groups, ...collaborations, ...teams].sort((a, b) => a.name > b.name)
+  const contributions = [].concat(groups || [], collaborations || [], teams || [])
+    .sort((a, b) => a.name > b.name)
 
   return (
     <Container>
@@ -40,7 +41,7 @@ export default ({ data, pageContext }) => {
       />
 
       <Section title="Contributions">
-        { activities && <List items={ activities.map(activity => <ArrowLink key={ activity.id } to={ activity.fields.path } text={ activity.name } />) } /> }
+        { contributions && <List items={ contributions.map(contribution => <ArrowLink key={ contribution.id } to={ contribution.fields.path } text={ contribution.name } />) } /> }
       </Section>
 
       <Section title="About">
