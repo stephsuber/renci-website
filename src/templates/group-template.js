@@ -45,7 +45,7 @@ export default ({ data, pageContext }) => {
                         <Section title="Projects">
                             {
                                 currentProjects.length > 0 && (
-                                    <Article title="Current Projects">
+                                    <Article>
                                         <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
                                     </Article>
                                 )
