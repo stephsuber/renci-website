@@ -31,22 +31,11 @@ partners:
   - unc-ims
   - us-army-corps-of-engineers
 funding: 
-  -
-    name: National Science Foundation
-    url: https://www.nsf.gov/
-  -
-    name: NOAA/NHC
-    url: http://www.noaa.gov/
-  -
-    name: Department of Homeland Security/Office of University Programs
-    url: https://www.dhs.gov/
-  -
-    name: State of North Carolina
-    url: http://www.nc.gov/
-  -
-    name: FEMA
-    url: http://www.fema.gov/
-
+  - nsf
+  - noaa
+  - us-dhs
+  - north-carolina
+  - fema
 www:
   url: https://eds.renci.org/
   github: 

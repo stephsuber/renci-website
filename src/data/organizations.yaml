@@ -71,6 +71,10 @@
   id: hhs-opa
   url: https://opa.hhs.gov/
 -
+  name: FEMA
+  id: fema
+  url: http://www.fema.gov/
+-
   name: Florida International University
   id: fiu
   url: https://www.fiu.edu/
@@ -125,7 +129,7 @@
 -
   name: Michigan Imputation Server
   id: michigan-imputation-server
-  ur: https://imputationserver.sph.umich.edu/index.html#!pages/home
+  url: https://imputationserver.sph.umich.edu/index.html#!pages/home
 -
   name: National Center for Supercomputing Applications
   id: ncsa
@@ -253,7 +257,7 @@
 -
   name: U.S. Department of Health and Human Services
   id: us-dhhs
-  urll: https://www.hhs.gov/
+  url: https://www.hhs.gov/
 -
   name: US Department of Veterans Affairs
   id: us-va
@@ -430,3 +434,7 @@
   name: US Army Corps of Engineers
   id: us-army-corps-of-engineers
   url: http://www.usace.army.mil/
+-
+  name: State of North Carolina
+  id: north-carolina
+  url: http://www.nc.gov/
