@@ -1,4 +1,8 @@
 -
+  name: Argonne National Labs
+  id: argonne-national-labs
+  url: https://www.anl.gov/
+-
   name: Battelle Memorial Institute
   id: battelle
   url: https://www.battelle.org/
@@ -394,3 +398,35 @@
   name: Virginia Polytechnic Institute and State University
   id: virginia-tech
   url: https://vt.edu/
+-
+  name: Cornell University
+  id: cornell-university
+  url: https://www.cornell.edu/
+-
+  name: University of Delaware
+  id: university-of-delaware
+  url: https://www.udel.edu/
+-
+  name: Stony Brook University
+  id: stonybrook-university
+  url: http://www.stonybrook.edu/
+-
+  name: University of Oklahoma
+  id: university-of-oklahoma
+  url: https://www.ou.edu/
+-
+  name: Coastal Resilience Center
+  id: coastal-resilience-center
+  url: http://coastalresiliencecenter.unc.edu/
+-
+  name: NC Division of Emergency Management
+  id: nc-division-of-emergency-management
+  url: https://www.ncdps.gov/Index2.cfm?a=000003,000010
+-
+  name: University of North Carolina at Chapel Hill Institute for Marine Sciences
+  id: unc-ims
+  url: http://ims.unc.edu/
+-
+  name: US Army Corps of Engineers
+  id: us-army-corps-of-engineers
+  url: http://www.usace.army.mil/
