@@ -19,6 +19,7 @@ const Content = styled.div(({ theme }) => `
   max-width: 1200px;
   margin: 0 auto;
   background-color: transparent;
+  letter-spacing: 1px;
   & a {
     color: ${ theme.color.white };
     text-decoration-color: ${ theme.color.white };
