@@ -1,7 +1,8 @@
 import React from 'react'
-import styled from 'styled-components'
-import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import { Subheading } from '../typography'
+import { Link } from 'gatsby'
 
 const Wrapper = styled.article(({ theme }) => `
   padding: 0 0 ${ theme.spacing.medium } 0;
@@ -11,10 +12,10 @@ const Wrapper = styled.article(({ theme }) => `
   }
 `)
 
-const Header = styled.h3`
-  font-weight: bold;
-  // text-transform: uppercase;
+const Header = styled(Subheading)`
   margin: 0;
+  padding: 0;
+  font-weight: normal;
   line-height: 1.25;
 `
 
@@ -23,13 +24,10 @@ const Body = styled.div``
 export const Article = ({ title, titleLink, children }) => {
   return (
     <Wrapper>
-      {
-        titleLink
-        ? <Header><Link to={ titleLink }>{title}</Link></Header>
-        : <Header>{title}</Header>
-      }
+      { title && titleLink && <Header><Link to={ titleLink }>{title}</Link></Header> }
+      { title && !titleLink && <Header>{title}</Header> }
       <Body>
-        {children}
+        { children }
       </Body>
     </Wrapper>
   )

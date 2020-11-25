@@ -5,9 +5,10 @@ import { Heading } from '../typography'
 
 const Header = styled(Heading)(({ theme }) => `
   flex: 3;
-  @media (min-width: 992px) { text-align: right; }
   margin: 0;
-  padding: ${ theme.spacing.medium } 0;
+  padding: 0;
+  line-height: 1.25;
+  @media (min-width: 992px) { text-align: right; }
   @media (min-width: 992px) {
     padding: 0 1rem;
   }
@@ -16,7 +17,7 @@ const Header = styled(Heading)(({ theme }) => `
 const Wrapper = styled.section(({ theme, fullWidth }) => `
   width: 100%;
   &:not(:first-child) {
-    border-top: 2px solid ${ theme.color.lightgrey };
+    border-top: 1px solid ${ theme.color.lightgrey };
   }
   margin: 1rem auto;
   padding: ${ theme.spacing.large };
