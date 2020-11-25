@@ -47,6 +47,27 @@ export default ({ data, pageContext }) => {
                 }
 
                 {
+                    projects && (
+                        <Section title="Projects">
+                            {
+                                currentProjects.length > 0 && (
+                                    <Article>
+                                        <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
+                                    </Article>
+                                )
+                            }
+                            {
+                                pastProjects.length > 0 && (
+                                    <Article title="Past Projects">
+                                        <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
+                                    </Article>
+                                )
+                            }
+                        </Section>
+                    )
+                }
+
+                {
                     (members || partners || funding) && (
                         <Section title="Contributors">
                             {
@@ -74,27 +95,6 @@ export default ({ data, pageContext }) => {
                     )
                 }
                 
-                {
-                    projects && (
-                        <Section title="Projects">
-                            {
-                                currentProjects.length > 0 && (
-                                    <Article>
-                                        <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
-                                    </Article>
-                                )
-                            }
-                            {
-                                pastProjects.length > 0 && (
-                                    <Article title="Past Projects">
-                                        <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
-                                    </Article>
-                                )
-                            }
-                        </Section>
-                    )
-                }
-
             </Container>
         </Fragment>
     )
