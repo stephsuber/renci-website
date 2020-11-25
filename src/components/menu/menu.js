@@ -80,7 +80,7 @@ export const Menu = ({ items, dark }) => {
                         onMouseEnter={ handleOpenTray } onMouseLeave={ handleCloseTray }
                         onFocus={ handleOpenTray } onBlur={ handleCloseTray }
                     >
-                        <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }&nbsp;<ChevronDownIcon size={ 16 } fill={ theme.color.darkgrey } /></MenuLink>
+                        <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }&nbsp;<ChevronDownIcon size={ 16 } fill={ dark ? theme.color.white : theme.color.darkgrey } /></MenuLink>
                         { trayOpen && <Tray onClick={ handleCloseTray }>{ React.createElement(item.submenu) }</Tray> }
                     </MenuItem>
                 ) : (
