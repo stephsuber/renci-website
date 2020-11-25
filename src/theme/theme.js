@@ -4,8 +4,8 @@ export const theme = {
         renciBlue: '#00758d',
         primary: {
             light: '#ccc',
-            main: '#999',
-            dark: '#666',
+            main: '#666',
+            dark: '#333',
         },
         extended: {
             moss: '#5e9b8b',
