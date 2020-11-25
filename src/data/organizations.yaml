@@ -1,440 +1,332 @@
--
-  name: Argonne National Labs
+- name: Argonne National Labs
   id: argonne-national-labs
   url: https://www.anl.gov/
--
-  name: Battelle Memorial Institute
+- name: Battelle Memorial Institute
   id: battelle
   url: https://www.battelle.org/
--
-  name: Broad Institute
+- name: Broad Institute
   id: broad-institute
   url: https://www.broadinstitute.org/
--
-  name: California Institute of Technology
+- name: California Institute of Technology
   id: caltech
   url: https://www.caltech.edu/
--
-  name: Center for Applied Cybersecurity Research, Indiana University
+- name: Center for Applied Cybersecurity Research, Indiana University
   id: indiana-cacr
   url: https://cacr.iu.edu/
--
-  name: Center for Trustworthy Cybersecurity Infrastructure
+- name: Center for Trustworthy Cybersecurity Infrastructure
   id: ctci
   url: https://trustedci.org/
--
-  name: Children's Hospital of Philadelphia
+- name: Children's Hospital of Philadelphia
   id: chop
   url: https://www.chop.edu/
--
-  name: Clemson University
+- name: Clemson University
   id: clemson-university
   url: https://www.clemson.edu/
--
-  name: Columbia University
-  id: columbia-uniersity
-  url: http://www.columbia.edu/
--
-  name: DataWorks NC
-  id: dataworks-nc
-  url: https://dataworks-nc.org/
--
-  name: Deliotte Consulting
-  id: deliotte-consulting
-  url: https://www2.deloitte.com/global/en/services/consulting-deloitte.html
--
-  name: Davidson College
-  id: davidson-college
-  url: https://www.davidson.edu/
--
-  name: Duke University
-  id: duke-university
-  url: https://duke.edu/
--
-  name: Duke University Computer Science
-  id: duke-cs
-  url: http://www.cs.duke.edu/
--
-  name: Duke University Office of Information Technology
-  id: duke-oit
-  url: https://oit.duke.edu/
--
-  name: Duke University Social Science Research Institute
-  id: duke-ssri
-  url: https://ssri.duke.edu/  
--
-  name: ESnet
-  id: esnet
-  url: https://www.eset.com/
--
-  name: Federal Office of Population Affairs, U.S. Department of Health and Human Services
-  id: hhs-opa
-  url: https://opa.hhs.gov/
--
-  name: FEMA
-  id: fema
-  url: http://www.fema.gov/
--
-  name: Florida International University
-  id: fiu
-  url: https://www.fiu.edu/
--
-  name: GENI Project Office
-  id: geni-project-office
-  url: https://www.geni.com/projects
--
-  name: Georgia Institute of Technology
-  id: ga-tech
-  url: https://www.gatech.edu/
--
-  name: Harvard Medical School
-  id: harvard-medical-school
-  url: https://hms.harvard.edu/
--
- name: IBM
- id: ibm
- url: https://www.ibm.com/
--
-  name: iCAIR
-  id: icair
-  url: https://icair.ac.uk/
--
-  name: Illinois Institute of Technology
-  id: iit
-  url: https://www.iit.edu/
--
-  name: Internet2
-  id: internet2
-  url: https://internet2.edu/
--
-  name: Indiana University
-  id: indiana-university
-  url: https://www.iu.edu/
--
-  name: Jackson Laboratory
-  id: jackson-laboratory
-  url: https://www.jax.org/
--
-  name: Johns Hopkins University
-  id: johns-hopkins-university
-  url: https://www.jhu.edu/
--
-  name: Lawrence Berkeley National Laboratory
-  id: lbnl
-  url: https://www.lbl.gov/
--
-  name: Leidos Biomedical
-  id: leidos-biomedical
-  url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
--
-  name: Michigan Imputation Server
-  id: michigan-imputation-server
-  url: https://imputationserver.sph.umich.edu/index.html#!pages/home
--
-  name: National Center for Supercomputing Applications
-  id: ncsa
-  url: http://www.ncsa.illinois.edu/
--
-  name: National Heart, Lung, and Blood Institute
-  id: nhlbi
-  url: https://www.nhlbi.nih.gov/
--
-  name: National Science Foundation
-  id: nsf
-  url: https://www.nsf.gov/
--
-  name: North Carolina State University
-  id: nc-state-university
-  url: https://www.ncsu.edu/
--
-  name: North Carolina State University Center for Geospatial Analytics
-  id: ncsu-geospatial
-  url: https://cnr.ncsu.edu/geospatial/
--
-  name: National Institutes of Health
-  id: nih
-  url: https://www.nih.gov/
--
-  name: National Oceanic and Atmospheric Administration
-  id: noaa
-  url: https://www.noaa.gov/
--
-  name: NC General Assembly
-  id: nc-general-assembly
-  url: https://www.ncleg.gov/
--
-  name: NC TraCS
-  id: nc-tracs
-  url: https://tracs.unc.edu/
--
-  name: NIH Office of Data Science Strategy
-  id: nih-odss
-  url: https://datascience.nih.gov/about/odss
--
-  name: NIH National Human Genome Research Institute
-  id: nih-nhgri
-  url: https://www.genome.gov/
--
-  name: NIH National Cancer Institute
-  id: nih-nci
-  url: https://www.cancer.gov/
--
-  name: NHLBI Informatics Research Center
-  id: nhlbi-irc
-  url: https://www.nhlbiwgs.org/group/irc
--
-  name: Northwestern University
-  id: northwestern-university
-  url: https://www.northwestern.edu/
--
-  name: Oak Ridge National Laboratory
-  id: ornl
-  url: https://www.ornl.gov/
--
-  name: The Odum Institute for Research in Social Science
-  id: odum-institute
-  url: https://odum.unc.edu/
--
-  name: Oregon Health Sciences University
-  id: oregon-hsu
-  url: https://www.ohsu.edu/
--
-  name: Oregon State University
-  id: oregon-state-university
-  url: https://oregonstate.edu/
--
-  name: PFT Technology, LLC
-  id: pft-technology-llc
-  url: https://www.pfttech.com/
--
-  name: RENCI
-  id: renci
-  url: https://www.renci.org/
--
-  name: RTI International
-  id: rti-international
-  url: https://www.rti.org/
--
-  name: Rutgers University
-  id: rutgers-university
-  url: http://www.rutgers.edu/
--
-  name: Seahorse Coastal Consulting
-  id: seahorse-coastal
-  url: https://www.seahorsecoastal.com/
--
-  name: SRI International
-  id: sri-international
-  url: https://www.sri.com/
--
-  name: Stanford University
-  id: stanford-university
-  url: https://www.stanford.edu/
--
-  name: Seven Bridges Genomics, Inc.
-  id: seven-bridges
-  url: https://www.sevenbridges.com/
--
-  name: Texas Advanced Computing Center
-  id: tacc
-  url: https://www.tacc.utexas.edu/
--
-  name: TOPMed Data Coordinating Center
-  id: topmed
-  url: https://www.nhlbiwgs.org/group/dcc
--
-  name: Trial Innovation Network
-  id: trial-innovation-network
-  url: https://trialinnovationnetwork.org/
--
-  name: U.S. Department of Defense
-  id: us-dod
-  url: https://dod.defense.gov/
--
-  name: U.S. Department of Energy
-  id: us-doe
-  url: https://www.energy.gov/
--
-  name: U.S. Department of Health and Human Services
-  id: us-dhhs
-  url: https://www.hhs.gov/
--
-  name: US Department of Veterans Affairs
-  id: us-va
-  url: https://www.va.gov/
--
-  name: US Ignite
-  id: us-ignite
-  url: https://www.us-ignite.org/
--
-  name: Universidad San Francisco de Quito
-  id: usfq
-  url: https://www.usfq.edu.ec/
--
-  name: University of Chicago
-  id: university-of-chicago
-  url: https://www.uchicago.edu/
--
-  name: University of Chicago Computation Institute
-  id: chicago-ci
-  url: https://ci.uchicago.edu/
--
-  name: University of Florida
-  id: university-of-florida
-  url: http://www.ufl.edu/
--
-  name: University of Kentucky
-  id: university-of-kentucky
-  url: https://www.uk.edu/
--
-  name: University of Maryland
-  id: university-of-maryland
-  url: https://umd.edu/
--
-  name: University of Massachusetts at Amherst
-  id: umass-amherst
-  url: https://www.umass.edu/
--
-  name: University of North Carolina at Chapel Hill
-  id: unc
-  url: https://www.unc.edu/
--
-  name: University of North Carolina Charlotte
-  id: unc-charlotte
-  url: https://www.uncc.edu/
--
-  name: University of North Carolina Greensboro
-  id: unc-greensboro
-  url: https://www.uncg.edu/
--
-  name: University of North Carolina at Chapel Hill Department of Biology
-  id: unc-biology
-  url: https://bio.unc.edu/
--
-  name: University of North Carolina at Chapel Hill Department of Genetics
-  id: unc-genetics
-  url: https://www.med.unc.edu/genetics/
--
-  name: University of North Carolina at Chapel Hill Hospitals
-  id: unc-hospitals
-  url: http://www.unchealthcare.org/site
--
-  name: University of North Carolina at Chapel Hill Department of Geography
-  id: unc-geography
-  url: https://geography.unc.edu/
--
-  name: University of North Carolina at Chapel Hill Center for Galapagos Studies
-  id: unc-galapagos
-  url: https://galapagos.unc.edu/
--
-  name: University of North Carolina at Chapel Hill Department of Psychiatry
-  id: unc-psychiatry
-  url: https://www.med.unc.edu/psych/
--
-  name: University of North Carolina at Chapel Hill School of Information and Library Science
-  id: unc-sils
-  url: http://sils.unc.edu/
--
-  name: University of North Carolina Eshelman Institute of Innovation
-  id: unc-eii
-  url: https://unceii.org/
--
-  name: University of North Carolina Eshelman School of Pharmacy
-  id: unc-pharmacy
-  url: https://pharmacy.unc.edu/
--
-  name: Program for Precision Medicine in Health Care, UNC School of Medicine
-  id: unc-ppmh
-  url: https://www.med.unc.edu/ppmh/
--
-  name: University of North Carolina at Chapel Hill Gillings School of Public Health
-  id: unc-sph
-  url: https://sph.unc.edu/
--
-  name: University of North Carolina at Chapel Hill Research Computing
-  id: unc-its-research-computing
-  url: https://its.unc.edu/research-computing/
--
-  name: University of Notre Dame
-  id: university-of-notre-dame
-  url: https://www.nd.edu/
--
-  name: University of South Florida
-  id: university-of-south-florida
-  url: https://www.usf.edu/
--
-  name: University of Southern California
-  id: university-of-southern-california
-  url: https://www.usc.edu/
--
-  name: University of Texas at Austin
-  id: university-of-texas
-  url: https://www.utexas.edu/
--
-  name: University of Virginia
-  id: uva
-  url: https://www.virginia.edu/
--
-  name: University of California San Diego
-  id: ucsd
-  url: https://www.ucsd.edu/
--
-  name: University of Santa Cruz
-  id: uc-santa-cruz
-  url: https://www.ucsc.edu/
--
-  name: University of Southern California Information Sciences Institute
-  id: usc-isi
-  url: https://www.isi.edu/
--
-  name: University of Utah
-  id: utah-university
-  url: https://www.utah.edu/
--
-  name: University of Washington
-  id: university-of-washington
-  url: http://www.washington.edu/
--
-  name: Vanderbilt University Medical Center
-  id: vumc
-  url: https://www.vumc.org/
--
-  name: Virginia Polytechnic Institute and State University
-  id: virginia-tech
-  url: https://vt.edu/
--
-  name: Cornell University
-  id: cornell-university
-  url: https://www.cornell.edu/
--
-  name: University of Delaware
-  id: university-of-delaware
-  url: https://www.udel.edu/
--
-  name: Stony Brook University
-  id: stonybrook-university
-  url: http://www.stonybrook.edu/
--
-  name: University of Oklahoma
-  id: university-of-oklahoma
-  url: https://www.ou.edu/
--
-  name: Coastal Resilience Center
+- name: Coastal Resilience Center
   id: coastal-resilience-center
   url: http://coastalresiliencecenter.unc.edu/
--
-  name: NC Division of Emergency Management
+- name: Columbia University
+  id: columbia-uniersity
+  url: http://www.columbia.edu/
+- name: Cornell University
+  id: cornell-university
+  url: https://www.cornell.edu/
+- name: DataWorks NC
+  id: dataworks-nc
+  url: https://dataworks-nc.org/
+- name: Davidson College
+  id: davidson-college
+  url: https://www.davidson.edu/
+- name: Deliotte Consulting
+  id: deliotte-consulting
+  url: https://www2.deloitte.com/global/en/services/consulting-deloitte.html
+- name: Duke University
+  id: duke-university
+  url: https://duke.edu/
+- name: Duke University Computer Science
+  id: duke-cs
+  url: http://www.cs.duke.edu/
+- name: Duke University Office of Information Technology
+  id: duke-oit
+  url: https://oit.duke.edu/
+- name: Duke University Social Science Research Institute
+  id: duke-ssri
+  url: https://ssri.duke.edu/
+- name: ESnet
+  id: esnet
+  url: https://www.eset.com/
+- name: Federal Office of Population Affairs, U.S. Department of Health and Human
+    Services
+  id: hhs-opa
+  url: https://opa.hhs.gov/
+- name: FEMA
+  id: fema
+  url: http://www.fema.gov/
+- name: Florida International University
+  id: fiu
+  url: https://www.fiu.edu/
+- name: GENI Project Office
+  id: geni-project-office
+  url: https://www.geni.com/projects
+- name: Georgia Institute of Technology
+  id: ga-tech
+  url: https://www.gatech.edu/
+- name: Harvard Medical School
+  id: harvard-medical-school
+  url: https://hms.harvard.edu/
+- name: IBM
+  id: ibm
+  url: https://www.ibm.com/
+- name: iCAIR
+  id: icair
+  url: https://icair.ac.uk/
+- name: Illinois Institute of Technology
+  id: iit
+  url: https://www.iit.edu/
+- name: Indiana University
+  id: indiana-university
+  url: https://www.iu.edu/
+- name: Internet2
+  id: internet2
+  url: https://internet2.edu/
+- name: Jackson Laboratory
+  id: jackson-laboratory
+  url: https://www.jax.org/
+- name: Johns Hopkins University
+  id: johns-hopkins-university
+  url: https://www.jhu.edu/
+- name: Lawrence Berkeley National Laboratory
+  id: lbnl
+  url: https://www.lbl.gov/
+- name: Leidos Biomedical
+  id: leidos-biomedical
+  url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
+- name: Michigan Imputation Server
+  id: michigan-imputation-server
+  url: https://imputationserver.sph.umich.edu/index.html#!pages/home
+- name: National Center for Supercomputing Applications
+  id: ncsa
+  url: http://www.ncsa.illinois.edu/
+- name: National Heart, Lung, and Blood Institute
+  id: nhlbi
+  url: https://www.nhlbi.nih.gov/
+- name: National Institutes of Health
+  id: nih
+  url: https://www.nih.gov/
+- name: National Oceanic and Atmospheric Administration
+  id: noaa
+  url: https://www.noaa.gov/
+- name: National Science Foundation
+  id: nsf
+  url: https://www.nsf.gov/
+- name: NC Division of Emergency Management
   id: nc-division-of-emergency-management
   url: https://www.ncdps.gov/Index2.cfm?a=000003,000010
--
-  name: University of North Carolina at Chapel Hill Institute for Marine Sciences
-  id: unc-ims
-  url: http://ims.unc.edu/
--
-  name: US Army Corps of Engineers
-  id: us-army-corps-of-engineers
-  url: http://www.usace.army.mil/
--
-  name: State of North Carolina
+- name: NC General Assembly
+  id: nc-general-assembly
+  url: https://www.ncleg.gov/
+- name: NC TraCS
+  id: nc-tracs
+  url: https://tracs.unc.edu/
+- name: NHLBI Informatics Research Center
+  id: nhlbi-irc
+  url: https://www.nhlbiwgs.org/group/irc
+- name: NIH National Cancer Institute
+  id: nih-nci
+  url: https://www.cancer.gov/
+- name: NIH National Human Genome Research Institute
+  id: nih-nhgri
+  url: https://www.genome.gov/
+- name: NIH Office of Data Science Strategy
+  id: nih-odss
+  url: https://datascience.nih.gov/about/odss
+- name: North Carolina State University
+  id: nc-state-university
+  url: https://www.ncsu.edu/
+- name: North Carolina State University Center for Geospatial Analytics
+  id: ncsu-geospatial
+  url: https://cnr.ncsu.edu/geospatial/
+- name: Northwestern University
+  id: northwestern-university
+  url: https://www.northwestern.edu/
+- name: Oak Ridge National Laboratory
+  id: ornl
+  url: https://www.ornl.gov/
+- name: Oregon Health Sciences University
+  id: oregon-hsu
+  url: https://www.ohsu.edu/
+- name: Oregon State University
+  id: oregon-state-university
+  url: https://oregonstate.edu/
+- name: PFT Technology, LLC
+  id: pft-technology-llc
+  url: https://www.pfttech.com/
+- name: Program for Precision Medicine in Health Care, UNC School of Medicine
+  id: unc-ppmh
+  url: https://www.med.unc.edu/ppmh/
+- name: RENCI
+  id: renci
+  url: https://www.renci.org/
+- name: RTI International
+  id: rti-international
+  url: https://www.rti.org/
+- name: Rutgers University
+  id: rutgers-university
+  url: http://www.rutgers.edu/
+- name: Seahorse Coastal Consulting
+  id: seahorse-coastal
+  url: https://www.seahorsecoastal.com/
+- name: Seven Bridges Genomics, Inc.
+  id: seven-bridges
+  url: https://www.sevenbridges.com/
+- name: SRI International
+  id: sri-international
+  url: https://www.sri.com/
+- name: Stanford University
+  id: stanford-university
+  url: https://www.stanford.edu/
+- name: State of North Carolina
   id: north-carolina
   url: http://www.nc.gov/
+- name: Stony Brook University
+  id: stonybrook-university
+  url: http://www.stonybrook.edu/
+- name: Texas Advanced Computing Center
+  id: tacc
+  url: https://www.tacc.utexas.edu/
+- name: The Odum Institute for Research in Social Science
+  id: odum-institute
+  url: https://odum.unc.edu/
+- name: TOPMed Data Coordinating Center
+  id: topmed
+  url: https://www.nhlbiwgs.org/group/dcc
+- name: Trial Innovation Network
+  id: trial-innovation-network
+  url: https://trialinnovationnetwork.org/
+- name: U.S. Department of Defense
+  id: us-dod
+  url: https://dod.defense.gov/
+- name: U.S. Department of Energy
+  id: us-doe
+  url: https://www.energy.gov/
+- name: U.S. Department of Health and Human Services
+  id: us-dhhs
+  url: https://www.hhs.gov/
+- name: Universidad San Francisco de Quito
+  id: usfq
+  url: https://www.usfq.edu.ec/
+- name: University of California San Diego
+  id: ucsd
+  url: https://www.ucsd.edu/
+- name: University of Chicago
+  id: university-of-chicago
+  url: https://www.uchicago.edu/
+- name: University of Chicago Computation Institute
+  id: chicago-ci
+  url: https://ci.uchicago.edu/
+- name: University of Delaware
+  id: university-of-delaware
+  url: https://www.udel.edu/
+- name: University of Florida
+  id: university-of-florida
+  url: http://www.ufl.edu/
+- name: University of Kentucky
+  id: university-of-kentucky
+  url: https://www.uk.edu/
+- name: University of Maryland
+  id: university-of-maryland
+  url: https://umd.edu/
+- name: University of Massachusetts at Amherst
+  id: umass-amherst
+  url: https://www.umass.edu/
+- name: University of North Carolina at Chapel Hill
+  id: unc
+  url: https://www.unc.edu/
+- name: University of North Carolina at Chapel Hill Center for Galapagos Studies
+  id: unc-galapagos
+  url: https://galapagos.unc.edu/
+- name: University of North Carolina at Chapel Hill Department of Biology
+  id: unc-biology
+  url: https://bio.unc.edu/
+- name: University of North Carolina at Chapel Hill Department of Genetics
+  id: unc-genetics
+  url: https://www.med.unc.edu/genetics/
+- name: University of North Carolina at Chapel Hill Department of Geography
+  id: unc-geography
+  url: https://geography.unc.edu/
+- name: University of North Carolina at Chapel Hill Department of Psychiatry
+  id: unc-psychiatry
+  url: https://www.med.unc.edu/psych/
+- name: University of North Carolina at Chapel Hill Gillings School of Public Health
+  id: unc-sph
+  url: https://sph.unc.edu/
+- name: University of North Carolina at Chapel Hill Hospitals
+  id: unc-hospitals
+  url: http://www.unchealthcare.org/site
+- name: University of North Carolina at Chapel Hill Institute for Marine Sciences
+  id: unc-ims
+  url: http://ims.unc.edu/
+- name: University of North Carolina at Chapel Hill Research Computing
+  id: unc-its-research-computing
+  url: https://its.unc.edu/research-computing/
+- name: University of North Carolina at Chapel Hill School of Information and
+    Library Science
+  id: unc-sils
+  url: http://sils.unc.edu/
+- name: University of North Carolina Charlotte
+  id: unc-charlotte
+  url: https://www.uncc.edu/
+- name: University of North Carolina Eshelman Institute of Innovation
+  id: unc-eii
+  url: https://unceii.org/
+- name: University of North Carolina Eshelman School of Pharmacy
+  id: unc-pharmacy
+  url: https://pharmacy.unc.edu/
+- name: University of North Carolina Greensboro
+  id: unc-greensboro
+  url: https://www.uncg.edu/
+- name: University of Notre Dame
+  id: university-of-notre-dame
+  url: https://www.nd.edu/
+- name: University of Oklahoma
+  id: university-of-oklahoma
+  url: https://www.ou.edu/
+- name: University of Santa Cruz
+  id: uc-santa-cruz
+  url: https://www.ucsc.edu/
+- name: University of South Florida
+  id: university-of-south-florida
+  url: https://www.usf.edu/
+- name: University of Southern California
+  id: university-of-southern-california
+  url: https://www.usc.edu/
+- name: University of Southern California Information Sciences Institute
+  id: usc-isi
+  url: https://www.isi.edu/
+- name: University of Texas at Austin
+  id: university-of-texas
+  url: https://www.utexas.edu/
+- name: University of Utah
+  id: utah-university
+  url: https://www.utah.edu/
+- name: University of Virginia
+  id: uva
+  url: https://www.virginia.edu/
+- name: University of Washington
+  id: university-of-washington
+  url: http://www.washington.edu/
+- name: US Army Corps of Engineers
+  id: us-army-corps-of-engineers
+  url: http://www.usace.army.mil/
+- name: US Department of Veterans Affairs
+  id: us-va
+  url: https://www.va.gov/
+- name: US Ignite
+  id: us-ignite
+  url: https://www.us-ignite.org/
+- name: Vanderbilt University Medical Center
+  id: vumc
+  url: https://www.vumc.org/
+- name: Virginia Polytechnic Institute and State University
+  id: virginia-tech
+  url: https://vt.edu/
