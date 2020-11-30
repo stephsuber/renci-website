@@ -72,7 +72,7 @@ export default ({ data, pageContext }) => {
                         <Section title="Contributors">
                             {
                                 members && (
-                                    <Article title="Members">
+                                    <Article title="RENCI Team">
                                         <MembersList members={ members } />
                                     </Article>
                                 )
