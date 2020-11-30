@@ -7,7 +7,6 @@ const Header = styled(Heading)(({ theme }) => `
   flex: 3;
   margin: 0;
   padding: 0;
-  line-height: 1.25;
   @media (min-width: 992px) { text-align: right; }
   @media (min-width: 992px) {
     padding: 0 1rem;

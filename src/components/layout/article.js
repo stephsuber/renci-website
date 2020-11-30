@@ -16,7 +16,6 @@ const Header = styled(Subheading)`
   margin: 0;
   padding: 0;
   font-weight: normal;
-  line-height: 1.25;
 `
 
 const Body = styled.div``
