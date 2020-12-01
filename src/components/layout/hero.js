@@ -40,13 +40,11 @@ const Wrapper = styled.div(({ theme, backgroundColor }) => `
   position: relative;
   min-height: 500px;
   overflow: hidden;
-  // width: 1400px;
-  // margin: auto;
-  background-color: #000;
-  background-image: linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
-  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
-  linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
-  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12.5%, transparent 87%, ${ theme.color.black } 87.5%, ${ theme.color.black }),
+  background-color: ${ backgroundColor };
+  background-image: linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
+  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
+  linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
+  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
   linear-gradient(60deg, ${ theme.color.darkgrey } 25%, transparent 25.5%, transparent 75%, ${ theme.color.darkgrey } 75%, ${ theme.color.darkgrey }), 
   linear-gradient(60deg, ${ theme.color.darkgrey } 25%, transparent 25.5%, transparent 75%, ${ theme.color.darkgrey } 75%, ${ theme.color.darkgrey });
   background-size:40px 70px;
@@ -83,6 +81,6 @@ Hero.propTypes = {
 }
 
 Hero.defaultProps = {
-  backgroundColor: '#334',
-  overlayColor: '#fff',
+  backgroundColor: '#000',
+  overlayColor: '#000',
 }
