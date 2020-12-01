@@ -22,7 +22,7 @@ export default ({ data, pageContext }) => {
   return (
     <Fragment>
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
-        { group[0] && <Link to={ group[0].fields.path }>{ group[0].name }</Link> }
+        { group && group[0] && <Link to={ group[0].fields.path }>{ group[0].name }</Link> }
         <Title>{ name }</Title>
         <Paragraph dangerouslySetInnerHTML={{ __html: description }} />
       </Hero>

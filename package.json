@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Matt Watson <mwatson@renci.org>",
   "dependencies": {
+    "@loadable/component": "^5.14.1",
     "gatsby": "^2.27.5",
     "gatsby-image": "^2.6.0",
     "gatsby-plugin-manifest": "^2.7.0",
@@ -22,6 +23,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-force-graph-2d": "^1.18.1",
     "react-grid-system": "^6.3.0",
     "react-helmet": "^5.2.1",
     "react-spring": "^8.0.27",
