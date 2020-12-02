@@ -26,7 +26,8 @@ export const CollaborationsNetwork = () => {
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] })
   const groups = data.groups.edges.map(({ node }) => node)
   const collaborations = data.collaborations.edges.map(({ node }) => node)
-  const [selectedNodeIDs, setSelectedNodeIDs] = useState(new Set())
+  const [selectedNodes, setSelectedNodes] = useState(new Set())
+  const [selectedRootNode, setSelectedRootNode] = useState(null)
 
   const groupNode = useCallback((id, name) => ({
     type: 'group',
@@ -76,7 +77,15 @@ export const CollaborationsNetwork = () => {
     return graphData.links.filter(({ source, target }) => source.id === node.id || target.id === node.id)
   }, [graphData])
 
-  useEffect(() => console.log(graphData), [graphData])
+  const highlightNode = useCallback(({ id, x, y, val, color }, context) => {
+    context.fillStyle = '#222'
+    context.beginPath()
+    context.arc(x, y, Math.sqrt(15 * val), 0, 2 * Math.PI, false)
+    context.lineWidth = 1
+    context.strokeStyle = '#333'
+    context.stroke()
+    context.fill()
+  }, [selectedNodes])
 
   useEffect(() => {
     let nodes = []
@@ -129,26 +138,24 @@ export const CollaborationsNetwork = () => {
     setGraphData({ nodes: nodes, links: edges })
   }, [])
 
-  const highlightNode = useCallback(({ id, x, y, val, color }, context) => {
-    context.fillStyle = '#222'
-    context.beginPath()
-    context.arc(x, y, Math.sqrt(15 * val), 0, 2 * Math.PI, false)
-    context.lineWidth = 1
-    context.strokeStyle = '#333'
-    context.stroke()
-    context.fill()
-  }, [selectedNodeIDs])
+  useEffect(() => {
+    setSelectedNodes(new Set())
+    if (!selectedRootNode) return 
+    let neighbors = new Set()
+    indicentEdges(selectedRootNode).forEach(edge => {
+      if (!neighbors.has(edge.source)) { neighbors.add(edge.source) }
+      if (!neighbors.has(edge.target)) { neighbors.add(edge.target) }
+    })
+    setSelectedNodes(JSON.stringify([...neighbors].sort()) === JSON.stringify([...selectedNodes].sort()) ? new Set() : neighbors)
+  }, [selectedRootNode])
 
   const handleNodeClick = node => {
-    setSelectedNodeIDs(new Set())
-    if (!node) return
-    console.log(node)
-    let neighbors = new Set()
-    indicentEdges(node).forEach(edge => {
-      if (!neighbors.has(edge.source.id)) { neighbors.add(edge.source.id) }
-      if (!neighbors.has(edge.target.id)) { neighbors.add(edge.target.id) }
-    })
-    setSelectedNodeIDs(JSON.stringify([...neighbors].sort()) === JSON.stringify([...selectedNodeIDs].sort()) ? new Set() : neighbors)
+    if (selectedRootNode && selectedRootNode === node) {
+      setSelectedRootNode(null)
+      setSelectedNodes(new Set())
+    } else {
+      setSelectedRootNode(node)
+    }
   }
 
   return (
@@ -162,10 +169,10 @@ export const CollaborationsNetwork = () => {
             nodeLabel={ node => node.name }
             nodeVal={ node => node.val }
             nodeRelSize={ 3 }
-            nodeColor={ node => selectedNodeIDs.size ? selectedNodeIDs.has(node.id) ? node.color.main : node.color.dim : node.color.main }
-            linkColor={ edge => selectedNodeIDs.size  ? (selectedNodeIDs.has(edge.source.id) && selectedNodeIDs.has(edge.target.id)) ? `#666` : `#ccc` : `#999`}
+            nodeColor={ node => selectedNodes.size ? selectedNodes.has(node) ? node.color.main : node.color.dim : node.color.main }
+            linkColor={ edge => selectedNodes.size  ? (selectedNodes.has(edge.source) && selectedNodes.has(edge.target)) ? `#666` : `#ccc` : `#999`}
             onNodeClick={ handleNodeClick }
-            nodeCanvasObjectMode={ node => selectedNodeIDs.has(node.id) ? 'before' : undefined }
+            nodeCanvasObjectMode={ node => selectedRootNode === node ? 'after' : selectedNodes.has(node) ? 'before' : undefined }
             nodeCanvasObject={ highlightNode }
           />
         )
