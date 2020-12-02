@@ -12,13 +12,13 @@ renciRole: !markdown |
   - The [Data Matters](/projects/data-matters) Short Course Series helps scientists, business managers, and government officials better understand the field of data science and provides practical skills to apply in their organizations.
   - The Data Economy is collaboration with the North Carolina Board of Science, Technology and Innovation to understand and support the role of Data Science in driving economic development.
 members:
-  - sahalt
-  - smckeen
-  - dcarsey
-  - akrishnamurthy
-  - subers
-  - amiller
-  - clenhardt
+  - id: sahalt
+  - id: smckeen
+  - id: dcarsey
+  - id: akrishnamurthy
+  - id: subers
+  - id: amiller
+  - id: clenhardt
 partners:
   - nc-state-university
   - renci

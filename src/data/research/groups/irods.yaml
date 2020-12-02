@@ -3,27 +3,15 @@ name: iRODS
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 featuredImage: irods.png
 members:
-  -
-   id: jcoposky
-   role: lead
-  -
-   id: tgr
-   role: chief
-  -
-   id: aking
-   role: member
-  -
-   id: dmoore
-   role: member
-  -
-   id: jgill
-   role: member
-  -
-   id: kdraughn
-   role: member
-  -
-   id: jjames
-   role: member
+  - id: jcoposky
+    role: Lead
+  - id: tgr
+    role: Chief Technologist
+  - id: aking
+  - id: dmoore
+  - id: jgill
+  - id: kdraughn
+  - id: jjames
 projects:
 www:
   url: https://www.irods.org

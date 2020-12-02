@@ -3,39 +3,18 @@ name: Analytics
 description: lorem ipsum data sciencum
 featuredImage: analytics.jpg
 members:
-  -
-    id: cbizon
-    role: lead
-  -
-    id: clenhardt
-    role: member
-  -
-    id: bblanton
-    role: member
-  -
-    id: lstillwell
-    role: member
-  -
-    id: kbradford
-    role: member
-  -
-    id: krobasky
-    role: member
-  -
-    id: lchristopherson
-    role: member
-  -
-    id: sshrivastava
-    role: member
-  -
-    id: hlander
-    role: member
-  -
-    id: dborland
-    role: member
-  -
-    id: jbalhoff
-    role: member
+  - id: cbizon
+    role: Lead
+  - id: clenhardt
+  - id: bblanton
+  - id: lstillwell
+  - id: kbradford
+  - id: krobasky
+  - id: lchristopherson
+  - id: sshrivastava
+  - id: hlander
+  - id: dborland
+  - id: jbalhoff
 projects:
   - brain-i
   - cell-cycle

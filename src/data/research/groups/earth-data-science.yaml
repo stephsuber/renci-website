@@ -5,15 +5,9 @@ featuredImage: earth-data-science.jpg
 description: >
   RENCI catalyzes data-driven discoveries in Earth science. Our nationally-recognized subject matter experts lead and contribute to projects that advance fundamental science and inform decision making in areas such as natural disasters, water, oceans, climate, and weather.  
 members:
-  -
-    id: bblanton
-    role: member
-  -
-    id: clenhardt
-    role: member
-  -
-    id: lstillwell
-    role: member
+  - id: bblanton
+  - id: clenhardt
+  - id: lstillwell
 projects:
   - adcirc-lite-nc
   - adcirc-viz

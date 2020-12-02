@@ -114,6 +114,7 @@ export const collaborationQuery = graphql`
             members {
                 id
                 fullName
+                role
                 fields {
                     path
                 }

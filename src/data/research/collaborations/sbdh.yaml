@@ -7,9 +7,9 @@ renciRole: !markdown |
 
   South Hub focus areas are: data science education and workforce; data sharing and cyberinfrastructure; health and health disparities; materials and advanced manufacturing; smart communities; and social cybersecurity.
 members:
-  - sahalt
-  - subers
-  - jzollars
+  - id: sahalt
+  - id: subers
+  - id: jzollars
 partners:
   - ga-tech
 funding:

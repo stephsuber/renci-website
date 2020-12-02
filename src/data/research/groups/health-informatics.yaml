@@ -3,24 +3,13 @@ name: Health Informatics
 description: healthy information
 featuredImage: null
 members:
-  -
-    id: kwilhelmsen
-    role: member
-  -
-    id: jtilson
-    role: member
-  -
-    id: jreilly
-    role: member
-  -
-    id: xyin
-    role: member
-  -
-    id: powen
-    role: member
-  -
-    id: ylin
-    role: member
+  - id: kwilhelmsen
+    role: Lead
+  - id: jtilson
+  - id: jreilly
+  - id: xyin
+  - id: powen
+  - id: ylin
 projects:
   - data-translator
   - data-translator-aragorn

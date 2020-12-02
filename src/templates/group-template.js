@@ -113,6 +113,7 @@ export const groupQuery = graphql`
             members {
                 id
                 fullName
+                role
                 fields {
                     path
                 }
