@@ -96,6 +96,7 @@ export const projectQuery = graphql`
       members {
         id
         fullName
+        role
         fields {
           path
         }

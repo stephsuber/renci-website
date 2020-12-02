@@ -10,8 +10,9 @@ renciRole: !markdown |
    
   RENCI is developing an ontology design pattern software [framework]((https://github.com/INCATools/dosdp-tools)) to be used by developers of and contributors to key vocabularies and ontologies. In addition, RENCI is developing a [tool](https://github.com/INCATools/boomer) for evaluating potential mappings across ontologies using a combination of deductive reasoning and probabilistic inference, to be used for INCA’s automatic terminology integration.
 members:
-  - jbalhoff
-  - jreilly
+  - id: jbalhoff
+    role: Lead
+  - id: jreilly
 partners:
   - lbnl
 funding:

@@ -6,11 +6,12 @@ renciRole: !markdown |
   RENCI is responsible for developing, marketing, administering, and coordinating the [NHLBI BioData Catalyst Fellows Program](https://biodatacatalyst.nhlbi.nih.gov/fellows/program) on behalf of the BioData Catalyst Coordinating Center. 
 email: an@email.com
 members:
-  - sahalt
-  - sdavis
-  - cerdmann
-  - pkerr
-  - ppatton
+  - id: sahalt
+    role: Lead
+  - id: sdavis
+  - id: cerdmann
+  - id: pkerr
+  - id: ppatton
 partners:
   - nhlbi
 www:

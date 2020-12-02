@@ -13,10 +13,11 @@ renciRole: !markdown |
   - Addressing training and workforce development needs to help large facility planners and operators cultivate their in-house expertise forging new career paths for cyberinfrastructure professionals.
   The project uses the National Ecological Observatory Network, which collects data for insights on changes in U.S. ecosystems, as a test case for initial information gathering. After the pilot, the effort will be broadened to encompass other large facilities.
 members:
-  - amandal
-  - ibaldin
-  - escott
-  - lchristopherson
+  - id: amandal
+    role: Lead
+  - id: ibaldin
+  - id: escott
+  - id: lchristopherson
 partners:
   - usc-isi
   - utah-university

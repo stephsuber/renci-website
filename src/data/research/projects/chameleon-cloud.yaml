@@ -8,10 +8,11 @@ renciRole: !markdown |
 
   RENCI collaborates with Chameleon’s lead organization, the University of Chicago, as well as other partners to develop and support the system’s capabilities.
 members:
-  - pruth
-  - cwang
-  - mcevik
-  - mtavares
+  - id: pruth
+    role: Lead
+  - id: cwang
+  - id: mcevik
+  - id: mtavares
 partners:
   - chicago-ci
   - northwestern-university

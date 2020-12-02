@@ -8,8 +8,9 @@ renciRole: !markdown |
    
   The RENCI team is focused on automating the authorization and security monitoring needed to keep these fast and dynamic network links safe. The researchers plan to use the SAFE logical trust system to authorize on-demand stitching of network links in two systems developed and operated by RENCI, Duke, and their collaborators: the [ExoGENI](http://www.exogeni.net/) testbed and Duke’s Software-Defined Science Network (SDSN) campus network exchange. The team also will deploy security to monitor traffic on dedicated channels used to manage network devices, commonly known as out-of-band management.
 members:
-  - pruth
-  - cwang
+  - id: pruth
+    role: Lead
+  - id: cwang
 partners:
   - duke-university
   - us-doe

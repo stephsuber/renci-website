@@ -10,14 +10,15 @@ renciRole: !markdown |
 
   Ultimately, the project enables valuable insights into the funding and progression of the clinical trials facilitated by Duke’s Trial Innovation Center and the broader Trial Innovation Network. 
 members:
-  - krobasky
-  - hxu
-  - sraj
-  - mwatson
-  - dcarsey
-  - sraj
-  - dborland
-  - hyi
+  - id: krobasky
+    role: Lead
+  - id: hxu
+  - id: sraj
+  - id: mwatson
+  - id: dcarsey
+  - id: sraj
+  - id: dborland
+  - id: hyi
 partners:
   - duke-university
   - trial-innovation-network

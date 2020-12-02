@@ -8,7 +8,8 @@ renciRole: !markdown |
  
   Because all knowledge in GO is represented using semantic web technologies, this resource is amenable to computational integration and consistency checking. RENCI contributes expertise in semantic technologies and software to support development of the GO ontology release pipeline and the next-generation Noctua modeling tool.
 members:
-  - jbalhoff
+  - id: jbalhoff
+    role: Lead
 partners:
   - university-of-southern-california
   - lbnl

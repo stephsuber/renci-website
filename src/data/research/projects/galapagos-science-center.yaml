@@ -10,10 +10,10 @@ renciRole: !markdown |
 
   Since 2008, RENCI has continued to support the facility by helping to maintain the infrastructure and participating in projects.
 members:
-  - msliwowski
-  - cdickens
-  - crutledge
-  - escott
+  - id: msliwowski
+  - id: cdickens
+  - id: crutledge
+  - id: escott
 partners:
   - usfq
   - unc-galapagos

@@ -8,7 +8,8 @@ renciRole: !markdown |
 
   The project is creating a series of workshops and other activities aimed at accelerating research through network-to-network collaborations, data needs and availability assessment, data collection, and educational activities focused on data curation and cyberinfrastructure. RENCI is responsible for facilitating a workshop in North Carolina workshop, providing access to its hydrologic research platform [HydroShare](https://www.hydroshare.org/), and contributing data curation and community-building expertise.
 members:
-  - clenhardt
+  - id: clenhardt
+    role: Lead
 partners:
   - university-of-washington
 funding:

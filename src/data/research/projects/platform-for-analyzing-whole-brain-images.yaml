@@ -6,7 +6,8 @@ description: >
 renciRole: !markdown |
   Light sheet fluorescence microscopy images can shed new light on the understanding of three dimensional structures of the whole brain by allowing researchers to localize and characterize individual brain cells. To reduce the need for manual annotation and speed scientists’ ability to gain insights from these images, RENCI is designing a [semi-automated annotation software and crowd-sourcing platform for annotations](https://www.nucleininja.org/) that will generate high-quality training data for a 3D cell segmentation engine capable of annotating new microscopy images automatically. Scientists will apply this computational tool to several pilot studies including Autism mouse brain and human fetal tissue data.
 members:
-  - dborland
+  - id: dborland
+    role: Lead
 partners:
   - unc-genetics
   - unc-psychiatry

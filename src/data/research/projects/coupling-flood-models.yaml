@@ -8,9 +8,10 @@ renciRole: !markdown |
  
   By better characterizing the dynamics of areas subject to compound flooding, the project team aims to help researchers and decision makers forecast and prevent dangerous floods where hurricane-driven storm surge meets precipitation-related riverine runoff.  
 members:
-  - bblanton
-  - yfeng
-  - rluettich
+  - id: bblanton
+    role: Lead
+  - id: yfeng
+  - id: rluettich
 partners:
   - university-of-texas
   - seahorse-coastal

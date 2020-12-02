@@ -8,7 +8,8 @@ renciRole: !markdown |
    
   [PERCEPT](https://perceptproject.weebly.com/) attends to the interfaces between teaching and learning physics through iterative user-inspired research to provide foundational knowledge for a new model of teaching and learning core physics concepts. RENCI supports the project by developing haptically-enabled science simulations (HESSs), a technology for touch-enabled simulation and training.
 members:
-  - dborland
+  - id: dborland
+    role: Lead
 partners:
   - nc-state-university
   - davidson-college

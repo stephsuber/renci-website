@@ -13,14 +13,15 @@ renciRole: !markdown |
    
   ExoGENI serves as a prototype for FABRIC, a larger, evolving platform linking third-party cloud sites, transport networks, and other infrastructure services to enable real-world deployment of innovative distributed services and new visions of a future Internet.
 members:
-  - ibaldin
-  - yxin
-  - mcevik
-  - mstealey
-  - pruth
-  - kthareja
-  - efu
-  - mtavares
+  - id: ibaldin
+    role: Lead
+  - id: yxin
+  - id: mcevik
+  - id: mstealey
+  - id: pruth
+  - id: kthareja
+  - id: efu
+  - id: mtavares
 partners:
   - duke-university
   - ibm

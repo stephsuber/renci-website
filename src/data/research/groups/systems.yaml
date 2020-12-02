@@ -3,18 +3,42 @@ name: Software Systems Architecture
 description: systems systems systems systems systems 
 featuredImage: null
 members:
-  - scox
-  - hxu
-  - mwatson
-  - mshoffner
-  - mkothapalli
-  - amukherjee
-  - igilani
-  - mrajarikam
-  - dsikes
-  - fjiang
-  - okapeljushnik
-  - ccalloway
+  -
+    id: scox
+    role: member
+  -
+    id: hxu
+    role: member
+  -
+    id: mwatson
+    role: member
+  -
+    id: mshoffner
+    role: member
+  -
+    id: mkothapalli
+    role: member
+  -
+    id: amukherjee
+    role: member
+  -
+    id: igilani
+    role: member
+  -
+    id: mrajarikam
+    role: member
+  -
+    id: dsikes
+    role: member
+  -
+    id: fjiang
+    role: member
+  -
+    id: okapeljushnik
+    role: member
+  -
+    id: ccalloway
+    role: member
 projects:
   - secure-research-space
 www:

@@ -16,8 +16,9 @@ renciRole: !markdown |
   - Make its framework, the Chaos Jungle, available for use by other computer scientists and cyberinfrastructure designers for testing anomaly detection algorithms and infrastructure robustness.
   - Engage with science application partners in gravitational-wave physics, earthquake science, and bioinformatics to deploy the analysis framework for their workflows and fine-tune the threat models, the testbed, ML model training, and ML model validation in a feedback loop.
 members:
-  - amandal
-  - efu
+  - id: amandal
+    role: Lead
+  - id: efu
 partners:
   - usc-isi
   - indiana-university

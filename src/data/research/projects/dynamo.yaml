@@ -15,10 +15,11 @@ renciRole: !markdown |
   - Help satisfy data, computational and storage requirements of CASA and OOI workflows, enabling researchers to test new algorithms and models in real time with live streaming data.
   - Enhance interactions between Pegasus, the network-centric platform, and new network-aware workflow scheduling algorithms in Pegasus.
 members:
-  - amandal
-  - cwang
-  - pruth
-  - kthareja
+  - id: amandal
+    role: Lead
+  - id: cwang
+  - id: pruth
+  - id: kthareja
 partners:
   - usc-isi
   - umass-amherst

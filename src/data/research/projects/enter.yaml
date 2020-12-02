@@ -17,10 +17,11 @@ renciRole: !markdown |
    
   The team will also continue to support new research and experimentation efforts in GENI through project and account management, infrastructure support for tutorials and other outreach events, and issue tracking and troubleshooting.
 members:
-  - ibaldin
-  - kthareja
-  - mcevik
-  - mtavares
+  - id: ibaldin
+    role: Lead
+  - id: kthareja
+  - id: mcevik
+  - id: mtavares
 partners:
   - university-of-kentucky
   - university-of-maryland

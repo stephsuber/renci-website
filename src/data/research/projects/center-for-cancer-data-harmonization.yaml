@@ -8,9 +8,10 @@ renciRole: !markdown |
  
   The center’s work is organized around five key areas: community development, data model harmonization, ontology and terminology ecosystem, tools and data quality, and program management. RENCI contributes expertise in incorporating ontologies into tools for data validation, harmonization, and quality control.
 members:
-  - jbalhoff
-  - gvaidya
-  - lchristopherson
+  - id: jbalhoff
+    role: Lead
+  - id: gvaidya
+  - id: lchristopherson
 partners:
   - oregon-state-university
   - oregon-hsu

@@ -4,17 +4,39 @@ description: >
   RENCI creates cyberinfrastructure solutions that enhance scientific research. With expertise in networking, architectures, distributed systems, and applications, our work enables secure and efficient collaboration and data management for cutting-edge computer science and data-intensive domain research.
 featuredImage: nrig.jpg
 members:
-  - ibaldin
-  - pruth
-  - amandal
-  - mcevik
-  - yxin
-  - exin
-  - szeng
-  - cwang
-  - escott
-  - kthareja
-  - mstealey
+  -
+    id: ibaldin
+    role: lead
+  -
+    id: pruth
+    role: member
+  -
+    id: amandal
+    role: member
+  -
+    id: mcevik
+    role: member
+  -
+    id: yxin
+    role: member
+  -
+    id: exin
+    role: member
+  -
+    id: szeng
+    role: member
+  -
+    id: cwang
+    role: member
+  -
+    id: escott
+    role: member
+  -
+    id: kthareja
+    role: member
+  -
+    id: mstealey
+    role: member
 projects:
   - aerpaw
   - atlanticwave-sdx

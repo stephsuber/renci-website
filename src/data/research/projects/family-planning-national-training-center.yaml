@@ -8,7 +8,8 @@ renciRole: !markdown |
    
   RENCI develops tools to help the project team extract insights from a set of maps to describe the roles and needs of individual contributors and to support ongoing planning for team initiatives. One tool, System Support Mapping, structures individuals' description of their role, responsibility, needs, and resource assessments in family planning initiatives. RENCI is developing an interactive editable visualization of the System Support Maps to further enhance this tool.
 members:
-  - hlander
+  - id: hlander
+    role: Lead
 partners:
   - unc-sph
 funding:

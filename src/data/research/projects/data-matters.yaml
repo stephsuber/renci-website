@@ -7,11 +7,12 @@ renciRole: !markdown |
   RENCI contributes to the planning, marketing, and management of the Data Matters Short Course Series and the overall [Data Matters](https://datamatters.org/) brand. 
 email: an@email.com
 members:
-  - sahalt
-  - dcarsey
-  - smckeen
-  - amiller
-  - subers
+  - id: sahalt
+    role: Lead
+  - id: dcarsey
+  - id: smckeen
+  - id: amiller
+  - id: subers
 partners:
   - odum-institute
   - nc-state-university
