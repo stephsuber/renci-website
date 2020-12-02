@@ -23,14 +23,14 @@ export const CollaborationsNetwork = () => {
   const [networkData, setNetworkData] = useState({ nodes: [], edges: [] })
   const groups = data.groups.edges.map(({ node }) => node)
   const collaborations = data.collaborations.edges.map(({ node }) => node)
-
-  // const [selectedNodes, setSelectedNodes] = useState([])
+  const [selectedNodeIDs, setSelectedNodeIDs] = useState([])
 
   const groupNode = useCallback((id, name) => ({
     type: 'group',
     id: id,
     name: name,
     color: theme.color.renciBlue,
+    selectedColor: '#567',
     val: 20,
   }), [theme.color])
 
@@ -39,6 +39,7 @@ export const CollaborationsNetwork = () => {
     id: id,
     name: name,
     color: theme.color.carolinaBlue,
+    selectedColor: '#567',
     val: 20,
   }), [theme.color])
 
@@ -47,6 +48,7 @@ export const CollaborationsNetwork = () => {
     id: id,
     name: name,
     color: theme.color.extended.contessa,
+    selectedColor: '#567',
     val: 10,
   }), [theme.color])
 
@@ -55,14 +57,12 @@ export const CollaborationsNetwork = () => {
     id: id,
     name: name,
     color: theme.color.extended.sherbet,
+    selectedColor: '#567',
     val: 5,
   }), [theme.color])
 
-  const neighbors = useCallback(node => {
-    const neighborhood = []
-    const incidentEdges = networkData.links.filter(({ source, target }) => source.id === node.id || target.id === node.id)
-    console.log(incidentEdges)
-    return neighborhood
+  const indicentEdges = useCallback(node => {
+    return networkData.links.filter(({ source, target }) => source.id === node.id || target.id === node.id)
   }, [networkData])
 
   useEffect(() => console.log(networkData), [networkData])
@@ -135,11 +135,17 @@ export const CollaborationsNetwork = () => {
             nodeLabel={ node => node.name }
             nodeVal={ node => node.val }
             nodeRelSize={ 3 }
-            nodeColor={ node => node.color }
+            nodeColor={ node => selectedNodeIDs.length ? (selectedNodeIDs.includes(node.id) ? node.selectedColor : node.color) : node.color }
+            linkColor={ edge => selectedNodeIDs.length  ? (selectedNodeIDs.includes(edge.source.id) && selectedNodeIDs.includes(edge.target.id)) ? `#666` : `#ccc` : `#999`}
             onNodeClick={
               node => {
-                console.log(node.id, node.name)
-                console.log(neighbors(node))
+                if (!node) return
+                let neighbors = []
+                indicentEdges(node).forEach(edge => {
+                  if (!neighbors.includes(edge.source.id)) { neighbors.push(edge.source.id) }
+                  if (!neighbors.includes(edge.target.id)) { neighbors.push(edge.target.id) }
+                })
+                setSelectedNodeIDs(JSON.stringify(neighbors.sort()) === JSON.stringify(selectedNodeIDs.sort()) ? [] : neighbors)
               }
             }
           />
