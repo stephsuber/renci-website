@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import { ArrowRightIcon } from '../icons'
+import { Icon } from '../icons'
 
 const Wrapper = styled(Link)(({ theme, float }) => `
     display: inline-flex;
@@ -25,6 +25,6 @@ const Wrapper = styled(Link)(({ theme, float }) => `
 
 export const ArrowLink = ({ text, ...props }) => (
     <Wrapper { ...props }>
-        { text } <ArrowRightIcon className="arrow-right" size={ 14 } />
+        { text } <Icon icon="arrow-right" className="arrow-right" size={ 14 } />
     </Wrapper>
 )
