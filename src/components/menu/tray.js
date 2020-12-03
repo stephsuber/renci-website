@@ -27,7 +27,7 @@ const Wrapper = styled.nav(({ theme }) => css`
         content: "";
         background-color: transparent;
         width: 100%;
-        height: 1rem;
+        height: 1.5rem;
         position: absolute;
         left: 0;
         bottom: 100%;
