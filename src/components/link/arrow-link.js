@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
-import { Icon } from '../icons'
+import { Icon } from '../icon'
 
 const Wrapper = styled(Link)(({ theme, float }) => `
     display: inline-flex;
