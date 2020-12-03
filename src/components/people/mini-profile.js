@@ -27,6 +27,7 @@ const Anchor = styled.a`
 const Name = styled(Subheading)`
   font-size: 110%;
   line-height: 1.5;
+  margin: 0;
 `
 
 const StaffRole = styled(Meta)`
