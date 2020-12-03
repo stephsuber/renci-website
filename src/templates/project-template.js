@@ -48,7 +48,7 @@ export default ({ data, pageContext }) => {
           {
             partners && (
               <Article title="Partners">
-                <ContributorsList contributors={ partners.sort((a,b) => a.name.toLowerCase() > b.name.toLowerCase()) } />
+                <ContributorsList contributors={ partners } />
               </Article>
             )
           }
@@ -56,7 +56,7 @@ export default ({ data, pageContext }) => {
           {
             funding && (
               <Article title="Funding">
-                <ContributorsList contributors={ funding.sort((a,b) => a.name.toLowerCase() > b.name.toLowerCase()) } />
+                <ContributorsList contributors={ funding } />
               </Article>
             )
           }
