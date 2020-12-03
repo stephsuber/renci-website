@@ -3,29 +3,31 @@ import styled from 'styled-components'
 import PropTypes from 'prop-types'
 import { Heading } from '../typography'
 
-const Header = styled(Heading)(({ theme }) => `
-  flex: 3;
-  margin: 0;
-  padding: 0;
-  @media (min-width: 992px) { text-align: right; }
+const DynamicHeading = styled(Heading)(({ theme }) => `
+  flex: 4;
   @media (min-width: 992px) {
-    padding: 0 1rem;
+    text-align: right;
   }
 `)
 
 const Wrapper = styled.section(({ theme, fullWidth }) => `
   width: 100%;
-  &:not(:first-child) {
-    border-top: 1px solid ${ theme.color.lightgrey };
-  }
   margin: 1rem auto;
   padding: ${ theme.spacing.large };
   display: flex;
   flex-direction: column;
+  &:not(:first-child) {
+    border-top: 1px solid ${ theme.color.lightgrey };
+  }
   ${
     fullWidth ? `
-      & ${ Header } { text-align: left; padding: 1rem 0; }
-      & ${ Content } { padding: 1rem 0; }
+      & ${ DynamicHeading } {
+        text-align: left;
+        padding: 1rem 0;
+      }
+      & ${ Content } {
+        padding: 1rem 0;
+      }
     ` : `
       @media (min-width: 992px) {
         flex-direction: row;
@@ -46,7 +48,7 @@ const Content = styled.div(({ theme }) => `
 export const Section = ({ title, children, fullWidth }) => {
   return (
     <Wrapper fullWidth={ fullWidth }>
-      { title && <Header>{ title }</Header> }
+      { title && <DynamicHeading>{ title }</DynamicHeading> }
       <Content>{ children }</Content>
     </Wrapper>
   )

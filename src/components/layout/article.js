@@ -10,24 +10,19 @@ const Wrapper = styled.article(({ theme }) => `
     padding: ${ theme.spacing.large } 0;
     border-top: 2px solid ${ theme.color.lightgrey };
   }
+  & .content {
+    // padding: ${ theme.spacing.medium } 0;
+  }
 `)
-
-const Header = styled(Subheading)`
-  margin: 0;
-  padding: 0;
-  font-weight: normal;
-`
-
-const Body = styled.div``
 
 export const Article = ({ title, titleLink, children }) => {
   return (
     <Wrapper>
-      { title && titleLink && <Header><Link to={ titleLink }>{title}</Link></Header> }
-      { title && !titleLink && <Header>{title}</Header> }
-      <Body>
+      { title && titleLink && <Subheading><Link to={ titleLink }>{title}</Link></Subheading> }
+      { title && !titleLink && <Subheading>{title}</Subheading> }
+      <div className="content">
         { children }
-      </Body>
+      </div>
     </Wrapper>
   )
 }
