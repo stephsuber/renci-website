@@ -13,7 +13,7 @@ const Wrapper = styled.div(({ theme }) => `
   }
 `)
 
-export const MembersList = ({ members }) => {
+export const PeopleList = ({ members }) => {
   const avatar = useAvatar()
   return (
     <Wrapper>

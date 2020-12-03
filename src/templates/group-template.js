@@ -5,7 +5,8 @@ import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
 import { ArrowLink } from '../components/link'
 import { List } from '../components/list'
-import { ContributorsList, MembersList } from '../components/contributors'
+import { PeopleList } from '../components/people'
+import { OrganizationsList } from '../components/organizations'
 
 export default ({ data, pageContext }) => {
     const { groupsYaml: {
@@ -66,21 +67,21 @@ export default ({ data, pageContext }) => {
                             {
                                 members && (
                                     <Article title="RENCI Team">
-                                        <MembersList members={ members } />
+                                        <PeopleList members={ members } />
                                     </Article>
                                 )
                             }
                             {
                                 partners && (
                                     <Article title="Partners">
-                                        <ContributorsList contributors={ partners } />
+                                        <OrganizationsList contributors={ partners } />
                                     </Article>
                                 )
                             }
                             {
                                 funding && (
                                     <Article title="Funding">
-                                        <ContributorsList contributors={ funding } />
+                                        <OrganizationsList contributors={ funding } />
                                     </Article>
                                 )
                             }

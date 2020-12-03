@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
-import { MembersList } from '../components/contributors'
+import { PeopleList } from '../components/people'
 
 export default ({ data, pageContext }) => {
     const { teamsYaml: {
@@ -32,7 +32,7 @@ export default ({ data, pageContext }) => {
 
                 <Section title="Team Members">
                     <Article>
-                        <MembersList members={ members } />
+                        <PeopleList members={ members } />
                     </Article>
                 </Section>
 

@@ -3,7 +3,8 @@ import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { SocialLinks } from '../components/social-links'
-import { ContributorsList, MembersList } from '../components/contributors'
+import { PeopleList } from '../components/people'
+import { OrganizationsList } from '../components/organizations'
 import { Link } from '../components/link'
 
 export default ({ data, pageContext }) => {
@@ -40,7 +41,7 @@ export default ({ data, pageContext }) => {
           {
             members && (
               <Article title="RENCI Team">
-                <MembersList members={ members } />
+                <PeopleList members={ members } />
               </Article>
             )
           }
@@ -48,7 +49,7 @@ export default ({ data, pageContext }) => {
           {
             partners && (
               <Article title="Partners">
-                <ContributorsList contributors={ partners } />
+                <OrganizationsList contributors={ partners } />
               </Article>
             )
           }
@@ -56,7 +57,7 @@ export default ({ data, pageContext }) => {
           {
             funding && (
               <Article title="Funding">
-                <ContributorsList contributors={ funding } />
+                <OrganizationsList contributors={ funding } />
               </Article>
             )
           }
