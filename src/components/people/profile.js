@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Img from 'gatsby-image'
 import { Title } from '../typography'
-import { SocialLinks } from '../social-links'
+import { SocialTray } from '../social-tray'
 
 const Wrapper = styled.div(({ theme }) => `
     display: grid;
@@ -66,7 +66,7 @@ export const Profile = ({ name, title, email, www, photo, phone }) => {
                 <Detail>{ phone }</Detail>
             </Details>
             <Footer>
-                <SocialLinks
+                <SocialTray
                     url={ www.url }
                     twitter={ www.twitter }
                     github={ www.github }

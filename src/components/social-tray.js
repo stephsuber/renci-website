@@ -24,7 +24,7 @@ const Wrapper = styled.div(({ theme }) => `
   }
 `)
 
-export const SocialLinks = ({ url, twitter, github, instagram, linkedin, youtube }) => {
+export const SocialTray = ({ url, twitter, github, instagram, linkedin, youtube }) => {
   return (
     <Wrapper>
       { url && <Tooltip tip="Website"><IconLink to={ url } aria-label="View Website" icon={ <Icon icon="link" size={ 24 } /> }></IconLink></Tooltip> }

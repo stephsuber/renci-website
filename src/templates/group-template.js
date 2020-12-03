@@ -2,7 +2,7 @@ import React, { Fragment, useEffect, useState } from 'react'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
-import { SocialLinks } from '../components/social-links'
+import { SocialTray } from '../components/social-tray'
 import { ArrowLink } from '../components/link'
 import { List } from '../components/list'
 import { PeopleList } from '../components/people'
@@ -38,7 +38,7 @@ export default ({ data, pageContext }) => {
             </Hero>
 
             <Container>
-                <SocialLinks url={ www.url } twitter={ www.twitter } github={ www.github } />
+                <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
 
                 {
                     projects && (
