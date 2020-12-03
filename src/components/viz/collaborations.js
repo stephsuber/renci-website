@@ -9,9 +9,6 @@ const Wrapper = styled.div(({ theme }) => `
   margin: 2rem 0;
   border: 1px solid #eee;
   overflow: hidden;
-  & canvas circle {
-    cursor: pointer;
-  }
   & .graph-tooltip {
     font-size: 66% !important;
     background-color: ${ theme.color.black } !important;
