@@ -74,10 +74,10 @@ export const CollaborationsNetwork = () => {
     return graphData.links.filter(({ source, target }) => source.id === node.id || target.id === node.id)
   }, [graphData])
 
-  const highlightNode = useCallback(({ id, x, y, val, color }, context) => {
+  const highlightNode = useCallback(({ x, y, val }, context) => {
     context.fillStyle = '#222'
     context.beginPath()
-    context.arc(x, y, Math.sqrt(15 * val), 0, 2 * Math.PI, false)
+    context.arc(x, y, Math.sqrt(11 * val), 0, 2 * Math.PI, false)
     context.lineWidth = 1
     context.strokeStyle = '#333'
     context.stroke()
