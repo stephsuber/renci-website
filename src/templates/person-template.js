@@ -19,6 +19,7 @@ export default ({ data, pageContext }) => {
       bio,
       groups,
       collaborations,
+      projects,
       teams,
     }
   } = data
@@ -91,6 +92,13 @@ export const personQuery = graphql`
         }
       }
       collaborations {
+        id
+        name
+        fields {
+          path
+        }
+      }
+      projects {
         id
         name
         fields {

@@ -29,6 +29,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       teams: [TeamsYaml] @link(by: "members.id", from: "id")
       groups: [GroupsYaml] @link(by: "members.id", from: "id")
       collaborations: [CollaborationsYaml] @link(by: "members.id", from: "id")
+      projects: [ProjectsYaml] @link(by: "members.id", from: "id")
       role: String
     }
     type OrganizationsYaml implements Node {
@@ -77,6 +78,16 @@ exports.createResolvers = ({ actions, createResolvers }) => {
           return context.nodeModel.runQuery({
             query: { filter: { members: { elemMatch: { id: { eq: source.id } } } } },
             type: "CollaborationsYaml",
+            firstOnly: false,
+          })
+        },
+      },
+      projects: {
+        type: ["ProjectsYaml"],
+        resolve(source, args, context, info) {
+          return context.nodeModel.runQuery({
+            query: { filter: { members: { elemMatch: { id: { eq: source.id } } } } },
+            type: "ProjectsYaml",
             firstOnly: false,
           })
         },
