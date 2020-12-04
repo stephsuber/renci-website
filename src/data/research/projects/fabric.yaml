@@ -14,7 +14,7 @@ renciRole: !markdown |
   To advance cybersecurity, FABRIC will enable at-scale, more realistic research by peering with production networks to observe behavior. It will also integrate high-performance computing, wireless, and Internet of Things functionality to create a diverse environment combining programmable core and edge networks, large computational resources, and multiple computing capabilities including machine learning and artificial intelligence.
 members:
   - id: ibaldin
-    role: Lead
+    role: Principle Investigator
   - id: efu
   - id: kthareja
   - id: mtavares

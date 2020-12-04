@@ -10,17 +10,16 @@ renciRole: !markdown |
 
   Though the primary goal of the BioData Catalyst project is to build a data science platform, at its core, this is a people-centric endeavor. The Coordinating Center is in place to support BioData Catalyst as a community working to collaboratively solve technical and scientific challenges.
 members:
-  - id: sahalt
-    role: Lead
-  - id: sdavis
-  - id: marcussamie86
-  - id: cerdmann
-  - id: pkerr
-  - id: clenhardt
-  - id: amiller
-  - id: ppatton
-  - id: subers
-  - id: mwatson
+  - sahalt
+  - sdavis
+  - marcussamie86
+  - cerdmann
+  - pkerr
+  - clenhardt
+  - amiller
+  - ppatton
+  - subers
+  - mwatson
 partners:
   - broad-institute
   - rti-international
