@@ -119,7 +119,7 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         resolve(source, args, context, info) {
           if (!source.members) { return [] }
           const memberIds = source.members.map(member => member.id)
-          console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
+          // console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
           return context.nodeModel.getNodesByIds({ ids: memberIds })
             .map(node => {
               const index = source.members.findIndex(member => member.id === node.id)
@@ -155,7 +155,6 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         resolve(source, args, context, info) {
           if (!source.members) { return [] }
           const memberIds = source.members.map(member => member.id)
-          console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
           return context.nodeModel.getNodesByIds({ ids: memberIds })
             .map(node => {
               const index = source.members.findIndex(member => member.id === node.id)
@@ -183,7 +182,7 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         resolve(source, args, context, info) {
           if (!source.members) { return [] }
           const memberIds = source.members.map(member => member.id)
-          console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
+          // console.log(source.members.map(({ id, role }) => `${ id } (${ role })`))
           return context.nodeModel.getNodesByIds({ ids: memberIds })
             .map(node => {
               const index = source.members.findIndex(member => member.id === node.id)
