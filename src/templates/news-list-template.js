@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby'
 import { Container, Hero, HorizontalRule } from '../components/layout'
 import { Meta, Title } from '../components/typography'
 import { Visible } from 'react-grid-system'
-import { ArrowLeftIcon, ArrowRightIcon } from '../components/icon'
+import { Icon } from '../components/icon'
 import { TagLink } from '../components/link'
 
 export default ({ data, pageContext }) => {

@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby'
 import { Container, Hero, HorizontalRule } from '../components/layout'
 import { Meta, Title } from '../components/typography'
 import { Visible } from 'react-grid-system'
-import { ArrowLeftIcon, ArrowRightIcon } from '../components/icon'
+import { Icon } from '../components/icon'
 import { TagLink } from '../components/link'
 
 export default ({ data, pageContext }) => {
@@ -51,7 +51,7 @@ export default ({ data, pageContext }) => {
               prevArticle && (
                 <Fragment>
                   <Link to={ prevArticle.path } style={{ display: 'inline-flex', justifyContent: 'flex-start', alignItems: 'center' }}>
-                    <ArrowLeftIcon size={ 16 } fill={ theme.color.darkgrey } />
+                    <Icon icon="arrow-left" size={ 16 } fill={ theme.color.darkgrey } />
                     PREVIOUS <Visible md lg xl>ARTICLE</Visible><br/>
                   </Link>
                   <Meta style={{ paddingLeft: '1rem' }}>{ prevArticle.frontmatter.title }</Meta>
@@ -66,7 +66,7 @@ export default ({ data, pageContext }) => {
                 <Fragment>
                   <Link to={ nextArticle.path } style={{ display: 'inline-flex', justifyContent: 'flex-end', alignItems: 'center' }}>
                     NEXT <Visible md lg xl>ARTICLE</Visible>
-                    <ArrowRightIcon size={ 16 } fill={ theme.color.darkgrey } />
+                    <Icon icon="arrow-right" size={ 16 } fill={ theme.color.darkgrey } />
                   </Link>
                   <Meta style={{ paddingRight: '1rem' }}>{ nextArticle.frontmatter.title }</Meta>
                 </Fragment>
