@@ -24,7 +24,7 @@ export default ({ data, pageContext }) => {
     }
   } = data
   const avatar = useAvatar()
-  const contributions = [].concat(groups || [], collaborations || [], teams || [])
+  const contributions = [].concat(groups || [], collaborations || [], teams || [], projects || [])
     .sort((a, b) => a.name > b.name)
 
   return (
