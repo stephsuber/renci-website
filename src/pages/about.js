@@ -34,7 +34,7 @@ const AboutPage = () => {
         </Article>
 
         <Article title={ `Our Collaborators (${ organizations.length })` }>
-          <OrganizationsList contributors={ organizations } />
+          <OrganizationsList inline contributors={ organizations } />
           <CollaborationsNetwork />
         </Article>
       </Section>
