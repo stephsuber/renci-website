@@ -11,6 +11,7 @@ export const theme = {
             moss: '#5e9b8b',
             contessa: '#c16a5d',
             sherbet: '#ffa872',
+            orange: '#df8852',
         },
         black: '#181818',
         darkgrey: '#3e3e3e',

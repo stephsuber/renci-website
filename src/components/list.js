@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import styled from 'styled-components'
 
 export const Wrapper = styled.ul(({ theme, bullets, inline }) => `
@@ -7,7 +7,7 @@ export const Wrapper = styled.ul(({ theme, bullets, inline }) => `
   list-style-type: ${ bullets };
   & li {
     display: inline;
-    margin-right: ${ theme.spacing.small };
+    margin-right: ${ inline ? 0 : theme.spacing.small };
   }
 `)
 
@@ -20,7 +20,14 @@ const ListItem = styled.li(({ theme }) => `
 export const List = ({ items, bullets = 'none', inline = false, ...props }) => {
   return (
     <Wrapper bullets={ bullets } inline={ inline }>
-      { items.map(item => <ListItem key={ item.key }>{ item }</ListItem>) }
+      {
+        items.map((item, i) => (
+          <Fragment>
+            <ListItem key={ item.key }>{ item }</ListItem>
+            { i + 1 < items.length && ', ' }
+          </Fragment>
+        ))
+      }
     </Wrapper>
   )
 }
