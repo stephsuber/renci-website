@@ -34,5 +34,5 @@ projects:
   - scidas
 www:
   url: https://nrig.renci.org
-  github: null
+  github: nah
   twitter: nope

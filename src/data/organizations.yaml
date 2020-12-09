@@ -1,9 +1,18 @@
+- name: Agriculture Victoria
+  id: agriculture-victoria
+  url: https://agriculture.vic.gov.au/
 - name: Argonne National Labs
   id: argonne-national-labs
   url: https://www.anl.gov/
 - name: Battelle Memorial Institute
   id: battelle
   url: https://www.battelle.org/
+- name: Bayer
+  id: bayer
+  url: https://www.bayer.com/
+- name: Bibliothèque et Archives nationales du Québec
+  id: banq
+  url: https://banq.qc.ca/
 - name: Broad Institute
   id: broad-institute
   url: https://www.broadinstitute.org/
@@ -19,9 +28,15 @@
 - name: Children's Hospital of Philadelphia
   id: chop
   url: https://www.chop.edu/
+- name: CINES
+  id: cines
+  url: https://www.cines.fr/en/
 - name: Clemson University
   id: clemson-university
   url: https://www.clemson.edu/
+- name: Cloudian
+  id: cloudian
+  url: https://cloudian.com/
 - name: Coastal Resilience Center
   id: coastal-resilience-center
   url: http://coastalresiliencecenter.unc.edu/
@@ -37,6 +52,9 @@
 - name: Davidson College
   id: davidson-college
   url: https://www.davidson.edu/
+- name: DDN
+  id: ddn
+  url: https://www.ddn.com/
 - name: Deliotte Consulting
   id: deliotte-consulting
   url: https://www2.deloitte.com/global/en/services/consulting-deloitte.html
@@ -95,12 +113,21 @@
 - name: Johns Hopkins University
   id: johns-hopkins-university
   url: https://www.jhu.edu/
+- name: KU Leuven
+  id: ku-leuven
+  url: https://www.kuleuven.be/english
 - name: Lawrence Berkeley National Laboratory
   id: lbnl
   url: https://www.lbl.gov/
 - name: Leidos Biomedical
   id: leidos-biomedical
   url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
+- name: Maastricht University
+  id: maastricht-university
+  url: https://datahub.mumc.maastrichtuniversity.nl/datahub
+- name: Medical Science & Computing
+  id: msc
+  url: http://www.mscweb.com/
 - name: Michigan Imputation Server
   id: michigan-imputation-server
   url: https://imputationserver.sph.umich.edu/index.html#!pages/home
@@ -128,6 +155,9 @@
 - name: NC TraCS
   id: nc-tracs
   url: https://tracs.unc.edu/
+- name: NetApp
+  id: netapp
+  url: https://www.netapp.com/
 - name: NHLBI Informatics Research Center
   id: nhlbi-irc
   url: https://www.nhlbiwgs.org/group/irc
@@ -137,6 +167,9 @@
 - name: NIH National Human Genome Research Institute
   id: nih-nhgri
   url: https://www.genome.gov/
+- name: NIH National Institute of Health Environmental health Sciences
+  id: nih-niehs
+  url: https://www.niehs.nih.gov/
 - name: NIH Office of Data Science Strategy
   id: nih-odss
   url: https://datascience.nih.gov/about/odss
@@ -152,6 +185,9 @@
 - name: Oak Ridge National Laboratory
   id: ornl
   url: https://www.ornl.gov/
+- name: OpenIO
+  id: openio
+  url: https://www.openio.io/
 - name: Oregon Health Sciences University
   id: oregon-hsu
   url: https://www.ohsu.edu/
@@ -179,6 +215,12 @@
 - name: Seven Bridges Genomics, Inc.
   id: seven-bridges
   url: https://www.sevenbridges.com/
+- name: SNIC
+  id: snic
+  url: https://www.snic.se/
+- name: SoftIron
+  id: softiron
+  url: https://www.softiron.com/
 - name: SRI International
   id: sri-international
   url: https://www.sri.com/
@@ -191,6 +233,12 @@
 - name: Stony Brook University
   id: stonybrook-university
   url: http://www.stonybrook.edu/
+- name: SURF
+  id: surf
+  url: https://www.surf.nl/en
+- name: SUSE
+  id: suse
+  url: https://www.suse.com/
 - name: Texas Advanced Computing Center
   id: tacc
   url: https://www.tacc.utexas.edu/
@@ -215,6 +263,9 @@
 - name: Universidad San Francisco de Quito
   id: usfq
   url: https://www.usfq.edu.ec/
+- name: University College London
+  id: university-college-london
+  url: https://www.ucl.ac.uk/
 - name: University of California San Diego
   id: ucsd
   url: https://www.ucsd.edu/
@@ -224,12 +275,18 @@
 - name: University of Chicago Computation Institute
   id: chicago-ci
   url: https://ci.uchicago.edu/
+- name: University of Colorado Boulder Research Computing
+  id: university-of-colorado-boulder-resesarch-computing
+  url: https://www.colorado.edu/rc
 - name: University of Delaware
   id: university-of-delaware
   url: https://www.udel.edu/
 - name: University of Florida
   id: university-of-florida
   url: http://www.ufl.edu/
+- name: University of Groningen
+  id: university-of-groningen
+  url: https://www.rug.nl/
 - name: University of Kentucky
   id: university-of-kentucky
   url: https://www.uk.edu/
@@ -324,9 +381,18 @@
 - name: US Ignite
   id: us-ignite
   url: https://www.us-ignite.org/
+- name: Utrecht University
+  id: utrecht-university
+  url: https://www.uu.nl/en/
 - name: Vanderbilt University Medical Center
   id: vumc
   url: https://www.vumc.org/
 - name: Virginia Polytechnic Institute and State University
   id: virginia-tech
   url: https://vt.edu/
+- name: Wellcome Sanger Institute
+  id: wellcome-sanger-institute
+  url: https://www.sanger.ac.uk/
+- name: Western Digital
+  id: western-digital
+  url: https://www.westerndigital.com/

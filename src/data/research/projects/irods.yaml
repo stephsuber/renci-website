@@ -1,0 +1,22 @@
+id: irods
+name: iRODS
+archived: false
+email: fake@email.com
+description: >
+  iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS 
+renciRole: !markdown |
+  iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS iRODS 
+www:
+  url: https://www.irods.org
+  github: null
+  twitter: null
+members:
+  - id: jcoposky
+  - id: tgr
+  - id: aking
+  - id: dmoore
+  - id: jgill
+  - id: kdraughn
+  - id: jjames
+partners:
+funding:

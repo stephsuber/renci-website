@@ -19,6 +19,8 @@ members:
   - subers
   - amiller
   - clenhardt
+projects:
+  - data-matters
 partners:
   - nc-state-university
   - renci
@@ -27,8 +29,6 @@ partners:
   - unc-greensboro
 funding:
   - nsf
-projects:
-  - data-matters
 www:
   url: https://www.datascienceconsortium.org/
   github: ""

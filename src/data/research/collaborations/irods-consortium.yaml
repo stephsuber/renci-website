@@ -1,0 +1,51 @@
+id: irods-consortium
+name: iRODS Consortium
+featuredImage: irods-consortium.png
+description: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+renciRole: !markdown |
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,
+  consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+projects:
+  - irods
+members:
+  - jcoposky
+  - tgr
+  - aking
+  - dmoore
+  - jgill
+  - kdraughn
+  - jjames
+partners:
+  - renci
+  - bayer
+  - nih-niehs
+  - ddn
+  - western-digital
+  - wellcome-sanger-institute
+  - utrecht-university
+  - msc
+  - university-college-london
+  - snic
+  - university-of-groningen
+  - surf
+  - netapp
+  - tacc
+  - cloudian
+  - maastricht-university
+  - university-of-colorado-boulder-resesarch-computing
+  - suse
+  - agriculture-victoria
+  - openio
+  - ku-leuven
+  - banq
+  - cines
+  - softiron
+funding:
+www:
+  url: https://www.irods.org
+  github: irods
+  twitter: iRODS

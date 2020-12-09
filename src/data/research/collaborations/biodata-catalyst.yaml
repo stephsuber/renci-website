@@ -20,6 +20,9 @@ members:
   - ppatton
   - subers
   - mwatson
+projects:
+  - bdc3-cici
+  - bdc3-fellows
 partners:
   - broad-institute
   - rti-international
@@ -34,9 +37,6 @@ partners:
   - vumc
 funding:
   - nhlbi
-projects:
-  - bdc3-cici
-  - bdc3-fellows
 www:
   url: https://biodatacatalyst.nhlbi.nih.gov/
   github: 
