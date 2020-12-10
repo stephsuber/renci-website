@@ -43,7 +43,7 @@ export default ({ data, pageContext }) => {
                 
                 {
                     <Section title="RENCI's Role">
-                        <Paragraph dangerouslySetInnerHTML={{ __html: renciRole }} />
+                        <div dangerouslySetInnerHTML={{ __html: renciRole }} />
                     </Section>
                 }
 

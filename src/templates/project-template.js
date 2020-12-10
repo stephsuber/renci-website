@@ -25,7 +25,7 @@ export default ({ data, pageContext }) => {
       <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
         { group && group[0] && <Link to={ group[0].fields.path }>{ group[0].name }</Link> }
         <Title>{ name }</Title>
-        <Paragraph dangerouslySetInnerHTML={{ __html: description }} />
+        <div dangerouslySetInnerHTML={{ __html: description }} />
       </Hero>
 
       <Container>
@@ -33,7 +33,7 @@ export default ({ data, pageContext }) => {
         
         <Section title="RENCI's Role">
           <Article>
-            <Paragraph dangerouslySetInnerHTML={{ __html: renciRole }} />
+            <div dangerouslySetInnerHTML={{ __html: renciRole }} />
           </Article>
         </Section>
 
