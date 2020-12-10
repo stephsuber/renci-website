@@ -15,6 +15,7 @@ const Wrapper = styled.div(({ theme }) => `
   display: flex;
   & .graph-tooltip {
     font-size: 66% !important;
+    text-align: center;
     background-color: ${ theme.color.black } !important;
     padding: ${ theme.spacing.xs } !important;
     line-height: 1.5 !important;
