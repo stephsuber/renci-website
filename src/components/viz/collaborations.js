@@ -41,6 +41,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
   const collaborations = data.collaborations.edges.map(({ node }) => node)
   const [selectedNodes, setSelectedNodes] = useState(new Set())
   const [selectedRootNode, setSelectedRootNode] = useState(null)
+  const [fundingParticles, setFundingParticles] = useState(false)
 
   const nodeStyles = {
     person: {
@@ -146,6 +147,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
   //
 
   const createNode = useCallback((type, id, name) => ({ id: id, name: name, type: type, ...nodeStyles[type] }), [theme.color])
+  const createEdge = useCallback((edgeType, sourceID, targetID) => ({ type: edgeType, source: sourceID, target: targetID, value: 10 }), [theme.color])
 
   useEffect(() => {
     let nodes = []
@@ -160,7 +162,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
         group.partners.forEach(partner => {
           // add partner node & project--partner edges
           nodes.findIndex(node => node.id === partner.id) === -1 && nodes.push(createNode('organization', partner.id, partner.name))
-          edges.findIndex(edge => edge.source === group.id && edge.target === partner.id) === -1 && edges.push({ source: group.id, target: partner.id, value: 10, type: 'partner' })
+          edges.findIndex(edge => edge.source === group.id && edge.target === partner.id) === -1 && edges.push(createEdge('partner', group.id, partner.id))
         })
       }
 
@@ -168,20 +170,20 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
         group.funding.forEach(funder => {
           // add funder node & project--funder edges
           nodes.findIndex(node => node.id === funder.id) === -1 && nodes.push(createNode('organization', funder.id, funder.name))
-          edges.findIndex(edge => edge.source === group.id && edge.target === funder.id) === -1 && edges.push({ source: group.id, target: funder.id, value: 15, type: 'funding' })
+          edges.findIndex(edge => edge.source === group.id && edge.target === funder.id) === -1 && edges.push(createEdge('funding', group.id, funder.id))
         })
       }
       if (group.projects) {
         group.projects.forEach(project => {
           // add project node & group--project edges
           nodes.findIndex(node => node.id === project.id) === -1 && nodes.push(createNode('project', project.id, project.name))
-          edges.findIndex(edge => edge.source === group.id && edge.target === project.id) === -1 && edges.push({ source: group.id, target: project.id, value: 35, type: 'group-project' })
+          edges.findIndex(edge => edge.source === group.id && edge.target === project.id) === -1 && edges.push(createEdge('group-project', group.id, project.id))
 
           if (project.partners) {
             project.partners.forEach(partner => {
               // add partner node & project--partner edges
               nodes.findIndex(node => node.id === partner.id) === -1 && nodes.push(createNode('organization', partner.id, partner.name))
-              edges.findIndex(edge => edge.source === project.id && edge.target === partner.id) === -1 && edges.push({ source: project.id, target: partner.id, value: 10, type: 'partner' })
+              edges.findIndex(edge => edge.source === project.id && edge.target === partner.id) === -1 && edges.push(createEdge('partner', project.id, partner.id))
             })
           }
 
@@ -189,7 +191,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
             project.funding.forEach(funder => {
               // add funder node & project--funder edges
               nodes.findIndex(node => node.id === funder.id) === -1 && nodes.push(createNode('organization', funder.id, funder.name))
-              edges.findIndex(edge => edge.source === project.id && edge.target === funder.id) === -1 && edges.push({ source: project.id, target: funder.id, value: 15, type: 'funding' })
+              edges.findIndex(edge => edge.source === project.id && edge.target === funder.id) === -1 && edges.push(createEdge('funding', project.id, funder.id))
             })
           }
         })
@@ -226,10 +228,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
   return (
     <Wrapper>
       <div className="legend">
-        <Button small variant="info" style={{ width: '100%' }}>Groups</Button>
-        <Button small variant="danger" style={{ width: '100%' }}>Projects</Button>
-        <Button small variant="warning" style={{ width: '100%' }}>Partners</Button>
-        <Button small variant="warning" style={{ width: '100%' }}>Funding</Button>
+        <Button small variant={ fundingParticles ? 'warning' : '' } style={{ width: '100%' }} onClick={ () => setFundingParticles(!fundingParticles) }>Funding</Button>
       </div>
       <div className="graph">
         {
@@ -246,9 +245,9 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
               onNodeClick={ handleNodeClick }
               nodeCanvasObjectMode={ node => selectedRootNode === node ? 'after' : selectedNodes.has(node) ? 'before' : undefined }
               nodeCanvasObject={ highlightNode }
-              linkDirectionalParticles={ edgeParticles }
-              linkDirectionalParticleSpeed={ edgeParticlesSpeed }
-              linkDirectionalParticleColor={ e => edgeStyles[e.type].particle.color }
+              linkDirectionalParticles={ fundingParticles && edgeParticles }
+              linkDirectionalParticleSpeed={ fundingParticles && edgeParticlesSpeed }
+              linkDirectionalParticleColor={ e => fundingParticles && edgeStyles[e.type].particle.color }
               linkLineDesh={ e => e.type === 'group-project' ? [5, 15] : [1,2] }
             />
           )
