@@ -6,7 +6,7 @@ export const Wrapper = styled.ul(({ theme, bullets, inline }) => `
   margin: ${ theme.spacing.small } 0;
   list-style-type: ${ bullets };
   & li {
-    display: inline;
+    display: ${ inline === true ? 'inline' : 'block' };
     margin-right: ${ inline ? 0 : theme.spacing.small };
   }
 `)
@@ -14,7 +14,7 @@ export const Wrapper = styled.ul(({ theme, bullets, inline }) => `
 const ListItem = styled.li(({ theme }) => `
   padding: 0;
   margin: 0;
-  margin-bottom: ${ theme.spacing.small };
+  margin-bottom: ${ theme.spacing.extraSmall };
 `)
 
 export const List = ({ items, bullets = 'none', inline = false, ...props }) => {
@@ -24,7 +24,7 @@ export const List = ({ items, bullets = 'none', inline = false, ...props }) => {
         items.map((item, i) => (
           <Fragment>
             <ListItem key={ item.key }>{ item }</ListItem>
-            { i + 1 < items.length && ', ' }
+            { inline && i + 1 < items.length && ', ' }
           </Fragment>
         ))
       }
