@@ -1,7 +1,7 @@
 id: health-informatics
 name: Health Informatics
 description: healthy information
-featuredImage: null
+featuredImage: health-informatics.jpg
 members:
   - id: kwilhelmsen
     role: Lead
