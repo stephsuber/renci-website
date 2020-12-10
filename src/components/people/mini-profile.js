@@ -30,11 +30,12 @@ const Name = styled(Subheading)`
   margin: 0;
 `
 
-const StaffRole = styled(Meta)`
+const Descriptor = styled(Meta)`
   font-size: 80%;
+  line-height: 1.5;
 `
 
-export const MiniProfile = ({ name, role, path, photo, anchorId }) => {
+export const MiniProfile = ({ name, descriptor, role, path, photo, anchorId }) => {
   return (
     <Wrapper>
       { anchorId && <Anchor id={ anchorId } /> }
@@ -42,7 +43,7 @@ export const MiniProfile = ({ name, role, path, photo, anchorId }) => {
         <Img style={{ height: '200px', width: '200px' }} fixed={ photo } />
         <Name>{ name }</Name>
       </Link>
-      <StaffRole>{ role }</StaffRole>
+      <Descriptor>{ descriptor }</Descriptor>
     </Wrapper>
   )
 }

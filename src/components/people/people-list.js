@@ -25,7 +25,7 @@ export const PeopleList = ({ members }) => {
               anchorId={ person.id }
               key={ person.id }
               name={ person.fullName }
-              role={ person.role }
+              descriptor={ person.role }
               photo={ photo }
               path={ person.fields.path }
             />
