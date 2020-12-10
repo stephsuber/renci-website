@@ -3,7 +3,7 @@ title: OpenIO joins iRODS Consortium
 slug: openio-joins-irods
 spotlight: true
 publish_date: 2019-11-14
-author: subers
+author: stephanie-suber
 featuredImage: ./openio-pattern.png
 groups: ["irods"]
 projects: []
@@ -23,7 +23,7 @@ iRODS is free open source software for data discovery, workflow automation, secu
 
 “High-performance storage solutions like OpenIO derive a great deal of value from iRODS’ ability to efficiently organize data,” said Jason Coposky, Executive Director, iRODS Consortium. “Due to their focus on open source, our organizations’ goals are well aligned. Given that, we are well positioned to closely integrate iRODS and OpenIO as a competitive solution, which will benefit the broader open source community.”  
 
-OpenIO plans to use iRODS to orchestrate the movement of data while taking advantage of all of the performance benefits and features of the OpenIO storage solution. Given iRODS’ strong track record managing academic research data, OpenIO Co-Founder and CTO Jean-François Smigielski also sees the collaboration as an opportunity to enhance OpenIO’s ability to address the needs of academic researchers through an integration with iRODS.
+OpenIO plans to use iRODS to orchestrate the movement of data while talan-king advantage of all of the performance benefits and features of the OpenIO storage solution. Given iRODS’ strong track record managing academic research data, OpenIO Co-Founder and CTO Jean-François Smigielski also sees the collaboration as an opportunity to enhance OpenIO’s ability to address the needs of academic researchers through an integration with iRODS.
 
 “OpenIO is an open core solution and we are firm believers in open source technology,” said Smigielski. “We decided to become an iRODS Consortium member because iRODS has the same open source philosophy, and because of the strong link that exists between storage tiers and orchestrators. We wish to work closely with iRODS so that we can take advantage of their evolving features and technology, which will enable OpenIO to propose new and innovative features as early as possible.”
 

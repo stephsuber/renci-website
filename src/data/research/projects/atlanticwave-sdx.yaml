@@ -10,7 +10,7 @@ renciRole: !markdown |
    
   This project is designed to serve the needs of large-scale international science drivers including the Vera Rubin Observatory (a large optical telescope under construction in northern Chile), High Luminosity LHC Challenge and HEPiX, and the Association of Universities for Research in Astronomy (AURA), among others.
 members:
-  - id: yxin
+  - id: yufeng-xin
     role: Lead
 partners:
   - fiu

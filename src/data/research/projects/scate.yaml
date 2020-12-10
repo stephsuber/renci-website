@@ -6,9 +6,9 @@ description: >
 renciRole: !markdown |
   To help researchers recombine biological trait data, model trait evolution, and generate testable hypotheses for the drivers of trait adaptation, RENCI and its collaborators are building a centralized computational infrastructure that affords comparative analysis tools the ability to compute with morphological knowledge, through scalable online application programming interfaces (APIs). This will allow developers and users of comparative analysis tools to tap into machine reasoning-powered capabilities and data with machine-actionable semantics. RENCI leads semantic technology infrastructure development for the project.
 members:
-  - id: jbalhoff
+  - id: jim-balhoff
     role: Lead
-  - id: sshrivastava
+  - id: shalki-shrivastava
 partners:
   - unc-biology
   - duke-university

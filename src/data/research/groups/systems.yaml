@@ -3,19 +3,19 @@ name: Software Systems Architecture
 description: systems systems systems systems systems 
 featuredImage: null
 members:
-  - id: scox
+  - id: steve-cox
     role: Lead
-  - id: hxu
-  - id: mwatson
-  - id: mshoffner
-  - id: mkothapalli
+  - id: hao-xu
+  - id: matt-watson
+  - id: michael-shoffner
+  - id: murali-kothapalli
   - id: amukherjee
-  - id: igilani
+  - id: isma-gilani
   - id: mrajarikam
   - id: dsikes
-  - id: fjiang
-  - id: okapeljushnik
-  - id: ccalloway
+  - id: fan-jiang
+  - id: oleg-kapeljushnik
+  - id: chris-calloway
 projects:
   - scidas
   - secure-research-space

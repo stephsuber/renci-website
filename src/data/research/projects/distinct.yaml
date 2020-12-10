@@ -6,7 +6,7 @@ description: DISTINCT aims to improve the robustness and reliability of electric
 renciRole: !markdown |
   This project aims to develop a transformative distributed networked control system for wide-area power grid systems. RENCI is one of three collaborating institutions, along with North Carolina State University and the University of South Florida. The project uses the RENCI-developed [ExoGENI](http://www.exogeni.net/) testbed. 
 members:
-  - id: yxin
+  - id: yufeng-xin
     role: Lead
 partners:
   - nc-state-university

@@ -6,10 +6,10 @@ renciRole: !markdown |
   RENCI is coordinating and working with partners to pilot an interoperable cloud data and computing infrastructure by leveraging core BioData Catalyst services. They are also working to provide an imputation server within the interoperable, secure, cloud native framework and to develop cost and optimization models of cloud computations. 
 email: some@email.com
 members:
-  - id: sahalt
+  - id: stan-ahalt
     role: Lead
-  - id: scox
-  - id: amieczkowska
+  - id: steve-cox
+  - id: asia-mieczkowska
 partners:
   - rti-international
   - michigan-imputation-server

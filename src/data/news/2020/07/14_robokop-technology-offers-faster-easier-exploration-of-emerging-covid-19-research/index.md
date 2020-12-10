@@ -4,7 +4,7 @@ slug: robokop-technology-offers-faster-easier-exploration-of-emerging-covid-19-r
 link: https://renci.org/blog/robokop-technology-offers-faster-easier-exploration-of-emerging-covid-19-research/
 spotlight: false
 publish_date: 2020-07-14T14:33:42
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 

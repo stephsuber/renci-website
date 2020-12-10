@@ -4,7 +4,7 @@ slug: cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-a
 link: https://renci.org/news/cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility/
 spotlight: false
 publish_date: 2020-08-17T06:25:09
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
@@ -52,7 +52,7 @@ tags:
 
 
 
-<p>“The planned additions to Chameleon will allow academic researchers to experiment with advanced programmable networks in a large-scale cloud environment,” said <a href="http://nrig.renci.org/staff/pruth/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Paul Ruth</a>, assistant director of network research and infrastructure at RENCI and co-PI on the Chameleon project. “We are excited to extend Chameleon’s cloud experiments into RENCI’s FABRIC testbed, which will facilitate larger, more diverse networking experiments.” </p>
+<p>“The planned additions to Chameleon will allow academic researchers to experiment with advanced programmable networks in a large-scale cloud environment,” said <a href="http://nrig.renci.org/staff/paul-ruth/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Paul Ruth</a>, assistant director of network research and infrastructure at RENCI and co-PI on the Chameleon project. “We are excited to extend Chameleon’s cloud experiments into RENCI’s FABRIC testbed, which will facilitate larger, more diverse networking experiments.” </p>
 
 
 

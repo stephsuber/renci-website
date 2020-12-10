@@ -3,15 +3,15 @@ title: Fake Article
 slug: fake-article
 spotlight: true
 publish_date: 2020-06-18
-author: mwatson
+author: matt-watson
 featuredImage: ./feet.jpg
 groups:
     - nrig
 projects:
     - fabric
 people:
-    - ibaldin
-    - subers
+    - ilya-baldin
+    - stephanie-suber
 teams: 
     - ood
 collaborations:

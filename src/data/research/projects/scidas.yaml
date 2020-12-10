@@ -16,11 +16,11 @@ renciRole: !markdown |
 
   The fluid and flexible SciDAS cyberinfrastructure will help scientists work with terabytes to exabytes of data more efficiently and effectively. The SciDAS team works closely with domain scientists to refine the system with real data sets and use cases, with the first scientific use case involving building gene co-expression networks for systems biology.
 members:
-  - id: scox
+  - id: steve-cox
     role: Lead
-  - id: igilani
+  - id: isma-gilani
   - id: msin
-  - id: mkothapalli
+  - id: murali-kothapalli
 partners:
   - clemson-university
   - university-of-washington

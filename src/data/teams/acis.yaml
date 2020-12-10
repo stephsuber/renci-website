@@ -3,11 +3,11 @@ name: Advanced Cyberinfrastructure Support
 description: Advanced Cyberinfrastructure Support
 featuredImage: null
 members:
-  - msliwowski
-  - rjones
-  - cdickens
-  - lleathers
-  - crutledge
+  - marcin-sliwowski
+  - roberrt-jones
+  - cole-dickens
+  - lance-leathers
+  - chris-rutledge
 projects:
 online_presence:
   url: https://wiki.renci.org/

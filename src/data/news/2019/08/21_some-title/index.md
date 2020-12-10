@@ -2,15 +2,15 @@
 title: Some Title
 slug: some-title
 publish_date: 2019-08-23
-author: mwatson
+author: matt-watson
 featuredImage: ./pic.jpg
 groups:
     - irods
 projects:
     - fabric
 people:
-    - tgr
-    - jcoposky
+    - terrell-russell
+    - jason-coposky
 teams: 
     - 
 collaborations: 

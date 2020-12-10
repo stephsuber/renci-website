@@ -11,12 +11,12 @@ www:
   github: null
   twitter: null
 members:
-  - id: jcoposky
-  - id: tgr
-  - id: aking
-  - id: dmoore
+  - id: jason-coposky
+  - id: terrell-russell
+  - id: alan-king
+  - id: daniel-moore
   - id: jgill
-  - id: kdraughn
-  - id: jjames
+  - id: kory-draughn
+  - id: justin-james
 partners:
 funding:

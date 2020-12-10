@@ -8,7 +8,7 @@ renciRole: !markdown |
 
   RENCI co-leads the project’s data science team, which is responsible for creating the data curation and dissemination cyberinfrastructure, along with collaborators at North Carolina State University. 
 members:
-  - id: clenhardt
+  - id: chris-lenhardt
     role: Lead
 partners:
   - ncsu-geospatial

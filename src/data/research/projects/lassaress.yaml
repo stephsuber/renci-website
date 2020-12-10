@@ -11,10 +11,10 @@ renciRole: !markdown |
    
   Ultimately, the project aims to create a cost-effective, scalable, smart underground oil leak location system that can be modified to serve a host of applications in leak detection and pollution measurement including applications in gas leak detection, water leak detection, and pollution monitoring. By leveraging cloud computing technologies, the techniques developed through this project also have the potential to improve future generations of distributed networked sensors.
 members:
-  - id: ibaldin
+  - id: ilya-baldin
     role: Lead
-  - id: kthareja
-  - id: jmcmanus
+  - id: komal-thareja
+  - id: james-mcmanus
 partners:
   - duke-university
   - pft-technology-llc

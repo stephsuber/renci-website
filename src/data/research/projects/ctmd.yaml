@@ -6,19 +6,19 @@ description: >
 renciRole: !markdown |
   The clinical trial management dashboard is created by RENCI in partnership with the Duke Trial Innovation Center. 
 
-  The RENCI team started with an unstructured dataset representing thousands of table columns for hundreds of clinical trial proposals. The data were curated into a tractable data model, which informed the design and development of an automated pipeline for ingesting and transforming the data and making it accessible via a dashboard designed to deliver custom, advanced visualizations. This pipeline is easily adaptable as the dataset grows and contracts, while highly interactive tables, charts, diagrams, and networks enhance the dashboard’s accessibility and utility. 
+  The RENCI team started with an unstructured dataset representing thousands of table columns for hundreds of clinical trial proposals. The data were curated into a tractable data model, which informed the design and development of an automated pipeline for ingesting and transforming the data and malan-king it accessible via a dashboard designed to deliver custom, advanced visualizations. This pipeline is easily adaptable as the dataset grows and contracts, while highly interactive tables, charts, diagrams, and networks enhance the dashboard’s accessibility and utility. 
 
   Ultimately, the project enables valuable insights into the funding and progression of the clinical trials facilitated by Duke’s Trial Innovation Center and the broader Trial Innovation Network. 
 members:
-  - id: krobasky
+  - id: kimberly-robasky
     role: Lead
-  - id: hxu
-  - id: sraj
-  - id: mwatson
-  - id: dcarsey
-  - id: sraj
-  - id: dborland
-  - id: hyi
+  - id: hao-xu
+  - id: shruti-raj
+  - id: matt-watson
+  - id: dawn-shelton
+  - id: shruti-raj
+  - id: david-borland
+  - id: hong-yi
 partners:
   - duke-university
   - trial-innovation-network

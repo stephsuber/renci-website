@@ -9,12 +9,12 @@ renciRole: !markdown |
 
   As project lead, RENCI collaborates with a diverse team of partners to advance an integrative model for management of trust by deploying a collection of supportive mechanisms at scale into a model cyberinfrastructure. The project develops methodologies and [software](https://cyberimpact.us/services/software/) with best practices in networking, data management, security, and privacy preservation to fit a variety of [use cases](https://cyberimpact.us/services/use-cases/). 
 members:
-  - id: ibaldin
+  - id: ilya-baldin
     role: Lead
-  - id: mstealey
-  - id: escott
-  - id: lchristopherson
-  - id: yguo
+  - id: michael-stealey
+  - id: erik-scott
+  - id: laura-christopherson
+  - id: yue-guo
 partners:
   - odum-institute
   - duke-ssri

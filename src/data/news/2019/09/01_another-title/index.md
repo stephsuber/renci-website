@@ -2,7 +2,7 @@
 title: Another Title
 slug: another-title
 publish_date: 2019-09-13
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - data-science
@@ -10,8 +10,8 @@ groups:
 projects: 
     - 
 people:
-    - cbizon
-    - ibaldin
+    - chris-bizon
+    - ilya-baldin
 teams: 
     - project-management
 collaborations:

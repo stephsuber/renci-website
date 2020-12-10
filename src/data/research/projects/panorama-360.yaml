@@ -13,11 +13,11 @@ renciRole: !markdown |
    
   To foster collaboration with program participants and the broader community, the project will support an open source community repository for multiple research functions and develop and publicize data formats and APIs to upload, download, and query data. Collaborators will also share their experiences and best practices through discussions, demonstrations, and tutorials so that others can leverage the data, tools, and methodologies.
 members:
-  - id: amandal
+  - id: anirban-mandal
     role: Lead
-  - id: cwang
-  - id: pruth
-  - id: kthareja
+  - id: cong-wang
+  - id: paul-ruth
+  - id: komal-thareja
 partners:
   - university-of-southern-california
   - lbnl

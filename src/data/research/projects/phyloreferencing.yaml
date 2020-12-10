@@ -6,7 +6,7 @@ description: The Phyloreferencing project is developing techniques for using ont
 renciRole: !markdown |
   Gaurav Vaidya worked on the [Phyloreferencing project](https://www.phyloref.org/) as a postdoctoral associate at the University of Florida (2018-19); after he moved to RENCI in 2019, some of the remaining work was outsourced to RENCI for completion. RENCI’s contribution was to complete  and polish the software tools developed for this project, to plan and create continuous testing systems for project components, and to design the intermediate data format used to store and process phyloreferences. While RENCI’s contribution to this project ended in mid-2020, the project continues to use the data models and tooling infrastructure developed by Vaidya to build and publish an ontology of phyloreferences. 
 members:
-  - id: gvaidya
+  - id: guarav-vaidya
     role: Lead
 partners:
   - university-of-florida
