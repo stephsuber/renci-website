@@ -60,7 +60,7 @@ export default ({ data, pageContext }) => {
               {
                 members && (
                   <Article>
-                    <PeopleList members={ members } />
+                    <PeopleList members={ members.sort((p, q) => p.name.last > q.name.last ? 1 : -1) } />
                   </Article>
                 )
               }
@@ -120,6 +120,10 @@ export const groupQuery = graphql`
       }
       members {
         id
+        name {
+          first
+          last
+        }
         fullName
         role
         fields {
