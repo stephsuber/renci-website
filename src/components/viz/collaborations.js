@@ -246,8 +246,8 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
               onNodeClick={ handleNodeClick }
               nodeCanvasObjectMode={ node => selectedRootNode === node ? 'after' : selectedNodes.has(node) ? 'before' : undefined }
               nodeCanvasObject={ highlightedNode }
-              linkDirectionalParticles={ fundingParticles && edgeParticles }
-              linkDirectionalParticleSpeed={ fundingParticles && edgeParticlesSpeed }
+              linkDirectionalParticles={ fundingParticles ? edgeParticles : null }
+              linkDirectionalParticleSpeed={ fundingParticles ? edgeParticlesSpeed : null }
               linkDirectionalParticleColor={ e => fundingParticles && edgeStyles[e.type].particle.color }
               linkLineDesh={ e => e.type === 'group-project' ? [5, 15] : [1,2] }
             />
