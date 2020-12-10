@@ -37,7 +37,6 @@ projects:
   - precision-dosing
   - scate
   - semantic-infrastructure-for-noctua-and-gene-ontology
-  - some-past-project
 www:
   url: null
   github: null
