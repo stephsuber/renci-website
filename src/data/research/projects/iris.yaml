@@ -11,13 +11,14 @@ renciRole: !markdown |
    
   IRIS will:
   - Collect application and infrastructure data and use statistical and machine learning (ML) algorithms to analyze it for anomalies.
-  - Experiment with novel ML-based methods in the RENCI-developed ExoGENI testbed before validating and making them available on NSF production cyberinfrastructure.
+  - Experiment with novel ML-based methods in the RENCI-developed [ExoGENI](http://www.exogeni.net/) testbed before validating and making them available on NSF production cyberinfrastructure.
   - Integrate with the Pegasus workflow management system and be available to scientists working with other cyberinfrastructure such as campus clusters, clouds, or leadership-class facilities.
   - Make its framework, the Chaos Jungle, available for use by other computer scientists and cyberinfrastructure designers for testing anomaly detection algorithms and infrastructure robustness.
   - Engage with science application partners in gravitational-wave physics, earthquake science, and bioinformatics to deploy the analysis framework for their workflows and fine-tune the threat models, the testbed, ML model training, and ML model validation in a feedback loop.
 members:
   - id: amandal
     role: Lead
+  - id: yxin
   - id: efu
 partners:
   - usc-isi

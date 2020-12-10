@@ -16,12 +16,15 @@ members:
   - id: ibaldin
     role: Lead
   - id: yxin
+  - id: amandal
   - id: mcevik
   - id: mstealey
   - id: pruth
   - id: kthareja
   - id: efu
   - id: mtavares
+pastMembers:
+  - ccastillo
 partners:
   - duke-university
   - ibm

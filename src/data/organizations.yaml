@@ -41,7 +41,7 @@
   id: coastal-resilience-center
   url: http://coastalresiliencecenter.unc.edu/
 - name: Columbia University
-  id: columbia-uniersity
+  id: columbia-university
   url: http://www.columbia.edu/
 - name: Cornell University
   id: cornell-university
@@ -72,7 +72,7 @@
   url: https://ssri.duke.edu/
 - name: ESnet
   id: esnet
-  url: https://www.eset.com/
+  url: https://www.es.net/
 - name: Federal Office of Population Affairs, U.S. Department of Health and Human
     Services
   id: hhs-opa
@@ -85,7 +85,7 @@
   url: https://www.fiu.edu/
 - name: GENI Project Office
   id: geni-project-office
-  url: https://www.geni.com/projects
+  url: https://www.geni.net/
 - name: Georgia Institute of Technology
   id: ga-tech
   url: https://www.gatech.edu/
@@ -289,7 +289,7 @@
   url: https://www.rug.nl/
 - name: University of Kentucky
   id: university-of-kentucky
-  url: https://www.uk.edu/
+  url: https://www.uky.edu/
 - name: University of Maryland
   id: university-of-maryland
   url: https://umd.edu/
@@ -364,7 +364,7 @@
   id: university-of-texas
   url: https://www.utexas.edu/
 - name: University of Utah
-  id: utah-university
+  id: university-of-utah
   url: https://www.utah.edu/
 - name: University of Virginia
   id: uva

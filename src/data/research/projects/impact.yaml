@@ -3,15 +3,16 @@ name: ImPACT
 email: fake@email.com
 featuredImage: impact.jpg
 description: >
-  ImPACT &mdash; Infrastructure for Privacy-Assured CompuTations &mdash; enables scientists to share and analyze data across institutional boundaries while keeping data safe and in regulatory compliance.
+  Infrastructure for Privacy-Assured CompuTations (ImPACT) enables scientists to share and analyze data across institutional boundaries while keeping data safe and in regulatory compliance.
 renciRole: !markdown |
   Scientific progress requires multi-institutional and cross-disciplinary sharing and analysis of data. [ImPACT](https://cyberimpact.us/) aims to help researchers spend less time thinking about security and more time advancing science by lowering the barriers that impede researchers from using privacy-restricted data in collaborative settings.  
 
-  As project lead, RENCI collaborates with a diverse team of partners to advance an integrative model for management of trust by deploying a collection of supportive mechanisms at scale into a model cyberinfrastructure. The project develops methodologies and software with best practices in networking, data management, security, and privacy preservation to fit a variety of [use cases](https://cyberimpact.us/services/use-cases/). 
+  As project lead, RENCI collaborates with a diverse team of partners to advance an integrative model for management of trust by deploying a collection of supportive mechanisms at scale into a model cyberinfrastructure. The project develops methodologies and [software](https://cyberimpact.us/services/software/) with best practices in networking, data management, security, and privacy preservation to fit a variety of [use cases](https://cyberimpact.us/services/use-cases/). 
 members:
   - id: ibaldin
     role: Lead
   - id: mstealey
+  - id: escott
   - id: lchristopherson
   - id: yguo
 partners:
