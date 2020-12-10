@@ -16,6 +16,7 @@ members:
   - okapeljushnik
   - ccalloway
 projects:
+  - scidas
   - secure-research-space
 www:
   url: null

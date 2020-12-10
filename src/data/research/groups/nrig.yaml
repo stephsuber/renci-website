@@ -31,7 +31,6 @@ projects:
   - lassaress
   - panorama-360
   - safe-superfacilities
-  - scidas
 www:
   url: https://nrig.renci.org
   github: nah
