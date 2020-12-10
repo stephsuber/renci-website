@@ -46,7 +46,7 @@ const Profiles = styled.div(({ theme }) => `
   }
 `) 
 
-export const StaffList = ({ staff = [], nav }) => {
+export const StaffList = ({ staff = [], nav = false }) => {
   const avatar = useAvatar()
   const [letters, setLetters] = useState([])
   let previousLetter = '?'
@@ -54,7 +54,7 @@ export const StaffList = ({ staff = [], nav }) => {
   
   useEffect(() => {
     const requiredLetters = new Set(staff.map(person => person.name.last[0]))
-    setLetters([...requiredLetters])
+    setLetters([ ...requiredLetters ])
   }, [staff])
 
   return (
