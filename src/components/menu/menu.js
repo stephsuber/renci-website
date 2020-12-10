@@ -79,12 +79,12 @@ export const Menu = ({ items, dark }) => {
             onMouseEnter={ handleOpenTray } onMouseLeave={ handleCloseTray }
             onFocus={ handleOpenTray } onBlur={ handleCloseTray }
           >
-            <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }&nbsp;<Icon icon="chevron-down" size={ 16 } fill={ dark ? theme.color.white : theme.color.darkgrey } /></MenuLink>
+            <MenuLink to={ item.path } dark={ dark } partiallyActive={ true } activeClassName="active">{ item.text }&nbsp;<Icon icon="chevron-down" size={ 16 } fill={ dark ? theme.color.white : theme.color.darkgrey } /></MenuLink>
             { trayOpen && <Tray>{ React.createElement(item.submenu) }</Tray> }
           </MenuItem>
         ) : (
           <MenuItem key={ item.path }>
-            <MenuLink to={ item.path } dark={ dark } activeClassName="active">{ item.text }</MenuLink>
+            <MenuLink to={ item.path } dark={ dark } partiallyActive={ true } activeClassName="active">{ item.text }</MenuLink>
           </MenuItem>
         ))
       }
