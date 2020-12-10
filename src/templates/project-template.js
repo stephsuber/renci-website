@@ -19,6 +19,9 @@ export default ({ data, pageContext }) => {
     funding,
     www,
   }} = data
+
+  const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
+  const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
   
   return (
     <Fragment>
@@ -47,17 +50,17 @@ export default ({ data, pageContext }) => {
           }
           
           {
-            partners && (
+            sortedPartners && (
               <Article title="Partners">
-                <OrganizationsList contributors={ partners } />
+                <OrganizationsList contributors={ sortedPartners } />
               </Article>
             )
           }
           
           {
-            funding && (
+            sortedFunders && (
               <Article title="Funding">
-                <OrganizationsList contributors={ funding } />
+                <OrganizationsList contributors={ sortedFunders } />
               </Article>
             )
           }

@@ -9,147 +9,150 @@ import { OrganizationsList } from '../components/organizations'
 import { List } from '../components/list'
 
 export default ({ data, pageContext }) => {
-    const { collaborationsYaml: {
-        name,
-        description,
-        renciRole,
-        members,
-        www,
-        projects,
-        featuredImage,
-        partners,
-        funding,
-    }} = data
-    
-    const [currentProjects, setCurrentProjects] = useState([])
-    const [pastProjects, setPastProjects] = useState([])
+  const { collaborationsYaml: {
+    name,
+    description,
+    renciRole,
+    members,
+    www,
+    projects,
+    featuredImage,
+    partners,
+    funding,
+  }} = data
+  
+  const [currentProjects, setCurrentProjects] = useState([])
+  const [pastProjects, setPastProjects] = useState([])
 
-    useEffect(() => {
-        if (projects) {
-            setCurrentProjects(projects.filter(project => !project.archived))
-            setPastProjects(projects.filter(project => project.archived))
+  const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
+  const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
+
+  useEffect(() => {
+    if (projects) {
+      setCurrentProjects(projects.filter(project => !project.archived))
+      setPastProjects(projects.filter(project => project.archived))
+    }
+  }, [projects])
+
+  return (
+    <Fragment>
+      <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
+        <Title>{ name }</Title>
+        <Paragraph>{ description }</Paragraph>
+      </Hero>
+
+      <Container>
+        <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
+        
+        {
+          <Section title="RENCI's Role">
+            <div dangerouslySetInnerHTML={{ __html: renciRole }} />
+          </Section>
         }
-    }, [projects])
 
-    return (
-        <Fragment>
-            <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid }>
-                <Title>{ name }</Title>
-                <Paragraph>{ description }</Paragraph>
-            </Hero>
+        {
+          projects && (
+            <Section title="Projects">
+              {
+                currentProjects.length > 0 && (
+                  <Article>
+                    <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
+                  </Article>
+                )
+              }
+              {
+                pastProjects.length > 0 && (
+                  <Article title="Past Projects">
+                    <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
+                  </Article>
+                )
+              }
+            </Section>
+          )
+        }
 
-            <Container>
-                <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
-                
-                {
-                    <Section title="RENCI's Role">
-                        <div dangerouslySetInnerHTML={{ __html: renciRole }} />
-                    </Section>
-                }
-
-                {
-                    projects && (
-                        <Section title="Projects">
-                            {
-                                currentProjects.length > 0 && (
-                                    <Article>
-                                        <List items={ currentProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
-                                    </Article>
-                                )
-                            }
-                            {
-                                pastProjects.length > 0 && (
-                                    <Article title="Past Projects">
-                                        <List items={ pastProjects.map(project => <ArrowLink key={ project.id } to={ project.fields.path } text={ project.name } />) } />
-                                    </Article>
-                                )
-                            }
-                        </Section>
-                    )
-                }
-
-                {
-                    (members || partners || funding) && (
-                        <Section title="Contributors">
-                            {
-                                members && (
-                                    <Article title="RENCI Team">
-                                        <PeopleList members={ members } />
-                                    </Article>
-                                )
-                            }
-                            {
-                                partners && (
-                                    <Article title="Partners">
-                                        <OrganizationsList contributors={ partners } />
-                                    </Article>
-                                )
-                            }
-                            {
-                                funding && (
-                                    <Article title="Funding">
-                                        <OrganizationsList contributors={ funding } />
-                                    </Article>
-                                )
-                            }
-                        </Section>
-                    )
-                }
-                
-            </Container>
-        </Fragment>
-    )
+        {
+          (members || sortedPartners || sortedFunders) && (
+            <Section title="Contributors">
+              {
+                members && (
+                  <Article title="RENCI Team">
+                    <PeopleList members={ members } />
+                  </Article>
+                )
+              }
+              {
+                sortedPartners && (
+                  <Article title="Partners">
+                    <OrganizationsList contributors={ sortedPartners } />
+                  </Article>
+                )
+              }
+              {
+                sortedFunders && (
+                  <Article title="Funding">
+                    <OrganizationsList contributors={ sortedFunders } />
+                  </Article>
+                )
+              }
+            </Section>
+          )
+        }
+        
+      </Container>
+    </Fragment>
+  )
 }
 
 export const collaborationQuery = graphql`
-    query($id: String!) {
-        collaborationsYaml( id: { eq: $id }) {
-            name
-            description
-            renciRole
-            www {
-                url
-                twitter
-                github
-            }
-            members {
-                id
-                fullName
-                role
-                fields {
-                    path
-                }
-                photo {
-                    childImageSharp {
-                        fixed(width: 350, height: 350) {
-                            ...GatsbyImageSharpFixed
-                        }
-                    }
-                }
-            }
-            featuredImage {
-                childImageSharp {
-                    fluid {
-                        ...GatsbyImageSharpFluid
-                    }
-                }
-            }
-            partners {
-                name
-                url
-            }
-            funding {
-                name
-                url
-            }
-            projects {
-                id
-                name
-                archived
-                fields {
-                    path
-                }
-            }
+  query($id: String!) {
+    collaborationsYaml( id: { eq: $id }) {
+      name
+      description
+      renciRole
+      www {
+        url
+        twitter
+        github
+      }
+      members {
+        id
+        fullName
+        role
+        fields {
+          path
         }
+        photo {
+          childImageSharp {
+            fixed(width: 350, height: 350) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
+      }
+      featuredImage {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      partners {
+        name
+        url
+      }
+      funding {
+        name
+        url
+      }
+      projects {
+        id
+        name
+        archived
+        fields {
+          path
+        }
+      }
     }
+  }
 `
