@@ -56,28 +56,28 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
       val: 20,
       color: {
         main: theme.color.renciBlue,
-        dim: `${ theme.color.renciBlue }99`,
+        dim: `#66ACBA`,
       },
     },
     collaboration: {
       val: 20,
       color: {
         main: theme.color.carolinaBlue,
-        dim: `${ theme.color.carolinaBlue }99`,
+        dim: `#93C3E4`,
       },
     },
     project: {
       val: 10,
       color: {
-        main: theme.color.extended.
-        contessa, dim: `${ theme.color.extended.contessa }99`,
+        main: theme.color.extended.contessa,
+        dim: `#DAA59D`,
       },
     },
     organization: {
       val: 5,
       color: {
-        main: theme.color.extended.
-        sherbet,  dim: `${ theme.color.extended.sherbet }99`,
+        main: theme.color.extended.sherbet,
+        dim: `#FFCBAA`,
       },
     },
   }
@@ -126,7 +126,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
     return graphData.links.filter(({ source, target }) => source.id === node.id || node.id === target.id)
   }, [graphData])
 
-  const highlightNode = useCallback(({ x, y, val }, context) => {
+  const highlightedNode = useCallback(({ x, y, val }, context) => {
     context.fillStyle = '#222'
     context.beginPath()
     context.arc(x, y, Math.sqrt(11 * val), 0, 2 * Math.PI, false)
@@ -245,7 +245,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
               linkColor={ edge => selectedNodes.size ? (selectedNodes.has(edge.source) && selectedNodes.has(edge.target)) ? edgeStyles[edge.type].color.main : edgeStyles[edge.type].color.dim : edgeStyles[edge.type].color.main }
               onNodeClick={ handleNodeClick }
               nodeCanvasObjectMode={ node => selectedRootNode === node ? 'after' : selectedNodes.has(node) ? 'before' : undefined }
-              nodeCanvasObject={ highlightNode }
+              nodeCanvasObject={ highlightedNode }
               linkDirectionalParticles={ fundingParticles && edgeParticles }
               linkDirectionalParticleSpeed={ fundingParticles && edgeParticlesSpeed }
               linkDirectionalParticleColor={ e => fundingParticles && edgeStyles[e.type].particle.color }
