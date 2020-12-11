@@ -114,25 +114,29 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
 
   const getNeighborhood = node => {
     if (!node) return 
-    let neighbors = new Set()
+    let neighborhood = new Set()
     indicentEdges(node).forEach(edge => {
-      if (!neighbors.has(edge.source)) { neighbors.add(edge.source) }
-      if (!neighbors.has(edge.target)) { neighbors.add(edge.target) }
+      if (!neighborhood.has(edge.source)) { neighborhood.add(edge.source) }
+      if (!neighborhood.has(edge.target)) { neighborhood.add(edge.target) }
     })
-    return neighbors
+    return neighborhood
   }
 
   const indicentEdges = useCallback(node => {
     return graphData.links.filter(({ source, target }) => source.id === node.id || node.id === target.id)
   }, [graphData])
 
-  const highlightedNode = useCallback(({ x, y, val }, context) => {
-    context.fillStyle = '#222'
+  const nodeHighlight = useCallback(({ x, y, val }, context) => {
+    context.fillStyle = '#fff'
     context.beginPath()
-    context.arc(x, y, Math.sqrt(11 * val), 0, 2 * Math.PI, false)
+    context.arc(x, y, Math.sqrt(15 * val), 0, 2 * Math.PI, false)
     context.lineWidth = 1
-    context.strokeStyle = '#333'
+    context.strokeStyle = '#f33'
     context.stroke()
+    // context.shadowOffsetX = 2
+    // context.shadowOffsetY = 2
+    // context.shadowBlur = 2
+    // context.shadowColor = "rgba(0, 0, 0, 0.5)";
     context.fill()
   }, [selectedNodes])
 
@@ -203,9 +207,9 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
 
   useEffect(() => {
     setSelectedNodes(new Set())
-    if (!selectedRootNode) return 
-    let neighbors = getNeighborhood(selectedRootNode)
-    setSelectedNodes(equalArrays(neighbors, selectedNodes) ? new Set() : neighbors)
+    if (!selectedRootNode) return
+    let neighborhood = getNeighborhood(selectedRootNode)
+    setSelectedNodes(equalArrays(neighborhood, selectedNodes) ? new Set() : neighborhood)
   }, [selectedRootNode])
 
   const edgeParticles = d => {
@@ -242,14 +246,15 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
               nodeVal={ node => node.val }
               nodeRelSize={ 3 }
               nodeColor={ node => selectedNodes.size ? selectedNodes.has(node) ? node.color.main : node.color.dim : node.color.main }
-              linkColor={ edge => selectedNodes.size ? (selectedNodes.has(edge.source) && selectedNodes.has(edge.target)) ? edgeStyles[edge.type].color.main : edgeStyles[edge.type].color.dim : edgeStyles[edge.type].color.main }
+              linkColor="black"
+              linkWidth={ edge => selectedNodes.size ? (selectedNodes.has(edge.source) && selectedNodes.has(edge.target)) ? 1.5 : 0.5 : 1.5 }
               onNodeClick={ handleNodeClick }
-              nodeCanvasObjectMode={ node => selectedRootNode === node ? 'after' : selectedNodes.has(node) ? 'before' : undefined }
-              nodeCanvasObject={ highlightedNode }
+              nodeCanvasObjectMode={ node => selectedRootNode === node ? 'before' : undefined }
+              nodeCanvasObject={ nodeHighlight }
               linkDirectionalParticles={ fundingParticles ? edgeParticles : null }
               linkDirectionalParticleSpeed={ fundingParticles ? edgeParticlesSpeed : null }
               linkDirectionalParticleColor={ e => fundingParticles && edgeStyles[e.type].particle.color }
-              linkLineDesh={ e => e.type === 'group-project' ? [5, 15] : [1,2] }
+              linkLineDash={ e => e.type === 'partner' ? [2, 2] : [1,0] }
             />
           )
         }
