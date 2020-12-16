@@ -2,7 +2,20 @@ id: evry-scope
 name: EvryScope
 email: fake@email.com
 description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  RENCI helps inform data collection, analysis, and storage solutions for the EvryScope, a telescope array designed to monitor the entire sky simultaneously.
+renciRole: !markdown |
+  The [EvryScope](http://evryscope.astro.unc.edu/) is an array of telescopes pointed at every part of the accessible sky simultaneously and continuously, together forming a gigapixel-scale telescope monitoring an overlapping 8,000 square degree field every two minutes.
+ 
+  RENCI is working closely with the project team to design an analytics pipeline to examine image data from the array—roughly one petabyte of data over three years—to help scientists detect exoplanets and transient events. The project also envisions creating a data store that astrophysicists can query, which could be as large as 90 terabytes. To support these efforts, RENCI provides guidance on best practices for collecting, analyzing, and storing large amounts of data.
+members:
+  - id: steve-cox
+  - id: chris-bizon
+partners:
+  - unc
+  - university-of-barcelona
+  - san-diego-state-university
+funding:
+  - nsf
 www:
   url: http://adcirc.org/
   github: 

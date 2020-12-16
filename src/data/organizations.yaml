@@ -245,6 +245,9 @@
 - name: The Odum Institute for Research in Social Science
   id: odum-institute
   url: https://odum.unc.edu/
+- name: San Diego State University
+  id: san-diego-state-university
+  url: https://www.sdsu.edu/
 - name: TOPMed Data Coordinating Center
   id: topmed
   url: https://www.nhlbiwgs.org/group/dcc
@@ -266,6 +269,9 @@
 - name: University College London
   id: university-college-london
   url: https://www.ucl.ac.uk/
+- name: University of Barcelona
+  id: university-of-barcelona
+  url: https://www.ub.edu/web/ub/en/index.html
 - name: University of California San Diego
   id: ucsd
   url: https://www.ucsd.edu/

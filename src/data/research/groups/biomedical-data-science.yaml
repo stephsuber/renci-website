@@ -1,7 +1,7 @@
-id: health-informatics
-name: Health Informatics
-description: healthy information
-featuredImage: health-informatics.jpg
+id: biomedical-data-science
+name: Biomedical Data Science
+description: biomedical information
+featuredImage: biomedical-data-science.jpg
 members:
   - id: kirk-wilhelmsen
     role: Lead

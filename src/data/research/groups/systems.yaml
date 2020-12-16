@@ -5,18 +5,16 @@ featuredImage: null
 members:
   - id: steve-cox
     role: Lead
-  - id: hao-xu
-  - id: matt-watson
-  - id: michael-shoffner
-  - id: murali-kothapalli
-  - id: amukherjee
+  - id: chris-calloway
   - id: isma-gilani
-  - id: mrajarikam
-  - id: dsikes
   - id: fan-jiang
   - id: oleg-kapeljushnik
-  - id: chris-calloway
+  - id: murali-kothapalli
+  - id: matt-watson
+  - id: michael-shoffner
+  - id: hao-xu
 projects:
+  - evry-scope
   - scidas
   - secure-research-space
 www:
