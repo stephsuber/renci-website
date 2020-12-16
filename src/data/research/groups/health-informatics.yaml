@@ -27,6 +27,5 @@ projects:
   - unc-superfund-research-program
   - scate
 www:
-  url: null
   github: null
-  twitter: nope
+  twitter: null

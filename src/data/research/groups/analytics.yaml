@@ -38,6 +38,5 @@ projects:
   - scate
   - semantic-infrastructure-for-noctua-and-gene-ontology
 www:
-  url: null
   github: null
-  twitter: nope
+  twitter: null

@@ -146,7 +146,6 @@ export const groupQuery = graphql`
         url
       }
       www {
-        url
         twitter
         github
       }

@@ -33,6 +33,5 @@ projects:
   - panorama-360
   - safe-superfacilities
 www:
-  url: https://nrig.renci.org
   github: nah
   twitter: nope

@@ -17,7 +17,6 @@ const groupsQuery = graphql`{
                     title
                 }
                 www {
-                    url
                     github
                     twitter
                 }

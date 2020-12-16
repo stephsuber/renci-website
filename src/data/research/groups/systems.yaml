@@ -20,6 +20,5 @@ projects:
   - scidas
   - secure-research-space
 www:
-  url: null
   github: null
-  twitter: nope
+  twitter: null
