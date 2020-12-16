@@ -5,11 +5,11 @@ spotlight: true
 publish_date: 2020-06-08
 author: stephanie-suber
 featuredImage: null
-groups: ["irods"]
-projects: []
+groups: []
+projects: ["irods"]
 people: ["jason-coposky"]
 teams: []
-collaborations: []
+collaborations: ["irods-consortium"]
 tags: ["networking"]
 ---
 

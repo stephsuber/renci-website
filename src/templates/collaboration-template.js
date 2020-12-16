@@ -1,8 +1,9 @@
 import React, { Fragment, useEffect, useState } from 'react'
 import { graphql } from 'gatsby'
-import { Container, Article, Section, Hero } from '../components/layout'
+import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
 import { Title, Paragraph } from '../components/typography'
 import { SocialTray } from '../components/social-tray'
+import { ArticlePreview } from '../components/news'
 import { ArrowLink } from '../components/link'
 import { PeopleList } from '../components/people'
 import { OrganizationsList } from '../components/organizations'
@@ -19,6 +20,7 @@ export default ({ data, pageContext }) => {
     featuredImage,
     partners,
     funding,
+    news,
   }} = data
   
   const [currentProjects, setCurrentProjects] = useState([])
@@ -44,6 +46,24 @@ export default ({ data, pageContext }) => {
       <Container>
         <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
         
+
+        {
+            news && (
+                <Section title="Recent News">
+                    {
+                        news.slice(0, 2).map((article, i) => {
+                            return (
+                                <Fragment key={ article.id }>
+                                    <ArticlePreview article={ article } path={ article.fields.path } compact />
+                                    { i < news.length - 1 && <HorizontalRule /> }
+                                </Fragment>
+                            )
+                        })
+                    }
+                </Section>
+            )
+        }
+
         {
           <Section title="RENCI's Role">
             <div dangerouslySetInnerHTML={{ __html: renciRole }} />
@@ -152,6 +172,24 @@ export const collaborationQuery = graphql`
         fields {
           path
         }
+      }
+      news {
+        id
+        fields {
+          path
+        }
+        frontmatter {
+          title
+          publish_date(formatString: "MMMM DD, YYYY")
+          featuredImage {
+            childImageSharp {
+              previewSize: fixed(width: 300, height: 300) {
+                ...GatsbyImageSharpFixed
+              }
+            }
+          }
+        }
+        excerpt(pruneLength: 500)
       }
     }
   }
