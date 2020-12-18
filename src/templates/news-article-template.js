@@ -25,9 +25,7 @@ export default ({ data, pageContext }) => {
       <Container>
         <Title>{ title }</Title>
 
-        <Meta>
-          Published on { publish_date } by <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> <br/>
-        </Meta>
+        { author && <Meta>Published on { publish_date } by <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> <br/></Meta> }
 
         <HorizontalRule />
 

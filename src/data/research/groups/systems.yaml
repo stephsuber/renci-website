@@ -14,7 +14,6 @@ members:
   - id: michael-shoffner
   - id: hao-xu
 projects:
-  - evry-scope
   - scidas
   - secure-research-space
 www:

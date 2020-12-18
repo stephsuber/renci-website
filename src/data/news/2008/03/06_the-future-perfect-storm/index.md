@@ -1,0 +1,51 @@
+---
+title: "The future perfect storm"
+slug: the-future-perfect-storm
+spotlight: false
+publish_date: 2008-03-06
+author: subers
+featuredImage: null
+groups:
+    - 
+projects:
+    - 
+people:
+    - 
+teams: 
+    - 
+collaborations:
+    - 
+tags:
+    - ["Hurricane Katrina","Ocracoke"]
+---
+The 2005 Atlantic hurricane season, the most active in recorded history, brought catastrophe to the U.S. Gulf Coast and Central America: at least 2,280 deaths from Katrina and other storms; record damages of more than $128 billion and thousands of people displaced who have yet to return home.<!--more-->
+
+But what if a hurricane season of that magnitude were to occur in 50 or 75 years, when experts predict water temperatures are likely to be warmer, carbon dioxide levels in the atmosphere higher, and coastal water levels higher? How will climate change affect the severity of tropical storms?
+
+That's the big question that Gary Lackmann and his research team are determined to answer, with help from the Renaissance Computing Institute (RENCI). Lackmann, an associate professor in the department of marine, earth and atmospheric sciences at North Carolina State University, is harnessing the power of Ocracoke, RENCI's IBM Blue Gene/L supercomputer to run detailed simulations of real and theoretical tropical storm models in an effort to understand what climate change could mean for Atlantic coast communities from New England to Central America.
+
+The three-year project, funded by the U.S. Department of Energy's Office of Science Global Change Research Program, involves co-principal investigators Fred Semazzi, Anantha Aiyyer, and Lian Xie, all with NC State's marine, earth and atmospheric sciences department.
+
+Lackmann's team has a two-fold approach to studying climate change. In one set of storm simulations conducted on Ocracoke, graduate student Kevin Hill created what is known as "idealized" storm simulations that allow hurricanes to reach their maximum strength. The models essentially hold all variables stable to allow a storm to grow to its maximum potential intensity, or MPI.  One run modeled current conditions, and the simulated storm approached the strength of some observed monster storms, such as Katrina and Wilma in 2005.  Hill then compared this idealized storm to simulations for the future using projections of temperature, CO2 levels, and other conditions for the late 21st century based on data from the Intergovernmental Panel on Climate Change (IPCC), the United Nations-sponsored group that shared the 2007 Nobel Peace Prize with Al Gore.
+
+"What we are looking to see in these simulations is where a storm bottoms out," explained Lackmann. "In a given environment, we want to see how intense a storm can get--that's the MPI. Specifically, we want to know how future conditions could impact the intensity of storms. This should give us ideas on where to focus further research."
+
+<strong class="head2">From 2005 to 2080</strong>
+In addition to the idealized models, Megan Gentry, a doctoral student and member of the research team, is running massive simulations of tropical storms from the 2005 hurricane season, which included seven major hurricanes and four Category 5 hurricanes, and from other active and inactive seasons. Again using data from the IPCC, Gentry plans to run the models using future environmental conditions as parameters. The results will project what Katrina, Rita, and other powerful storms might look like if they hit in 2075 or 2080, when atmospheric CO2 levels are expected to peak.
+
+"We are adjusting the conditions in our models based on the environmental changes that we expect," said Lackmann. "It's exciting because these are not theoretical storms--they really happened and we should be able to see how different they might have been under  future conditions."
+
+Simulating massive storms in all their complexity requires much more computing power than is available in the typical campus lab, so Lackmann turned to RENCI and its computing resources. Using Ocracoke in late 2007 and early 2008, the researchers generated and analyzed enormous amounts of data using the Weather Research and Forecasting (WRF) model, a mesocale numerical weather prediction system. Each model run took about two days to complete and generated about 100 gigabytes of data.
+
+So far the team has carried out a dozen model runs in about 24 days using 1,024 processors on Ocracoke. Although the models had been run before on smaller computers, those models provided much less detail about the storms. The new models provide higher resolution--grid data points at every 2 or 4 kilometers depending on the run, compared to a grid resolution of 9 kilometers when run on less powerful computers.
+
+"We couldn't do this work without a very powerful computer," said Lackmann. "The higher resolution allows us to capture the full intensity of these storms. It also helps us assess whether the model is accurate or if you are seeing detail that is simply being generated by certain components of the model."
+
+<strong class="head2">The perfect vantage point</strong>
+The idealized models have been completed, and the research team is now studying the results carefully to see what they can learn about the future MPI of tropical storms. Although it is far too early to draw any conclusions, the models suggest that while warmer temperatures will increase the intensity of storms, warming in the upper atmosphere could reduce that intensity from what would be expected if only surface temperature was to increase.
+
+The future projection model runs are just starting and should continue into the spring and summer of 2008. Lackmann also is working with visualization specialists at RENCI's NC State engagement center to develop dynamic, high-resolution images and animations from the data. Working with visualization experts has been an added bonus of working with RENCI and could lead to better, more understandable, research results, according to Lackmann.
+
+"With high-resolution animations, sometimes you see things that you wouldn't have noticed just looking at still images," he said. "You can follow a particular parcel of air, or you can watch the animation of different parameters to better understand the structural evolution of the system. The high-resolution simulations are close to reality, and allow the viewer the perfect vantage point. Obviously, it's not feasible to stand in the middle of a real hurricane and observe like this!"
+
+&nbsp;

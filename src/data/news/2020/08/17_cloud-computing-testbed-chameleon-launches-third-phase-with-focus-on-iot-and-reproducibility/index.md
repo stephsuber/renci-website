@@ -7,9 +7,10 @@ publish_date: 2020-08-17T06:25:09
 author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - chameleon-cloud
+    - fabric
 people:
     - 
 teams: 

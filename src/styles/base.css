@@ -224,7 +224,7 @@ img {
 }
 h1, h2, h3, h4, h5, h6 {
   padding: 0;
-  margin: 0;
+  margin: 1rem 0;
   color: inherit;
   font-family: 'Atlas Grotesk Web', sans-serif;
   text-rendering: optimizeLegibility;
