@@ -1,8 +1,9 @@
-id: roberrt-jones
+id: robert-jones
 name:
   first: Robert
   last: Jones
-email: fake@email.com
+photo: jones-robert.png
+email: rpjones@renci.org
 title: Systems Specialist
 phone: 919-445-1683
 www:

@@ -2,7 +2,8 @@ id: clark-jeffries
 name:
   first: Clark
   last: Jeffries
-email: fake@email.com
+photo: jeffries-clark.jpeg
+email: clajef@renci.org
 title: Grid Developer - Bioinformatics
 phone: 919-445-4647
 www:

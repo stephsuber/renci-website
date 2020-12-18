@@ -2,7 +2,8 @@ id: howard-lander
 name:
   first: Howard
   last: Lander
-email: fake@email.com
+photo: lander-howard.png
+email: howard@renci.org
 title: Senior Research Software Developer
 phone: 919-445-5410
 www:

@@ -2,7 +2,8 @@ id: alan-king
 name:
   first: Alan
   last: King
-email: fake@email.com
+photo: king-alan.jpeg
+email: alanking@renci.org
 title: Software Developer
 phone: 919-445-3033
 www:

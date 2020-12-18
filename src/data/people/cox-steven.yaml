@@ -2,7 +2,8 @@ id: steve-cox
 name: 
   first: Steven
   last: Cox
-email: fake@email.com
+photo: cox-steve.jpeg
+email: scox@renci.org
 title: Data Science Architect
 phone: 919-445-0525
 www:
