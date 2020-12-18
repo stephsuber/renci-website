@@ -89,7 +89,7 @@ const NewsPage = () => {
         
         <FlexHeader>
           <Title>RENCI News</Title>
-          <PaginationTray />
+          { pageCount > 1 && <PaginationTray /> }
         </FlexHeader>
         
         <HorizontalRule />
