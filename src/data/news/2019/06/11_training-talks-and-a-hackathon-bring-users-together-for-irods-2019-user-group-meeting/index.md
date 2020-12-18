@@ -6,17 +6,17 @@ publish_date: 2019-06-11
 author: subers
 featuredImage: null
 groups:
-    - 
+    -
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    -  irods-consortium
 tags:
-    - ["iRODS","iRODS Consortium","UGM"]
+    - ["Utrecht University"]
 ---
 <!-- wp:paragraph -->
 <p><em>Seats
