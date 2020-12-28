@@ -90,5 +90,6 @@ module.exports = {
         "MarkdownRemark.frontmatter.projects": "ProjectsYaml",
         "MarkdownRemark.frontmatter.teams": "TeamsYaml",
         "MarkdownRemark.frontmatter.collaborations": "CollaborationsYaml",
+        "MarkdownRemark.frontmatter.organizations": "OrganizationsYaml",
     },
 }

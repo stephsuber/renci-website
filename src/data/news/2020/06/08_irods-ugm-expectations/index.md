@@ -6,11 +6,16 @@ publish_date: 2020-06-08
 author: stephanie-suber
 featuredImage: null
 groups: []
-projects: ["irods"]
-people: ["jason-coposky"]
-teams: []
-collaborations: ["irods-consortium"]
-tags: ["networking"]
+projects:
+  - irods
+people:
+  - jason-coposky
+teams:
+  - 
+collaborations:
+  - irods-consortium
+tags:
+  - 
 ---
 
 ### iRODS users and consortium members will gather virtually from June 9-12

@@ -12,7 +12,7 @@ export default ({ data, pageContext }) => {
   const { article: {
     frontmatter: {
       title, publish_date, author, featuredImage,
-      people, groups, projects, teams, collaborations,
+      people, groups, projects, teams, collaborations, organizations,
     },
     html: articleHTML
   }} = data
@@ -39,6 +39,7 @@ export default ({ data, pageContext }) => {
           Teams: { teams.map(team => <TagLink key={ team.id } to={ team.fields.path }>{ team.name }</TagLink>) } <br/><br/>
           Projects: { projects.map(project => <TagLink key={ project.id } to={ project.fields.path }>{ project.name }</TagLink>) } <br/><br/>
           Collaborations: { collaborations.map(collaboration => <TagLink key={ collaboration.id } to={ collaboration.fields.path }>{ collaboration.name }</TagLink>) }
+          Organizations: { organizations.map(organization => <TagLink key={ organization.id } to={ organization.url }>{ organization.name }</TagLink>) }
         </Meta>
 
         <HorizontalRule />
@@ -134,6 +135,11 @@ export const newsQuery = graphql`
           fields {
             path
           }
+        }
+        organizations {
+          id
+          name
+          url
         }
       }
       html
