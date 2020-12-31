@@ -3,20 +3,21 @@ title: "Training, talks, and a hackathon bring users together for iRODS 2019 Use
 slug: training-talks-and-a-hackathon-bring-users-together-for-irods-2019-user-group-meeting
 spotlight: false
 publish_date: 2019-06-11
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
+    - surgical-critical-care-initiative
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["iRODS","iRODS Consortium","UGM"]
+    - ["data management", "open source", "training", "hackathon"]
 ---
 <!-- wp:paragraph -->
 <p><em>Seats
