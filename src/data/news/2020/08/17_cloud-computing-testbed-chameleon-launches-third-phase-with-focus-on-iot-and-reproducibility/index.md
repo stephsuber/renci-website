@@ -12,13 +12,13 @@ projects:
     - chameleon-cloud
     - fabric
 people:
-    - 
+    - paul-ruth
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - networking
+    - ["networking", "testbed"]
 ---
 
 <p><em>$10 million NSF grant funds next four years of multi-institutional project</em></p>
