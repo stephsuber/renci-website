@@ -3,20 +3,19 @@ title: "South Big Data Hub receives second round of NSF funding"
 slug: south-big-data-hub-receives-second-round-of-nsf-funding
 spotlight: false
 publish_date: 2019-06-19
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - stan-ahalt
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
 tags:
-    - ["National Science Foundation (NSF)","NSF Big Data Hubs","South Big Data Hub"]
 ---
 <!-- wp:paragraph -->
 <p><em>$4 million will support continued innovation and problem-solving in the Southern data science community</em></p>
