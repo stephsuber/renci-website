@@ -1,9 +1,19 @@
 id: cici-safe
 name: CICI Safe
-email: fake@email.com
-description:  >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-www:
-  url: 
-  github: 
-  twitter: 
+description:  Scientists are increasingly collaborating remotely via shared instruments, compute resources, and data repositories. SAFE superfacilities creates a framework to automate, authorize, and monitor end-to-end connectivity across “superfacilities” that integrate these resources through high-performance networks and data management.
+renciRole: !markdown |
+  Secure and Resilient Architecture Creating Dynamic Superfacilities the SAFE Way (SAFE Superfacilities) brings advanced technology such as campus science networks and federated Infrastructure-as-a-Service to a wider range of scientists. A collaboration between RENCI, Duke University, and the U.S. Department of Energy’s ESnet, the project is creating a model for improving security while maintaining high-performance friction-free network paths between campus scientists and remote facilities.
+ 
+  The RENCI team is focused on automating the authorization and security monitoring needed to keep these fast and dynamic network links safe. The researchers plan to use the SAFE logical trust system to authorize on-demand stitching of network links in two systems developed and operated by RENCI, Duke, and their collaborators the [ExoGENI](http://www.exogeni.net/) testbed and Duke’s Software-Defined Science Network (SDSN) campus network exchange. The team also will deploy security to monitor traffic on dedicated channels used to manage network devices, commonly known as out-of-band management.
+members:
+  - id: paul-ruth
+    role: Lead
+  - id: cong-wang
+partners:
+  - esnet
+  - duke-university
+  - us-doe 
+funding: 
+  - nsf
+featuredImage: 
+
