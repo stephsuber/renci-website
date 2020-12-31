@@ -3,20 +3,20 @@ title: "University of Colorado Boulder Research Computing joins iRODS Consortium
 slug: university-of-colorado-boulder-research-computing-joins-irods-consortium
 spotlight: false
 publish_date: 2019-06-19
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["iRODS","iRODS Consortium","University of Colorado"]
+    - ["data management","open source"]
 ---
 <!-- wp:paragraph -->
 <p>The
