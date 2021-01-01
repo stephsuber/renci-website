@@ -3,20 +3,20 @@ title: "Data Fellows project aims to make storm surge predictions faster and mor
 slug: data-fellows-project-aims-to-make-storm-surge-predictions-faster-and-more-accurate
 spotlight: false
 publish_date: 2017-08-31
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - adcirc
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - []
+    - ["high performance computing"]
 ---
 <strong>By Nelson Tull</strong>
 
