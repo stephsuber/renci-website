@@ -3,7 +3,7 @@ title: "Social Computing Room brings excitement to finals"
 slug: social-computing-room-brings-excitement-to-finals
 spotlight: false
 publish_date: 2015-01-12
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - ["students","visualization"]
 ---
 Typically, finals week brings to mind sleepless nights and groans of frustration as students slave away over last-minute projects and papers. This is not the case for students in <em>GEO 445: Medical Geography</em>, taught by Ashley R. Ward, PhD.
 
