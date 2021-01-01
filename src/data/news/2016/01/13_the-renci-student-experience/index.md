@@ -3,20 +3,23 @@ title: "The RENCI student experience"
 slug: the-renci-student-experience
 spotlight: false
 publish_date: 2016-01-13
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - earth-data-science
+    - nrig
+    - analytics
 projects:
-    - 
+    - data matters
+    - irods
 people:
-    - 
+    - brian-blanton
 teams: 
-    - 
+    - project-management
 collaborations:
-    - 
+    - ncds
 tags:
-    - []
+    - ["students"]
 ---
 Internship. Student Research Assistantship. These words once conjured images of time spent drudging away in corporate office air conditioning or musty back rooms of a university department. Time spent filing papers, making and slugging coffee, or solving the mystery of the broken copy machine (again!).
 
