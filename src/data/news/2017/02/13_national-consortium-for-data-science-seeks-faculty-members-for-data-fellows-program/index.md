@@ -3,7 +3,7 @@ title: "National Consortium for Data Science seeks faculty members for Data Fell
 slug: national-consortium-for-data-science-seeks-faculty-members-for-data-fellows-program
 spotlight: false
 publish_date: 2017-02-13
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -14,7 +14,7 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
     - []
 ---
