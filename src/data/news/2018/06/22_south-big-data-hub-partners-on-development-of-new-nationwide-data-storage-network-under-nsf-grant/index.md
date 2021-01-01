@@ -3,7 +3,7 @@ title: "South Big Data Hub partners on development of new nationwide data storag
 slug: south-big-data-hub-partners-on-development-of-new-nationwide-data-storage-network-under-nsf-grant
 spotlight: false
 publish_date: 2018-06-22
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
@@ -14,7 +14,7 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
 tags:
     - []
 ---
