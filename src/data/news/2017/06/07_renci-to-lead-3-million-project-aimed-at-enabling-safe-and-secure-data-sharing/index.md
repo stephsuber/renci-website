@@ -3,14 +3,14 @@ title: "RENCI to lead $3 million project aimed at enabling safe and secure data 
 slug: renci-to-lead-3-million-project-aimed-at-enabling-safe-and-secure-data-sharing
 spotlight: false
 publish_date: 2017-06-07
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - impact
 people:
-    - 
+    - ilya-baldin
 teams: 
     - 
 collaborations:
