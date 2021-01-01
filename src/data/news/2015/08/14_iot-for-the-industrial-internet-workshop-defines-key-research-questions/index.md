@@ -3,7 +3,7 @@ title: "IoT for the Industrial Internet workshop defines key research questions"
 slug: iot-for-the-industrial-internet-workshop-defines-key-research-questions
 spotlight: false
 publish_date: 2015-08-14
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -14,7 +14,7 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
     - []
 ---
