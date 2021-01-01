@@ -3,14 +3,14 @@ title: "Harnessing the power of data for quality breast cancer detection"
 slug: harnessing-the-power-of-data-for-quality-breast-cancer-detection
 spotlight: false
 publish_date: 2015-08-06
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - systems
 projects:
     - 
 people:
-    - 
+    - oleg-kapeljushnik
 teams: 
     - 
 collaborations:
@@ -32,7 +32,7 @@ In addition to their work within the state, CMR is a member of the <a href="http
 
 When Dr. Louise Henderson, CMR principal investigator and director, assumed leadership in 2011, one of her first moves was to upgrade the <a href="http://cmr.unc.edu/data-system/" target="_blank">CMR Data System</a> (CMDS), custom radiology information software that had been in use since the CMR started operations in 1994. Henderson reached out to developers at the <a href="http://renci.org/" target="_blank">Renaissance Computing Institute</a> (RENCI) with a request to improve the existing CMDS system to be compatible with current operating systems and to increase the ability to capture additional data fields in a user-friendly format.
 
-[caption id="attachment_14963" align="alignright" width="300"]<img class="wp-image-14963 size-medium" src="http://renci.org/wp-content/uploads/2015/08/IMG_2032-300x225.jpg" alt="" width="300" height="225" /> Oleg Kapeljushnik. software developer, helped to update the CMR data system.[/caption]
+[caption id="attachment_14963" align="alignright" width="300"]<img class="wp-image-14963 size-medium" src="http://renci.org/wp-content/uploads/2015/08/IMG_2032-300x225.jpg" alt="" width="300" height="225" /> Oleg Kapeljushnik, software developer, helped to update the CMR data system.[/caption]
 
 The CMDS allows breast imaging facilities to collect patient risk factor and history data, breast imaging information, findings, and the radiologists’ interpretation as well as recommendations. These data are then used to generate reports and reminder letters, which are crucial to ensuring appropriate follow-up. Developers at RENCI have collaborated with the CMR to improve on these functionalities by adding new features related to systems compatibility, reporting, and compliance with changing laws.
 
