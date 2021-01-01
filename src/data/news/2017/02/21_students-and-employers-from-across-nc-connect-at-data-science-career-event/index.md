@@ -3,18 +3,18 @@ title: "Students and employers from across NC connect at data science career eve
 slug: students-and-employers-from-across-nc-connect-at-data-science-career-event
 spotlight: false
 publish_date: 2017-02-21
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - shannon-mckeen
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
     - []
 ---
