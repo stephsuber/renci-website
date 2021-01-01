@@ -3,20 +3,20 @@ title: "Texas Advanced Computing Center Joins the iRODS Consortium"
 slug: texas-advanced-computing-center-joins-the-irods-consortium
 spotlight: false
 publish_date: 2018-09-05
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["iRODS","iRODS Consortium","Jason Coposky","National Science Foundation (NSF)","Texas Advanced Computing Center (TACC)","University of Texas at Austin","XSEDE"]
+    - ["data management","open source"]
 ---
 <!-- wp:paragraph -->
 <p>The <a href="https://www.tacc.utexas.edu/">Texas Advanced Computing Center</a> (TACC), a supercomputing center that provides scientists with some of the world’s most powerful computing resources to enable discoveries, is the latest organization to join the iRODS Consortium. <br></p>
