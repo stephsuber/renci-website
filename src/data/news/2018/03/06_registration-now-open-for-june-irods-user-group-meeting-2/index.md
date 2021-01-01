@@ -3,20 +3,20 @@ title: "Registration now open for June iRODS User Group Meeting"
 slug: registration-now-open-for-june-irods-user-group-meeting-2
 spotlight: false
 publish_date: 2018-03-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS"]
+    - ["data management","open source", "training"]
 ---
 <em><img class="aligncenter size-large wp-image-17439" src="http://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png" alt="" width="640" height="298" />Registration discounts through April 1; visit </em><em><a href="https://irods.org/" target="_blank" rel="noopener">irods.org</a></em>
 
@@ -28,7 +28,7 @@ The meeting gives iRODS users and those interested in using iRODS the chance to 
 
 Thousands of businesses, research centers, and government agencies located in the U.S., Europe, Asia, Australia, South America, and Africa use iRODS for flexible, policy-based open source data management that provides long-term preservation and federation.
 
-The 10thth annual iRODS UGM begins Tuesday, June 5 with optional training sessions aimed at beginner and advanced iRODS users. The UGM formally kicks off Wednesday, June 6 and will feature more than 25 presentations from the user community and the core development team, including use cases, live demonstrations, and open discussions about requested iRODS features.  Organizers anticipate more than 150 users will participate in the meeting representing dozens of academic, commercial, and government institutions.
+The 10th annual iRODS UGM begins Tuesday, June 5 with optional training sessions aimed at beginner and advanced iRODS users. The UGM formally kicks off Wednesday, June 6 and will feature more than 25 presentations from the user community and the core development team, including use cases, live demonstrations, and open discussions about requested iRODS features.  Organizers anticipate more than 150 users will participate in the meeting representing dozens of academic, commercial, and government institutions.
 
 Attendees will have the chance to present their iRODS stories in a variety of ways:
 <ul>
