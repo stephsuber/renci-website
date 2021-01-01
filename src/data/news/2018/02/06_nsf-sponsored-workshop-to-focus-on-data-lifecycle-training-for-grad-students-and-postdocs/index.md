@@ -3,7 +3,7 @@ title: "NSF-sponsored workshop to focus on data lifecycle training for grad stud
 slug: nsf-sponsored-workshop-to-focus-on-data-lifecycle-training-for-grad-students-and-postdocs
 spotlight: false
 publish_date: 2018-02-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data carpentry","data management","DataNet Federation Consortium","training"]
+    - ["data management","training"]
 ---
 <em>Travel and accommodations provided; applications due March 15</em>
 
