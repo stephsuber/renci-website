@@ -3,20 +3,21 @@ title: "Presentations at upcoming meeting highlight worldwide uses of iRODS"
 slug: presentations-at-upcoming-meeting-highlight-worldwide-uses-of-irods
 spotlight: false
 publish_date: 2017-06-02
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
+    - brain-i
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS","UGM"]
+    - ["data management","open source"]
 ---
 <em><a href="http://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2.jpg"><img class="aligncenter wp-image-16263 size-large" src="http://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2-1024x542.jpg" alt="" width="640" height="339" /></a>Go to </em><a href="https://irods.org/"><em>irods.org</em></a><em> to register for the 2017 User Group Meeting at Utrecht University</em>
 
