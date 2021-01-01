@@ -3,14 +3,14 @@ title: "RENCI to collaborate with UNC Charlotte and NC State on technologies for
 slug: renci-collaborates-with-unc-charlotte-nc-state
 spotlight: false
 publish_date: 2015-03-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - ashok-krishnamurthy
 teams: 
     - 
 collaborations:
