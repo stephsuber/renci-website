@@ -6,17 +6,17 @@ publish_date: 2016-11-15
 author: subers
 featuredImage: null
 groups:
-    - 
+    - earth-data-science
 projects:
-    - 
+    - adcirc
 people:
-    - 
+    - rick-luettich
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["high performance computing"]
 ---
 [caption id="attachment_15780" align="alignnone" width="512"]<a href="http://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg"><img class="wp-image-15780 size-full" src="http://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg" alt="SC16award_2" width="512" height="341" /></a> Tom Tabor, publisher of HPCWire, presents an HPCWire reader’s choice award to RENCI Communications Director Karen Green. Also pictured are Anthony Jenkins of Dell (far left) and RENCI COO Jay Aikat (far right).[/caption]
 
