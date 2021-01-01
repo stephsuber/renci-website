@@ -3,20 +3,20 @@ title: "OpenIO joins iRODS Consortium"
 slug: openio-joins-irods-consortium
 spotlight: false
 publish_date: 2019-11-14
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <!-- wp:paragraph -->
 <p>The <a href="https://irods.org/">iRODS Consortium</a>, the foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS) data management software, welcomes OpenIO as its newest Consortium member. </p>
