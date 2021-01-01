@@ -3,20 +3,20 @@ title: "Cloudian Joins the iRODS Consortium"
 slug: cloudian-joins-the-irods-consortium
 spotlight: false
 publish_date: 2018-09-18
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["Cloudian","HyperStore","iRODS","iRODS Consortium","Jason Coposky"]
+    - ["data management","open source"]
 ---
 <!-- wp:heading {"level":4} -->
 <h4>HyperStore Enterprise Object Storage Validated with iRODS Platform</h4>
