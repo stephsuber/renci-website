@@ -3,20 +3,20 @@ title: "iRODS to celebrate banner year at 2015 User Group Meeting"
 slug: irods-to-celebrate-banner-year-at-2015-user-group-meeting
 spotlight: false
 publish_date: 2015-05-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 CHAPEL HILL, NC - Users from around the globe who use iRODS, the open source data management platform now developed at RENCI and sustained through the iRODS Consortium, will meet in Chapel Hill June 10 and 11 for the 2015 iRODS User Group Meeting (UGM).
 
