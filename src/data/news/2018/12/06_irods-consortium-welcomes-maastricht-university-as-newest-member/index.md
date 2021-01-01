@@ -3,20 +3,20 @@ title: "iRODS Consortium welcomes Maastricht University as newest member"
 slug: irods-consortium-welcomes-maastricht-university-as-newest-member
 spotlight: false
 publish_date: 2018-12-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["DataHub Maastricht","iRODS","iRODS Consortium","Maastricht Univeristy"]
+    - ["data management","open source"]
 ---
 <!-- wp:paragraph -->
 <p>Maastricht University, led by the efforts of <a href="https://datahub.mumc.maastrichtuniversity.nl/">DataHub Maastricht</a>, which provides data management services to researchers from the university and academic hospital, has joined the <a href="https://irods.org/">iRODS Consortium</a>, the foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS). Maastricht is the fourth organization from the Netherlands to join the consortium, after Utrecht University, the SURF cooperative and the University of Groningen.</p>
