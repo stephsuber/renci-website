@@ -3,20 +3,21 @@ title: "iRODS Consortium continues to grow, signs on to OpenSFS"
 slug: irods-consortium-continues-to-grow-signs-on-to-opensfs
 spotlight: false
 publish_date: 2018-05-15
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
+    - terrell-russell
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["BioIT World","iRODS","Lustre","OpenSFS"]
+    - ["data management", "open source"]
 ---
 <em>Quantum, NetApp join consortium that helps sustain the iRODS open source platform</em>
 
