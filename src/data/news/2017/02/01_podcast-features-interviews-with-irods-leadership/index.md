@@ -3,20 +3,21 @@ title: "Podcast features interviews with iRODS leadership"
 slug: podcast-features-interviews-with-irods-leadership
 spotlight: false
 publish_date: 2017-02-01
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
+    - terrell-russell
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 iRODS Consortium Executive Director Jason Coposky and Chief Technologist Terrell Russell were interviewed on the Research, Computing &amp; Engineering Podcast in an episode published on Jan. 27.<!--more-->
 
