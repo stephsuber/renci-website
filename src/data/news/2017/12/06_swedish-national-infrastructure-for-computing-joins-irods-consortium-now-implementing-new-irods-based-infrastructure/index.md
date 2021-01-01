@@ -3,20 +3,20 @@ title: "Swedish National Infrastructure for Computing joins iRODS Consortium"
 slug: swedish-national-infrastructure-for-computing-joins-irods-consortium-now-implementing-new-irods-based-infrastructure
 spotlight: false
 publish_date: 2017-12-06
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS","SNIC"]
+    - ["data management","open source"]
 ---
 <em><span style="font-weight: 400;">Organization is now implementing new iRODS-based infrastructure</span></em>
 
