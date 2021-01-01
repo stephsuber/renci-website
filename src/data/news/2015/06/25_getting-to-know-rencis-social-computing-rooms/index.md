@@ -3,7 +3,7 @@ title: "Getting to know RENCI’s Social Computing Rooms"
 slug: getting-to-know-rencis-social-computing-rooms
 spotlight: false
 publish_date: 2015-06-25
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - ["students"]
 ---
 <img class="alignleft size-full wp-image-14876" src="http://renci.org/wp-content/uploads/2015/06/social_comp3.jpeg" alt="social_comp3" width="640" height="426" />
 
