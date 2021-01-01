@@ -3,20 +3,20 @@ title: "iRODS Consortium announces iRODS Partners and iRODS Hub to support growi
 slug: irods-consortium-announces-irods-partners-and-hub
 spotlight: false
 publish_date: 2015-07-29
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 CHAPEL HILL, NC - The iRODS Consortium has launched two new services to support the continued growth of its strong, dynamic user and developer communities.
 
