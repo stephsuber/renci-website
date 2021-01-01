@@ -3,14 +3,14 @@ title: "RENCI to help lead effort to make cancer research data more useful and a
 slug: renci-to-help-lead-effort-to-make-cancer-research-data-more-useful-and-accessible
 spotlight: false
 publish_date: 2019-10-17
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - analytics
 projects:
     - 
 people:
-    - 
+    - jim-balhoff
 teams: 
     - 
 collaborations:
