@@ -3,20 +3,20 @@ title: "Data Matters™ Short Course Series Returns to Hunt Library in August"
 slug: data-matters-short-course-series-returns-to-hunt-library-in-august
 spotlight: false
 publish_date: 2018-03-16
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - data-matters
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - ["data matters","data science","education"]
+    - ["training"]
 ---
 <em><img class="aligncenter size-large wp-image-17464" src="http://renci.org/wp-content/uploads/2018/03/DM-Header-1024x263.png" alt="" width="640" height="164" />Registration now open at </em><a href="http://www.datamatters.org/"><em>datamatters.org</em></a>
 
