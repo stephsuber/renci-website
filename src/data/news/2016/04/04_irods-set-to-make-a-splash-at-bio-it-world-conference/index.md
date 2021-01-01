@@ -3,20 +3,20 @@ title: "iRODS set to make a splash at Bio-IT World conference"
 slug: irods-set-to-make-a-splash-at-bio-it-world-conference
 spotlight: false
 publish_date: 2016-04-04
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <i>Consortium members, users to demo open source software for data management</i>
 
