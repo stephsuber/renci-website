@@ -3,20 +3,20 @@ title: "RENCI to lead one of 12 projects to create an NIH Data Commons"
 slug: uncs-renci-to-lead-project-aimed-at-making-biomedical-data-easier-to-use
 spotlight: false
 publish_date: 2017-11-07
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - analytics
 projects:
     - 
 people:
-    - 
+    - stan-ahalt
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    -
 ---
 The National Institutes of Health (NIH) has tapped the University of North Carolina at Chapel Hill and RENCI, a UNC technology research institute, to lead a project that is part of a nationwide effort to develop an NIH Data Commons, a shared virtual space where biomedical researchers can easily and securely work with data, analytical tools, and applications. <!--more-->
 
