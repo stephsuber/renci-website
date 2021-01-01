@@ -3,20 +3,21 @@ title: "SILS student awarded Thomas M. Carsey Scholarship in Data Science"
 slug: sils-student-awarded-thomas-m-carsey-scholarship-in-data-science
 spotlight: false
 publish_date: 2017-10-17
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - analytics
 projects:
     - 
 people:
-    - 
+    - arcot-rajasekar
+    - howard-lander
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - ["DataBridge","scholarship","Tom Carsey"]
+    - []
 ---
 Xueli Fan, a graduate student in the <a href="https://sils.unc.edu/">School of Information and Library Science</a> (SILS) at UNC-Chapel Hill, was recently named 2017-2018 recipient of the Thomas M. Carsey Scholarship in Data Science.
 
