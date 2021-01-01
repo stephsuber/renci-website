@@ -3,14 +3,14 @@ title: "The Internet of Samples aims to break down research barriers"
 slug: the-internet-of-samples-aims-to-break-down-research-barriers
 spotlight: false
 publish_date: 2016-02-17
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - earth-data-science
 projects:
     - 
 people:
-    - 
+    - chris-lenhardt
 teams: 
     - 
 collaborations:
