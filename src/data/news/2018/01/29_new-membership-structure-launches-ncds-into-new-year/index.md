@@ -3,20 +3,20 @@ title: "New membership structure launches NCDS into new year"
 slug: new-membership-structure-launches-ncds-into-new-year
 spotlight: false
 publish_date: 2018-01-29
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    -
 people:
-    - 
+    - shannon-mckeen
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - ["consortium","data science","NCDS"]
+    - ["training", "data management"]
 ---
 [caption id="attachment_17369" align="aligncenter" width="640"]<img class="size-large wp-image-17369" src="http://renci.org/wp-content/uploads/2018/01/data-general-1024x587.jpg" alt="" width="640" height="367" /> The NCDS brings together students and companies for career events such as this one at The Frontier in RTP.[/caption]
 
