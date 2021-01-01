@@ -3,20 +3,20 @@ title: "New project aims to bring semantics to evolutionary trees"
 slug: new-project-aims-to-bring-semantics-to-evolutionary-trees
 spotlight: false
 publish_date: 2017-11-06
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - analytics
 projects:
     - 
 people:
-    - 
+    - jim-balhoff
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - ["biology","ontology","semantics"]
+    - 
 ---
 [caption id="attachment_17011" align="aligncenter" width="640"]<a href="http://renci.org/wp-content/uploads/2017/11/bio-team.jpg"></a><a href="http://renci.org/wp-content/uploads/2017/11/bio-team.jpg"><img class="wp-image-17011 size-large" src="http://renci.org/wp-content/uploads/2017/11/bio-team-1024x768.jpg" alt="" width="640" height="480" /></a> Project team from left to right: Todd Vision, UNC-Chapel Hill; Jim Balhoff, RENCI; Wasila Dahdul, University of South Dakota; Josef Uyeda, Virginia Tech; and Hilmar Lapp, Duke University.[/caption]
 <p class="p1"><span style="font-size: 11.0pt;">CHAPEL HILL, NC - Researchers at the University of North Carolina at Chapel Hill will play key roles in a new project that applies semantic technologies developed by computer and information scientists to the field of evolutionary biology.</span></p>
