@@ -3,12 +3,12 @@ title: "ExoGENI featured in SCinet Network Research Exhibition demos"
 slug: exogeni-featured-in-scinet-network-research-exhibition-demos
 spotlight: false
 publish_date: 2015-11-09
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - exogeni
 people:
     - 
 teams: 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - ["networking","testbed"]
 ---
 <a href="http://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2.png"><img class="alignright size-thumbnail wp-image-15171" src="http://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2-150x150.png" alt="ExoGENI logo2" width="150" height="150" /></a>AUSTIN, TEXAS - Each year the SC conference, the annual gathering of industry and research experts in high performance computing, networking, storage and analysis, sets up one of the most powerful and advanced networks in the world: SCinet.
 
