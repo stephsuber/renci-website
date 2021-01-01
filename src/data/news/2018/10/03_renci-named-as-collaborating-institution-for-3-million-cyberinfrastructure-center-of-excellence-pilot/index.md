@@ -3,20 +3,20 @@ title: "RENCI Named as Collaborating Institution for $3 Million Cyberinfrastruct
 slug: renci-named-as-collaborating-institution-for-3-million-cyberinfrastructure-center-of-excellence-pilot
 spotlight: false
 publish_date: 2018-10-03
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - ci-coe-pilot
 people:
-    - 
+    - anirban-mandal
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - ["CI COE","Cyberinfrastructure","National Science Foundation (NSF)"]
+    - ["data management","cyberinfrastructure"]
 ---
 <!-- wp:paragraph -->
 <p><em>Project will create a model for advising NSF’s largest scientific facilities</em><br></p>
