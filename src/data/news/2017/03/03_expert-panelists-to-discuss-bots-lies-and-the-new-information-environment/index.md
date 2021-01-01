@@ -3,7 +3,7 @@ title: "Expert panelists to discuss bots, lies, and the new information environm
 slug: expert-panelists-to-discuss-bots-lies-and-the-new-information-environment
 spotlight: false
 publish_date: 2017-03-03
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -14,7 +14,7 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
 tags:
     - []
 ---
