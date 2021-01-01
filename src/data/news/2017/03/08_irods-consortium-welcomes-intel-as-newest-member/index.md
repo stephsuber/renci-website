@@ -8,15 +8,15 @@ featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <p class="p1"><span class="s1">The integrated Rule-Oriented Data System (iRODS) Consortium today announced</span><span class="s2"> <a href="http://www.intel.com/" target="_blank"><span class="s3">Intel Corporation</span></a>, </span><span class="s1">has joined the membership-based foundation.</span></p>
 <p class="p1"><span class="s1">As a consortium member, Intel plans to improve integration between iRODS, the free open source software for data virtualization, data discovery, workflow automation, and secure collaboration, and Lustre, an open source parallel distributed file system used for computing on large-scale high performance computing clusters. Membership in the consortium is a first step in offering an integrated tiered solution to Lustre end-users that allows them to easily move data sets from HPC systems into less costly long-term storage systems, where the data can be managed, shared and kept secure using iRODS.  </span><!--more--></p>
