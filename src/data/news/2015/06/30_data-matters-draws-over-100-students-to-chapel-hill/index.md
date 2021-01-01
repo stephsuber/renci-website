@@ -3,20 +3,20 @@ title: "Data Matters draws over 100 students to Chapel Hill"
 slug: data-matters-draws-over-100-students-to-chapel-hill
 spotlight: false
 publish_date: 2015-06-30
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - data-matters
 people:
-    - 
+    - stan-ahalt
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - []
+    - ["training"]
 ---
 <em>International group of students sharpen data science skills in short course series.</em>
 
