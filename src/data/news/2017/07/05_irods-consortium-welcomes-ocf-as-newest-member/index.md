@@ -3,20 +3,20 @@ title: "iRODS Consortium welcomes OCF as newest member"
 slug: irods-consortium-welcomes-ocf-as-newest-member
 spotlight: false
 publish_date: 2017-07-05
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <em>UK-based technical support provider will now have a role in future iRODS development </em>
 
