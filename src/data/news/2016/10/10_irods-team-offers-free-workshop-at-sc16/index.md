@@ -3,20 +3,21 @@ title: "iRODS team offers free workshop at SC16"
 slug: irods-team-offers-free-workshop-at-sc16
 spotlight: false
 publish_date: 2016-10-10
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
+    - terrell-russell
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <em>IRODS: From Prototype to Production will be sponsored by DDN</em>
 
