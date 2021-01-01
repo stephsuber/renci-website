@@ -3,7 +3,7 @@ title: "National Consortium for Data Science seeks faculty members for Data Fell
 slug: national-consortium-for-data-science-seeks-faculty-members-for-data-fellows-program
 spotlight: false
 publish_date: 2017-02-13
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -14,9 +14,9 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC –  The National Consortium for Data Science (NCDS), a public-private partnership to advance data science and capitalize on the opportunities of a data-rich society, seeks participants for its 2017 – 2018 Data Fellows program.<!--more-->
 
