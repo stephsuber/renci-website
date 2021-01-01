@@ -3,20 +3,20 @@ title: "iRODS users come together for annual meeting in June"
 slug: irods-users-come-together-for-annual-meeting-in-june
 spotlight: false
 publish_date: 2016-03-04
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <p class="p1"><span class="s1"><i>Users invited to present talks, demonstrations, and posters.</i></span></p>
 Users of the integrated Rule Oriented Data System (iRODS) from around the globe will gather in Chapel Hill in June to discuss iRODS-enabled applications and discoveries, technologies powered by iRODS, and the future of iRODS and the iRODS Consortium.
