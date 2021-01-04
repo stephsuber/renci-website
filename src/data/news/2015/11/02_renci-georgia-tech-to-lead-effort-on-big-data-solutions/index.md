@@ -3,18 +3,19 @@ title: "UNC-Chapel Hill’s RENCI and Georgia Tech to Lead Major Effort that App
 slug: renci-georgia-tech-to-lead-effort-on-big-data-solutions
 spotlight: false
 publish_date: 2015-11-02
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - ashok-krishnamurthy
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
+    - ncds
 tags:
     - []
 ---

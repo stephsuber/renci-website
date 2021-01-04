@@ -3,20 +3,21 @@ title: "Software Defined Networking gives BEN a boost"
 slug: software-defined-networking-gives-ben-a-boost
 spotlight: false
 publish_date: 2015-11-11
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - exogeni
+    - panorama
 people:
-    - 
+    - ilya-baldin
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["networking"]
 ---
 <em><a href="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final.jpg"><img class="alignright size-medium wp-image-15190" src="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg" alt="BEN Logo 9 final" width="300" height="157" /></a>Breakable Experimental Network (BEN) is now faster and SDN-enabled</em>
 

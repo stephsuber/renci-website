@@ -3,18 +3,18 @@ title: "New report recommends actions to position North Carolina as a leader in 
 slug: new-report-recommends-actions-to-position-north-carolina-as-a-leader-in-the-new-data-economy
 spotlight: false
 publish_date: 2017-02-22
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - shannon-mckeen
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
     - []
 ---

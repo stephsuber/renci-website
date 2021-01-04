@@ -3,20 +3,21 @@ title: "RENCI researchers spearhead $20 million project to test a reimagined Int
 slug: fabric-award
 spotlight: false
 publish_date: 2019-09-17
-author: subers
+author: stephanie-suber
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - fabric
 people:
-    - 
+    - ilya-baldin
+    - stan-ahalt 
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["networking", "testbed"]
 ---
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><em>Collaboration will establish a nationwide network infrastructure</em></p>

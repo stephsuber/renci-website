@@ -3,20 +3,20 @@ title: "iRODS Consortium welcomes Texas Advanced Computing Center to Partner Pro
 slug: irods-consortium-welcomes-texas-advanced-computing-center-to-partner-program
 spotlight: false
 publish_date: 2016-01-11
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <table cellspacing="0" cellpadding="0">
 <tbody>

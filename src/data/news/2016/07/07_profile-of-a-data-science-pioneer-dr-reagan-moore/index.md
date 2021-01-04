@@ -3,20 +3,21 @@ title: "Profile of a Data Science Pioneer, Dr. Reagan Moore"
 slug: profile-of-a-data-science-pioneer-dr-reagan-moore
 spotlight: false
 publish_date: 2016-07-07
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - stan-ahalt
+    - arcot-rajasekar
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <em>As he approaches retirement, Reagan Moore reflects on SRB, iRODS, and the ongoing challenge of helping scientists manage their data.</em>
 

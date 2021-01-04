@@ -3,20 +3,20 @@ title: "Research made easier"
 slug: research-made-easier
 spotlight: false
 publish_date: 2016-06-15
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - brian-blanton
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 <em>The CyVerse discovery environment handles the technology of collaborative research so researchers can focus on the science. </em>
 

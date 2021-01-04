@@ -3,20 +3,20 @@ title: "South Big Data Hub links talented students with tech startups through ne
 slug: south-big-data-hub-links-talented-students-with-tech-startups-through-new-program
 spotlight: false
 publish_date: 2016-05-24
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - stan-ahalt 
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
 tags:
-    - []
+    - ["students"]
 ---
 <em>DataStart provides real-world experiences for students while helping entrepreneurial companies</em>
 

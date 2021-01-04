@@ -3,20 +3,20 @@ title: "Registration now open for June iRODS User Group Meeting"
 slug: registration-now-open-for-june-irods-user-group-meeting
 spotlight: false
 publish_date: 2017-03-30
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS","UGM"]
+    - ["data management","open source", "training"]
 ---
 Users of the integrated Rule Oriented Data System (iRODS) from around the globe will gather in Utrecht, The Netherlands to discuss iRODS-enabled applications and discoveries, technologies powered by iRODS, and the future of iRODS and the iRODS Consortium.
 

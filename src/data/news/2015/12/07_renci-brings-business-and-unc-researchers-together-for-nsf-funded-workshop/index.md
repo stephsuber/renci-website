@@ -3,7 +3,7 @@ title: "RENCI brings business and UNC researchers together for NSF-funded worksh
 slug: renci-brings-business-and-unc-researchers-together-for-nsf-funded-workshop
 spotlight: false
 publish_date: 2015-12-07
-author: subers
+author: 
 featuredImage: null
 groups:
     - 

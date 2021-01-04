@@ -6,17 +6,18 @@ publish_date: 2016-10-24
 author: subers
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - cici-safe
+    - exogeni
 people:
-    - 
+    - paul-ruth
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - ["CICI","Duke University","Networking","security"]
+    - ["networking"]
 ---
 <em>NSF grant will address security issues of Network Infrastructure as a Service (NIaaS)</em>
 

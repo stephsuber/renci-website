@@ -3,20 +3,20 @@ title: "Chameleon Cloud Computing Project enters new phase with $10M award"
 slug: chameleon-cloud-computing-project-enters-new-phase-with-10m-award
 spotlight: false
 publish_date: 2017-10-18
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - chameleon-cloud
 people:
-    - 
+    - paul-ruth
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["testbed"]
 ---
 <div id="pageContainer1" class="page" data-page-number="1"></div>
 <div id="pageContainer2" class="page" data-page-number="2">

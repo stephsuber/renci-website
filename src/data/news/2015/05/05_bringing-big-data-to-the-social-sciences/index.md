@@ -3,7 +3,7 @@ title: "Bringing big data to the social sciences"
 slug: bringing-big-data-to-the-social-sciences
 spotlight: false
 publish_date: 2015-05-05
-author: subers
+author: 
 featuredImage: null
 groups:
     - 

@@ -5,12 +5,14 @@ spotlight: true
 publish_date: 2019-11-14
 author: stephanie-suber
 featuredImage: ./openio-pattern.png
-groups: ["irods"]
-projects: []
-people: []
-teams: []
-collaborations: []
-tags: ["networking"]
+groups:
+projects:
+    - irods
+people:
+teams:
+collaborations:
+tags:
+    - networking
 ---
 
 The [iRODS Consortium](https://irods.org/), the foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS) data management software, welcomes OpenIO as its newest Consortium member.

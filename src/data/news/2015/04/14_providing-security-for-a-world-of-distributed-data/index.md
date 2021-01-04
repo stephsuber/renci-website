@@ -3,14 +3,16 @@ title: "Providing security for a world of distributed data"
 slug: providing-security-for-a-world-of-distributed-data
 spotlight: false
 publish_date: 2015-04-14
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - systems
 projects:
-    - 
+    - secure-research-space
+    - irods
+    - nc-tracs
 people:
-    - 
+    - michael-shoffner
 teams: 
     - 
 collaborations:

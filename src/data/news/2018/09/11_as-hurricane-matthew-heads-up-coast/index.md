@@ -4,20 +4,21 @@ slug: as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action
 link: https://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action/
 spotlight: false
 publish_date: 2018-09-11T08:00:00
-author: stephanie-suber
+author: 
 featuredImage: ./hurricane-matthew.png
 groups:
     - earth-data-science
 projects:
     - adcirc
 people:
-    - 
+    - brian-blanton
+    - rick-luettich
 teams: 
     - 
 collaborations:
     - 
 tags:
-    -
+    - ["high performance computing"]
 ---
 
 

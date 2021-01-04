@@ -3,14 +3,14 @@ title: "New study suggests hallucinations, alone, do not predict onset of schizo
 slug: hallucinations-alone-do-not-predict-onset-of-schizophrenia
 spotlight: false
 publish_date: 2015-10-09
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - biomedical-data-science
 projects:
     - 
 people:
-    - 
+    - clark-jeffries
 teams: 
     - 
 collaborations:

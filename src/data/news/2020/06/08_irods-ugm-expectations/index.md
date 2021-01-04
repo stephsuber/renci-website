@@ -5,7 +5,6 @@ spotlight: true
 publish_date: 2020-06-08
 author: stephanie-suber
 featuredImage: null
-groups: []
 projects:
   - irods
 people:
@@ -15,7 +14,7 @@ teams:
 collaborations:
   - irods-consortium
 tags:
-  - 
+  - data management
 ---
 
 ### iRODS users and consortium members will gather virtually from June 9-12

@@ -3,12 +3,15 @@ title: "RENCI teams with Clemson and WSU on $2.95 million project to improve and
 slug: renci-teams-with-clemson-and-washington-state-on-2-95-million-nsf-project-to-improve-and-simplify-large-scale-data-analysis
 spotlight: false
 publish_date: 2017-03-30
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - scidas
+    - irods
+    - hydroshare
+    - cici-safe
 people:
     - 
 teams: 
@@ -16,7 +19,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Clemson","Cyberinfrastructure","SciDAS"]
+    - ["cyberinfrastructure", "data management", "open source"]
 ---
 CHAPEL HILL, NC – RENCI researchers will work with scientists from Clemson University and Washington State University on a project funded by the <a href="https://www.nsf.gov/">National Science Foundation</a> to develop cyberinfrastructure aimed at providing researchers around the nation and world with a more fluid and flexible system of analyzing large-scale data.
 

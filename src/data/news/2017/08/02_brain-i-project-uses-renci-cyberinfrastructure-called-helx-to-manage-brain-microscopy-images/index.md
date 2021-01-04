@@ -6,17 +6,19 @@ publish_date: 2017-08-02
 author: subers
 featuredImage: null
 groups:
-    - 
+    - analysis
 projects:
-    - 
+    - brain-i
+    - helx
+    - irods
 people:
-    - 
+    - erik-scott
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["high performance computing"]
 ---
 <!-- wp:html -->
 <div class="entry-meta" style="margin-top: -1rem;">Updated: May 10, 2019</div>

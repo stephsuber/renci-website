@@ -3,20 +3,21 @@ title: "A sneak peek at iRODS User Group Meeting technology previews"
 slug: a-sneak-peek-at-irods-user-group-meeting-technology-previews
 spotlight: false
 publish_date: 2017-05-23
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
+    - terrell-russell
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source","training"]
 ---
 <em>New plugins to be highlighted; register now at </em><a href="https://irods.org/"><em>irods.org</em></a>
 

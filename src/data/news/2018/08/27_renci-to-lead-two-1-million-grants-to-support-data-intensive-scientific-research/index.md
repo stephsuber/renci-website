@@ -3,20 +3,21 @@ title: "RENCI to Lead Two $1 Million Grants to Support Data-Intensive Scientific
 slug: renci-to-lead-two-1-million-grants-to-support-data-intensive-scientific-research
 spotlight: false
 publish_date: 2018-08-27
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - nrig
 projects:
-    - 
+    - iris
+    - dynamo
 people:
-    - 
+    - anirban-mandal
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - []
+    - ["machine learning","networking"]
 ---
 <i><span style="font-weight: 400;">Projects aim to improve scientific productivity and protect data from inadvertent errors</span></i>
 

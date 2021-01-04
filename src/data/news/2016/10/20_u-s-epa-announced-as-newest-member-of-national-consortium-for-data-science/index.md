@@ -1,9 +1,9 @@
 ---
 title: "U.S. EPA announced as newest member of National Consortium for Data Science"
-slug: u-s-epa-announced-as-newest-member-of-national-consortium-for-data-science
+slug: us-epa-announced-as-newest-member-of-national-consortium-for-data-science
 spotlight: false
 publish_date: 2016-10-20
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
@@ -14,10 +14,11 @@ people:
 teams: 
     - 
 collaborations:
-    - 
+    - ncds
 tags:
-    - ["data science","EPA","NCDS"]
+    - 
 ---
+
 <a href="http://renci.org/wp-content/uploads/2016/10/EPA-frontpage.png"><img class="alignright size-medium wp-image-15716" src="http://renci.org/wp-content/uploads/2016/10/EPA-frontpage-300x300.png" alt="EPA-frontpage" width="300" height="300" /></a>CHAPEL HILL, NC - The United States Environmental Protection Agency is the latest organization to join the National Consortium for Data Science (NCDS), a public-private partnership to capitalize on the opportunities of big data and advance data science.
 
 The U.S. EPA, which works with massive amounts of environmental data in its efforts to protect human health and the environment, joins Deloitte, Drexel University, EMC, GE, IBM, MCNC, North Carolina State University, RENCI, RTI International, UNC Charlotte, UNC-Chapel Hill, UNC Greensboro, and UNC General Administration as NCDS members. As a member, EPA representatives will be able to participate in NCDS events, workshops, and working groups and will collaborate with other consortium members to develop strategies for utilizing big data and advancing data science education.  <!--more-->

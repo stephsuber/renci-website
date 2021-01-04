@@ -3,14 +3,14 @@ title: "Tracking entrepreneurship in the Research Triangle Park and beyond"
 slug: tracking-entrepreneurship-in-the-research-triangle-park-and-beyond
 spotlight: false
 publish_date: 2018-04-25
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - oleg-kapeljushnik
 teams: 
     - 
 collaborations:

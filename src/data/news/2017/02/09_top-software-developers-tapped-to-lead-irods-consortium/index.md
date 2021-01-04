@@ -3,20 +3,21 @@ title: "Top software developers tapped to lead iRODS Consortium"
 slug: top-software-developers-tapped-to-lead-irods-consortium
 spotlight: false
 publish_date: 2017-02-09
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
+    - terrell-russell
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 CHAPEL HILL, NC - Two software development experts with nearly 30 years of combined experience have officially taken the lead roles in the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (<a href="https://irods.org/">iRODS</a>).<!--more-->
 

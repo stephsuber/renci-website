@@ -3,12 +3,12 @@ title: "The Biomedical Data Translator Consortium announces publication of compa
 slug: biomedical-data-translator-consortium-announces-publication-of-companion-pieces
 spotlight: false
 publish_date: 2018-11-15
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - analytics
 projects:
-    - 
+    - data-translator
 people:
     - 
 teams: 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Biomedical Data Translator Consortium","Data Translator"]
+    - ["team science"]
 ---
 <!-- wp:paragraph -->
 <p><strong><em>Prototype ‘Translator’ system shows promise and has garnered much enthusiasm roughly one year into feasibility assessment</em></strong></p>

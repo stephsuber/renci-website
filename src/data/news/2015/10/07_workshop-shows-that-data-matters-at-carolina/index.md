@@ -3,14 +3,15 @@ title: "Workshop shows that data matters at Carolina"
 slug: workshop-shows-that-data-matters-at-carolina
 spotlight: false
 publish_date: 2015-10-07
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
     - 
 people:
-    - 
+    - stan-ahalt
+    - jay-aikat
 teams: 
     - 
 collaborations:

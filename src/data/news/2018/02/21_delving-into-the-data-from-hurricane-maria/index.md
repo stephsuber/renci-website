@@ -3,14 +3,14 @@ title: "Delving into the data from Hurricane Maria"
 slug: delving-into-the-data-from-hurricane-maria
 spotlight: false
 publish_date: 2018-02-21
-author: subers
+author: 
 featuredImage: null
 groups:
-    - 
+    - earth-data-science
 projects:
-    - 
+    - hydroshare
 people:
-    - 
+    - chris-lenhardt
 teams: 
     - 
 collaborations:

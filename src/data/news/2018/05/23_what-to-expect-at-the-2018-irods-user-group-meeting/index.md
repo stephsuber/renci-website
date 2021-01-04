@@ -3,20 +3,20 @@ title: "What to expect at the 2018 iRODS User Group Meeting"
 slug: what-to-expect-at-the-2018-irods-user-group-meeting
 spotlight: false
 publish_date: 2018-05-23
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS","UGM"]
+    - ["data management","open source"]
 ---
 <em><img class="aligncenter size-large wp-image-17529" src="http://renci.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-23-at-11.10.41-AM-1024x410.png" alt="" width="640" height="256" />Interested in iRODS? Register for the meeting at  </em><a href="http://irods.org/ugm2018"><em>irods.org/ugm2018</em></a>
 

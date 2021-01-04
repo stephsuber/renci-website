@@ -3,20 +3,20 @@ title: "iRODS Consortium announces University of Groningen as newest member"
 slug: irods-consortium-announces-university-of-groningen-as-newest-member
 spotlight: false
 publish_date: 2018-01-31
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
-    - 
+    - jason-coposky
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - ["data management","iRODS","iRODS Consortium"]
+    - ["data management","open source"]
 ---
 The <a href="https://www.rug.nl/about-us/who-are-we/">University of Groningen</a> (UG) Center for Information Technology (CIT) is the newest member of the iRODS Consortium, the membership-based organization that leads efforts to develop, support, and sustain the integrated Rule-Oriented Data System (iRODS).
 

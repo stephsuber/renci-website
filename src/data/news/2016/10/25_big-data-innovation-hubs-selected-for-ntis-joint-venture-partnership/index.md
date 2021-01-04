@@ -3,20 +3,20 @@ title: "Big Data Innovation Hubs selected for NTIS joint venture partnership"
 slug: big-data-innovation-hubs-selected-for-ntis-joint-venture-partnership
 spotlight: false
 publish_date: 2016-10-25
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - sbdh
 tags:
-    - ["Joint Venture","NTIS","South Big Data Hub"]
+    -
 ---
 <em><a href="http://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg"><img class="aligncenter wp-image-15739 size-full" src="http://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg" alt="joint-partners_1" width="700" height="250" /></a>Partnerships called “a major milestone for the data economy”</em>
 

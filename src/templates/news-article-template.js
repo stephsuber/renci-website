@@ -34,12 +34,12 @@ export default ({ data, pageContext }) => {
         <HorizontalRule />
 
         <Meta>
-          People: { people.map(person => <TagLink key={ person.id } to={ person.fields.path }>{ person.fullName }</TagLink>) } <br/><br/>
-          Groups: { groups.map(group => <TagLink key={ group.id } to={ group.fields.path }>{ group.name }</TagLink>) } <br/><br/>
-          Teams: { teams.map(team => <TagLink key={ team.id } to={ team.fields.path }>{ team.name }</TagLink>) } <br/><br/>
-          Projects: { projects.map(project => <TagLink key={ project.id } to={ project.fields.path }>{ project.name }</TagLink>) } <br/><br/>
-          Collaborations: { collaborations.map(collaboration => <TagLink key={ collaboration.id } to={ collaboration.fields.path }>{ collaboration.name }</TagLink>) }
-          Organizations: { organizations.map(organization => <TagLink key={ organization.id } to={ organization.url }>{ organization.name }</TagLink>) }
+          People: { people && people.map(person => <TagLink key={ person.id } to={ person.fields.path }>{ person.fullName }</TagLink>) } <br/><br/>
+          Groups: { groups && groups.map(group => <TagLink key={ group.id } to={ group.fields.path }>{ group.name }</TagLink>) } <br/><br/>
+          Teams: { teams && teams.map(team => <TagLink key={ team.id } to={ team.fields.path }>{ team.name }</TagLink>) } <br/><br/>
+          Projects: { projects && projects.map(project => <TagLink key={ project.id } to={ project.fields.path }>{ project.name }</TagLink>) } <br/><br/>
+          Collaborations: { collaborations && collaborations.map(collaboration => <TagLink key={ collaboration.id } to={ collaboration.fields.path }>{ collaboration.name }</TagLink>) } <br/><br/>
+          Organizations: { organizations && organizations.map(organization => <TagLink key={ organization.id } to={ organization.url }>{ organization.name }</TagLink>) }
         </Meta>
 
         <HorizontalRule />

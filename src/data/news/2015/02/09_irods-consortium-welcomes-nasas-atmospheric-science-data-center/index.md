@@ -3,20 +3,20 @@ title: "iRODS Consortium welcomes NASA’s Atmospheric Science Data Center"
 slug: irods-consortium-welcomes-nasas-atmospheric-science-data-center
 spotlight: false
 publish_date: 2015-02-09
-author: subers
+author: 
 featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - irods
 people:
     - 
 teams: 
     - 
 collaborations:
-    - 
+    - irods-consortium
 tags:
-    - []
+    - ["data management","open source"]
 ---
 CHAPEL HILL, NC, February 9, 2015 – The <a href="https://eosweb.larc.nasa.gov/">Atmospheric Science Data Center</a> (ASDC) at <a href="http://www.nasa.gov/centers/langley/home/index.html#.VLlgbS7F950">NASA Langley Research Center</a> in Hampton, VA has signed an agreement to become the newest member of the iRODS Consortium. The iRODS Consortium is a membership organization of users and service providers that sustains the integrated Rule-Oriented Data System (iRODS) as free open source data management software.
 
