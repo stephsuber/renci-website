@@ -24,6 +24,7 @@ export default ({ data, pageContext }) => {
 
   const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
   const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
+  const sortedNews = news ? [...news].sort((a, b) => a.frontmatter.publish_date > b.frontmatter.publish_date ? 1 : -1) : null
   
   return (
     <Fragment>
@@ -42,11 +43,12 @@ export default ({ data, pageContext }) => {
           </Article>
         </Section>
 
+
         {
-          news && (
-            <Section title="News">
+          sortedNews && (
+            <Section title="Recent News">
               {
-                news.slice(0, 2).map((article, i) => {
+                sortedNews.slice(-2).map((article, i) => {
                   return (
                     <Fragment key={ article.id }>
                       <ArticlePreview article={ article } path={ article.fields.path } compact />
