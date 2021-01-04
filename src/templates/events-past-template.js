@@ -22,7 +22,7 @@ export const pastEventsQuery = graphql`
     query($todaysDate: Date!) {
         events: allMarkdownRemark(
             filter: {
-                fileAbsolutePath: { regex: "/data\/events/" }
+                fileAbsolutePath: { regex: "/content\/events/" }
                 frontmatter: { dates: { start: { lt: $todaysDate } } }
             }
             sort: {fields: frontmatter___dates___start, order: DESC}

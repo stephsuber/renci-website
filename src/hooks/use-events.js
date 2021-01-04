@@ -2,7 +2,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 
 const eventsQuery = graphql`{
     events: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/data\/events/"}},
+        filter: {fileAbsolutePath: {regex: "/content\/events/"}},
         sort: {fields: frontmatter___dates___start, order: ASC}
     ) {
         edges {
@@ -30,7 +30,7 @@ const eventsQuery = graphql`{
 export const useEvents = () => {
     const { events } = useStaticQuery(eventsQuery)
     events.edges.forEach(({ node }) => {
-        const matches = node.fileAbsolutePath.match(/data\/news\/(\d{4}\d{2})\/.+\/index.md$/)
+        const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4}\d{2})\/.+\/index.md$/)
         if (matches) {
             const [, yyyydd] = matches
             node.path = `/events/${ yyyydd }/${ node.frontmatter.slug }`

@@ -10,7 +10,7 @@ import { Menu, MobileMenu, ResearchSubmenu } from '../../menu'
 import { Link } from '../../link'
 import { useBrand, useWindow } from '../../../hooks'
 import { Container as Grid, Row, Col } from 'react-grid-system'
-import { asciiLogo } from '../../../data/ascii-logo'
+import { asciiLogo } from '../../../content/ascii-logo'
 
 import "../../../styles/base.css"
 

@@ -2,7 +2,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 
 const newsQuery = graphql`{
     news: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/data\/news/"}},
+        filter: {fileAbsolutePath: {regex: "/content\/news/"}},
         sort: {fields: frontmatter___publish_date, order: DESC}
     ) {
         edges {
@@ -48,7 +48,7 @@ const newsQuery = graphql`{
 export const useNews = () => {
     const { news } = useStaticQuery(newsQuery)
     news.edges.forEach(({ node }) => {
-        const matches = node.fileAbsolutePath.match(/data\/news\/(\d{4})\/(\d{2})\/.+\/index.md$/)
+        const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4})\/(\d{2})\/.+\/index.md$/)
         if (matches) {
             const [, yyyy, dd] = matches
             node.path = `/news/${ yyyy }/${ dd }/${ node.frontmatter.slug }`

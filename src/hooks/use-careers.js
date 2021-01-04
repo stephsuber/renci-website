@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 const careersQuery = graphql`{
     careers: allMarkdownRemark(
         filter: {
-            fileAbsolutePath: {regex: "/data\/careers/"}
+            fileAbsolutePath: {regex: "/content\/careers/"}
             frontmatter: {active: {eq: true }}
         },
         sort: {fields: frontmatter___title, order: DESC}

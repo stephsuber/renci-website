@@ -8,7 +8,7 @@ console.log(`\n\nStarting build, ${ now }\n\n`)
 exports.onCreateNode = ({ node, actions }) => {
   const { createNode, createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark') {
-    const matches = node.fileAbsolutePath.match(/data\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
+    const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
     if (matches) {
       const [, yyyydd] = matches
       const path = `/news/${ yyyydd }/${ node.frontmatter.slug }`
@@ -396,7 +396,7 @@ exports.createPages = ({ actions, graphql }) => {
     const articles = result.data.news.edges
     console.log(`\nCreating news pages...`)
     articles.forEach(({ node }, index) => {
-      const matches = node.fileAbsolutePath.match(/data\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
+      const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
       if (matches) {
         const [, yyyydd] = matches
         const path = `/news/${ yyyydd }/${ node.frontmatter.slug }`
@@ -421,7 +421,7 @@ exports.createPages = ({ actions, graphql }) => {
     const events = result.data.events.edges
     console.log(`\nCreating event pages...`)
     events.forEach(({ node }, index) => {
-      const matches = node.fileAbsolutePath.match(/data\/events\/(\d{4}\/\d{2})\/.+.md$/)
+      const matches = node.fileAbsolutePath.match(/content\/events\/(\d{4}\/\d{2})\/.+.md$/)
       if (matches) {
         const [, yyyydd] = matches
         const path = `/events/${ yyyydd }/${ node.frontmatter.slug }`
