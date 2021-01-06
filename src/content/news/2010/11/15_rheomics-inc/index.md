@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad welcomes Rheomics, Inc."
 slug: rheomics-inc
 spotlight: false
-publish_date: 2010-11-15
+publishDate: 2010-11-15
 author: subers
 featuredImage: null
 groups:

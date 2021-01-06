@@ -2,7 +2,7 @@
 title: "MCNC plans video upgrade on statewide education network"
 slug: mcnc-plans-video-upgrade-on-statewide-education-network
 spotlight: false
-publish_date: 2011-06-23
+publishDate: 2011-06-23
 author: subers
 featuredImage: null
 groups:

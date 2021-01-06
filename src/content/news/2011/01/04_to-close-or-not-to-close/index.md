@@ -2,7 +2,7 @@
 title: "To close or not to close"
 slug: to-close-or-not-to-close
 spotlight: false
-publish_date: 2011-01-04
+publishDate: 2011-01-04
 author: subers
 featuredImage: null
 groups:

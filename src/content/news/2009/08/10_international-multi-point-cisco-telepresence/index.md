@@ -2,7 +2,7 @@
 title: "NLR’s TelePresence Exchange shows future of video conferencing"
 slug: international-multi-point-cisco-telepresence
 spotlight: false
-publish_date: 2009-08-10
+publishDate: 2009-08-10
 author: subers
 featuredImage: null
 groups:

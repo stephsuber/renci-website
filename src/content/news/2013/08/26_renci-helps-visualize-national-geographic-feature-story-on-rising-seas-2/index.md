@@ -2,7 +2,7 @@
 title: "RENCI helps visualize National Geographic feature story on rising seas"
 slug: renci-helps-visualize-national-geographic-feature-story-on-rising-seas-2
 spotlight: false
-publish_date: 2013-08-26
+publishDate: 2013-08-26
 author: subers
 featuredImage: null
 groups:

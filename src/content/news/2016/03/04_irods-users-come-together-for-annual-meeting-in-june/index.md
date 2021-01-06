@@ -2,7 +2,7 @@
 title: "iRODS users come together for annual meeting in June"
 slug: irods-users-come-together-for-annual-meeting-in-june
 spotlight: false
-publish_date: 2016-03-04
+publishDate: 2016-03-04
 author: 
 featuredImage: null
 groups:

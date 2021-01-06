@@ -2,7 +2,7 @@
 title: "An eye on Earl"
 slug: an-eye-on-earl
 spotlight: false
-publish_date: 2010-08-31
+publishDate: 2010-08-31
 author: subers
 featuredImage: null
 groups:

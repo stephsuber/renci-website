@@ -3,7 +3,7 @@ title: New digital laboratory helps get COVID-19 analyses up and running quickly
 slug: new-digital-laboratory-helps-get-covid-19-analyses-up-and-running-quickly
 link: https://renci.org/blog/new-digital-laboratory-helps-get-covid-19-analyses-up-and-running-quickly/
 spotlight: false
-publish_date: 2020-06-19T12:18:36
+publishDate: 2020-06-19T12:18:36
 author: 
 featuredImage: null
 groups:

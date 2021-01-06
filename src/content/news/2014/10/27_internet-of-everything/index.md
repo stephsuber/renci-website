@@ -2,7 +2,7 @@
 title: "What’s bigger than big data? The Internet of Everything"
 slug: internet-of-everything
 spotlight: false
-publish_date: 2014-10-27
+publishDate: 2014-10-27
 author: subers
 featuredImage: null
 groups:

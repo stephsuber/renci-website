@@ -2,7 +2,7 @@
 title: "NSF campus bridging workshop report now available online"
 slug: nsf-campus-bridging-workshop
 spotlight: false
-publish_date: 2011-05-04
+publishDate: 2011-05-04
 author: subers
 featuredImage: null
 groups:

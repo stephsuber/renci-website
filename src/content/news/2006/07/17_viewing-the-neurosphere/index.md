@@ -2,7 +2,7 @@
 title: "Viewing the Neurosphere"
 slug: viewing-the-neurosphere
 spotlight: false
-publish_date: 2006-07-17
+publishDate: 2006-07-17
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Summer institute aims to reach students interested in math and science"
 slug: summer-institute-aims-to-reach-students-interested-in-math-and-science
 spotlight: false
-publish_date: 2007-02-22
+publishDate: 2007-02-22
 author: subers
 featuredImage: null
 groups:

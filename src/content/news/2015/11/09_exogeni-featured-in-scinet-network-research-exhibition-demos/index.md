@@ -2,7 +2,7 @@
 title: "ExoGENI featured in SCinet Network Research Exhibition demos"
 slug: exogeni-featured-in-scinet-network-research-exhibition-demos
 spotlight: false
-publish_date: 2015-11-09
+publishDate: 2015-11-09
 author: 
 featuredImage: null
 groups:

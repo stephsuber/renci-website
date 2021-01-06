@@ -2,7 +2,7 @@
 title: "Registration now open for June iRODS User Group Meeting"
 slug: registration-now-open-for-june-irods-user-group-meeting-2
 spotlight: false
-publish_date: 2018-03-06
+publishDate: 2018-03-06
 author: 
 featuredImage: null
 groups:

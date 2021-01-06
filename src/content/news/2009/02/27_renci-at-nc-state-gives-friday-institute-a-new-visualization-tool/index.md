@@ -2,7 +2,7 @@
 title: "RENCI at NC State gives Friday Institute a new visualization tool"
 slug: renci-at-nc-state-gives-friday-institute-a-new-visualization-tool
 spotlight: false
-publish_date: 2009-02-27
+publishDate: 2009-02-27
 author: subers
 featuredImage: null
 groups:

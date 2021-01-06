@@ -2,7 +2,7 @@
 title: "Reed joins Mikel Rouse for ‘end of cinematics’ symposium"
 slug: reed-joins-mikel-rouse-for-end-of-cinematics-symposium
 spotlight: false
-publish_date: 2006-08-25
+publishDate: 2006-08-25
 author: subers
 featuredImage: null
 groups:

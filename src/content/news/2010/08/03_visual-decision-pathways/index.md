@@ -2,7 +2,7 @@
 title: "Visual Decision Pathways"
 slug: visual-decision-pathways
 spotlight: false
-publish_date: 2010-08-03
+publishDate: 2010-08-03
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "UNC partners with NIH to explore genomic testing for newborns"
 slug: unc-partners-with-nih-for-newborns
 spotlight: false
-publish_date: 2013-09-09
+publishDate: 2013-09-09
 author: subers
 featuredImage: null
 groups:

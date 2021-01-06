@@ -2,7 +2,7 @@
 title: "A particle of difference"
 slug: a-particle-of-difference
 spotlight: false
-publish_date: 2010-05-27
+publishDate: 2010-05-27
 author: subers
 featuredImage: null
 groups:

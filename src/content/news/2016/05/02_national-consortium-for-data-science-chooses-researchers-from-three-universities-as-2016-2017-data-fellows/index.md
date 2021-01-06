@@ -2,7 +2,7 @@
 title: "National Consortium for Data Science chooses researchers from three universities as 2016 -2017 Data Fellows"
 slug: national-consortium-for-data-science-chooses-researchers-from-three-universities-as-2016-2017-data-fellows
 spotlight: false
-publish_date: 2016-05-02
+publishDate: 2016-05-02
 author: 
 featuredImage: null
 groups:

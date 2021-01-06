@@ -2,7 +2,7 @@
 title: "New website shows live local weather conditions"
 slug: new-website-shows-live-local-weather-conditions
 spotlight: false
-publish_date: 2009-04-23
+publishDate: 2009-04-23
 author: subers
 featuredImage: null
 groups:

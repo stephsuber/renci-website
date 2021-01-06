@@ -2,7 +2,7 @@
 title: "NOAA funding will help RENCI continue development of surge forecasting system"
 slug: noaa-funds-surge-forecasting-system
 spotlight: false
-publish_date: 2013-09-11
+publishDate: 2013-09-11
 author: subers
 featuredImage: null
 groups:

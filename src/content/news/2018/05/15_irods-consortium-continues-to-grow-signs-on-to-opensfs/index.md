@@ -2,7 +2,7 @@
 title: "iRODS Consortium continues to grow, signs on to OpenSFS"
 slug: irods-consortium-continues-to-grow-signs-on-to-opensfs
 spotlight: false
-publish_date: 2018-05-15
+publishDate: 2018-05-15
 author: 
 featuredImage: null
 groups:

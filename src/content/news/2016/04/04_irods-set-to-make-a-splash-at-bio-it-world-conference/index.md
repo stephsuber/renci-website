@@ -2,7 +2,7 @@
 title: "iRODS set to make a splash at Bio-IT World conference"
 slug: irods-set-to-make-a-splash-at-bio-it-world-conference
 spotlight: false
-publish_date: 2016-04-04
+publishDate: 2016-04-04
 author: 
 featuredImage: null
 groups:

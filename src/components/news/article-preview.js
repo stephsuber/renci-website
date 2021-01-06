@@ -76,7 +76,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
           }
           <Col xs={ 12 } md={ hasFeaturedImage ? 8 : 12 } lg={ hasFeaturedImage ? 9 : 12 }>
             <TitleContainer>
-              <ArticleDate>{ article.frontmatter.publish_date }</ArticleDate>
+              <ArticleDate>{ article.frontmatter.publishDate }</ArticleDate>
               <ArticleTitle><Link to={ path }>{ article.frontmatter.title }</Link></ArticleTitle>
             </TitleContainer>
             <BodyContainer>

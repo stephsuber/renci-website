@@ -2,7 +2,7 @@
 title: "RENCI@SC14, New Orleans, LA"
 slug: sc14-morial-convention-center-new-orleans
 spotlight: false
-publish_date: 2014-11-13
+publishDate: 2014-11-13
 author: subers
 featuredImage: null
 groups:

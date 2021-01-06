@@ -2,7 +2,7 @@
 title: "South Big Data Hub links talented students with tech startups through new program"
 slug: south-big-data-hub-links-talented-students-with-tech-startups-through-new-program
 spotlight: false
-publish_date: 2016-05-24
+publishDate: 2016-05-24
 author: 
 featuredImage: null
 groups:

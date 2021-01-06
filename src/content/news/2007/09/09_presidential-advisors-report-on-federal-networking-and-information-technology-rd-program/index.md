@@ -2,7 +2,7 @@
 title: "Presidential advisors report on federal Networking and Information Technology R&D Program"
 slug: presidential-advisors-report-on-federal-networking-and-information-technology-rd-program
 spotlight: false
-publish_date: 2007-09-09
+publishDate: 2007-09-09
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "iRODS to celebrate banner year at 2015 User Group Meeting"
 slug: irods-to-celebrate-banner-year-at-2015-user-group-meeting
 spotlight: false
-publish_date: 2015-05-06
+publishDate: 2015-05-06
 author: 
 featuredImage: null
 groups:

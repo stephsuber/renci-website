@@ -2,7 +2,7 @@
 title: "Data and visualization help to personalize epilepsy treatment"
 slug: data-epilepsy-treatment
 spotlight: false
-publish_date: 2014-03-28
+publishDate: 2014-03-28
 author: subers
 featuredImage: null
 groups:

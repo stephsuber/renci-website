@@ -2,7 +2,7 @@
 title: "Two NC State research teams to participate in new campus info viz program"
 slug: nc-state-viz-program
 spotlight: false
-publish_date: 2010-12-16
+publishDate: 2010-12-16
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Full-dome storytelling"
 slug: full-dome-storytelling
 spotlight: false
-publish_date: 2012-04-27
+publishDate: 2012-04-27
 author: subers
 featuredImage: null
 groups:

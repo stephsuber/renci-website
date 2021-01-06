@@ -2,7 +2,7 @@
 title: "Study shows nearly 570 percent increase in western NC development since 1976"
 slug: study-shows-nearly-570-percent-increase-in-western-nc-development-since-1976
 spotlight: false
-publish_date: 2010-08-10
+publishDate: 2010-08-10
 author: subers
 featuredImage: null
 groups:

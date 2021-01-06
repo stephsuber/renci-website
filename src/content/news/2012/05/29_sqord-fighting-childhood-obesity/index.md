@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad company Sqord recognized for innovation in fighting childhood obesity"
 slug: sqord-fighting-childhood-obesity
 spotlight: false
-publish_date: 2012-05-29
+publishDate: 2012-05-29
 author: subers
 featuredImage: null
 groups:

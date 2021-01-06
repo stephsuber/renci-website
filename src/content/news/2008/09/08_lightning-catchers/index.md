@@ -2,7 +2,7 @@
 title: "Lightning catchers"
 slug: lightning-catchers
 spotlight: false
-publish_date: 2008-09-08
+publishDate: 2008-09-08
 author: subers
 featuredImage: null
 groups:

@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 const newsQuery = graphql`{
     news: allMarkdownRemark(
         filter: {fileAbsolutePath: {regex: "/content\/news/"}},
-        sort: {fields: frontmatter___publish_date, order: DESC}
+        sort: {fields: frontmatter___publishDate, order: DESC}
     ) {
         edges {
             node {
@@ -23,7 +23,7 @@ const newsQuery = graphql`{
                             }
                         }
                     }
-                    publish_date(formatString: "dddd, MMMM Do, YYYY")
+                    publishDate(formatString: "dddd, MMMM Do, YYYY")
                     author {
                         id
                         name {

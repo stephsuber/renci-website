@@ -2,7 +2,7 @@
 title: "Faster simulation codes for the world’s most powerful particle accelerator"
 slug: faster-simulation-codes
 spotlight: false
-publish_date: 2014-02-11
+publishDate: 2014-02-11
 author: subers
 featuredImage: null
 groups:

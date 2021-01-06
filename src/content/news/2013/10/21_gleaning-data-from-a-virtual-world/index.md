@@ -2,7 +2,7 @@
 title: "Gleaning data from a virtual world"
 slug: gleaning-data-from-a-virtual-world
 spotlight: false
-publish_date: 2013-10-21
+publishDate: 2013-10-21
 author: subers
 featuredImage: null
 groups:

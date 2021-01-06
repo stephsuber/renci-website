@@ -2,7 +2,7 @@
 title: "U.S. EPA announced as newest member of National Consortium for Data Science"
 slug: us-epa-announced-as-newest-member-of-national-consortium-for-data-science
 spotlight: false
-publish_date: 2016-10-20
+publishDate: 2016-10-20
 author: 
 featuredImage: null
 groups:

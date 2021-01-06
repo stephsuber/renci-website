@@ -2,7 +2,7 @@
 title: "RENCI's Asheville Center Featured in TV Special on Climate, Technology and the Environment"
 slug: rencis-asheville-center-featured-in-tv-special-on-climate-technology-and-the-environment
 spotlight: false
-publish_date: 2009-06-04
+publishDate: 2009-06-04
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Benefits of BEN"
 slug: benefits-of-ben
 spotlight: false
-publish_date: 2011-02-23
+publishDate: 2011-02-23
 author: subers
 featuredImage: null
 groups:

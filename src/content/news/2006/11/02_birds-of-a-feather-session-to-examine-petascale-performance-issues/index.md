@@ -2,7 +2,7 @@
 title: "Birds of a Feather session to examine petascale performance issues"
 slug: birds-of-a-feather-session-to-examine-petascale-performance-issues
 spotlight: false
-publish_date: 2006-11-02
+publishDate: 2006-11-02
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Mock trial, virtual world, real learning"
 slug: mock-trial-virtual-world-real-learning
 spotlight: false
-publish_date: 2009-09-25
+publishDate: 2009-09-25
 author: subers
 featuredImage: null
 groups:

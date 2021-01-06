@@ -2,7 +2,7 @@
 title: "National Consortium for Data Science awards fellowships to researchers working to advance data science"
 slug: ncds-data-fellows
 spotlight: false
-publish_date: 2013-11-19
+publishDate: 2013-11-19
 author: subers
 featuredImage: null
 groups:

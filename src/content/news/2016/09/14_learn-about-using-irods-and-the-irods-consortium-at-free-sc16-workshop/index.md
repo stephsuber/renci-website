@@ -2,7 +2,7 @@
 title: "Learn about using iRODS and the iRODS Consortium at free SC16 workshop"
 slug: learn-about-using-irods-and-the-irods-consortium-at-free-sc16-workshop
 spotlight: false
-publish_date: 2016-09-14
+publishDate: 2016-09-14
 author: 
 featuredImage: null
 groups:

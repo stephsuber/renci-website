@@ -2,7 +2,7 @@
 title: "RENCI to lead one of 12 projects to create an NIH Data Commons"
 slug: uncs-renci-to-lead-project-aimed-at-making-biomedical-data-easier-to-use
 spotlight: false
-publish_date: 2017-11-07
+publishDate: 2017-11-07
 author: 
 featuredImage: null
 groups:

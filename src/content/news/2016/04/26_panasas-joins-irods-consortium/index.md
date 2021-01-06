@@ -2,7 +2,7 @@
 title: "Panasas joins iRODS Consortium to advance the storage performance needs of life science markets"
 slug: panasas-joins-irods-consortium
 spotlight: false
-publish_date: 2016-04-26
+publishDate: 2016-04-26
 author: 
 featuredImage: null
 groups:

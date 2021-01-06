@@ -2,7 +2,7 @@
 title: "Workflows enhance NC bioportal and assist biology researchers"
 slug: workflows-enhance-nc-bioportal-and-assist-biology-researchers
 spotlight: false
-publish_date: 2007-03-03
+publishDate: 2007-03-03
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Data Fellows project aims to make storm surge predictions faster and more accurate"
 slug: data-fellows-project-aims-to-make-storm-surge-predictions-faster-and-more-accurate
 spotlight: false
-publish_date: 2017-08-31
+publishDate: 2017-08-31
 author: 
 featuredImage: null
 groups:

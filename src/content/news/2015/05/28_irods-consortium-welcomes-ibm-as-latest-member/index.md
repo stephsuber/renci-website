@@ -2,7 +2,7 @@
 title: "iRODS Consortium welcomes IBM as latest member"
 slug: irods-consortium-welcomes-ibm-as-latest-member
 spotlight: false
-publish_date: 2015-05-28
+publishDate: 2015-05-28
 author: 
 featuredImage: null
 groups:

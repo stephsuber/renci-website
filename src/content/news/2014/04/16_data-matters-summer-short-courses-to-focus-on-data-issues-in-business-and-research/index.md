@@ -2,7 +2,7 @@
 title: "Data Matters summer short courses to focus on data issues in business and research"
 slug: data-matters-summer-short-courses-to-focus-on-data-issues-in-business-and-research
 spotlight: false
-publish_date: 2014-04-16
+publishDate: 2014-04-16
 author: subers
 featuredImage: null
 groups:

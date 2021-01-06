@@ -2,7 +2,7 @@
 title: "LEADing cyberinfrastructure for science and society"
 slug: leading-cyberinfrastructure-for-science-and-society
 spotlight: false
-publish_date: 2008-06-04
+publishDate: 2008-06-04
 author: subers
 featuredImage: null
 groups:

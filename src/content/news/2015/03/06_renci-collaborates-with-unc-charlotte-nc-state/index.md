@@ -2,7 +2,7 @@
 title: "RENCI to collaborate with UNC Charlotte and NC State on technologies for big data analytics"
 slug: renci-collaborates-with-unc-charlotte-nc-state
 spotlight: false
-publish_date: 2015-03-06
+publishDate: 2015-03-06
 author: 
 featuredImage: null
 groups:

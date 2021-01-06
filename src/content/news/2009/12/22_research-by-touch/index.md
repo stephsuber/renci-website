@@ -2,7 +2,7 @@
 title: "Research by touch"
 slug: research-by-touch
 spotlight: false
-publish_date: 2009-12-22
+publishDate: 2009-12-22
 author: subers
 featuredImage: null
 groups:

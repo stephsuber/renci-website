@@ -2,7 +2,7 @@
 title: "DDN becomes first private sector member of iRODS Consortium"
 slug: ddn-becomes-first-private-sector-member-of-irods-consortium
 spotlight: false
-publish_date: 2013-11-20
+publishDate: 2013-11-20
 author: subers
 featuredImage: null
 groups:

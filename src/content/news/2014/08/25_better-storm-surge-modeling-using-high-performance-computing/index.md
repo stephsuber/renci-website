@@ -2,7 +2,7 @@
 title: "Better storm surge modeling using high performance computing"
 slug: better-storm-surge-modeling-using-high-performance-computing
 spotlight: false
-publish_date: 2014-08-25
+publishDate: 2014-08-25
 author: subers
 featuredImage: null
 groups:

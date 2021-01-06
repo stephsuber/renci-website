@@ -2,7 +2,7 @@
 title: "Google’s Michael Jones next speaker in RENCI lecture series"
 slug: googles-michael-jones-next-speaker-in-renci-lecture-series
 spotlight: false
-publish_date: 2008-01-18
+publishDate: 2008-01-18
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI adds disaster mitigation, networking experts"
 slug: renci-adds-disaster-mitigation-networking-experts
 spotlight: false
-publish_date: 2006-03-23
+publishDate: 2006-03-23
 author: subers
 featuredImage: null
 groups:

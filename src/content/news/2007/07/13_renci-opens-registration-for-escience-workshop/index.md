@@ -2,7 +2,7 @@
 title: "RENCI opens registration for eScience workshop"
 slug: renci-opens-registration-for-escience-workshop
 spotlight: false
-publish_date: 2007-07-13
+publishDate: 2007-07-13
 author: subers
 featuredImage: null
 groups:

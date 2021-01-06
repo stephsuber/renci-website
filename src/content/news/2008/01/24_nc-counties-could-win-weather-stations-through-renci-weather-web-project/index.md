@@ -2,7 +2,7 @@
 title: "NC counties could win weather stations through RENCI Weather Web project"
 slug: nc-counties-could-win-weather-stations-through-renci-weather-web-project
 spotlight: false
-publish_date: 2008-01-24
+publishDate: 2008-01-24
 author: subers
 featuredImage: null
 groups:

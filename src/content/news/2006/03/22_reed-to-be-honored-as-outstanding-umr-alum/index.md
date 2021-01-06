@@ -2,7 +2,7 @@
 title: "Reed to be honored as outstanding UMR alum"
 slug: reed-to-be-honored-as-outstanding-umr-alum
 spotlight: false
-publish_date: 2006-03-22
+publishDate: 2006-03-22
 author: subers
 featuredImage: null
 groups:

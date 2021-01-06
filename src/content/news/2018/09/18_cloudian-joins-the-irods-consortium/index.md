@@ -2,7 +2,7 @@
 title: "Cloudian Joins the iRODS Consortium"
 slug: cloudian-joins-the-irods-consortium
 spotlight: false
-publish_date: 2018-09-18
+publishDate: 2018-09-18
 author: 
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI, Duke, Infinera to collaborate on prototype experimental network framework"
 slug: renci-duke-infinera-to-collaborate-on-prototype-experimental-network-framework
 spotlight: false
-publish_date: 2008-10-06
+publishDate: 2008-10-06
 author: subers
 featuredImage: null
 groups:

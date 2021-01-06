@@ -2,7 +2,7 @@
 title: "RENCI taps Georgia Tech for economic development director"
 slug: renci-taps-georgia-tech-for-economic-development-director
 spotlight: false
-publish_date: 2006-06-19
+publishDate: 2006-06-19
 author: subers
 featuredImage: null
 groups:

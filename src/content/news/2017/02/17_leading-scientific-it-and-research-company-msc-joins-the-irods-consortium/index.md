@@ -2,7 +2,7 @@
 title: "Leading scientific IT and research company MSC joins the iRODS Consortium"
 slug: leading-scientific-it-and-research-company-msc-joins-the-irods-consortium
 spotlight: false
-publish_date: 2017-02-17
+publishDate: 2017-02-17
 author: 
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Ocracoke doubles its power"
 slug: ocracoke-doubles-its-power
 spotlight: false
-publish_date: 2008-01-17
+publishDate: 2008-01-17
 author: subers
 featuredImage: null
 groups:

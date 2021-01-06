@@ -2,7 +2,7 @@
 title: "Triangle universities and RENCI launch major data initiative"
 slug: data-initiative
 spotlight: false
-publish_date: 2009-10-26
+publishDate: 2009-10-26
 author: subers
 featuredImage: null
 groups:

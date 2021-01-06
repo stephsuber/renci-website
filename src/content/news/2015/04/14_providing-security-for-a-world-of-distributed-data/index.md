@@ -2,7 +2,7 @@
 title: "Providing security for a world of distributed data"
 slug: providing-security-for-a-world-of-distributed-data
 spotlight: false
-publish_date: 2015-04-14
+publishDate: 2015-04-14
 author: 
 featuredImage: null
 groups:

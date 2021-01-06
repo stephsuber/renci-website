@@ -2,7 +2,7 @@
 title: "Visualization Challenge examines history, science and more"
 slug: visualization-challenge-examines-history-science-and-more
 spotlight: false
-publish_date: 2009-03-30
+publishDate: 2009-03-30
 author: subers
 featuredImage: null
 groups:

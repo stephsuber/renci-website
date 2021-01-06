@@ -2,7 +2,7 @@
 title: "Technology expert kicks off RENCI Distinguished Lecture series"
 slug: technology-expert-kicks-off-renci-distinguished-lecture-series
 spotlight: false
-publish_date: 2006-12-20
+publishDate: 2006-12-20
 author: subers
 featuredImage: null
 groups:

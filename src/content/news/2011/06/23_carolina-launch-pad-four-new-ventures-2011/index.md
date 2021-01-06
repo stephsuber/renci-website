@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad adds four new ventures to its 2011 class"
 slug: carolina-launch-pad-four-new-ventures-2011
 spotlight: false
-publish_date: 2011-06-23
+publishDate: 2011-06-23
 author: subers
 featuredImage: null
 groups:

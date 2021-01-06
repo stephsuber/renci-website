@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad company aims to lower high school dropout rate"
 slug: carolina-launch-pad-company-aims-to-lower-high-school-dropout-rate
 spotlight: false
-publish_date: 2012-12-10
+publishDate: 2012-12-10
 author: subers
 featuredImage: null
 groups:

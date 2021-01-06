@@ -2,7 +2,7 @@
 title: "University, community leaders welcome RENCI to downtown Asheville"
 slug: university-community-leaders-welcome-renci-to-downtown-asheville
 spotlight: false
-publish_date: 2009-10-06
+publishDate: 2009-10-06
 author: subers
 featuredImage: null
 groups:

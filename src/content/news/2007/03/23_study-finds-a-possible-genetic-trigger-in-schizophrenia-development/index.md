@@ -2,7 +2,7 @@
 title: "Study finds a possible genetic trigger in schizophrenia development"
 slug: study-finds-a-possible-genetic-trigger-in-schizophrenia-development
 spotlight: false
-publish_date: 2007-03-23
+publishDate: 2007-03-23
 author: subers
 featuredImage: null
 groups:

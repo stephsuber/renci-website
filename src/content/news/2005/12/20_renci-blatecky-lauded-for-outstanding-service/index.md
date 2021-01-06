@@ -2,7 +2,7 @@
 title: "RENCI's Blatecky lauded for outstanding service"
 slug: renci-blatecky-lauded-for-outstanding-service
 spotlight: false
-publish_date: 2005-12-20
+publishDate: 2005-12-20
 author: subers
 featuredImage: null
 groups:

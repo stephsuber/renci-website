@@ -2,7 +2,7 @@
 title: "UNC/RENCI research team joins effort to build data infrastructure for geosciences"
 slug: data-infrastructure-for-geosciences
 spotlight: false
-publish_date: 2012-04-23
+publishDate: 2012-04-23
 author: subers
 featuredImage: null
 groups:

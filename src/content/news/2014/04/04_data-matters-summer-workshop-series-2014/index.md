@@ -2,7 +2,7 @@
 title: "Data Matters Summer Workshops to focus on data issues in business and research"
 slug: data-matters-summer-workshop-series-2014
 spotlight: false
-publish_date: 2014-04-04
+publishDate: 2014-04-04
 author: subers
 featuredImage: null
 groups:

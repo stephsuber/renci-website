@@ -2,7 +2,7 @@
 title: "RENCI chief scientist wins DHS award"
 slug: renci-chief-scientist-wins-dhs-award
 spotlight: false
-publish_date: 2010-03-31
+publishDate: 2010-03-31
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "REACH NC Resource Finder expands capabilities of successful statewide researcher portal"
 slug: reach-nc-resource-finder-expands-capabilities-of-successful-statewide-researcher-portal
 spotlight: false
-publish_date: 2014-06-24
+publishDate: 2014-06-24
 author: subers
 featuredImage: null
 groups:

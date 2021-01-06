@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad seeks new crop of university entrepreneurs"
 slug: carolina-launch-pad-seeks-new-crop
 spotlight: false
-publish_date: 2009-09-14
+publishDate: 2009-09-14
 author: subers
 featuredImage: null
 groups:

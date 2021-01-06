@@ -2,7 +2,7 @@
 title: "RENCI debuts at International Supercomputing Conference"
 slug: renci-debuts-at-international-supercomputing-conference
 spotlight: false
-publish_date: 2006-11-01
+publishDate: 2006-11-01
 author: subers
 featuredImage: null
 groups:

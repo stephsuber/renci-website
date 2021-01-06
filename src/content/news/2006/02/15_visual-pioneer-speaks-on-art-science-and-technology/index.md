@@ -2,7 +2,7 @@
 title: "Visual pioneer speaks on art, science and technology"
 slug: visual-pioneer-speaks-on-art-science-and-technology
 spotlight: false
-publish_date: 2006-02-15
+publishDate: 2006-02-15
 author: subers
 featuredImage: null
 groups:

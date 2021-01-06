@@ -2,7 +2,7 @@
 title: "Digital Diagnostics"
 slug: digital-diagnostics
 spotlight: false
-publish_date: 2006-08-17
+publishDate: 2006-08-17
 author: subers
 featuredImage: null
 groups:

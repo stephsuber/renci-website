@@ -2,7 +2,7 @@
 title: "Home-grown: a recipe for economic and physical health?"
 slug: economic-physical-health
 spotlight: false
-publish_date: 2010-03-10
+publishDate: 2010-03-10
 author: subers
 featuredImage: null
 groups:

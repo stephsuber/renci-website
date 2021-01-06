@@ -2,7 +2,7 @@
 title: "RENCI and Carolinas Center to build online health management and wellness platform"
 slug: renci-collaborates-with-carolinas-center-to-build-innovative-online-health-management-and-wellness-platform
 spotlight: false
-publish_date: 2017-03-23
+publishDate: 2017-03-23
 author: 
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "iRODS Consortium announces University of Groningen as newest member"
 slug: irods-consortium-announces-university-of-groningen-as-newest-member
 spotlight: false
-publish_date: 2018-01-31
+publishDate: 2018-01-31
 author: 
 featuredImage: null
 groups:

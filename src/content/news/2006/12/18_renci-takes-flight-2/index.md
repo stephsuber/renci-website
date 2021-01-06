@@ -2,7 +2,7 @@
 title: "RENCI takes flight"
 slug: renci-takes-flight-2
 spotlight: false
-publish_date: 2006-12-18
+publishDate: 2006-12-18
 author: subers
 featuredImage: null
 groups:

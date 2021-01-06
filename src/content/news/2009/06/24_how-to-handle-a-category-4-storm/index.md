@@ -2,7 +2,7 @@
 title: "How to handle a Category 4 storm"
 slug: how-to-handle-a-category-4-storm
 spotlight: false
-publish_date: 2009-06-24
+publishDate: 2009-06-24
 author: subers
 featuredImage: null
 groups:

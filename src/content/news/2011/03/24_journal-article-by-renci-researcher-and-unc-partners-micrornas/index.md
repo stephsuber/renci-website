@@ -2,7 +2,7 @@
 title: "Journal article by RENCI researcher and UNC partners explores properties of microRNAs"
 slug: journal-article-by-renci-researcher-and-unc-partners-micrornas
 spotlight: false
-publish_date: 2011-03-24
+publishDate: 2011-03-24
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Sea Change"
 slug: sea-change
 spotlight: false
-publish_date: 2011-03-29
+publishDate: 2011-03-29
 author: subers
 featuredImage: null
 groups:

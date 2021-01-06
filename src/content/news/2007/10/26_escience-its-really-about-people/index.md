@@ -2,7 +2,7 @@
 title: "eScience: It's really about people"
 slug: escience-its-really-about-people
 spotlight: false
-publish_date: 2007-10-26
+publishDate: 2007-10-26
 author: subers
 featuredImage: null
 groups:

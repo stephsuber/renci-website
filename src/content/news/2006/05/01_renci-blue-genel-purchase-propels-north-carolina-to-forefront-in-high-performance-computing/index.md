@@ -2,7 +2,7 @@
 title: "RENCI Blue Gene/L Purchase propels North Carolina to forefront in high performance computing"
 slug: renci-blue-genel-purchase-propels-north-carolina-to-forefront-in-high-performance-computing
 spotlight: false
-publish_date: 2006-05-01
+publishDate: 2006-05-01
 author: subers
 featuredImage: null
 groups:

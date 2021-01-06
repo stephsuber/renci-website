@@ -2,7 +2,7 @@
 title: "RENCI visualizations show rapid expansion of urban areas by 2030"
 slug: renci-visualizations-show-rapid-expansion-of-urban-areas-by-2030
 spotlight: false
-publish_date: 2008-04-08
+publishDate: 2008-04-08
 author: subers
 featuredImage: null
 groups:

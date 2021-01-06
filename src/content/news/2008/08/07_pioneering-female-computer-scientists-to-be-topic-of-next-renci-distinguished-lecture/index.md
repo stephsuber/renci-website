@@ -2,7 +2,7 @@
 title: "Pioneering female computer scientists to be topic of next RENCI Distinguished Lecture"
 slug: pioneering-female-computer-scientists-to-be-topic-of-next-renci-distinguished-lecture
 spotlight: false
-publish_date: 2008-08-07
+publishDate: 2008-08-07
 author: subers
 featuredImage: null
 groups:

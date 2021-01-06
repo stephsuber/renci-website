@@ -2,7 +2,7 @@
 title: "Putting data in its place"
 slug: putting-data-in-its-place
 spotlight: false
-publish_date: 2011-10-20
+publishDate: 2011-10-20
 author: subers
 featuredImage: null
 groups:

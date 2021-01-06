@@ -2,7 +2,7 @@
 title: "Modeling the Perfect Fluid"
 slug: modeling-the-perfect-fluid
 spotlight: false
-publish_date: 2012-01-04
+publishDate: 2012-01-04
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Computer scientist and pioneer of high-speed molecular dynamics simulations to speak at Carolina"
 slug: computer-scientist-and-pioneer-of-high-speed-molecular-dynamics-simulations-to-speak-at-carolina-2
 spotlight: false
-publish_date: 2012-02-13
+publishDate: 2012-02-13
 author: subers
 featuredImage: null
 groups:

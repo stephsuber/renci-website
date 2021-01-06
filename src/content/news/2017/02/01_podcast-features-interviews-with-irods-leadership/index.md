@@ -2,7 +2,7 @@
 title: "Podcast features interviews with iRODS leadership"
 slug: podcast-features-interviews-with-irods-leadership
 spotlight: false
-publish_date: 2017-02-01
+publishDate: 2017-02-01
 author: 
 featuredImage: null
 groups:

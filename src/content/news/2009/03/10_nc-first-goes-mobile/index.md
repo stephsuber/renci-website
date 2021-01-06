@@ -2,7 +2,7 @@
 title: "NC-FIRST goes mobile"
 slug: nc-first-goes-mobile
 spotlight: false
-publish_date: 2009-03-10
+publishDate: 2009-03-10
 author: subers
 featuredImage: null
 groups:

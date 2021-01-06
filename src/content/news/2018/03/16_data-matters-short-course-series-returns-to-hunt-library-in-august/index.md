@@ -2,7 +2,7 @@
 title: "Data Matters™ Short Course Series Returns to Hunt Library in August"
 slug: data-matters-short-course-series-returns-to-hunt-library-in-august
 spotlight: false
-publish_date: 2018-03-16
+publishDate: 2018-03-16
 author: 
 featuredImage: null
 groups:

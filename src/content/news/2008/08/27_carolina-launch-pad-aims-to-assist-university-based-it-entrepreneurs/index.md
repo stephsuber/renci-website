@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad aims to assist university-based IT entrepreneurs"
 slug: carolina-launch-pad-aims-to-assist-university-based-it-entrepreneurs
 spotlight: false
-publish_date: 2008-08-27
+publishDate: 2008-08-27
 author: subers
 featuredImage: null
 groups:

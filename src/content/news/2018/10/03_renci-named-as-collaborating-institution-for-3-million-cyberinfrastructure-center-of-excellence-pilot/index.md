@@ -2,7 +2,7 @@
 title: "RENCI Named as Collaborating Institution for $3 Million Cyberinfrastructure Center of Excellence Pilot"
 slug: renci-named-as-collaborating-institution-for-3-million-cyberinfrastructure-center-of-excellence-pilot
 spotlight: false
-publish_date: 2018-10-03
+publishDate: 2018-10-03
 author: 
 featuredImage: null
 groups:

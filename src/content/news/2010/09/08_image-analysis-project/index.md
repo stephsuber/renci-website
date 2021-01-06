@@ -2,7 +2,7 @@
 title: "Image analysis project aims to classify characteristics of skin cancers"
 slug: image-analysis-project
 spotlight: false
-publish_date: 2010-09-08
+publishDate: 2010-09-08
 author: subers
 featuredImage: null
 groups:

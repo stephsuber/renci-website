@@ -2,7 +2,7 @@
 title: "New membership structure launches NCDS into new year"
 slug: new-membership-structure-launches-ncds-into-new-year
 spotlight: false
-publish_date: 2018-01-29
+publishDate: 2018-01-29
 author: 
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Built for interaction"
 slug: built-for-interaction
 spotlight: false
-publish_date: 2014-03-06
+publishDate: 2014-03-06
 author: subers
 featuredImage: null
 groups:

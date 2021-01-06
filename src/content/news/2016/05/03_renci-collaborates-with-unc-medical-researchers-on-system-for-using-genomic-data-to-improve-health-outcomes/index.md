@@ -2,7 +2,7 @@
 title: "RENCI collaborates with UNC medical researchers on system for using genomic data to improve health outcomes"
 slug: renci-collaborates-with-unc-medical-researchers-on-system-for-using-genomic-data-to-improve-health-outcomes
 spotlight: false
-publish_date: 2016-05-03
+publishDate: 2016-05-03
 author: 
 featuredImage: null
 groups:

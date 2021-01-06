@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad names four new ventures to its 2012-2013 class"
 slug: carolina-launch-pad-new-ventures-2013
 spotlight: false
-publish_date: 2012-06-06
+publishDate: 2012-06-06
 author: subers
 featuredImage: null
 groups:

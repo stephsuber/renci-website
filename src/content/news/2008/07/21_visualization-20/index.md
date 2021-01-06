@@ -2,7 +2,7 @@
 title: "Visualization 2.0"
 slug: visualization-20
 spotlight: false
-publish_date: 2008-07-21
+publishDate: 2008-07-21
 author: subers
 featuredImage: null
 groups:

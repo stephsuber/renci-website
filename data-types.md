@@ -72,7 +72,7 @@
 - title: String
 - slug: String, kebab case for URL, as in renci.org/news/this-is-the-slug
 - spotlight: Boolean, should this show in front page news spotlight?
-- publish_date: String, YYYY-MM-DD
+- publishDate: String, YYYY-MM-DD
 - author: Person ID
 - featuredImage: String, relative path to image file
 - groups: [Group IDs]
@@ -87,7 +87,7 @@
 
 - title: String
 - unc_position_number: String, from UNC
-- publish_date: String, YYYY-MM-DD
+- publishDate: String, YYYY-MM-DD
 - active: Boolean, is this posting currently active?
 - text: String
 
@@ -195,7 +195,7 @@ members:
 title: Fake Article
 slug: fake-article
 spotlight: true
-publish_date: 2020-06-18
+publishDate: 2020-06-18
 author: mwatson
 featuredImage: ./some-image.jpg
 groups:
@@ -223,7 +223,7 @@ Actual article text. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
 ---
 title: Domain Scientist in Data Assimilation
 unc_position_number: "20012252"
-publish_date: 2020-01-17
+publishDate: 2020-01-17
 active: true
 ---
 The Domain Scientist in Data Assimilation will serve as a research scientist at RENCI who works on the mathematical processes underlying the assimilation of data into models. This position will have a particular emphasis on next generation models of sea ice. Other models in climate and public health may be considered as well. 

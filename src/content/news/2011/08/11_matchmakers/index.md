@@ -2,7 +2,7 @@
 title: "Matchmakers"
 slug: matchmakers
 spotlight: false
-publish_date: 2011-08-11
+publishDate: 2011-08-11
 author: subers
 featuredImage: null
 groups:

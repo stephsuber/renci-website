@@ -2,7 +2,7 @@
 title: "iRODS Chief Technologist named interim head of iRODS Consortium"
 slug: irods-chief-technologist-named-interim-head-of-irods-consortium
 spotlight: false
-publish_date: 2016-05-18
+publishDate: 2016-05-18
 author: 
 featuredImage: null
 groups:

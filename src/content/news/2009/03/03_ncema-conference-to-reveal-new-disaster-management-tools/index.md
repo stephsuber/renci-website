@@ -2,7 +2,7 @@
 title: "NCEMA conference to reveal new disaster management tools"
 slug: ncema-conference-to-reveal-new-disaster-management-tools
 spotlight: false
-publish_date: 2009-03-03
+publishDate: 2009-03-03
 author: subers
 featuredImage: null
 groups:

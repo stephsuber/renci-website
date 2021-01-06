@@ -2,7 +2,7 @@
 title: "RENCI to Participate in New NOAA Institute to Study Climate Change"
 slug: renci-to-participate-in-new-noaa-institute-to-study-climate-change
 spotlight: false
-publish_date: 2009-06-04
+publishDate: 2009-06-04
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Rain, snow, sleet or ice"
 slug: rain-snow-sleet-or-ice
 spotlight: false
-publish_date: 2008-02-19
+publishDate: 2008-02-19
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "New research project aims to translate biomedical data for better healthcare, research, and policy-making"
 slug: new-research-project-aims-to-translate-biomedical-data-for-better-healthcare-research-and-policy-making
 spotlight: false
-publish_date: 2016-12-09
+publishDate: 2016-12-09
 author: 
 featuredImage: null
 groups:

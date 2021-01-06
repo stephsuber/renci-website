@@ -2,7 +2,7 @@
 title: "Molecules to Materials"
 slug: molecules-to-materials
 spotlight: false
-publish_date: 2010-09-08
+publishDate: 2010-09-08
 author: subers
 featuredImage: null
 groups:

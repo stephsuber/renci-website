@@ -2,7 +2,7 @@
 title: "Symposium brings global computational wind engineering community to Chapel Hill"
 slug: wind-engineering-symposium-chapel-hill
 spotlight: false
-publish_date: 2010-05-17
+publishDate: 2010-05-17
 author: subers
 featuredImage: null
 groups:

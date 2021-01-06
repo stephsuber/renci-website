@@ -2,7 +2,7 @@
 title: "RENCI taps Ohio HPC expert for deputy director job"
 slug: renci-taps-ohio-hpc-expert-for-deputy-director-job
 spotlight: false
-publish_date: 2013-01-23
+publishDate: 2013-01-23
 author: subers
 featuredImage: null
 groups:

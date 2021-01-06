@@ -11,7 +11,7 @@ export default ({ data, pageContext }) => {
   const theme = useTheme()
   const { article: {
     frontmatter: {
-      title, publish_date, author, featuredImage,
+      title, publishDate, author, featuredImage,
       people, groups, projects, teams, collaborations,
     },
     html: articleHTML
@@ -30,7 +30,7 @@ export default ({ data, pageContext }) => {
 export const newsQuery = graphql`
   query articlesListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      sort: { fields: [frontmatter___publish_date,], order: DESC }
+      sort: { fields: [frontmatter___publishDate,], order: DESC }
       limit: $limit
       skip: $skip
     ) {

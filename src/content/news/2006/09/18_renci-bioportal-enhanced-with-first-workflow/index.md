@@ -2,7 +2,7 @@
 title: "RENCI Bioportal enhanced with first workflow"
 slug: renci-bioportal-enhanced-with-first-workflow
 spotlight: false
-publish_date: 2006-09-18
+publishDate: 2006-09-18
 author: subers
 featuredImage: null
 groups:

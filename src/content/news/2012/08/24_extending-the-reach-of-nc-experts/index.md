@@ -2,7 +2,7 @@
 title: "Extending the REACH of NC experts"
 slug: extending-the-reach-of-nc-experts
 spotlight: false
-publish_date: 2012-08-24
+publishDate: 2012-08-24
 author: subers
 featuredImage: null
 groups:

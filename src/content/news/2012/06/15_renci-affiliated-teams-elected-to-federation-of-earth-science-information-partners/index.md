@@ -2,7 +2,7 @@
 title: "RENCI-affiliated teams elected to Federation of Earth Science Information Partners"
 slug: renci-affiliated-teams-elected-to-federation-of-earth-science-information-partners
 spotlight: false
-publish_date: 2012-06-15
+publishDate: 2012-06-15
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "The RENCI student experience"
 slug: the-renci-student-experience
 spotlight: false
-publish_date: 2016-01-13
+publishDate: 2016-01-13
 author: stephanie-suber
 featuredImage: null
 groups:

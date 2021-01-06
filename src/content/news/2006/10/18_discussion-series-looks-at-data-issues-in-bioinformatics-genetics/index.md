@@ -2,7 +2,7 @@
 title: "Discussion series looks at data issues in bioinformatics, genetics"
 slug: discussion-series-looks-at-data-issues-in-bioinformatics-genetics
 spotlight: false
-publish_date: 2006-10-18
+publishDate: 2006-10-18
 author: subers
 featuredImage: null
 groups:

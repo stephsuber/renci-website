@@ -2,7 +2,7 @@
 title: "Three Duke research teams selected for new campus info viz program"
 slug: three-duke-research-teams-selected-for-new-campus-info-viz-program
 spotlight: false
-publish_date: 2010-06-04
+publishDate: 2010-06-04
 author: subers
 featuredImage: null
 groups:

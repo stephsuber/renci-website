@@ -2,7 +2,7 @@
 title: "RENCI seeks Faculty Fellows for innovative, collaborative research projects"
 slug: renci-seeks-faculty-fellows-for-innovative-collaborative-research-projects
 spotlight: false
-publish_date: 2007-02-08
+publishDate: 2007-02-08
 author: subers
 featuredImage: null
 groups:

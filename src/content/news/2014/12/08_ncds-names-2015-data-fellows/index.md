@@ -2,7 +2,7 @@
 title: "National Consortium for Data Science Names 2015 Data Fellows"
 slug: ncds-names-2015-data-fellows
 spotlight: false
-publish_date: 2014-12-08
+publishDate: 2014-12-08
 author: subers
 featuredImage: null
 groups:

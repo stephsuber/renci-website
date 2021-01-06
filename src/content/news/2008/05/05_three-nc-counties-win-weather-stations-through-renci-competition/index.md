@@ -2,7 +2,7 @@
 title: "Three NC counties win weather stations through RENCI competition"
 slug: three-nc-counties-win-weather-stations-through-renci-competition
 spotlight: false
-publish_date: 2008-05-05
+publishDate: 2008-05-05
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI Weather Web project begins year 2 with new competition"
 slug: renci-weather-web-project-begins-year-2-with-new-competition
 spotlight: false
-publish_date: 2009-02-03
+publishDate: 2009-02-03
 author: subers
 featuredImage: null
 groups:

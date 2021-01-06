@@ -2,7 +2,7 @@
 title: "CWE2010 seeks presentations, posters"
 slug: cwe2010-seeks-presentations-posters
 spotlight: false
-publish_date: 2009-08-05
+publishDate: 2009-08-05
 author: subers
 featuredImage: null
 groups:

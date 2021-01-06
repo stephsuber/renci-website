@@ -2,7 +2,7 @@
 title: "Western Digital Corporation joins iRODS Consortium to help advance adoption of cloud storage architectures"
 slug: western-digital-corporation-joins-irods-consortium-to-help-advance-adoption-of-cloud-storage-architectures
 spotlight: false
-publish_date: 2016-04-04
+publishDate: 2016-04-04
 author: 
 featuredImage: null
 groups:

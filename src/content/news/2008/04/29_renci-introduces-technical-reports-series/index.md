@@ -2,7 +2,7 @@
 title: "RENCI introduces technical reports series"
 slug: renci-introduces-technical-reports-series
 spotlight: false
-publish_date: 2008-04-29
+publishDate: 2008-04-29
 author: subers
 featuredImage: null
 groups:

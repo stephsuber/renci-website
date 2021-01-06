@@ -2,7 +2,7 @@
 title: "RENCI teams with Indiana, ISI on Pegasus cybersecurity project"
 slug: renci-teams-with-indiana-isi-on-pegasus-cybersecurity-project
 spotlight: false
-publish_date: 2016-09-26
+publishDate: 2016-09-26
 author: 
 featuredImage: null
 groups:

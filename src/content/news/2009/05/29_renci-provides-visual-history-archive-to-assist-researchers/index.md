@@ -2,7 +2,7 @@
 title: "RENCI provides Visual History Archive to assist researchers"
 slug: renci-provides-visual-history-archive-to-assist-researchers
 spotlight: false
-publish_date: 2009-05-29
+publishDate: 2009-05-29
 author: subers
 featuredImage: null
 groups:

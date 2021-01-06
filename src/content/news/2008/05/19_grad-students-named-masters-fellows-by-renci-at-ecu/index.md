@@ -2,7 +2,7 @@
 title: "Grad students named Masters Fellows by RENCI at ECU"
 slug: grad-students-named-masters-fellows-by-renci-at-ecu
 spotlight: false
-publish_date: 2008-05-19
+publishDate: 2008-05-19
 author: subers
 featuredImage: null
 groups:

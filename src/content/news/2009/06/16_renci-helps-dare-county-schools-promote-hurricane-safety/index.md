@@ -2,7 +2,7 @@
 title: "RENCI Helps Dare County Schools promote hurricane safety"
 slug: renci-helps-dare-county-schools-promote-hurricane-safety
 spotlight: false
-publish_date: 2009-06-16
+publishDate: 2009-06-16
 author: subers
 featuredImage: null
 groups:

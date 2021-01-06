@@ -2,7 +2,7 @@
 title: "No Exit"
 slug: no-exit
 spotlight: false
-publish_date: 2011-06-03
+publishDate: 2011-06-03
 author: subers
 featuredImage: null
 groups:

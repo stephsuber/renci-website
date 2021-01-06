@@ -2,7 +2,7 @@
 title: "RENCI partners on two DOE SciDAC awards"
 slug: renci-partners-on-two-doe-scidac-awards
 spotlight: false
-publish_date: 2006-09-11
+publishDate: 2006-09-11
 author: subers
 featuredImage: null
 groups:

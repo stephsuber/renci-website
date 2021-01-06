@@ -2,7 +2,7 @@
 title: "Hurricane Katrina five years later: A humanities focused observance"
 slug: hurricane-katrina-five-years-later-a-humanities-focused-observance
 spotlight: false
-publish_date: 2010-08-23
+publishDate: 2010-08-23
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "NCDS DataBytes Lunchtime Webinar Series provides forum for data science topics"
 slug: ncds-databytes-lunchtime-webinar-series-provides-forum-for-data-science-topics
 spotlight: false
-publish_date: 2015-09-08
+publishDate: 2015-09-08
 author: 
 featuredImage: null
 groups:

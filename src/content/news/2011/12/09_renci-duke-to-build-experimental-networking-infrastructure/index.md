@@ -2,7 +2,7 @@
 title: "RENCI, Duke to build experimental networking infrastructure"
 slug: renci-duke-to-build-experimental-networking-infrastructure
 spotlight: false
-publish_date: 2011-12-09
+publishDate: 2011-12-09
 author: subers
 featuredImage: null
 groups:

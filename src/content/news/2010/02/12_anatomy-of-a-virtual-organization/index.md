@@ -2,7 +2,7 @@
 title: "Anatomy of a Virtual Organization"
 slug: anatomy-of-a-virtual-organization
 spotlight: false
-publish_date: 2010-02-12
+publishDate: 2010-02-12
 author: subers
 featuredImage: null
 groups:

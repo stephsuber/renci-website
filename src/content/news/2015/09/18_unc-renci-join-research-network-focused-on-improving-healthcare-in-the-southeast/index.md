@@ -2,7 +2,7 @@
 title: "UNC, RENCI join research network focused on improving healthcare in the Southeast"
 slug: unc-renci-join-research-network-focused-on-improving-healthcare-in-the-southeast
 spotlight: false
-publish_date: 2015-09-18
+publishDate: 2015-09-18
 author: 
 featuredImage: null
 groups:

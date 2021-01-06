@@ -2,7 +2,7 @@
 title: "Consortium announces plans to merge branches of iRODS data management platform"
 slug: irods-branch-merge
 spotlight: false
-publish_date: 2013-11-13
+publishDate: 2013-11-13
 author: subers
 featuredImage: null
 groups:

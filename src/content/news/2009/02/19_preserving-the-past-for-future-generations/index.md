@@ -2,7 +2,7 @@
 title: "Preserving the past for future generations"
 slug: preserving-the-past-for-future-generations
 spotlight: false
-publish_date: 2009-02-19
+publishDate: 2009-02-19
 author: subers
 featuredImage: null
 groups:

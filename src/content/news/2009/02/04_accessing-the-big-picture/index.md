@@ -2,7 +2,7 @@
 title: "Accessing the big picture"
 slug: accessing-the-big-picture
 spotlight: false
-publish_date: 2009-02-04
+publishDate: 2009-02-04
 author: subers
 featuredImage: null
 groups:

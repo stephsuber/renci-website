@@ -2,7 +2,7 @@
 title: "New observation site to provide data on marine environments, climate change"
 slug: new-observation-site-to-provide-data-on-marine-environments-climate-change
 spotlight: false
-publish_date: 2008-02-06
+publishDate: 2008-02-06
 author: subers
 featuredImage: null
 groups:

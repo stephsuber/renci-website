@@ -2,7 +2,7 @@
 title: "PCAST in California"
 slug: pcast-in-california
 spotlight: false
-publish_date: 2006-08-11
+publishDate: 2006-08-11
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Expert panel discusses the future of computing"
 slug: expert-panel-discusses-the-future-of-computing
 spotlight: false
-publish_date: 2007-07-30
+publishDate: 2007-07-30
 author: subers
 featuredImage: null
 groups:

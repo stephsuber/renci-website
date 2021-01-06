@@ -2,7 +2,7 @@
 title: "RENCI’s MRR heads for the hills"
 slug: rencis-mrr-heads-for-the-hills
 spotlight: false
-publish_date: 2008-07-12
+publishDate: 2008-07-12
 author: subers
 featuredImage: null
 groups:

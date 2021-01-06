@@ -2,7 +2,7 @@
 title: "RENCI, ITS host lecture on distributed computing"
 slug: renci-its-host-lecture-on-distributed-computing
 spotlight: false
-publish_date: 2009-01-29
+publishDate: 2009-01-29
 author: subers
 featuredImage: null
 groups:

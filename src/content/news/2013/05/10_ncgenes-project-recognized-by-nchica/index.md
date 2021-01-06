@@ -2,7 +2,7 @@
 title: "NCGENES project recognized as a health IT innovation by NCHICA"
 slug: ncgenes-project-recognized-by-nchica
 spotlight: false
-publish_date: 2013-05-10
+publishDate: 2013-05-10
 author: subers
 featuredImage: null
 groups:

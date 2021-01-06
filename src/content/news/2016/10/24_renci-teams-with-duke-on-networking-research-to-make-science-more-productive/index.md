@@ -2,7 +2,7 @@
 title: "RENCI teams with Duke on networking research to make science more productive"
 slug: renci-teams-with-duke-on-networking-research-to-make-science-more-productive
 spotlight: false
-publish_date: 2016-10-24
+publishDate: 2016-10-24
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "A data center upgrade for a data-rich world"
 slug: a-data-center-upgrade-for-a-data-rich-world
 spotlight: false
-publish_date: 2017-01-17
+publishDate: 2017-01-17
 author: 
 featuredImage: null
 groups:

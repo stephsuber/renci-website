@@ -2,7 +2,7 @@
 title: "Sailing again: UNC’s Topsail supercomputer comes out of retirement with a RENCI makeover"
 slug: sailing-again-unc-topsail-supercomputer-renci
 spotlight: false
-publish_date: 2013-03-14
+publishDate: 2013-03-14
 author: subers
 featuredImage: null
 groups:

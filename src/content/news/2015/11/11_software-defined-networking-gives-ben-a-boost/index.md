@@ -2,7 +2,7 @@
 title: "Software Defined Networking gives BEN a boost"
 slug: software-defined-networking-gives-ben-a-boost
 spotlight: false
-publish_date: 2015-11-11
+publishDate: 2015-11-11
 author: 
 featuredImage: null
 groups:

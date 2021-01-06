@@ -2,7 +2,7 @@
 title: "Multi-hazard risk tool aims to help Buncombe County"
 slug: multi-hazard-risk-tool-aims-to-help-buncombe-county
 spotlight: false
-publish_date: 2009-04-09
+publishDate: 2009-04-09
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "The future perfect storm"
 slug: the-future-perfect-storm
 spotlight: false
-publish_date: 2008-03-06
+publishDate: 2008-03-06
 author: subers
 featuredImage: null
 groups:

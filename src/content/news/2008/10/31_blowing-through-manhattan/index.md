@@ -2,7 +2,7 @@
 title: "Blowing through Manhattan"
 slug: blowing-through-manhattan
 spotlight: false
-publish_date: 2008-10-31
+publishDate: 2008-10-31
 author: subers
 featuredImage: null
 groups:

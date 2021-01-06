@@ -2,7 +2,7 @@
 title: "Topsail soars in new performance tests"
 slug: topsail-soars-in-new-performance-tests
 spotlight: false
-publish_date: 2007-04-11
+publishDate: 2007-04-11
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Open house offers a glimpse at RENCI innovations"
 slug: open-house-offers-a-glimpse-at-renci-innovations-2
 spotlight: false
-publish_date: 2007-01-17
+publishDate: 2007-01-17
 author: subers
 featuredImage: null
 groups:

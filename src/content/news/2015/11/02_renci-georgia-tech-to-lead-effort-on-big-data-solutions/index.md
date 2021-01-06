@@ -2,7 +2,7 @@
 title: "UNC-Chapel Hill’s RENCI and Georgia Tech to Lead Major Effort that Applies Big Data Solutions to Challenges Faced in North Carolina and the South"
 slug: renci-georgia-tech-to-lead-effort-on-big-data-solutions
 spotlight: false
-publish_date: 2015-11-02
+publishDate: 2015-11-02
 author: 
 featuredImage: null
 groups:

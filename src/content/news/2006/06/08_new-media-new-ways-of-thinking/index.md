@@ -2,7 +2,7 @@
 title: "New media, new ways of thinking"
 slug: new-media-new-ways-of-thinking
 spotlight: false
-publish_date: 2006-06-08
+publishDate: 2006-06-08
 author: subers
 featuredImage: null
 groups:

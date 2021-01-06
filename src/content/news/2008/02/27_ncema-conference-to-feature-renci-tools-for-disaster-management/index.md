@@ -2,7 +2,7 @@
 title: "NCEMA Conference to feature RENCI tools for disaster management"
 slug: ncema-conference-to-feature-renci-tools-for-disaster-management
 spotlight: false
-publish_date: 2008-02-27
+publishDate: 2008-02-27
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Exploring the genetics of schizophrenia"
 slug: exploring-the-genetics-of-schizophrenia
 spotlight: false
-publish_date: 2011-12-01
+publishDate: 2011-12-01
 author: subers
 featuredImage: null
 groups:

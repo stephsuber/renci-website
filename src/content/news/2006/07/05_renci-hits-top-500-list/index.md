@@ -2,7 +2,7 @@
 title: "RENCI hits Top 500 list"
 slug: renci-hits-top-500-list
 spotlight: false
-publish_date: 2006-07-05
+publishDate: 2006-07-05
 author: subers
 featuredImage: null
 groups:

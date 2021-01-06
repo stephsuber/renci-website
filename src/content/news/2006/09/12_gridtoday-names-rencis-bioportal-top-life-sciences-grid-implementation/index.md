@@ -2,7 +2,7 @@
 title: "GRIDtoday names RENCI’s Bioportal top life sciences grid implementation"
 slug: gridtoday-names-rencis-bioportal-top-life-sciences-grid-implementation
 spotlight: false
-publish_date: 2006-09-12
+publishDate: 2006-09-12
 author: subers
 featuredImage: null
 groups:

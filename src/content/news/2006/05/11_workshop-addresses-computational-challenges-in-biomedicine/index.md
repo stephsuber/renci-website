@@ -2,7 +2,7 @@
 title: "Workshop addresses computational challenges in biomedicine"
 slug: workshop-addresses-computational-challenges-in-biomedicine
 spotlight: false
-publish_date: 2006-05-11
+publishDate: 2006-05-11
 author: subers
 featuredImage: null
 groups:

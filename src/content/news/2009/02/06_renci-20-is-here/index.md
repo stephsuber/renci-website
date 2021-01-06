@@ -2,7 +2,7 @@
 title: "RENCI 2.0 is here"
 slug: renci-20-is-here
 spotlight: false
-publish_date: 2009-02-06
+publishDate: 2009-02-06
 author: subers
 featuredImage: null
 groups:

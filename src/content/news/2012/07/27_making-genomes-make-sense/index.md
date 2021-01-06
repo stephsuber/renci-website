@@ -2,7 +2,7 @@
 title: "Making genomes make sense"
 slug: making-genomes-make-sense
 spotlight: false
-publish_date: 2012-07-27
+publishDate: 2012-07-27
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Summit on Hurricane Katrina includes panel on technology and storm prediction"
 slug: summit-on-hurricane-katrina-includes-panel-on-technology-and-storm-prediction
 spotlight: false
-publish_date: 2006-09-09
+publishDate: 2006-09-09
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Report focuses on rethinking flood analytics"
 slug: report-focuses-on-rethinking-flood-analytics
 spotlight: false
-publish_date: 2018-05-18
+publishDate: 2018-05-18
 author: 
 featuredImage: null
 groups:

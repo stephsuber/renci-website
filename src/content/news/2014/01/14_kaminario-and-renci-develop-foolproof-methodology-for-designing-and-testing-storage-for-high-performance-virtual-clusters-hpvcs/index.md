@@ -2,7 +2,7 @@
 title: "Kaminario and RENCI develop foolproof methodology for designing and testing storage for high performance virtual clusters (HPVCs)"
 slug: kaminario-and-renci-develop-foolproof-methodology-for-designing-and-testing-storage-for-high-performance-virtual-clusters-hpvcs
 spotlight: false
-publish_date: 2014-01-14
+publishDate: 2014-01-14
 author: subers
 featuredImage: null
 groups:

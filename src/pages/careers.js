@@ -36,7 +36,7 @@ const CareersPage = () => {
               <JobPosting
                 key={ posting.id }
                 title={ posting.frontmatter.title }
-                publishDate={ posting.frontmatter.publish_date }
+                publishDate={ posting.frontmatter.publishDate }
                 positionNumber={ posting.frontmatter.unc_position_number }
                 description={ posting.html }
                 url={ `http://unc.peopleadmin.com/postings/${ posting.frontmatter.unc_position_number }` }

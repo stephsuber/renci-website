@@ -2,7 +2,7 @@
 title: "Evidence-based medicine"
 slug: evidence-based-medicine
 spotlight: false
-publish_date: 2010-04-26
+publishDate: 2010-04-26
 author: subers
 featuredImage: null
 groups:

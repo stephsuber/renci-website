@@ -2,7 +2,7 @@
 title: "BRAIN-I project uses RENCI cyberinfrastructure called HeLx to manage brain microscopy images"
 slug: brain-i-project-uses-renci-cyberinfrastructure-called-helx-to-manage-brain-microscopy-images
 spotlight: false
-publish_date: 2017-08-02
+publishDate: 2017-08-02
 author: subers
 featuredImage: null
 groups:

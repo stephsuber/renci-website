@@ -2,7 +2,7 @@
 title: "Lecture series looks at human beings 2050"
 slug: lecture-series-looks-at-human-beings-2050
 spotlight: false
-publish_date: 2006-07-17
+publishDate: 2006-07-17
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: What to expect at the 2020 iRODS User Group Meeting
 slug: irods-ugm-2020-expectations
 spotlight: true
-publish_date: 2020-06-08
+publishDate: 2020-06-08
 author: stephanie-suber
 featuredImage: null
 projects:
@@ -41,7 +41,7 @@ As always with the annual UGM, in addition to general software updates, users wi
 
 - **Building a national Research Data Management (RDM) infrastructure with iRODS in the Netherlands**, _SURF_. In the Netherlands, many universities are looking at iRODS to support their researchers, as they recognize the powerful potential of the tool in two areas: support for secure cooperation, and support over the entire research data life cycle. SURF, a national organization providing IT support and infrastructure for universities, is now working closely together with six universities towards building a national RDM infrastructure based on iRODS. Researchers from SURF will share a case study for the use of iRODS, not for a specific research group, but for an entire nation to enhance the support of their researchers by working together on this iRODS based infrastructure.
 
-- **Keeping pace with science: The CyVerse Data Store in 2020 and the Future**, __CyVerse / University of Arizona__. CyVerse, hosted at the University of Arizona, provides a national cyberinfrastructure for life science research as well as training scientists in using such high performance computing resources.This talk will describe the current features of the CyVerse Data Store and plans for its evolution. Since its inception in 2010, the Data Store has leveraged the power and versatility of iRODS by continually extending the functionality of CyVerse’s cyberinfrastructure. These features include project-specific storage, offsite replication, third-party service and application integrations, several data access methods, event stream publishing for inderic-xing, and optimizations for accessing large sets of small files.
+- **Keeping pace with science: The CyVerse Data Store in 2020 and the Future**, _CyVerse / University of Arizona_. CyVerse, hosted at the University of Arizona, provides a national cyberinfrastructure for life science research as well as training scientists in using such high performance computing resources.This talk will describe the current features of the CyVerse Data Store and plans for its evolution. Since its inception in 2010, the Data Store has leveraged the power and versatility of iRODS by continually extending the functionality of CyVerse’s cyberinfrastructure. These features include project-specific storage, offsite replication, third-party service and application integrations, several data access methods, event stream publishing for inderic-xing, and optimizations for accessing large sets of small files.
 
 Registration for the Virtual iRODS UGM will remain open throughout the week. See the [registration page](https://irods.org/ugm2020/) for details.
 

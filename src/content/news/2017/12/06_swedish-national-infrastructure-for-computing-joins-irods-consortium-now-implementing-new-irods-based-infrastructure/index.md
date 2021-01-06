@@ -2,7 +2,7 @@
 title: "Swedish National Infrastructure for Computing joins iRODS Consortium"
 slug: swedish-national-infrastructure-for-computing-joins-irods-consortium-now-implementing-new-irods-based-infrastructure
 spotlight: false
-publish_date: 2017-12-06
+publishDate: 2017-12-06
 author: 
 featuredImage: null
 groups:

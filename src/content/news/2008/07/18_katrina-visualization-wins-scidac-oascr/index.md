@@ -2,7 +2,7 @@
 title: "Katrina Visualization Wins SciDAC “OASCR”"
 slug: katrina-visualization-wins-scidac-oascr
 spotlight: false
-publish_date: 2008-07-18
+publishDate: 2008-07-18
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI has the \"touch\" at SC08"
 slug: renci-has-the-touch-at-sc08
 spotlight: false
-publish_date: 2008-12-08
+publishDate: 2008-12-08
 author: subers
 featuredImage: null
 groups:

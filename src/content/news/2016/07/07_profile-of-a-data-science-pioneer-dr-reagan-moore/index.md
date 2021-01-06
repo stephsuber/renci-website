@@ -2,7 +2,7 @@
 title: "Profile of a Data Science Pioneer, Dr. Reagan Moore"
 slug: profile-of-a-data-science-pioneer-dr-reagan-moore
 spotlight: false
-publish_date: 2016-07-07
+publishDate: 2016-07-07
 author: 
 featuredImage: null
 groups:

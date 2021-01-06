@@ -2,7 +2,7 @@
 title: "Computational Matchmaking"
 slug: computational-matchmaking
 spotlight: false
-publish_date: 2007-09-17
+publishDate: 2007-09-17
 author: subers
 featuredImage: null
 groups:

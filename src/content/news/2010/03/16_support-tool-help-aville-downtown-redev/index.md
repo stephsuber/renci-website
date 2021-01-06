@@ -2,7 +2,7 @@
 title: "New decision support tool to help Asheville with downtown redevelopment"
 slug: support-tool-help-aville-downtown-redev
 spotlight: false
-publish_date: 2010-03-16
+publishDate: 2010-03-16
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "OpenFlow switch donation enables research and education"
 slug: openflow-switch-donation-stanford-university
 spotlight: false
-publish_date: 2011-02-17
+publishDate: 2011-02-17
 author: subers
 featuredImage: null
 groups:

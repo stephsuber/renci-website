@@ -2,7 +2,7 @@
 title: "RENCI-Duke network project moves forward with new funding"
 slug: renci-duke-network-project
 spotlight: false
-publish_date: 2009-10-14
+publishDate: 2009-10-14
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "NSF taps CRA to create Computing Community Consortium"
 slug: nsf-taps-cra-to-create-computing-community-consortium
 spotlight: false
-publish_date: 2006-09-17
+publishDate: 2006-09-17
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "Incredible Journey"
 slug: incredible-journey
 spotlight: false
-publish_date: 2009-05-08
+publishDate: 2009-05-08
 author: subers
 featuredImage: null
 groups:

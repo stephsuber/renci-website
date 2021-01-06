@@ -2,7 +2,7 @@
 title: "RENCI Selects Infinera for “Breakable” N.C. Research Network"
 slug: renci-selects-infinera-for-breakable-nc-research-network
 spotlight: false
-publish_date: 2008-07-21
+publishDate: 2008-07-21
 author: subers
 featuredImage: null
 groups:

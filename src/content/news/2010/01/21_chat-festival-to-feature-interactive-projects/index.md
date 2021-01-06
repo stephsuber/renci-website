@@ -2,7 +2,7 @@
 title: "CHAT Festival to feature interactive projects"
 slug: chat-festival-to-feature-interactive-projects
 spotlight: false
-publish_date: 2010-01-21
+publishDate: 2010-01-21
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "iRODS Consortium welcomes Bayer as the latest global enterprise member of the consortium"
 slug: irods-consortium-welcomes-bayer-as-the-latest-global-enterprise-member-of-the-consortium
 spotlight: false
-publish_date: 2016-08-09
+publishDate: 2016-08-09
 author: 
 featuredImage: null
 groups:

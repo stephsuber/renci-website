@@ -183,7 +183,7 @@ export const groupQuery = graphql`
           }
           frontmatter {
               title
-              publish_date(formatString: "MMMM DD, YYYY")
+              publishDate(formatString: "MMMM DD, YYYY")
               featuredImage {
                   childImageSharp {
                       previewSize: fixed(width: 300, height: 300) {

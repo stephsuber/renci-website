@@ -2,7 +2,7 @@
 title: "RENCI-SILS CI-BER project cited in White House “Big Data” announcement"
 slug: renci-sils-ci-ber-project
 spotlight: false
-publish_date: 2012-04-02
+publishDate: 2012-04-02
 author: subers
 featuredImage: null
 groups:

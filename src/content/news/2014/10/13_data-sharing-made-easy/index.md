@@ -2,7 +2,7 @@
 title: "Data sharing made easy"
 slug: data-sharing-made-easy
 spotlight: false
-publish_date: 2014-10-13
+publishDate: 2014-10-13
 author: subers
 featuredImage: null
 groups:

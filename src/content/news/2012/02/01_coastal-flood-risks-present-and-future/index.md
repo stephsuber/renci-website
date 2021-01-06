@@ -2,7 +2,7 @@
 title: "Coastal flood risks, present and future"
 slug: coastal-flood-risks-present-and-future
 spotlight: false
-publish_date: 2012-02-01
+publishDate: 2012-02-01
 author: subers
 featuredImage: null
 groups:

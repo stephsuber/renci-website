@@ -13,7 +13,7 @@ const careersQuery = graphql`{
                 id
                 frontmatter {
                     title
-                    publish_date(formatString: "dddd, MMMM Do, YYYY")
+                    publishDate(formatString: "dddd, MMMM Do, YYYY")
                     unc_position_number
                 }
                 excerpt(pruneLength: 500)

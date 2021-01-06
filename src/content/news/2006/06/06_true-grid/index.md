@@ -2,7 +2,7 @@
 title: "True Grid"
 slug: true-grid
 spotlight: false
-publish_date: 2006-06-06
+publishDate: 2006-06-06
 author: subers
 featuredImage: null
 groups:

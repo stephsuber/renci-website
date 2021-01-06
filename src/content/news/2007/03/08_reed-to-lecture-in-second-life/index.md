@@ -2,7 +2,7 @@
 title: "Reed to lecture in Second Life"
 slug: reed-to-lecture-in-second-life
 spotlight: false
-publish_date: 2007-03-08
+publishDate: 2007-03-08
 author: subers
 featuredImage: null
 groups:

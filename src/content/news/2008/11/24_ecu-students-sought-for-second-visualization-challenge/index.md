@@ -2,7 +2,7 @@
 title: "ECU students sought for second visualization challenge"
 slug: ecu-students-sought-for-second-visualization-challenge
 spotlight: false
-publish_date: 2008-11-24
+publishDate: 2008-11-24
 author: subers
 featuredImage: null
 groups:

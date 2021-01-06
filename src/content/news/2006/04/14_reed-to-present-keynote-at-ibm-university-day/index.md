@@ -2,7 +2,7 @@
 title: "Reed to present keynote at IBM University Day"
 slug: reed-to-present-keynote-at-ibm-university-day
 spotlight: false
-publish_date: 2006-04-14
+publishDate: 2006-04-14
 author: subers
 featuredImage: null
 groups:

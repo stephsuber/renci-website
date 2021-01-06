@@ -2,7 +2,7 @@
 title: "RENCI assists state in floodplain remapping"
 slug: renci-assists-state-in-floodplain-remapping
 spotlight: false
-publish_date: 2007-08-08
+publishDate: 2007-08-08
 author: subers
 featuredImage: null
 groups:

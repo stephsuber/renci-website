@@ -2,7 +2,7 @@
 title: "DH Press featured in “Cedars in the Pines” exhibit at the N.C. Museum of History"
 slug: dh-press-featured-in-nc-museum-of-history-exhibit
 spotlight: false
-publish_date: 2014-02-21
+publishDate: 2014-02-21
 author: subers
 featuredImage: null
 groups:

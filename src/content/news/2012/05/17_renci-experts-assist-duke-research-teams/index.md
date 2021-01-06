@@ -2,7 +2,7 @@
 title: "RENCI visualization experts to assist two Duke research teams"
 slug: renci-experts-assist-duke-research-teams
 spotlight: false
-publish_date: 2012-05-17
+publishDate: 2012-05-17
 author: subers
 featuredImage: null
 groups:

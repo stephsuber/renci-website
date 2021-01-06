@@ -2,7 +2,7 @@
 title: "Supermodels"
 slug: supermodels
 spotlight: false
-publish_date: 2009-06-19
+publishDate: 2009-06-19
 author: subers
 featuredImage: null
 groups:

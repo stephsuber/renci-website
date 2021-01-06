@@ -2,7 +2,7 @@
 title: "Big data means big career opportunities, UNC students learn at NCDS career event"
 slug: big-data-means-big-career-opps
 spotlight: false
-publish_date: 2014-04-09
+publishDate: 2014-04-09
 author: subers
 featuredImage: null
 groups:

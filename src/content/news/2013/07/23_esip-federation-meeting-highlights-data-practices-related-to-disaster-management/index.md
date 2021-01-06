@@ -2,7 +2,7 @@
 title: "ESIP Federation meeting highlights data practices related to disaster management"
 slug: esip-federation-meeting-highlights-data-practices-related-to-disaster-management
 spotlight: false
-publish_date: 2013-07-23
+publishDate: 2013-07-23
 author: subers
 featuredImage: null
 groups:

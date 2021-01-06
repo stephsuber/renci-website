@@ -3,7 +3,7 @@ title: As hurricane heads up coast, a RENCI supercomputer swings into action
 slug: as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action
 link: https://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action/
 spotlight: false
-publish_date: 2018-09-11T08:00:00
+publishDate: 2018-09-11T08:00:00
 author: 
 featuredImage: ./hurricane-matthew.png
 groups:

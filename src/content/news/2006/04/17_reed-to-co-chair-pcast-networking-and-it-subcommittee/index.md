@@ -2,7 +2,7 @@
 title: "Reed to co-chair PCAST networking and IT subcommittee"
 slug: reed-to-co-chair-pcast-networking-and-it-subcommittee
 spotlight: false
-publish_date: 2006-04-17
+publishDate: 2006-04-17
 author: subers
 featuredImage: null
 groups:

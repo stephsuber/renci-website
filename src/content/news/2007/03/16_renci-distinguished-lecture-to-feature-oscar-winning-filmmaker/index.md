@@ -2,7 +2,7 @@
 title: "RENCI Distinguished Lecture to feature Oscar-winning filmmaker"
 slug: renci-distinguished-lecture-to-feature-oscar-winning-filmmaker
 spotlight: false
-publish_date: 2007-03-16
+publishDate: 2007-03-16
 author: subers
 featuredImage: null
 groups:

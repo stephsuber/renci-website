@@ -2,7 +2,7 @@
 title: "A new water view"
 slug: a-new-water-view
 spotlight: false
-publish_date: 2007-08-08
+publishDate: 2007-08-08
 author: subers
 featuredImage: null
 groups:

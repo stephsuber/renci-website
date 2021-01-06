@@ -2,7 +2,7 @@
 title: "International consortium planned to support sustained, robust data management technology"
 slug: international-consortium-data-management-tech
 spotlight: false
-publish_date: 2012-11-05
+publishDate: 2012-11-05
 author: subers
 featuredImage: null
 groups:

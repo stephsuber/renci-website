@@ -2,7 +2,7 @@
 title: "Open house to introduce NCSU campus community to RENCI"
 slug: open-house-to-introduce-ncsu-campus-community-to-renci
 spotlight: false
-publish_date: 2007-03-05
+publishDate: 2007-03-05
 author: subers
 featuredImage: null
 groups:

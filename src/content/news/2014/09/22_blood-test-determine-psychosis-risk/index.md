@@ -2,7 +2,7 @@
 title: "Blood test may help determine who is at risk for psychosis"
 slug: blood-test-determine-psychosis-risk
 spotlight: false
-publish_date: 2014-09-22
+publishDate: 2014-09-22
 author: subers
 featuredImage: null
 groups:

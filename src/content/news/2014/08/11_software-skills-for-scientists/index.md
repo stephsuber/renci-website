@@ -2,7 +2,7 @@
 title: "Software skills for scientists"
 slug: software-skills-for-scientists
 spotlight: false
-publish_date: 2014-08-11
+publishDate: 2014-08-11
 author: subers
 featuredImage: null
 groups:

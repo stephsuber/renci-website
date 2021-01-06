@@ -2,7 +2,7 @@
 title: "First open source release of E-iRODS announced by RENCI"
 slug: first-open-source-release-of-e-irods-announced-by-renci
 spotlight: false
-publish_date: 2013-06-10
+publishDate: 2013-06-10
 author: subers
 featuredImage: null
 groups:

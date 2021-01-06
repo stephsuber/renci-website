@@ -2,7 +2,7 @@
 title: "iRODS Consortium welcomes Seagate Technology as newest member"
 slug: irods-consortium-new-member-seagate
 spotlight: false
-publish_date: 2014-11-10
+publishDate: 2014-11-10
 author: subers
 featuredImage: null
 groups:

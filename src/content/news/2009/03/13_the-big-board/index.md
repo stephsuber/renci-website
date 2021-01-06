@@ -2,7 +2,7 @@
 title: "The Big Board"
 slug: the-big-board
 spotlight: false
-publish_date: 2009-03-13
+publishDate: 2009-03-13
 author: subers
 featuredImage: null
 groups:

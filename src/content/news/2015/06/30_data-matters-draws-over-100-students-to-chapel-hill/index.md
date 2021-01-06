@@ -2,7 +2,7 @@
 title: "Data Matters draws over 100 students to Chapel Hill"
 slug: data-matters-draws-over-100-students-to-chapel-hill
 spotlight: false
-publish_date: 2015-06-30
+publishDate: 2015-06-30
 author: stephanie-suber
 featuredImage: null
 groups:

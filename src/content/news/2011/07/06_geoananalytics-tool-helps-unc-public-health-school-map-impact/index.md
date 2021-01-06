@@ -2,7 +2,7 @@
 title: "Geoananalytics tool helps UNC public health school map impact"
 slug: geoananalytics-tool-helps-unc-public-health-school-map-impact
 spotlight: false
-publish_date: 2011-07-06
+publishDate: 2011-07-06
 author: subers
 featuredImage: null
 groups:

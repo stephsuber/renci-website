@@ -2,7 +2,7 @@
 title: "RENCI joins CineGrid digital media community"
 slug: renci-joins-cinegrid-digital-media-community
 spotlight: false
-publish_date: 2008-01-23
+publishDate: 2008-01-23
 author: subers
 featuredImage: null
 groups:

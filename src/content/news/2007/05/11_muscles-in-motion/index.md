@@ -2,7 +2,7 @@
 title: "Muscles in Motion"
 slug: muscles-in-motion
 spotlight: false
-publish_date: 2007-05-11
+publishDate: 2007-05-11
 author: subers
 featuredImage: null
 groups:

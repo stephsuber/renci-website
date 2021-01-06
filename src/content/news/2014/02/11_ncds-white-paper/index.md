@@ -2,7 +2,7 @@
 title: "National Consortium for Data Science white paper points to challenges and solutions for genomics in the age of big data"
 slug: ncds-white-paper
 spotlight: false
-publish_date: 2014-02-11
+publishDate: 2014-02-11
 author: subers
 featuredImage: null
 groups:

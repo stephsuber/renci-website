@@ -2,7 +2,7 @@
 title: "Collaboration tool makes statewide meeting possible in tough times"
 slug: collaboration-tool-makes-statewide-meeting-possible-in-tough-times
 spotlight: false
-publish_date: 2009-08-20
+publishDate: 2009-08-20
 author: subers
 featuredImage: null
 groups:

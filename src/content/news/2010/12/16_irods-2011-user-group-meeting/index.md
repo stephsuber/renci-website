@@ -2,7 +2,7 @@
 title: "iRODS 2011 User Group Meeting announced"
 slug: irods-2011-user-group-meeting
 spotlight: false
-publish_date: 2010-12-16
+publishDate: 2010-12-16
 author: subers
 featuredImage: null
 groups:

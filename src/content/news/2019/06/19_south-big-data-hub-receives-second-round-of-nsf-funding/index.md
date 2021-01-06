@@ -2,7 +2,7 @@
 title: "South Big Data Hub receives second round of NSF funding"
 slug: south-big-data-hub-receives-second-round-of-nsf-funding
 spotlight: false
-publish_date: 2019-06-19
+publishDate: 2019-06-19
 author: stephanie-suber
 featuredImage: null
 groups:

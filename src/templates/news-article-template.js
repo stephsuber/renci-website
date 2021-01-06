@@ -11,7 +11,7 @@ export default ({ data, pageContext }) => {
   const theme = useTheme()
   const { article: {
     frontmatter: {
-      title, publish_date, author, featuredImage,
+      title, publishDate, author, featuredImage,
       people, groups, projects, teams, collaborations, organizations,
     },
     html: articleHTML
@@ -25,7 +25,7 @@ export default ({ data, pageContext }) => {
       <Container>
         <Title>{ title }</Title>
 
-        { author && <Meta>Published on { publish_date } by <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> <br/></Meta> }
+        { author && <Meta>Published on { publishDate } by <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> <br/></Meta> }
 
         <HorizontalRule />
 
@@ -93,7 +93,7 @@ export const newsQuery = graphql`
             }
           }
         }
-        publish_date(formatString: "dddd, MMMM Do, YYYY")
+        publishDate(formatString: "dddd, MMMM Do, YYYY")
         author {
           id
           fullName

@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad invites applications from UNC entrepreneurs"
 slug: carolina-launch-pad-invites-applications-from-unc-entrepreneurs
 spotlight: false
-publish_date: 2011-03-14
+publishDate: 2011-03-14
 author: subers
 featuredImage: null
 groups:

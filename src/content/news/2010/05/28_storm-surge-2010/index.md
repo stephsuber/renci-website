@@ -2,7 +2,7 @@
 title: "Storm Surge 2010"
 slug: storm-surge-2010
 spotlight: false
-publish_date: 2010-05-28
+publishDate: 2010-05-28
 author: subers
 featuredImage: null
 groups:

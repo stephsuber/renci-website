@@ -2,7 +2,7 @@
 title: "RENCI, SmileTiger work to improve disaster communications"
 slug: renci-smiletiger-work-to-improve-disaster-communications
 spotlight: false
-publish_date: 2007-04-26
+publishDate: 2007-04-26
 author: subers
 featuredImage: null
 groups:

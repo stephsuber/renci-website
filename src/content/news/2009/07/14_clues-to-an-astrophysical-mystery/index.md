@@ -2,7 +2,7 @@
 title: "Clues to an astrophysical mystery"
 slug: clues-to-an-astrophysical-mystery
 spotlight: false
-publish_date: 2009-07-14
+publishDate: 2009-07-14
 author: subers
 featuredImage: null
 groups:

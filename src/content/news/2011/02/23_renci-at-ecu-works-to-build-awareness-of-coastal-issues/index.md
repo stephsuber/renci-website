@@ -2,7 +2,7 @@
 title: "RENCI at ECU works to build awareness of coastal issues"
 slug: renci-at-ecu-works-to-build-awareness-of-coastal-issues
 spotlight: false
-publish_date: 2011-02-23
+publishDate: 2011-02-23
 author: subers
 featuredImage: null
 groups:

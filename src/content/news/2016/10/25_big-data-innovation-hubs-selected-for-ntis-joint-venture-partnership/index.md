@@ -2,7 +2,7 @@
 title: "Big Data Innovation Hubs selected for NTIS joint venture partnership"
 slug: big-data-innovation-hubs-selected-for-ntis-joint-venture-partnership
 spotlight: false
-publish_date: 2016-10-25
+publishDate: 2016-10-25
 author: 
 featuredImage: null
 groups:

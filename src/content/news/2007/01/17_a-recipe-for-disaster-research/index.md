@@ -2,7 +2,7 @@
 title: "A recipe for disaster research"
 slug: a-recipe-for-disaster-research
 spotlight: false
-publish_date: 2007-01-17
+publishDate: 2007-01-17
 author: subers
 featuredImage: null
 groups:

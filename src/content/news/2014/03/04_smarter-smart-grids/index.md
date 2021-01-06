@@ -2,7 +2,7 @@
 title: "Smarter smart grids: Innovative approaches to controlling power grids"
 slug: smarter-smart-grids
 spotlight: false
-publish_date: 2014-03-04
+publishDate: 2014-03-04
 author: subers
 featuredImage: null
 groups:

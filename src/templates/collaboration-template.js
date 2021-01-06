@@ -28,7 +28,7 @@ export default ({ data, pageContext }) => {
 
   const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
   const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
-  const sortedNews = news ? [...news].sort((a, b) => a.frontmatter.publish_date > b.frontmatter.publish_date ? 1 : -1) : null
+  const sortedNews = news ? [...news].sort((a, b) => a.frontmatter.publishDate > b.frontmatter.publishDate ? 1 : -1) : null
 
   useEffect(() => {
   if (projects) {
@@ -181,7 +181,7 @@ export const collaborationQuery = graphql`
         }
         frontmatter {
           title
-          publish_date(formatString: "MMMM DD, YYYY")
+          publishDate(formatString: "MMMM DD, YYYY")
           featuredImage {
             childImageSharp {
               previewSize: fixed(width: 300, height: 300) {

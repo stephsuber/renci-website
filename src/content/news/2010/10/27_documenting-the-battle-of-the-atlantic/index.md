@@ -2,7 +2,7 @@
 title: "Documenting the Battle of the Atlantic"
 slug: documenting-the-battle-of-the-atlantic
 spotlight: false
-publish_date: 2010-10-27
+publishDate: 2010-10-27
 author: subers
 featuredImage: null
 groups:

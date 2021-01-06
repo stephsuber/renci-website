@@ -2,7 +2,7 @@
 title: "RENCI at ECU hosts local kids for Gettysburg Address reading"
 slug: renci-at-ecu-hosts-local-kids-for-gettysburg-address-reading
 spotlight: false
-publish_date: 2009-02-18
+publishDate: 2009-02-18
 author: subers
 featuredImage: null
 groups:

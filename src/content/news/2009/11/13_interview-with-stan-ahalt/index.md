@@ -2,7 +2,7 @@
 title: "Interview with Stan Ahalt"
 slug: interview-with-stan-ahalt
 spotlight: false
-publish_date: 2009-11-13
+publishDate: 2009-11-13
 author: subers
 featuredImage: null
 groups:

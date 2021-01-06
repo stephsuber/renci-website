@@ -2,7 +2,7 @@
 title: "REACH NC selected as top university-based economic development initiative"
 slug: reach-nc-selected
 spotlight: false
-publish_date: 2013-10-30
+publishDate: 2013-10-30
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI to bring new communities to Open Science Grid"
 slug: renci-to-bring-new-communities-to-open-science-grid
 spotlight: false
-publish_date: 2006-09-25
+publishDate: 2006-09-25
 author: subers
 featuredImage: null
 groups:

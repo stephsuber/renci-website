@@ -2,7 +2,7 @@
 title: "New RENCI location engages Duke campus community"
 slug: new-renci-location-engages-duke-campus-community
 spotlight: false
-publish_date: 2008-04-25
+publishDate: 2008-04-25
 author: subers
 featuredImage: null
 groups:

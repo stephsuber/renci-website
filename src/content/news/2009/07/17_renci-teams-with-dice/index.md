@@ -2,7 +2,7 @@
 title: "RENCI teams with DICE group to tame the data deluge"
 slug: renci-teams-with-dice
 spotlight: false
-publish_date: 2009-07-17
+publishDate: 2009-07-17
 author: subers
 featuredImage: null
 groups:

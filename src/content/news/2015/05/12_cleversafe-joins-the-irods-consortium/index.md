@@ -2,7 +2,7 @@
 title: "Cleversafe joins the iRODS Consortium"
 slug: cleversafe-joins-the-irods-consortium
 spotlight: false
-publish_date: 2015-05-12
+publishDate: 2015-05-12
 author:
 featuredImage: null
 groups:

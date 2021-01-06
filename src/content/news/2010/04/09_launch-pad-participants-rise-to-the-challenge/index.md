@@ -2,7 +2,7 @@
 title: "Launch Pad participants rise to the challenge"
 slug: launch-pad-participants-rise-to-the-challenge
 spotlight: false
-publish_date: 2010-04-09
+publishDate: 2010-04-09
 author: subers
 featuredImage: null
 groups:

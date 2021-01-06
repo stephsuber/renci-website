@@ -2,7 +2,7 @@
 title: "CI-BER project plans to store billions of electronic records"
 slug: ci-ber-project
 spotlight: false
-publish_date: 2010-11-10
+publishDate: 2010-11-10
 author: subers
 featuredImage: null
 groups:

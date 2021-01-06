@@ -2,7 +2,7 @@
 title: "Harnessing the power of data for quality breast cancer detection"
 slug: harnessing-the-power-of-data-for-quality-breast-cancer-detection
 spotlight: false
-publish_date: 2015-08-06
+publishDate: 2015-08-06
 author: stephanie-suber
 featuredImage: null
 groups:

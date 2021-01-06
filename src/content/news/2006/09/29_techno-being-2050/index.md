@@ -2,7 +2,7 @@
 title: "Techno Being 2050"
 slug: techno-being-2050
 spotlight: false
-publish_date: 2006-09-29
+publishDate: 2006-09-29
 author: subers
 featuredImage: null
 groups:

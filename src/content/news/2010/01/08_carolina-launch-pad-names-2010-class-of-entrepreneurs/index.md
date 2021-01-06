@@ -2,7 +2,7 @@
 title: "Carolina Launch Pad names 2010 class of entrepreneurs"
 slug: carolina-launch-pad-names-2010-class-of-entrepreneurs
 spotlight: false
-publish_date: 2010-01-08
+publishDate: 2010-01-08
 author: subers
 featuredImage: null
 groups:

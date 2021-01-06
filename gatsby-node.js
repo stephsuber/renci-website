@@ -135,10 +135,10 @@ exports.createResolvers = ({ actions, createResolvers }) => {
         resolve(source, args, context, info) {
           return context.nodeModel.runQuery({
             query: {
-              sort: { fields: ['frontmatter.publish_date'], order: ['DESC'] },
+              sort: { fields: ['frontmatter.publishDate'], order: ['DESC'] },
               filter: {
                 frontmatter: {
-                  publish_date: {  lte: dateString },
+                  publishDate: {  lte: dateString },
                   groups: { elemMatch: { id: { eq: source.id } } }
                 }
               }
@@ -261,7 +261,7 @@ exports.createPages = ({ actions, graphql }) => {
       }
       news: allMarkdownRemark(
         filter: {fileAbsolutePath: {regex: "/news/"}},
-        sort: {fields: frontmatter___publish_date, order: DESC}
+        sort: {fields: frontmatter___publishDate, order: DESC}
       ) {
         edges {
           node {
@@ -269,7 +269,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               slug
               title
-              publish_date(formatString: "MMMM DD, YYYY")
+              publishDate(formatString: "MMMM DD, YYYY")
             }
           }
         }

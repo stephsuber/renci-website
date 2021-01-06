@@ -73,7 +73,7 @@ export const Spotlight = ({ article }) => {
                 }
                 <Col xs={ 12 } lg={ hasFeaturedImage ? 6 : 12 }>
                     <BodyContainer>
-                        <ArticleDate>{ article.frontmatter.publish_date }</ArticleDate>
+                        <ArticleDate>{ article.frontmatter.publishDate }</ArticleDate>
                         <ArticleTitle>{ article.frontmatter.title }</ArticleTitle>
                         <div dangerouslySetInnerHTML={{ __html: article.excerpt }} />
                     </BodyContainer>

@@ -2,7 +2,7 @@
 title: "Computing the future: Looking at 2016"
 slug: computing-the-future-looking-at-2016
 spotlight: false
-publish_date: 2006-05-05
+publishDate: 2006-05-05
 author: subers
 featuredImage: null
 groups:

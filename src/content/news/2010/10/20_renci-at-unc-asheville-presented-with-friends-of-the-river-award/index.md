@@ -2,7 +2,7 @@
 title: "RENCI at UNC Asheville presented with Friends of the River Award"
 slug: renci-at-unc-asheville-presented-with-friends-of-the-river-award
 spotlight: false
-publish_date: 2010-10-20
+publishDate: 2010-10-20
 author: subers
 featuredImage: null
 groups:

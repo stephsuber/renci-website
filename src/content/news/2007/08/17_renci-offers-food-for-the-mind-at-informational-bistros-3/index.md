@@ -2,7 +2,7 @@
 title: "RENCI offers “food for the mind” at informational ‘bistros’"
 slug: renci-offers-food-for-the-mind-at-informational-bistros-3
 spotlight: false
-publish_date: 2007-08-17
+publishDate: 2007-08-17
 author: subers
 featuredImage: null
 groups:

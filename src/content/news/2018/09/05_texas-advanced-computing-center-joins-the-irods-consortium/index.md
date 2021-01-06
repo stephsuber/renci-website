@@ -2,7 +2,7 @@
 title: "Texas Advanced Computing Center Joins the iRODS Consortium"
 slug: texas-advanced-computing-center-joins-the-irods-consortium
 spotlight: false
-publish_date: 2018-09-05
+publishDate: 2018-09-05
 author: 
 featuredImage: null
 groups:

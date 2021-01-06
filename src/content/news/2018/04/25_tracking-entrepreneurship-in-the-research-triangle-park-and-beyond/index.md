@@ -2,7 +2,7 @@
 title: "Tracking entrepreneurship in the Research Triangle Park and beyond"
 slug: tracking-entrepreneurship-in-the-research-triangle-park-and-beyond
 spotlight: false
-publish_date: 2018-04-25
+publishDate: 2018-04-25
 author: 
 featuredImage: null
 groups:

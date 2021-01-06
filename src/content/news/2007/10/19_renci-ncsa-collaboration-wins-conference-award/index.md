@@ -2,7 +2,7 @@
 title: "RENCI, NCSA collaboration wins conference award"
 slug: renci-ncsa-collaboration-wins-conference-award
 spotlight: false
-publish_date: 2007-10-19
+publishDate: 2007-10-19
 author: subers
 featuredImage: null
 groups:

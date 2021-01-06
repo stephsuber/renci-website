@@ -2,7 +2,7 @@
 title: "iRODS Consortium welcomes Maastricht University as newest member"
 slug: irods-consortium-welcomes-maastricht-university-as-newest-member
 spotlight: false
-publish_date: 2018-12-06
+publishDate: 2018-12-06
 author: 
 featuredImage: null
 groups:

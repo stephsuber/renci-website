@@ -2,7 +2,7 @@
 title: "RENCI Science Gateway team unveils TeraGrid Bioportal"
 slug: renci-science-gateway-team-unveils-teragrid-bioportal
 spotlight: false
-publish_date: 2006-05-24
+publishDate: 2006-05-24
 author: subers
 featuredImage: null
 groups:

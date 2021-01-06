@@ -2,7 +2,7 @@
 title: "RENCI at ECU announces Visualization Challenge winners"
 slug: renci-at-ecu-announces-visualization-challenge-winners
 spotlight: false
-publish_date: 2011-04-13
+publishDate: 2011-04-13
 author: subers
 featuredImage: null
 groups:

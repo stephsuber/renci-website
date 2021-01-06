@@ -2,7 +2,7 @@
 title: "Data visualization to fine-tune healthcare"
 slug: data-visualization-to-fine-tune-healthcare
 spotlight: false
-publish_date: 2014-06-17
+publishDate: 2014-06-17
 author: subers
 featuredImage: null
 groups:

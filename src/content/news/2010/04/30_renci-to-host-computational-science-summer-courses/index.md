@@ -2,7 +2,7 @@
 title: "RENCI to host computational science summer courses"
 slug: renci-to-host-computational-science-summer-courses
 spotlight: false
-publish_date: 2010-04-30
+publishDate: 2010-04-30
 author: subers
 featuredImage: null
 groups:

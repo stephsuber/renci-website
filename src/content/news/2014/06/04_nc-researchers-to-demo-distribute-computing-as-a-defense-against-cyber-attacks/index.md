@@ -2,7 +2,7 @@
 title: "North Carolina researchers to demonstrate distributed computing as a defense against power grid cyber attacks"
 slug: nc-researchers-to-demo-distribute-computing-as-a-defense-against-cyber-attacks
 spotlight: false
-publish_date: 2014-06-04
+publishDate: 2014-06-04
 author: subers
 featuredImage: null
 groups:

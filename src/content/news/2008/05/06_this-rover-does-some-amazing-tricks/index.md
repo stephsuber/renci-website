@@ -2,7 +2,7 @@
 title: "This ROVER does some amazing tricks"
 slug: this-rover-does-some-amazing-tricks
 spotlight: false
-publish_date: 2008-05-06
+publishDate: 2008-05-06
 author: subers
 featuredImage: null
 groups:

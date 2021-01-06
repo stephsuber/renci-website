@@ -2,7 +2,7 @@
 title: "Grid-enabled virus hunting"
 slug: grid-enabled-virus-hunting
 spotlight: false
-publish_date: 2009-06-16
+publishDate: 2009-06-16
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "RENCI to lead $3 million project aimed at enabling safe and secure data sharing"
 slug: renci-to-lead-3-million-project-aimed-at-enabling-safe-and-secure-data-sharing
 spotlight: false
-publish_date: 2017-06-07
+publishDate: 2017-06-07
 author: 
 featuredImage: null
 groups:

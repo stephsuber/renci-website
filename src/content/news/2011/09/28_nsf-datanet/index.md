@@ -2,7 +2,7 @@
 title: "National Science Foundation taps Carolina researchers to develop national data infrastructure"
 slug: nsf-datanet
 spotlight: false
-publish_date: 2011-09-28
+publishDate: 2011-09-28
 author: subers
 featuredImage: null
 groups:

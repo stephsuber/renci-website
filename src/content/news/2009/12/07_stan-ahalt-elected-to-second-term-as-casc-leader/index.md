@@ -2,7 +2,7 @@
 title: "Stan Ahalt elected to second term as CASC Leader"
 slug: stan-ahalt-elected-to-second-term-as-casc-leader
 spotlight: false
-publish_date: 2009-12-07
+publishDate: 2009-12-07
 author: subers
 featuredImage: null
 groups:

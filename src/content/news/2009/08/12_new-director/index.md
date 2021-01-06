@@ -2,7 +2,7 @@
 title: "Renaissance Computing Institute Names New Director"
 slug: new-director
 spotlight: false
-publish_date: 2009-08-12
+publishDate: 2009-08-12
 author: subers
 featuredImage: null
 groups:

@@ -2,7 +2,7 @@
 title: "The Science of Sound"
 slug: the-science-of-sound
 spotlight: false
-publish_date: 2008-12-30
+publishDate: 2008-12-30
 author: subers
 featuredImage: null
 groups:

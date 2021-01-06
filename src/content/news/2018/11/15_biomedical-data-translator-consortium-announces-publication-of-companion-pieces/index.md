@@ -2,7 +2,7 @@
 title: "The Biomedical Data Translator Consortium announces publication of companion pieces"
 slug: biomedical-data-translator-consortium-announces-publication-of-companion-pieces
 spotlight: false
-publish_date: 2018-11-15
+publishDate: 2018-11-15
 author: 
 featuredImage: null
 groups:

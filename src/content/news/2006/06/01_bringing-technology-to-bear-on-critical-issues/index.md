@@ -2,7 +2,7 @@
 title: "Bringing technology to bear on critical issues"
 slug: bringing-technology-to-bear-on-critical-issues
 spotlight: false
-publish_date: 2006-06-01
+publishDate: 2006-06-01
 author: subers
 featuredImage: null
 groups:

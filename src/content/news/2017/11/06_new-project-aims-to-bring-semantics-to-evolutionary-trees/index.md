@@ -2,7 +2,7 @@
 title: "New project aims to bring semantics to evolutionary trees"
 slug: new-project-aims-to-bring-semantics-to-evolutionary-trees
 spotlight: false
-publish_date: 2017-11-06
+publishDate: 2017-11-06
 author: 
 featuredImage: null
 groups:

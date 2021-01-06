@@ -2,7 +2,7 @@
 title: "National Science Board endorses NCSA petascale proposal"
 slug: national-science-board-endorses-ncsa-petascale-proposal
 spotlight: false
-publish_date: 2007-08-10
+publishDate: 2007-08-10
 author: subers
 featuredImage: null
 groups:

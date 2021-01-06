@@ -2,7 +2,7 @@
 title: "Visual Precision Agriculture"
 slug: visual-precision-agriculture
 spotlight: false
-publish_date: 2007-07-03
+publishDate: 2007-07-03
 author: subers
 featuredImage: null
 groups:

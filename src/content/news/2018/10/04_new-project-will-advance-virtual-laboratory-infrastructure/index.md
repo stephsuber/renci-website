@@ -2,7 +2,7 @@
 title: "New Project Will Advance Virtual Laboratory Infrastructure"
 slug: new-project-will-advance-virtual-laboratory-infrastructure
 spotlight: false
-publish_date: 2018-10-04
+publishDate: 2018-10-04
 author: 
 featuredImage: null
 groups:

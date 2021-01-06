@@ -2,7 +2,7 @@
 title: "RENCI sponsors discussions on data storage issues"
 slug: renci-sponsors-discussions-on-data-storage-issues
 spotlight: false
-publish_date: 2006-07-17
+publishDate: 2006-07-17
 author: subers
 featuredImage: null
 groups:

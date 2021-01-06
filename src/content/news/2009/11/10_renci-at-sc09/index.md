@@ -2,7 +2,7 @@
 title: "RENCI at SC09"
 slug: renci-at-sc09
 spotlight: false
-publish_date: 2009-11-10
+publishDate: 2009-11-10
 author: subers
 featuredImage: null
 groups:

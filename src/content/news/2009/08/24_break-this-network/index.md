@@ -2,7 +2,7 @@
 title: "Break this network"
 slug: break-this-network
 spotlight: false
-publish_date: 2009-08-24
+publishDate: 2009-08-24
 author: subers
 featuredImage: null
 groups:

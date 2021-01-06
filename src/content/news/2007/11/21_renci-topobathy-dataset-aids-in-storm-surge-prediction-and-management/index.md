@@ -2,7 +2,7 @@
 title: "RENCI 'Topobathy' dataset aids in storm surge prediction and management"
 slug: renci-topobathy-dataset-aids-in-storm-surge-prediction-and-management
 spotlight: false
-publish_date: 2007-11-21
+publishDate: 2007-11-21
 author: subers
 featuredImage: null
 groups:

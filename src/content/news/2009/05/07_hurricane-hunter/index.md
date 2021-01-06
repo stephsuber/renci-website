@@ -2,7 +2,7 @@
 title: "Hurricane Hunter"
 slug: hurricane-hunter
 spotlight: false
-publish_date: 2009-05-07
+publishDate: 2009-05-07
 author: subers
 featuredImage: null
 groups:
