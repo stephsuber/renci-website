@@ -23,7 +23,7 @@ The worldwide [iRODS](https://irods.org/) user community will connect online thi
 
 The virtual event, sponsored by the University of Arizona, Cloudian, and RENCI, will be a collection of live talks with Q&A. An audience of nearly 300 participants representing dozens of academic, government, and commercial institutions is expected to join.
 
-“The annual iRODS User Group Meeting has always opened our eyes to the impact of iRODS worldwide, and this year’s meeting will be no different,” says Jason Coposky, Executive Director at iRODS. “Although we are moving to a virtual platform, we intend to provide a similar experience to years past by ensuring there are plenty of opportunities for networking, discussion, and collaboration.”
+"The annual iRODS User Group Meeting has always opened our eyes to the impact of iRODS worldwide, and this year’s meeting will be no different," says Jason Coposky, Executive Director at iRODS. "Although we are moving to a virtual platform, we intend to provide a similar experience to years past by ensuring there are plenty of opportunities for networking, discussion, and collaboration."
 
 Meeting attendees will learn about new updates such as hard links, direct streaming, and policy composition, according to Coposky. On June 12, the last day of the meeting, the Consortium team will run an iRODS Troubleshooting session, where participants can receive one-on-one help with an existing or planned iRODS installation or integration.
 

@@ -17,7 +17,8 @@ teams:
 collaborations:
   - 
 tags:
-  - ["covid-19", "knowledge graphs"]
+  - covid-19
+  - knowledge graphs
 ---
 
 ![](https://renci.org/wp-content/uploads/2020/07/ROBOKOP-Blog-01-1024x512.png)
