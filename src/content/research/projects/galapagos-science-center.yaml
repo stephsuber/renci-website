@@ -6,7 +6,7 @@ description:  >
 renciRole: !markdown |
   RENCI develops and maintains cyberinfrastructure for the Galapagos Science Center (GSC). GSC’s 11,000-square-foot facility houses four enterprise servers and 12 terabytes of storage, a high-speed wired and wireless network within the building, satellite uplink, video surveillance, visualization displays, and computer workstations for the GIS lab. 
 
-  RENCI designed and deployed these systems in partnership with the IT department at USFQ. In 2008, RENCI provided $150,000 to purchase equipment, and staff worked on-site to develop the technical infrastructure, including iterative design reviews with the architects. The computer and data servers provide on-premises cloud infrastructure and host virtual machines for the IT operations, malan-king it possible for students and researchers to access research software via the cloud so that their work is not hindered by the expensive, slow satellite network link.
+  RENCI designed and deployed these systems in partnership with the IT department at USFQ. In 2008, RENCI provided $150,000 to purchase equipment, and staff worked on-site to develop the technical infrastructure, including iterative design reviews with the architects. The computer and data servers provide on-premises cloud infrastructure and host virtual machines for the IT operations, making it possible for students and researchers to access research software via the cloud so that their work is not hindered by the expensive, slow satellite network link.
 
   Since 2008, RENCI has continued to support the facility by helping to maintain the infrastructure and participating in projects.
 members:
