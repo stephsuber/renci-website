@@ -24,7 +24,7 @@ tags:
     - open source
 ---
 
-![](https://renci.org/wp-content/uploads/2020/06/BB-Blog-04-1024x512.png)
+![](./blackbalsam.png)
 
 Data analysis and visualization are helping answer a variety of questions about COVID-19 such as who is most at risk, how is the disease spreading, and what approaches might work best for treatments. However, setting up a computer environment to analyze the large amounts of data needed to answer such questions is no easy task. It requires selecting data libraries, software, and hardware and estimating how much memory and computing power will be needed. This process is time consuming and few individuals have the complex skill set needed to accomplish it.
 
