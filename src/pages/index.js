@@ -4,6 +4,7 @@ import { Container, Section, Hero } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNewsSpotlight } from '../hooks'
 import { Spotlight } from '../components/news'
+import HomeGraphic from '../images/home-graphic.png'
 
 const IndexPage = () => {
   const article = useNewsSpotlight()[0]
@@ -12,7 +13,13 @@ const IndexPage = () => {
     <Fragment>
       <SEO title="Home" />
 
-      <Hero backgroundColor="#000" />
+      <div style={{ display: 'flex', justifyContent: 'center', backgroundColor: 'lightgrey' }}>
+        <img
+          src={ HomeGraphic }
+          style={{ marginBottom: '-12rem', maxWidth: '1000px' }}
+        />
+      </div>
+
 
       <Container>
         <Section title="News Spotlight" fullWidth>
