@@ -9,7 +9,7 @@ renciRole: !markdown |
    
   The system is designed for a variety of use cases, including annotation of the National Center for Biomedical Information Bio-Samples repository and annotation of images within the Figshare repository.
    
-  RENCI is developing an ontology design pattern software [framework]((https://github.com/INCATools/dosdp-tools)) to be used by developers of and contributors to key vocabularies and ontologies. In addition, RENCI is developing a [tool](https://github.com/INCATools/boomer) for evaluating potential mappings across ontologies using a combination of deductive reasoning and probabilistic inference, to be used for INCA’s automatic terminology integration.
+  RENCI is developing an ontology design pattern software [framework](https://github.com/INCATools/dosdp-tools) to be used by developers of and contributors to key vocabularies and ontologies. In addition, RENCI is developing a [tool](https://github.com/INCATools/boomer) for evaluating potential mappings across ontologies using a combination of deductive reasoning and probabilistic inference, to be used for INCA’s automatic terminology integration.
 members:
   - id: jim-balhoff
     role: Lead
@@ -20,6 +20,6 @@ funding:
   - lbnl
   - nih-nhgri
 www:
-  url: http://adcirc.org/
+  url: 
   github: 
   twitter:

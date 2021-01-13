@@ -1,7 +1,7 @@
-id: analytics
-name: Analytics
+id: data-science-and-analytics
+name: Data Science & Analytics
 description: lorem ipsum data sciencum
-featuredImage: analytics.jpg
+featuredImage: data-science-and-analytics.jpg
 members:
   - id: chris-bizon
     role: Lead

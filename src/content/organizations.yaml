@@ -320,7 +320,7 @@
 - name: University of North Carolina at Chapel Hill Department of Psychiatry
   id: unc-psychiatry
   url: https://www.med.unc.edu/psych/
-- name: University of North Carolina at Chapel Hill Gillings School of Public Health
+- name: University of North Carolina at Chapel Hill Gillings School of Global Public Health
   id: unc-sph
   url: https://sph.unc.edu/
 - name: University of North Carolina at Chapel Hill Hospitals
@@ -339,7 +339,7 @@
 - name: University of North Carolina Charlotte
   id: unc-charlotte
   url: https://www.uncc.edu/
-- name: University of North Carolina Eshelman Institute of Innovation
+- name: University of North Carolina Eshelman Institute for Innovation
   id: unc-eii
   url: https://unceii.org/
 - name: University of North Carolina Eshelman School of Pharmacy

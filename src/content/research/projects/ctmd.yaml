@@ -13,12 +13,11 @@ renciRole: !markdown |
 members:
   - id: kimberly-robasky
     role: Lead
-  - id: hao-xu
-  - id: shruti-raj
-  - id: matt-watson
-  - id: dawn-shelton
-  - id: shruti-raj
   - id: david-borland
+  - id: shruti-raj
+  - id: dawn-shelton
+  - id: matt-watson
+  - id: hao-xu
   - id: hong-yi
 partners:
   - duke-university
@@ -27,5 +26,5 @@ funding:
   - us-dhhs
 www:
   url: 
-  github: https://github.com/renci/ctmd
+  github: renci/ctmd
   twitter: 

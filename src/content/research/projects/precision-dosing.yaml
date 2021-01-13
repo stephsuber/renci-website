@@ -1,5 +1,5 @@
 id: precision-dosing
-name: Precision Dosing
+name: PDS
 email: fake@email.com
 featuredImage: precision-dosing.jpg
 description: >
@@ -17,6 +17,7 @@ members:
   - id: hong-yi
   - id: shruti-raj
   - id: david-borland
+  - id: marcus-anderson
 partners:
   - unc-eii
   - unc-pharmacy
@@ -25,5 +26,5 @@ funding:
   - renci
 www:
   url: 
-  github: https://github.com/renci/pds
+  github: renci/pds
   twitter: 
