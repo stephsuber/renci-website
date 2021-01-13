@@ -1,6 +1,7 @@
 id: phyloreferencing
 name: "Phyloreferencing: Creating Computable Clade Definitions in OWL"
 email: fake@email.com
+featuredImage: phyloreferencing.jpg
 archived: true
 description: The Phyloreferencing project is developing techniques for using ontologies and OWL (a formal ontology language) to enable users to create definitions with precise, unambiguous, and fully computable semantics for any biological clade. These definitions will allow phylogeneticists to annotate and navigate large phylogenies such as the Open Tree of Life.
 renciRole: !markdown |

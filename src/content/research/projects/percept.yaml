@@ -1,6 +1,7 @@
 id: percept
 name: PERCEPT
 email: fake@email.com
+featuredImage: percept.jpg
 description: >
   PERCEPT aims to enhance STEM education with a new model for teaching and learning core physics concepts using a haptic force-feedback device coupled with interactive simulations.  
 renciRole: !markdown |

@@ -1,6 +1,7 @@
 id: inca
 name: INCA
 email: fake@email.com
+featuredImage: inca.jpg
 description: >
   An Intelligent Concept Agent for Assisting with the Application of Metadata (INCA) uses machine learning techniques to automatically apply relevant metadata to research data.   
 renciRole: !markdown |

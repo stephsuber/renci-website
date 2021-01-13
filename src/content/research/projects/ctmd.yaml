@@ -1,6 +1,7 @@
 id: ctmd
 name: Clinical Trial Management Dashboard
 email: fake@email.com
+featuredImage: ctmd.jpg
 description: >
   Clinical trials are essential to safe healthcare, but they are complex and often involve many investigators, institutions, facilities, participants, funding streams, and regulatory requirements. The clinical trial management dashboard streamlines and facilitates the management of proposals for these vital studies.
 renciRole: !markdown |
