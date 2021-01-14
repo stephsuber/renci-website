@@ -3,22 +3,22 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Img from 'gatsby-image'
 import { useScrollPosition } from '../../hooks'
+import { Container } from './container'
 
 const Content = styled.div(({ theme }) => `
   color: ${ theme.color.white };
   position: absolute;
   left: 0;
   right: 0;
-  top: 0;
-  bottom: 0;
+  top: 50%;
+  transform: translateY(-50%);
   padding: ${ theme.spacing.large };
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 100%;
+  min-width: 100%;
   max-width: 1200px;
-  margin: 0 auto;
-  background-color: transparent;
+  background-color: #000000cc;
   letter-spacing: 1px;
   & a {
     color: ${ theme.color.white };
@@ -56,18 +56,19 @@ export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children 
 
   return (
     <Wrapper backgroundColor={ backgroundColor }>
-      {
-        backgroundImage && (
-          <Img
-            fluid={ backgroundImage }
-            style={{ height: '500px' }}
-            imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }}
-          />
-        )
-      }
-      <Overlay color={ overlayColor } />
+        {
+          backgroundImage && (
+            <Img
+              fluid={ backgroundImage }
+              style={{ height: '500px' }}
+              imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }}
+            />
+          )
+        }
       <Content>
-        { children }
+        <Container>
+          { children }
+        </Container>
       </Content>
     </Wrapper>
   )
