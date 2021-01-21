@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignright size-full wp-image-12914" alt="spotlight-image-data-fellows" src="http://www.renci.org/wp-content/uploads/2013/11/spotlight-image-data-fellows.jpg" width="300" height="152" />CHAPEL HILL, NC, Nov. 19, 2013 - The National Consortium for Data Science (NCDS) has named five faculty members at North Carolina universities as its inaugural Data Science Faculty Fellows.
 

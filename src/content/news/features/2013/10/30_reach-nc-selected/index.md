@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://awards.universityeda.org/"><img alt="" src="https://gallery.mailchimp.com/148d8087193215a0c78e516a8/images/AoE_2013_Logo.jpg" width="300" height="145" align="right" /></a>The University Economic Development Association (UEDA) announced its 2013 Awards of Excellence winners during its Annual Summit held Oct. 29 in Pittsburgh. The awards recognize UEDA members who are transforming their campuses into engines of economic prosperity through initiatives in five categories: 1) community connected campus; 2) research and analysis; 3) leadership and collaboration; 4) innovation and entrepreneurship; and 5) talent development.
 

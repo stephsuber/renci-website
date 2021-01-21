@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null]
+    - 
 ---
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image.jpg"  rel="lightbox[roadtrip]"><img class="aligncenter wp-image-15654 size-large" src="http:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image-1024x586.jpg" alt="smart cities image" width="640" height="366" srcset="https:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image-1024x586.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image-300x172.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image-768x440.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image-640x366.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2016\/10\/smart-cities-image.jpg 1155w" sizes="(max-width: 640px) 100vw, 640px" \/><\/a>The explosion of digital data means changes in how we work, play, and interact with each other and with the technologies and devices we depend on. Nowhere is that change more apparent than in the than in movement to create smart and interconnected cities.<\/p>
 <p>What started as an effort to integrate multiple information and communication technologies with sensors that collect data about transportation systems, power plant usage, water supply networks, and more has evolved into a transformation of urban environments using a data infrastructure that can monitor events, troubleshoot problems, and enable a better quality of life.<\/p>

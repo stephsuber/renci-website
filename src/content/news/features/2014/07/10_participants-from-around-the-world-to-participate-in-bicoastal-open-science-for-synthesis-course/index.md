@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Open Science","Open Science for Synthesis (OSS)"]
+    - Open Science
+    - Open Science for Synthesis (OSS)
 ---
 CHAPEL HILL, NC and SANTA BARBARA, CA - A unique training course that will take place simultaneously on both U.S. coasts will get underway July 21 at RENCI headquarters in Chapel Hill, NC, and at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara.
 

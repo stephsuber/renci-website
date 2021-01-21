@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["networking","testbed"]
+    - networking
+    - testbed
 ---
 <!-- wp:paragraph -->
 <p>A new grant from the National Science Foundation (NSF) will fund operation of the Global Environment for Network Innovations (GENI) virtual laboratory for the next two years and support researchers in planning a new infrastructure to replace GENI. The NSF allocated $1.7 million to the effort, called Enabling NeTwork Research and the Evolution of a Next Generation Midscale Research Infrastructure (ENTeR). The project will be jointly led by researchers from the Renaissance Computing Institute (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836715">RENCI</a>) of the University of North Carolina at Chapel Hill and their collaborators from the University of Kentucky (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836742">UK</a>). </p>

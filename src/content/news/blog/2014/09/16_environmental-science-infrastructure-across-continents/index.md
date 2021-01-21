@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null]
+    - 
 ---
 <p>&nbsp;<\/p>
 <div id="attachment_13563" class="wp-caption alignleft" style="width: 300px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2014\/09\/helsinki1.jpg"  rel="lightbox[roadtrip]"><img class="wp-image-13563 size-medium" src="http:\/\/renci.org\/wp-content\/uploads\/2014\/09\/helsinki1-300x138.jpg" alt="The CoopEUS conference will be he;d in Helsinki, Finland, starting Sept. 30" width="300" height="138" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/09\/helsinki1-300x138.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2014\/09\/helsinki1-640x295.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2014\/09\/helsinki1.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>

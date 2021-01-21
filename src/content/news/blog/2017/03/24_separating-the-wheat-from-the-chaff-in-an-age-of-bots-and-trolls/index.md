@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null]
+    - 
 ---
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2.jpg"  rel="lightbox[roadtrip]"><img class="aligncenter size-news-large wp-image-16240" src="http:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2-640x378.jpg" alt="" width="640" height="378" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2-640x378.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2-300x177.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2-768x454.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2017\/03\/bots-and-trolls2.jpg 970w" sizes="(max-width: 640px) 100vw, 640px" \/><\/a>In the age of ubiquitous connectivity and social media, information is at our fingertips. Unfortunately, so is misinformation and often it is hard to tell one from the other.<\/p>
 <p>A recent roundtable discussion sponsored by the<a href="https:\/\/wordpress.com\/stats\/day\/southbdhub.wordpress.com"> South Big Data Hub<\/a> examined the rapidly changing landscape for building online communities, sharing information, and creating what often appears to be a groundswell of support for particular points of view.<!--more--><\/p>

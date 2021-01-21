@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI staff and partners involved in the National Consortium for Data Science (NCDS) will play a major role in planning the The Second IEEE\/ASA International Conference on Big Data Science and Computing. The conference, called BigDataScience, will be held at Stanford University May 27-31, 2014 in conjunction with the Sixth IEEE\/ASE International Conference on Social Computing and the Third IEEE\/ASE International Conference on Cyber Security.<\/p>
 <p>RENCI Director and chair of the NCDS Steering Committee Stan Ahalt, RENCI Senior Research Software Developer Howard Lander and Arcot Rajasekar, RENCI\u2019s chief domain scientist for data grid technologies, are all helping to chair the BigDataScience conference. In addition, Justin Zahn, a faculty member at NC A&amp;T State University and one of the NCDS Data Science Faculty Fellows, will play a major role on the planning committee.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>It\u2019s one thing to say that the explosion of digital data can be used for public good. It\u2019s quite another to sit down in a room for four hours, access open data files and create an application with practical uses.<\/p>
 <div id="attachment_13201" class="wp-caption alignleft" style="width: 300px"><a href="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/03\/Terra-Hub-1-500x270.png"  rel="lightbox[roadtrip]"><img class="size-medium wp-image-13201 " src="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/03\/Terra-Hub-1-500x270-300x162.png" alt="Terra-Hub-1-500x270" width="300" height="162" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/03\/Terra-Hub-1-500x270-300x162.png 300w, https:\/\/renci.org\/wp-content\/uploads\/2014\/03\/Terra-Hub-1-500x270.png 500w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>

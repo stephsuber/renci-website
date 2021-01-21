@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Forty-five students from around the globe spent the last three weeks in classrooms at RENCI in Chapel Hill and at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara, learning the software and technology skills needed for open, collaborative, and reproducible synthesis research.
 

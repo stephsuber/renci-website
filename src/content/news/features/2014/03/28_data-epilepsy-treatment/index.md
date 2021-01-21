@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13226" align="alignnone" width="563"]<img class=" wp-image-13226  " alt="A doctor at Boston Children’s Hospital checks on a young epilepsy patient during treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital" src="http://www.renci.org/wp-content/uploads/2014/03/20130329_LaserAblation-6-1024x694.jpg" width="563" height="381" /> A doctor at Boston Children’s Hospital checks on a young epilepsy patient during<br />treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital[/caption]
 

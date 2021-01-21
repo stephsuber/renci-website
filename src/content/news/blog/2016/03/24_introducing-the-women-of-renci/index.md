@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>As Women\u2019s History Month draws to a close, RENCI acknowledges the daily hard work of each of its female employees. The research strides occurring at RENCI would not be possible without our female researchers, project coordinators, administrators, and communicators.<\/p>
 <div id="attachment_15376" class="wp-caption aligncenter" style="width: 640px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013.jpg"  rel="attachment wp-att-15376" rel="lightbox[roadtrip]"><img class="size-large wp-image-15376" src="http:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013-1024x670.jpg" alt="From left to right: Asia Mieczkowska, Jennifer Resnick, Claris Castillo, Hong Yi, Lea Shanley, Caryn Best, Lisa Stillwell, Margaret Wesley, Kristi Andrews, Laura Capps Hill, Rebekah Sturgess, Karen Green, Dawn Carsey, Annie Goessling, and Stephanie Suber " width="640" height="419" srcset="https:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013-1024x670.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013-300x196.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013-768x503.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013-640x419.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2016\/03\/DSC_0013.jpg 1210w" sizes="(max-width: 640px) 100vw, 640px" \/><\/a><\/p>

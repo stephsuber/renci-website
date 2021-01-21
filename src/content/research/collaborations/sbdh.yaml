@@ -6,6 +6,7 @@ renciRole: !markdown |
   In partnership with Georgia Tech, RENCI leverages its expertise in software development, data management, outreach, and project management to support data science collaboration across the South Region - and to coordinate nationally with the other three NSF-funded big data hubs.
 
   South Hub focus areas are: data science education and workforce; data sharing and cyberinfrastructure; health and health disparities; materials and advanced manufacturing; smart communities; and social cybersecurity.
+projects: []
 members:
   - stan-ahalt
   - stephanie-suber

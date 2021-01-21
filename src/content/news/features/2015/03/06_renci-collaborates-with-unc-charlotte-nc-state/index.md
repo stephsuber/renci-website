@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC - Researchers at RENCI (the Renaissance Computing Institute at UNC-Chapel Hill), UNC Charlotte and North Carolina State University will develop advanced technologies and solutions that will position North Carolina as a leader in data science research and applied data analytics and will enable university researchers and business practitioners to use big data to manage risks, gain knowledge, and compete in the global economy. <!--more-->
 

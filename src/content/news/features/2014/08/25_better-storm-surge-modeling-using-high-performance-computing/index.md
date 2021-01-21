@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13505" align="alignleft" width="223"]<img class="wp-image-13505 size-medium" src="http://renci.org/wp-content/uploads/2014/08/2014_RENCI_Dell-CaseStudy-223x300.jpg" alt="2014_RENCI_Dell-CaseStudy" width="223" height="300" /> From left to right: RENCI’s Casey Averill, Brian Blanton and John McGee[/caption]
 

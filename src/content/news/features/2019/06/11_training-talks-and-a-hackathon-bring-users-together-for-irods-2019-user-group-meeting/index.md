@@ -19,7 +19,10 @@ collaborations:
 organizations:
     - utrecht-university
 tags:
-    - ["data management", "open source", "training", "hackathon"]
+    - data-management
+    - open source
+    - training
+    - hackathon
 ---
 <!-- wp:paragraph -->
 <p><em>Seats

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_13458" class="wp-caption alignleft" style="width: 300px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2014\/07\/irene1.jpg"  rel="lightbox[roadtrip]"><img class="size-medium wp-image-13458" src="http:\/\/renci.org\/wp-content\/uploads\/2014\/07\/irene1-300x203.jpg" alt="Outer Banks flooding from Hurricane Irene (2011). Modeling software used to understand high-impact events will benefit from software development best practices. " width="300" height="203" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/07\/irene1-300x203.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2014\/07\/irene1.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>
 <p class="wp-caption-text">Outer Banks flooding from Hurricane Irene (2011). Modeling software used to understand high-impact events will benefit from software development best practices.<\/p>

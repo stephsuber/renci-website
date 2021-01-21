@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/08\/amia-logo-nobg.jpg"  rel="lightbox[roadtrip]"><img class="alignright wp-image-15559" src="http:\/\/renci.org\/wp-content\/uploads\/2016\/08\/amia-logo-nobg.jpg" alt="amia-logo-nobg" width="220" height="59" \/><\/a>Biomedical informatics is one of the hottest data science research fields, with scientists\u00a0publishing hundreds of research papers every year that could impact how patients and doctors access and interact with medical information and the effectiveness of medical treatments.<\/p>
 <p><!--more-->The field is relatively new and maturing, and to highlight accomplishments and shine a light on emerging trends the <a href="https:\/\/www.amia.org\/">American Medical Informatics Association<\/a> (AMIA) publishes the annual <a href="http:\/\/jamia.oxfordjournals.org\/content\/early\/2016\/07\/29\/jamia.ocw103">AMIA Year-in-Review<\/a> in clinical and consumer informatics. The latest version of the review (2015) referenced 54 published research papers chosen from 724 articles published between Nov. 1, 2014 and Oct. 31, 2015 on the themes of information retrieval, natural language processing, usability and human-computer interaction, and visualization.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 With many large data sets, place is an important component. From the emergency manager looking for the best evacuation route to the historian trying to understand urban development patterns over the years, people rely on geographically referenced data to meet a variety of research, business, and government needs.
 

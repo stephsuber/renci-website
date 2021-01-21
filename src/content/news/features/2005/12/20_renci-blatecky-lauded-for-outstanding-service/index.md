@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 RENCI Deputy Director Alan Blatecky was named 2005 Employee of the Year by Tony Waldrop, Vice Chancellor for Research and Economic Development at the University of North Carolina, Chapel Hill. The award is presented to the year's most outstanding employee in the UNC Research and Economic Division.<!--more-->
 

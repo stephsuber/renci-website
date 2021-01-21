@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Several RENCI researchers will be presenting at one of the biggest international metadata research conferences next week in Thessaloniki, Greece. The seventh International Conference on Metadata and Semantics Research (<a href="http:\/\/mtsr2013.teithe.gr">MTSR&#8217;13<\/a>) will bring together scholars and practitioners within the interdisciplinary field of metadata, linked data and ontologies. Participants will share knowledge and best practices in the implementation of these technologies.<\/p>
 <p>Metadata applications span a diverse set of platforms including cultural informatics; open access repositories (digital libraries), E-learning applications; search engine optimization and information retrieval; research information systems and infrastructures; e-science and e-social science applications; agriculture and food; environment and ecology; and bio-health &amp; medical information systems.<\/p>

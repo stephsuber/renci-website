@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13215" align="alignleft" width="225"]<a href="http://www.renci.org/wp-content/uploads/2014/03/1.jpg"><img class="  wp-image-13215" src="http://www.renci.org/wp-content/uploads/2014/03/1-664x1024.jpg" alt="1" width="225" height="347" /></a> The VISR will include equipment much like this rack of high performance servers.[/caption]
 

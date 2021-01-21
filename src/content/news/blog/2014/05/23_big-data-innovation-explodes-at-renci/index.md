@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <dl id="attachment_13346" class="wp-caption alignnone" style="width: 537px;">
 <dt class="wp-caption-dt">

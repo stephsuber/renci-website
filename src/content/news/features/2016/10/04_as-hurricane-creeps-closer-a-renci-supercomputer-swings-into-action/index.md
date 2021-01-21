@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing"]
+    - high performance computing
 ---
 [caption id="attachment_15625" align="aligncenter" width="640"]<a href="http://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action/attachment/screen-shot-2016-10-04-at-3-02-25-pm/"><img class="wp-image-15625 size-large" src="http://renci.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-04-at-3.02.25-PM-1024x699.png" alt="Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas. " width="640" height="437" /></a> Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas.[/caption]
 

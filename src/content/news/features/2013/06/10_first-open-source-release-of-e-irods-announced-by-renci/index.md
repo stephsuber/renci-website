@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 RENCI announced this week the release of E-iRODS 3.0, the first open source release of E-iRODS software to be managed and overseen by the <a href="https://webmail.renci.org/OWA/redir.aspx?C=47666d328eae4d4da70a058d5e792c3d&amp;URL=http%3a%2f%2firods-consortium.org%2f"><span style="text-decoration: underline;">iRODS Consortium</span></a>, an alliance of organizations working together to fund and guide the continued development of the iRODS/E-iRODS platform.
 

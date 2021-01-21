@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p style="text-align: left;"><img class="size-large wp-image-12067 alignleft" title="uranium-header" alt="" src="http://www.renci.org/wp-content/uploads/2013/10/uranium-header.jpg" width="640" height="315" />David Borland, PhD, a RENCI senior visualization researcher, and Jeffrey L. Tilson, PhD, a RENCI senior research scientist, today announced the general release of Voluminous, a tool that scientists can use to visualize volumetric data sets.<!--more--></p>
 Voluminous is a tool developed to assist in visualizing volumetric scalar fields—three dimensional fields that associate a scalar value to every point in the field. Voluminous has been used to help chemists view the nodes in a field that separate its positively and negatively charged regions. It was originally developed to visualize computational chemistry electron density fields, where the input volume represents the difference between two scalar fields.

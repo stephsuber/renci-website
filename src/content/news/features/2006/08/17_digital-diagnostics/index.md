@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 In a way, innovative computer programmers and engineers are like good mechanics. They get under the hood, unafraid to grapple with the dirty details, in an effort to create finely tuned systems and applications that that better serve their users.<!--more-->
 

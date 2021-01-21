@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="size-large wp-image-12067 alignleft" title="Carolina Launch Pad Headquarters" src="http://www.renci.org/wp-content/uploads/2013/11/launchpad-story.jpg" alt="" width="640" height="427" />
 

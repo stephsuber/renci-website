@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { Heading } from '../typography'
 
 const DynamicHeading = styled(Heading)(({ theme }) => `
-  flex: 4;
+  flex: 2;
   @media (min-width: 992px) {
     text-align: right;
   }

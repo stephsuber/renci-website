@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data management","training"]
+    - data-management
+    - training
 ---
 <em>Travel and accommodations provided; applications due March 15</em>
 

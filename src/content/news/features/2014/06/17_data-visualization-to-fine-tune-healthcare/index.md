@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 RENCI teams up with Duke University researcher to use visualization to understand disease risk factors and symptoms.  The age of big data presents both great opportunities for new knowledge as well as challenges in figuring out how to interpret, organize and use such large quantities of data. Data analysis and management are especially important hurdles to overcome in medicine, where data can help physicians better understand and treat disease.
 

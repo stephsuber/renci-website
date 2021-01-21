@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null]
+    - 
 ---
 <p>The Women in Data Science\u00a0<a href="http:\/\/widsconference.org\/">(WiDS) Conference<\/a>\u00a0returns for a third year to Stanford University on March 5. This one-day, technical conference features\u00a0<a href="http:\/\/www.widsconference.org\/speakers.html">world-class speakers<\/a>\u00a0discussing a wide array of data science, machine learning, and artificial intelligence research and applications, from computational finance, to astrophysics, to cybersecurity, and much more. All genders are invited to participate in the conference, which features exclusively female speakers.\u00a0<!--more--><\/p>
 <p>WiDS is a truly global and inclusive conference with a unique participation model. <img class="alignright wp-image-17432" src="http:\/\/renci.org\/wp-content\/uploads\/2018\/03\/wids-logo-stacked-stanford-preferred.jpg" alt="" width="229" height="198" \/>Participants have the choice of joining the conference in person at Stanford; in person at one of the\u00a0<a href="http:\/\/www.widsconference.org\/register.html">100+ regional events worldwide<\/a>; online via livestream; or online via\u00a0<a href="http:\/\/facebook.com\/wids2018">Facebook Live<\/a>. \u00a0This provides unfettered access to valuable, technical, and innovative content to anyone in the world that would like to participate.<\/p>

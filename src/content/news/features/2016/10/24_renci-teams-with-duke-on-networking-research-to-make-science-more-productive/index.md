@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["networking"]
+    - networking
 ---
 <em>NSF grant will address security issues of Network Infrastructure as a Service (NIaaS)</em>
 

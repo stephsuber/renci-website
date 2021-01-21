@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_14395" class="wp-caption alignleft" style="width: 300px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2015\/02\/Kyrgyzstan3.jpg"  rel="lightbox[roadtrip]"><img class="size-medium wp-image-14395" src="http:\/\/renci.org\/wp-content\/uploads\/2015\/02\/Kyrgyzstan3-300x225.jpg" alt="A delegation from Kyrgyzstan views biopsy slides in the RENCI Social Computing Room. " width="300" height="225" srcset="https:\/\/renci.org\/wp-content\/uploads\/2015\/02\/Kyrgyzstan3-300x225.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2015\/02\/Kyrgyzstan3-1024x768.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2015\/02\/Kyrgyzstan3-640x480.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>
 <p class="wp-caption-text">A delegation from Kyrgyzstan views biopsy slides in the RENCI Social Computing Room.<\/p>

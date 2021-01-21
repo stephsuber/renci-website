@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_16634" class="wp-caption aligncenter" style="width: 640px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1.jpg"  rel="lightbox[roadtrip]"><img class="wp-image-16634 size-large" src="http:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1-1024x493.jpg" alt="" width="640" height="308" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1-1024x493.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1-300x144.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1-768x369.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2017\/08\/REU-12-Panel-1-640x308.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" \/><\/a><\/p>
 <p class="wp-caption-text">A panel of RENCI employees talks to NSF REU students during a recent visit.<\/p>

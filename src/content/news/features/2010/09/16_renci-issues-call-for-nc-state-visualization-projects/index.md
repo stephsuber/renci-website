@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1.jpg"><img class="alignnone size-large wp-image-6289" title="ncsu-engagement-cfp" src="http://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1-630x472.jpg" alt="" width="630" height="472" /></a></p>
 

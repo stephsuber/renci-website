@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC — Leading researchers in data science and genomics are recommending strategies to help genomic scientists better manage, share, analyze and archive massive research and clinical data sets in an effort to ensure that the big data explosion results in better health outcomes and faster research discoveries.  <!--more-->
 

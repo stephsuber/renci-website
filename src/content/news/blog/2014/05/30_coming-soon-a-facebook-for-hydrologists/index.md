@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p style="text-align: left;" align="center">After two years of work, HydroShare, a \u201cFacebook for hydrologists,\u201d will go live in July as an open source website. The HydroShare research team, which includes collaborators from RENCI, Brigham Young University, the University of South Carolina, Purdue University, Tufts University, the University of Texas at Austin, and the University of California at San Diego, received a $4.5 million grant from the National Science Foundation in July 2012 for this project.<\/p>
 <p style="text-align: left;" align="center">HydroShare will give hydrologists the technology infrastructure they need to address critical issues related to water quality, accessibility, and management. The open website will be similar to YouTube in that it will allow users to simply drag and drop their models and data to upload to the site, and similar to Amazon, with a message board and rating system. It will provide an online collaborative environment for discovering, accessing and sharing water science research.<!--more--><\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - ["training"]
+    - training
 ---
 <em>International group of students sharpen data science skills in short course series.</em>
 

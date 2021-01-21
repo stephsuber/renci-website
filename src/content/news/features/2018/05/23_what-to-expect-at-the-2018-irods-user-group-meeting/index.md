@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <em><img class="aligncenter size-large wp-image-17529" src="http://renci.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-23-at-11.10.41-AM-1024x410.png" alt="" width="640" height="256" />Interested in iRODS? Register for the meeting at  </em><a href="http://irods.org/ugm2018"><em>irods.org/ugm2018</em></a>
 

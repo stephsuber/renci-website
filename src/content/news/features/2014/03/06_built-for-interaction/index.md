@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13187" align="alignnone" width="640"]<a href="http://www.renci.org/wp-content/uploads/2014/03/scr-ncsu.jpg"><img class="size-news-large wp-image-13187" src="http://www.renci.org/wp-content/uploads/2014/03/scr-ncsu-640x480.jpg" alt="scr-ncsu" width="640" height="480" /></a> New Social Computing Rooms at NC State and Odum Institute expand RENCI’s successful visualization technology[/caption]
 

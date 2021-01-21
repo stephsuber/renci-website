@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Much has been said about big data and its potential to improve business productivity, understand risks, and improve medial diagnoses. But first and foremost, data is about people: how they interact with each other and their environment, their beliefs, the choices they make, and the significance of those choices.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="size-large wp-image-12067 alignleft" title="ashok-image" alt="" src="http://www.renci.org/wp-content/uploads/2013/10/ashok-image.jpg" width="640" height="386" />
 

@@ -16,6 +16,6 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI’s Clark Jeffries and Dr. Diana Perkins of the UNC School of Medicine’s psychiatry department talk about their research that examines the genetic basis of schizophrenia in a <em>Radio In Vivo</em> interview.</p>

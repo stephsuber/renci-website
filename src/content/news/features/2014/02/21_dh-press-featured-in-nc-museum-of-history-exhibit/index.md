@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13111" align="alignleft" width="307"]<a href="http://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914.jpg"><img class=" wp-image-13111  " src="http://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914-731x1024.jpg" alt="An old family photo used in the new &quot;Cedars in the Pines&quot; exhibit at the N.C. Museum of History." width="307" height="430" /></a> An old family photo used in the new "Cedars in the Pines" exhibit at the N.C. Museum of History.[/caption]
 

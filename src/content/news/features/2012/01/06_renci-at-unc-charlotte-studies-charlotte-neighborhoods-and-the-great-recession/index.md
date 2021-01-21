@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/wp-content/uploads/2012/01/CityOfCharlotte_web.jpg"><img class="alignnone size-full wp-image-8639" title="Charlotte" src="http://www.renci.org/wp-content/uploads/2012/01/CityOfCharlotte_web.jpg" alt="" width="500" height="332" /></a>
 

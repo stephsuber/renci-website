@@ -1,4 +1,5 @@
 const path = require(`path`)
+const createPagesQuery = require(`./gatsby/create-pages-query`)
 
 const now = new Date()
 const dateString = `${ now.getFullYear() }-${ now.getMonth() + 1 < 10 ? '0' : '' }${ now.getMonth() + 1 }-${ now.getDate()  < 10 ? '0' : '' }${ now.getDate() }`
@@ -7,26 +8,24 @@ console.log(`\n\nStarting build, ${ now }\n\n`)
 
 exports.onCreateNode = ({ node, actions }) => {
   const { createNode, createNodeField } = actions
-  if (node.internal.type === 'MarkdownRemark') {
-    const matches = node.fileAbsolutePath.match(/content\/news\/(features|blog)\/(\d{4})\/(\d{2})\/.+\/index.md$/)
-    if (matches) {
-      const [, fileDirectory, yyyy, dd] = matches
-      let newType = 'feature'
-      if (fileDirectory === 'features') {
-        newType = 'feature'
-      } else if (fileDirectory === 'blog') {
-          newType = 'blog'
-      }
-      const path = `/${ newType }/${ yyyy }/${ dd }/${ node.frontmatter.slug }`
-      createNodeField({ node, name: 'path', value: path })
-      createNodeField({ node, name: 'newsType', value: newType })
-    }
-  }
+
+  // add path field to reference each object's page public URL when used in client
   if (node.internal.type === 'PeopleYaml') { createNodeField({ node, name: 'path', value: `/people/${ node.id }` }) }
   else if (node.internal.type === 'GroupsYaml') { createNodeField({ node, name: 'path', value: `/research/${ node.id }` }) }
   else if (node.internal.type === 'TeamsYaml') { createNodeField({ node, name: 'path', value: `/teams/${ node.id }` }) }
   else if (node.internal.type === 'CollaborationsYaml') { createNodeField({ node, name: 'path', value: `/research/${ node.id }` }) }
   else if (node.internal.type === 'ProjectsYaml') { createNodeField({ node, name: 'path', value: `/projects/${ node.id }` }) }
+  else if (node.internal.type === 'MarkdownRemark') {
+    const matches = node.fileAbsolutePath.match(/content\/news\/(features|blog)\/(\d{4})\/(\d{2})\/.+\/index.md$/)
+    if (matches) {
+      const [, fileDirectory, yyyy, dd] = matches
+      const newsType = (fileDirectory === 'blog') ? 'blog' : (fileDirectory === 'features') ? 'feature' : 'untagged'
+      const publicDir = (fileDirectory === 'blog') ? 'blog' : (fileDirectory === 'features') ? 'news' : 'unsorted'
+      const path = `/${ publicDir }/${ yyyy }/${ dd }/${ node.frontmatter.slug }`
+      createNodeField({ node, name: 'newsType', value: newsType })
+      createNodeField({ node, name: 'path', value: path })
+    }
+  }
 }
 
 exports.createSchemaCustomization = ({ actions }) => {
@@ -49,7 +48,6 @@ exports.createSchemaCustomization = ({ actions }) => {
 }
 
 exports.createResolvers = ({ actions, createResolvers }) => {
-  const { createNodeField } = actions
   const fullName = {
     type: "String",
     resolve(source, args, context, info) {
@@ -209,7 +207,7 @@ exports.createResolvers = ({ actions, createResolvers }) => {
   }
   createResolvers(resolvers)
 }
-exports.createPages = ({ actions, graphql }) => {
+exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
   const personTemplate = path.resolve(`src/templates/person-template.js`)
   const groupTemplate = path.resolve(`src/templates/group-template.js`)
@@ -221,203 +219,95 @@ exports.createPages = ({ actions, graphql }) => {
   const eventsFutureTemplate = path.resolve(`src/templates/events-future-template.js`)
   const eventsPastTemplate = path.resolve(`src/templates/events-past-template.js`)
 
-  return graphql(`
-    {
-      people: allPeopleYaml(sort: {fields: id, order: ASC}) {
-        edges {
-          node {
-            id
-            name {
-              first
-              last
-            }
-          }
-        }
-      }
-      groups: allGroupsYaml(sort: {fields: name, order: ASC}) {
-        edges {
-          node {
-            id
-            name
-          }
-        }
-      }
-      teams: allTeamsYaml(sort: {fields: name, order: ASC}) {
-        edges {
-          node {
-            id
-            name
-          }
-        }
-      }
-      projects: allProjectsYaml(sort: {fields: name, order: DESC}) {
-        edges {
-          node {
-            id
-            name
-          }
-        }
-      }
-      collaborations: allCollaborationsYaml(sort: {fields: name, order: ASC}) {
-        edges {
-          node {
-            id
-            name
-          }
-        }
-      }
-      news: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/content\/news\/features/"}},
-        sort: {fields: frontmatter___publishDate, order: DESC}
-      ) {
-        edges {
-          node {
-            fileAbsolutePath
-            frontmatter {
-              slug
-              title
-              publishDate(formatString: "MMMM DD, YYYY")
-            }
-          }
-        }
-      }
-      blog: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/content\/news\/blog/"}},
-        sort: {fields: frontmatter___publishDate, order: DESC}
-      ) {
-        edges {
-          node {
-            fileAbsolutePath
-            frontmatter {
-              slug
-              title
-              publishDate(formatString: "MMMM DD, YYYY")
-            }
-          }
-        }
-      }
-      events: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/content\/events/"}},
-        sort: {fields: frontmatter___dates___start, order: ASC}
-      ) {
-        edges {
-          node {
-            fileAbsolutePath
-            frontmatter {
-              slug
-              title
-            }
-          }
-        }
-      }
-    }
-  `).then(result => {
+  return await graphql(createPagesQuery).then(result => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
     
-    /**
-     * Create person pages
-     */
-
+    // Create person pages
     const people = result.data.people.edges
     console.log(`\nCreating staff pages...`)
-    people.forEach(({ node }) => {
-      const path = `/people/${ node.id }`
-      console.log(` - ${ node.name.first } ${ node.name.last } (${ path })`)
+    const createPersonPage = ({ node }) => {
+      console.log(` - ${ node.name.first } ${ node.name.last } (${ node.fields.path })`)
       createPage({
         id: node.id,
-        path: path,
+        path: node.fields.path,
         component: personTemplate,
         context: { // additional data passed via context
           id: node.id,
         },
       })
-    })
+    }
+    people.forEach(createPersonPage)
 
-    /**
-     * Create group pages
-     */
-
+    // Create group pages
     const groups = result.data.groups.edges
     console.log(`\nCreating group pages...`)
-    groups.forEach(({ node }) => {
-      const path = `/research/${ node.id }`
-      console.log(` - ${ node.name } (${ path })`)
+    const createGroupPage = ({ node }) => {
+      console.log(` - ${ node.name } (${ node.fields.path })`)
       createPage({
         id: node.id,
-        path: path,
+        path: node.fields.path,
         component: groupTemplate,
         context: { // additional data passed via context
           id: node.id,
         },
       })
-    })
+    }
+    groups.forEach(createGroupPage)
 
-    /**
-     * Create project pages
-     */
-
+    // Create project pages
     const projects = result.data.projects.edges
     console.log(`\nCreating project pages...`)
-    projects.forEach(({ node }) => {
-      const path = `/projects/${ node.id }`
-      console.log(` - ${ node.name } (${ path })`)
+    const createProejctPage = ({ node }) => {
+      console.log(` - ${ node.name } (${ node.fields.path })`)
       createPage({
         id: node.id,
-        path: path,
+        path: node.fields.path,
         component: projectTemplate,
         context: { // additional data passed via context
           id: node.id,
         },
       })
-    })
+    }
+    projects.forEach(createProejctPage)
 
-    /**
-     * Create team pages
-     */
-
+    // Create team pages
     const teams = result.data.teams.edges
     console.log(`\nCreating team pages...`)
-    teams.forEach(({ node }) => {
-      const path = `/teams/${ node.id }`
-      console.log(` - ${ node.name } (${ path })`)
+    const createTeamPage = ({ node }) => {
+      console.log(` - ${ node.name } (${ node.fields.path })`)
       createPage({
         id: node.id,
-        path: path,
+        path: node.fields.path,
         component: teamTemplate,
         context: { // additional data passed via context
           id: node.id,
         },
       })
-    })
+    }
+    teams.forEach(createTeamPage)
 
-    /**
-     * Create collaboration pages
-     */
-
+    // Create collaboration pages
     const collaborations = result.data.collaborations.edges
     console.log(`\nCreating collaboration pages...`)
-    collaborations.forEach(({ node }) => {
-      const path = `/research/${ node.id }`
-      console.log(` - ${ node.name } (${ path })`)
+    const createCollaborationPage = ({ node }) => {
+      console.log(` - ${ node.name } (${ node.fields.path })`)
       createPage({
         id: node.id,
-        path: path,
+        path: node.fields.path,
         component: collaborationTemplate,
         context: { // additional data passed via context
           id: node.id,
         },
       })
-    })
+    }
+    collaborations.forEach(createCollaborationPage)
 
-    /**
-     * Create news article pages
-     */
-
+    // Create news article pages
     const newsArticles = result.data.news.edges
     console.log(`\nCreating news pages...`)
-    newsArticles.forEach(({ node }, index) => {
+    const createNewsArticlePage = ({ node }, index) => {
       const matches = node.fileAbsolutePath.match(/content\/news\/features\/(\d{4}\/\d{2})\/.+\/index.md$/)
       if (matches) {
         const [, yyyydd] = matches
@@ -433,15 +323,13 @@ exports.createPages = ({ actions, graphql }) => {
           },
         })
       }
-    })
+    }
+    newsArticles.forEach(createNewsArticlePage)
 
-    /**
-     * Create blog article pages
-     */
-
+    // Create blog article pages
     const blogArticles = result.data.blog.edges
     console.log(`\nCreating blog pages...`)
-    blogArticles.forEach(({ node }, index) => {
+    const createBlogArticlePage = ({ node }, index) => {
       const matches = node.fileAbsolutePath.match(/content\/news\/blog\/(\d{4}\/\d{2})\/.+\/index.md$/)
       if (matches) {
         const [, yyyydd] = matches
@@ -457,15 +345,13 @@ exports.createPages = ({ actions, graphql }) => {
           },
         })
       }
-    })
+    }
+    blogArticles.forEach(createBlogArticlePage)
 
-    /**
-     * Create event pages
-     */
-
+    // Create event pages
     const events = result.data.events.edges
     console.log(`\nCreating event pages...`)
-    events.forEach(({ node }, index) => {
+    const createEventPage = ({ node }, index) => {
       const matches = node.fileAbsolutePath.match(/content\/events\/(\d{4}\/\d{2})\/.+.md$/)
       if (matches) {
         const [, yyyydd] = matches
@@ -481,12 +367,10 @@ exports.createPages = ({ actions, graphql }) => {
           },
         })
       }
-    })
+    }
+    events.forEach(createEventPage)
 
-    /**
-     * Create events pages
-     */
-
+    // Create events pages
     console.log(`\nCreating events list pages...`)
 
     console.log(` - Future events (/events)`)

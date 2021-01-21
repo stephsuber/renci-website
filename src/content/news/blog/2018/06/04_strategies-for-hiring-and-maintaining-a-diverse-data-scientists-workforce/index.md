@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null,null]
+    - 
 ---
 <div id="attachment_17533" class="wp-caption aligncenter" style="width: 640px"><img class="size-large wp-image-17533" src="http:\/\/renci.org\/wp-content\/uploads\/2018\/06\/IMG_1356-1024x539.jpg" alt="" width="640" height="337" srcset="https:\/\/renci.org\/wp-content\/uploads\/2018\/06\/IMG_1356-1024x539.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2018\/06\/IMG_1356-300x158.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2018\/06\/IMG_1356-768x404.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2018\/06\/IMG_1356-640x337.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" \/><\/p>
 <p class="wp-caption-text">RTI\u2019s Kristina Brunelle (left) moderates a panel discussion with Amy Roussel, RTI (center); Gracie Johnson-Lopez, Diversity and HR Solutions (right); and Sackeena Gordon-Jones, Transformation Edge and NC State University (on screen).<\/p>

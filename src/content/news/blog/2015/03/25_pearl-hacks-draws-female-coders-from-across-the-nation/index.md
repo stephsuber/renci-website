@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>\u201cEvery single one of you are makers.\u201d<\/p>
 <p>These words from Dona Sarkar kicked off UNC Chapel Hill\u2019s recent <a href="http:\/\/pearlhacks.com\/" target="_blank">Pearl Hacks<\/a> event. Sarkar is an engineer manager at Microsoft, author, and fashion designer, and this past weekend she was in Chapel Hill inspiring an audience of over 600 high school and college-age women gathered to create through hacking.<\/p>

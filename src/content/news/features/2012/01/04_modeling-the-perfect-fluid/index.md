@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>[vimeo 34305533]<br />
  <em>This visualization starts with particles from a nuclear collision that are compressed and heated up to create a Quark-Gluon-Plasma (QGP), which looks like a "blob" in the video. Once the QGP expands and cools down, it decays again into particles that can be measured by the research team’s experiments. This is a so-called "hybrid' model, that basically uses the Ultrarelativistic Quantum Molecular Dynamics model (UrQMD), a microscopic model used to simulate (ultra)relativistic heavy ion collisons, to model very early and late reaction stages in the process. The model has been combined with a relativistic fluid dynamics calculation to depict the formation and evolution of a Quark-Gluon-Plasma. </em></p>

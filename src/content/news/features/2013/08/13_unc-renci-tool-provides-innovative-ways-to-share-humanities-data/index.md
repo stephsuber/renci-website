@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_12067" align="alignleft" width="640"]<a href="http://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg"><img class="size-large wp-image-12067" alt="dh-press-lwm1" src="http://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg" width="640" height="399" /></a> Screen shot of the DH Press project "Mapping the Long Women's Movement." Each dot represents a short audio clip; the color of the dots show what the clip is about and their placement on the map indicate where the event occurred.[/caption]
 

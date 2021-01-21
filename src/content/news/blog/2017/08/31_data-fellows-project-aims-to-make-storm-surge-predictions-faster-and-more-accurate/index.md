@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><strong>By Nelson Tull<\/strong><\/p>
 <p><strong><em>Note:<\/em><\/strong><em>\u00a0Nelson Tull is a graduate student in the\u00a0<\/em><a href="https:\/\/www.ccee.ncsu.edu\/" target="_blank" rel="noopener"><em>Department of Civil, Construction, and Environmental Engineering<\/em><\/a><em>\u00a0at North Carolina State University. His faculty advisor,\u00a0<\/em><a href="https:\/\/ccht.ccee.ncsu.edu\/" target="_blank" rel="noopener"><em>Casey Dietrich<\/em><\/a><em>, is an NCDS Data Fellow conducting research to improve hurricane and storm surge guidance to emergency managers in North Carolina\u2019s coastal counties. Dietrich\u2019s Data Fellows research builds on previous work supported by the <\/em><a href="https:\/\/ncseagrant.ncsu.edu\/" target="_blank" rel="noopener"><em>North Carolina Sea Grant<\/em><\/a><em> program. Other collaborators are Rick Luettich, head of the <\/em><a href="http:\/\/ims.unc.edu\/" target="_blank" rel="noopener"><em>Institute of Marine Sciences<\/em><\/a><em> at UNC-Chapel Hill, Brian Blanton, a senior research scientist and oceanographer at <\/em><a href="http:\/\/www.renci.org\/" target="_blank" rel="noopener"><em>RENCI<\/em><\/a><em>, and Jason Fleming of <\/em><a href="https:\/\/www.seahorsecoastal.com\/"><em>Seahorse Coastal Consulting<\/em><\/a><em>. To learn more about this research, tune into the September 2017 NCDS <\/em><a href="http:\/\/datascienceconsortium.org\/databytes-webinars\/" target="_blank" rel="noopener"><em>DataBytes webinar<\/em><\/a><em>.<\/em><\/p>

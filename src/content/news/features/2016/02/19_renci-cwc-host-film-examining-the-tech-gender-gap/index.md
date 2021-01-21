@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 The scarcity of female and minority computer scientists and software engineers is a well-documented gender, racial, and economic issue. Already, there are more tech jobs than computer science graduates to fill them, and a 2014 White House report predicts that by 2020, more than 1 million software engineering jobs will go unfilled. Yet, the number of women earning computer science degrees dropped by 10 percent in the first decade of the 21<sup>st</sup> century, according to the National Science Foundation.
 

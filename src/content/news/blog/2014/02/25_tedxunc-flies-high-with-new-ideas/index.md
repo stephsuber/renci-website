@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_13123" class="wp-caption alignleft" style="width: 280px"><a href="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/02\/ted_x_unc_Folt.jpg"  rel="lightbox[roadtrip]"><img class="size-full wp-image-13123 " alt="Chancellor Carol L. Folt talks with a student during a TEDxUNC breakout session. (Courtesy of Connelly Crowe, TEDxUNC.)" src="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/02\/ted_x_unc_Folt.jpg" width="280" height="230" \/><\/a><\/p>
 <p class="wp-caption-text">Chancellor Carol L. Folt talks with a student during a TEDxUNC breakout session. (Courtesy of Connelly Crowe, TEDxUNC.)<\/p>

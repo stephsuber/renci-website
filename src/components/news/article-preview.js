@@ -1,23 +1,17 @@
 import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import styled, { useTheme } from 'styled-components'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import { Subheading } from '../typography'
 import { Container as Grid, Row, Col, Visible } from 'react-grid-system'
 import { ArrowLink } from '../link'
+import { Tag, Label } from './tag'
+import { NewsDate } from './news-date'
 
 const Wrapper = styled.article`
   margin: 0 -1rem;
 `
 
-const ArticleDate = styled.h2`
-  font-size: 95%;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin: 0;
-  line-height: 2.35;
-  font-size: 12px;
-`
 
 const ArticleTitle = styled(Subheading)(({ theme }) => `
   color: ${ theme.color.darkgrey };
@@ -26,18 +20,13 @@ const ArticleTitle = styled(Subheading)(({ theme }) => `
   font-size: 24px;
 `)
 
-const ArticleType = styled.span(({ theme }) => `
-  margin: 0 ${ theme.spacing.small };
-  padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
-  border-radius: ${ theme.border.radius };
-  text-decoration: none !important;
-  transition: background-color 250ms;
-  background-color: ${ theme.color.grey };
-  color: ${ theme.color.white };
-  font-size: 75%;
-`)
-
-const TitleContainer = styled.div``
+const TitleContainer = styled.div`
+  & .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+`
 
 const BodyContainer = styled.div`
   max-height: 150px;
@@ -52,10 +41,12 @@ const BodyContainer = styled.div`
     right: 0;
     height: 3rem;
     max-height: 3rem;
+    pointer-events: none;
   }
 `
 
 export const ArticlePreview = ({ article, path, compact = false }) => {
+  const theme = useTheme()
   const hasFeaturedImage = (article.frontmatter.featuredImage !== null) && (compact === false)
   return (
     <Wrapper>
@@ -87,15 +78,13 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
           }
           <Col xs={ 12 } md={ hasFeaturedImage ? 8 : 12 } lg={ hasFeaturedImage ? 9 : 12 }>
             <TitleContainer>
-              <ArticleDate>
-                { article.frontmatter.publishDate }
-                <ArticleType>{ article.fields.newsType }</ArticleType>
-              </ArticleDate>
-              <ArticleTitle><Link to={ path }>{ article.frontmatter.title }</Link> </ArticleTitle>
+              <div className="row">
+                <NewsDate>{ article.frontmatter.publishDate }</NewsDate>
+                <Label className="label">{ article.fields.newsType }</Label>
+              </div>
+              <Subheading className="title"><Link to={ path }>{ article.frontmatter.title }</Link></Subheading>
             </TitleContainer>
-            <BodyContainer>
-              <div dangerouslySetInnerHTML={{ __html: article.excerpt }} />
-            </BodyContainer>
+            <BodyContainer dangerouslySetInnerHTML={{ __html: article.excerpt }} />
             <ArrowLink to={ path } text="Continue Reading" float="right" />
           </Col>
         </Row>

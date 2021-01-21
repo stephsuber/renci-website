@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_8604" align="alignnone" width="600"]<img class="wp-image-8604 size-full" title="prostate-research-graphic" src="http://www.renci.org/wp-content/uploads/2011/08/prostate-research-graphic-630x372.jpg" alt="" width="600" height="430" /> Screenshot of the prostate cancer treatment planning tool developed by researchers at Duke University Medical Center and RENCI[/caption]
 

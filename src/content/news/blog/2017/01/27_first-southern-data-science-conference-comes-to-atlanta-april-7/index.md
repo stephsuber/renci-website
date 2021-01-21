@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><em><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta.png"  rel="lightbox[roadtrip]"><img class="aligncenter size-news-large wp-image-15897" src="http:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta-640x192.png" alt="" width="640" height="192" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta-640x192.png 640w, https:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta-300x90.png 300w, https:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta-768x231.png 768w, https:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta.png 942w" sizes="(max-width: 640px) 100vw, 640px" \/><\/a><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/01\/Atlanta.png"  rel="lightbox[roadtrip]"><br \/>
 <\/a>Register now at <a href="http:\/\/www.southerndatascience.com">www.southerndatascience.com<\/a><\/em><\/p>

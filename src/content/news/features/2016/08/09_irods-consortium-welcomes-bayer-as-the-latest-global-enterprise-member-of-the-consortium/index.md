@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <a href="http://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg"><img class="alignright wp-image-15532" src="http://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg" alt="bayer_logo2" width="175" height="171" /></a>CHAPEL HILL, NC - The iRODS Consortium welcomes Bayer, a global life science company with core competencies in the fields of health care and agriculture, as the latest consortium member.<!--more-->
 

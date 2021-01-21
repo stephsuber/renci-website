@@ -18,7 +18,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC - Every spring, the UNC-Chapel Hill community showcases its most promising and innovative early-stage startups at an event called the <a href="http://innovate.unc.edu/event/unc-innovation-showcase-2/#.VSgj-RPF_LG" target="_blank">UNC Innovation Showcase</a>. The event illustrates how university research can lead to innovative products that benefit consumers, healthcare professionals, and many business sectors.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null,null]
+    - 
 ---
 <p><em>Note: RENCI has a successful track record in launching and sustaining consortia, including the\u00a0<a href="http:\/\/www.irods.org\/">iRODS Consortium<\/a>\u00a0and the <a href="http:\/\/www.datascienceconsortium.org\/">National Consortium for Data Science<\/a>. Now, a team of multidisciplinary, multi-institutional scientists has collected evidence\u00a0showing consortia work as mechanisms that facilitate open science and data sharing. To read the full Nature article about the about their findings, click\u00a0<a href="http:\/\/www.nature.com\/news\/five-ways-consortia-can-catalyse-open-science-1.21706">here<\/a><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/04\/collaboration.png"  rel="lightbox[roadtrip]">.<\/a><\/em><\/p>
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/04\/collaboration-image.jpg"  rel="lightbox[roadtrip]"><img class="aligncenter size-full wp-image-16314" src="http:\/\/renci.org\/wp-content\/uploads\/2017\/04\/collaboration-image.jpg" alt="" width="500" height="370" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/04\/collaboration-image.jpg 500w, https:\/\/renci.org\/wp-content\/uploads\/2017\/04\/collaboration-image-300x222.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" \/><\/a><\/p>

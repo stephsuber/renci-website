@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Chapel Hill, NC, February 18, 2014 – The iRODS Consortium today announced the Wellcome Trust Sanger Institute, a leading institution in the Human Genome Project now focused on understanding the role of genetics in health and disease, as its newest member. The Sanger Institute is located in Hinxton, UK, near Cambridge.  <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["team science"]
+    - team science
 ---
 <!-- wp:paragraph -->
 <p><strong><em>Prototype ‘Translator’ system shows promise and has garnered much enthusiasm roughly one year into feasibility assessment</em></strong></p>

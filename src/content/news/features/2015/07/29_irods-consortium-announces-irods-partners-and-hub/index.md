@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC - The iRODS Consortium has launched two new services to support the continued growth of its strong, dynamic user and developer communities.
 

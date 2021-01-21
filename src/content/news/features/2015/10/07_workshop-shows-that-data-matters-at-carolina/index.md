@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 When you put more than 50 faculty members, center directors, and researchers from 30 different campus units in a room, ideas are inevitable. However, all the attendees at the <a href="https://data.web.unc.edu/" target="_blank">Data@Carolina Workshop</a> last week agreed on one point: The explosion of data presents educational and research opportunities across the Carolina community, and Carolina must take a strategic approach to capitalize on these opportunities.
 

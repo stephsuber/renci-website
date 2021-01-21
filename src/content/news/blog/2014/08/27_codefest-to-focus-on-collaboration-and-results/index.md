@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Here\u2019s a concept: a conference where people get real work done.<\/p>
 <p>I\u2019m not attempting to be snarky or to criticize the many worthwhile conferences offered to professionals every year; I\u2019m simply paraphrasing a statement on the <a href="http:\/\/nceas.github.io\/open-science-codefest\/">Open Science Codefest<\/a> website. OSCodefest will bring together scientists and programmers involved in developing scientific software who think their work could benefit from collaboration with other researchers, software engineers and developers.<!--more--><\/p>

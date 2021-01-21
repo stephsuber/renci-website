@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 
 <p>Stan Ahalt, Director, and Sarah Davis, Research Project Manager, attended the Science in the Courtroom Seminar for Resource Judges, held August 29-31, 2018, at the <a href="http:\/\/www.cafc.uscourts.gov\/" target="_blank" rel="noopener noreferrer">U.S. Court of Appeals for the Federal Circuit<\/a> in Washington, DC. The seminar \u2013 organized by Franklin Zweig, Esq., of the <a href="https:\/\/www.courtsandsciences.org\/" target="_blank" rel="noopener noreferrer">National Courts and Sciences Institute<\/a> and Dr. James Evans of the <a href="http:\/\/www.med.unc.edu\/genetics" target="_blank" rel="noopener noreferrer">UNC Department of Genetics<\/a> and Bryson Center for Judicial Science Education \u2013 is part of an ongoing science training program for state and federal judges from around the country, educating the judges to become resources on scientific issues for judges in their jurisdictions. <\/p>

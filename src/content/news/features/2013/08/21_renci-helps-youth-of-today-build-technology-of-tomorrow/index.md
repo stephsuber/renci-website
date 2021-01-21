@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/wp-content/uploads/2013/08/9460879746_83a366f2e9_z.jpg"><img class="alignright size-medium wp-image-11868" src="http://www.renci.org/wp-content/uploads/2013/08/9460879746_83a366f2e9_z-199x300.jpg" alt="9460879746_83a366f2e9_z" width="199" height="300" /></a>Fuel emissions from motors in cars, motorcycles, even lawnmowers and chainsaws, are one of the greatest contributors to climate change. Using the technology and expert assistance of UNC’s Renaissance Computing Institute (RENCI), a research institution that develops advanced technologies to enable research and innovation, Rishi Rajagopalan, is trying to tackle this environmental problem.
 

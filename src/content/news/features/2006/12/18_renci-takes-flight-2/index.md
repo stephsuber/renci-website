@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 On a bright December morning, something was afoot in the skies over Franklinton, North Carolina. Not a plane, and certainly not a caped superhero, it was RENCI’s Autonomous <a>Unmanned Aerial Vehicle (UAV)</a> on its maiden voyage. And while not as dramatic as Wilbur and Orville’s first flight more than 100 years ago, it was nonetheless a milestone reached in the Institute’s disaster management and response research. <!--more-->
 

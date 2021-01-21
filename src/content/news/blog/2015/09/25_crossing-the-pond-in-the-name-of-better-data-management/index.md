@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_15051" class="wp-caption alignright" style="width: 256px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2.jpg"  rel="lightbox[roadtrip]"><img class="size-medium wp-image-15051" src="http:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2-256x300.jpg" alt="iRODS Chief Technologist Jason Coposky offers guidance to iRODS users at the University of Utrecht." width="256" height="300" srcset="https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2-256x300.jpg 256w, https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2-873x1024.jpg 873w, https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2-640x751.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/Jason2.jpg 1334w" sizes="(max-width: 256px) 100vw, 256px" \/><\/a><\/p>
 <p class="wp-caption-text">iRODS Chief Technologist Jason Coposky offers guidance to iRODS users at the University of Utrecht.<\/p>

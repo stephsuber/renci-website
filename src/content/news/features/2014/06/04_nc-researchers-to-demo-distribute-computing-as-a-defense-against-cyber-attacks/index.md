@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignleft size-full wp-image-13381" src="http://www.renci.org/wp-content/uploads/2014/06/logo.png" alt="logo" width="316" height="99" />A nationwide team that includes researchers from the Renaissance Computing Institute at UNC Chapel Hill (RENCI) and North Carolina State University will demonstrate how innovative cyber-physical systems can be used to prevent cyber attacks on power grids as part of the <a href="http://smartamerica.org/expo/" target="_blank">SmartAmerica Challenge</a> and Expo, June 11 in Washington, D.C.  <!--more-->
 

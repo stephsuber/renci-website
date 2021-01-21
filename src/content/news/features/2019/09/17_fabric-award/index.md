@@ -17,7 +17,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["networking", "testbed"]
+    - networking
+    - testbed
 ---
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><em>Collaboration will establish a nationwide network infrastructure</em></p>

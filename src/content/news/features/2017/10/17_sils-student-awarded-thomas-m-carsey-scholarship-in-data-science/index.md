@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Xueli Fan, a graduate student in the <a href="https://sils.unc.edu/">School of Information and Library Science</a> (SILS) at UNC-Chapel Hill, was recently named 2017-2018 recipient of the Thomas M. Carsey Scholarship in Data Science.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Need your data to remain useful and discoverable over its entire lifespan? Metadata is the key.<\/p>
 <p><img class="alignright wp-image-14804" src="http:\/\/renci.org\/wp-content\/uploads\/2015\/05\/metadata-love.jpg" alt="metadata-love" width="225" height="222" \/>Metadata\u2014or data about data\u2014and its importance in life sciences research will be the discussion topic at an upcoming webinar featuring RENCI\u2019s Dan Bedard, Interim Executive Director of the <a href="http:\/\/irods.org">iRODS Consortium<\/a>, Stephen Worth, director of Global New Business Development Operations at <a href="http:\/\/www.emc.com\/index.htm?fromGlobalSelector">EMC<\/a>, and Patrick Combes, Principal Life Sciences Solutions Architect in EMC\u2019s Emerging Technologies Division.<\/p>

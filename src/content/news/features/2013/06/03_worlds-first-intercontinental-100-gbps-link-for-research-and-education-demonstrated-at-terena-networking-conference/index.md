@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/news/releases/intercontinental-100-gbps-link-for-research-and-education/attachment/100-gbps-link" rel="attachment wp-att-10209"><img class="size-large wp-image-12067 alignleft" title="100-gbps-link" src="http://www.renci.org/wp-content/uploads/2013/10/100-gbps-link.jpg" alt="" width="640" height="422" /></a>
 

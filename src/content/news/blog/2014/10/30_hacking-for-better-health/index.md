@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Hacking is not just what computer science students do when they\u2019ve had too much strong coffee.<\/p>
 <p>In 2014, hackathons bring together smart people from a variety of backgrounds for intense, technical problem-solving sessions that often last several days. They are a mainstream method for harnessing brainpower to generate new ideas, business models, products, and technical solutions.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null]
+    - 
 ---
 <div id="attachment_17445" class="wp-caption aligncenter" style="width: 600px"><img class="wp-image-17445 size-full" src="http:\/\/renci.org\/wp-content\/uploads\/2018\/03\/ENIAC.jpg" alt="" width="600" height="411" srcset="https:\/\/renci.org\/wp-content\/uploads\/2018\/03\/ENIAC.jpg 600w, https:\/\/renci.org\/wp-content\/uploads\/2018\/03\/ENIAC-300x206.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" \/><\/p>
 <p class="wp-caption-text">Jean Jennings Bartik (left), and Frances Bilas Smith in 1946 with ENIAC, the world&#8217;s first all-electonic computer. Photo credit: Computer History Museum<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC—The Renaissance Computing Institute (RENCI) will open its doors to the public on Friday, March 2, for an open house that will showcase a wide range of technologies and projects related to disaster research, bioinformatics, public health, high performance computing and high resolution visualization.<!--more-->
 

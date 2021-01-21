@@ -45,13 +45,15 @@ export const NewsFilterForm = () => {
   const { filters, filterChange } = useNewsContext()
   const groups = useGroups()
   const collaborations = useCollaborations()
-  const [groupsAndCollaborations, ] = useState(groups.concat(collaborations))
+  const [groupsAndCollaborations, ] = useState([...groups, ...collaborations])
   const projects = useProjects()
   const [groupOptions, setGroupOptions] = useState([])
   const [projectOptions, setProjectOptions] = useState([])
   const [, { text, select }] = useFormState()
 
   useEffect(() => {
+    // when filters, groups, or collaborations change
+    // update the corresponding project options for the selected group
     setGroupOptions(groups.concat(collaborations).map(group => ({ value: group.id, label: group.name })))
     setProjectOptions(projects.map(project => ({ value: project.id, label: project.name })))
   }, [])
@@ -67,7 +69,7 @@ export const NewsFilterForm = () => {
       <Selects>
         <Select
           { ...select('group') }
-          options={ [{ value: '', label: `Select Group/Collaboration` }].concat(groupOptions) }
+          options={ [{ value: '', label: `Select Group` }].concat(groupOptions) }
           onChange={ filterChange('group') }
           value={ filters.group }
         />

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><em>New funding for DHS Center of Excellence means continued collaboration with RENCI on coastal issues<\/em><\/p>
 <p>The U.S. Department of Homeland Security (DHS) recently announced it will provide $20\u00a0million over five years to fund the Coastal Resilience Center of Excellence (COE) at UNC-Chapel Hill. That\u2019s a good thing for people in coastal areas who each year must cope with hurricanes, erosion, flooding, and storm surge.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC, December 8, 2014 - The National Consortium for Data Science (NCDS), a public-private partnership to advance data science and address the challenges and opportunities of big data, today named three faculty members at three different universities as NCDS Data Fellows for the 2015 calendar year.
 

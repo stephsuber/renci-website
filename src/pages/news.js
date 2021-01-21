@@ -58,14 +58,16 @@ const NewsPage = () => {
   }, [windowWidth])
 
   useEffect(() => {
+    console.log(filters)
     let newArticles = [...articles]
-    if (filters.group || filters.project) {
-      if (filters.group) {
-        newArticles = newArticles.filter(article => article.frontmatter.groups.map(g => g.id).includes(filters.group))
-      }
-      if (filters.project) {
-        newArticles = newArticles.filter(article => article.frontmatter.projects.map(p => p.id).includes(filters.project))
-      }
+    if (filters.group) {
+      newArticles = newArticles.filter(article => 
+        (article.frontmatter.groups && article.frontmatter.groups.findIndex(g => g.id === filters.group) > -1) ||
+        (article.frontmatter.collaborations && article.frontmatter.collaborations.findIndex(c => c.id === filters.group) > -1)
+      )
+    }
+    if (filters.project) {
+      newArticles = newArticles.filter(article => article.frontmatter.projects && article.frontmatter.projects.map(p => p.id).includes(filters.project))
     }
     setFilteredArticles(newArticles)
   }, [page, filters])
@@ -96,7 +98,7 @@ const NewsPage = () => {
 
         <NewsFilterForm />
         
-        <Section fullWidth>
+        <Section title={ `${ filteredArticles.length } News Item${ filteredArticles.length === 1 ? '' : 's' }` }>
           {
             news.map((article, i) => (
               <Fragment key={ article.id }>

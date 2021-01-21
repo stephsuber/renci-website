@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null]
+    - 
 ---
 <p>\u201cWe are creating every 10 minutes what we were creating every 2,000 years, and that\u2019s the problem.\u201d<\/p>
 <p>This statement, by panelist Arcot Rajasekar, succinctly sums up one of the many challenges stemming from the modern big data environment discussed at \u201cA Citizen\u2019s Guide to Big Data.\u201d<!--more--><\/p>

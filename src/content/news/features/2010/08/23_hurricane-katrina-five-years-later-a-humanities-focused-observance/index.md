@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_6104" align="aligncenter" width="630"]<a href="http://www.renci.org/wp-content/uploads/2010/08/Neighborhoods-Sunrise-9th-Ward1.jpg"><img class="wp-image-6104 size-large" title="Neighborhoods-Sunrise-9th-Ward" src="http://www.renci.org/wp-content/uploads/2010/08/Neighborhoods-Sunrise-9th-Ward1-630x422.jpg" alt="" width="630" height="422" /></a> Hurricane Katrina aftermath at sunrise. Photo by Donn Young.[/caption]
 

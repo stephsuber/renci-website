@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>A group of undergraduate Winston-Salem State University (WSSU) students majoring in math recently visited Chapel Hill for an educational tour of RENCI and to make connections with peers and educators in the UNC-Chapel Hill math department.<\/p>
 <p>John Hutchens and Felicia Griffin, assistant professors in the mathematics department at WSSU, arranged the visit as part of a series for their students to highlight the types of jobs available to math and computer science graduates.<!--more--><\/p>

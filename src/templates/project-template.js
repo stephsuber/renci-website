@@ -147,6 +147,7 @@ export const projectQuery = graphql`
         id
         fields {
           path
+          newsType
         }
         frontmatter {
           title

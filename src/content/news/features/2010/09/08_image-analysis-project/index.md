@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><img class="alignnone size-full wp-image-6229" title="melanoma-story-image" src="http://www.renci.org/wp-content/uploads/2010/09/melanoma-story-image.jpg" alt="" width="630" height="315" /></p>
 

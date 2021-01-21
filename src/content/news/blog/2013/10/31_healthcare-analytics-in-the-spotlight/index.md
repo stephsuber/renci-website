@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI Senior Research Scientist Ketan Mane has been busy presenting on a topic that he understands well: How to help clinicians use patient data to improve their diagnosis and treatment decisions with easy-to-use, Web-based analytics.<\/p>
 <p>Mane was part of a panel who presented at a Big Data and Healthcare webinar sponsored by the Minnesota High Tech Association (MHTA) on Oct. 23, where he talked about breakthroughs in health informatics and data visualization. He also had a paper accepted for presentation at the Workshop in Visual Analytics for Healthcare, which will be held in conjunction with the American Medical Informatics Association (AMIA) meeting on Nov. 16 in Washington, DC.<\/p>

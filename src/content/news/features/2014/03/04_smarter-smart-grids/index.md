@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC - Yufeng Xin, a senior researcher in RENCI’s networking research group, continues to work with Aranya Chakrabortty, assistant professor of electrical and computer engineering at NC State University, and researchers at the University of Illinois in Urbana-Champaign on a project to develop new algorithms for controlling and monitoring large distributed power systems.  <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI&#8217;s Clark Jeffries recently presented a webinar for Orion Bionetworks called &#8220;Seeking Best Practices in Classifier Construction and Testing.&#8221;<\/p>
 <p>Jeffries is a PhD-level bioinformatics specialist with an interest in interpreting neuroscientific information to better understand and treat psychiatric and neurological conditions. For years he has worked with researchers in the School of Medicine at UNC-Chapel Hill to analyze\u00a0data and better understand debilitating diseases like schizophrenia.\u00a0<!--more--><\/p>

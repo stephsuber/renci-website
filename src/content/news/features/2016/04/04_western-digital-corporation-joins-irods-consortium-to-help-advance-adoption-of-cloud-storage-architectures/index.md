@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <em>WDC to provide targeted technology enhancements to expand data movement options for life science and other data intensive workflows</em>
 

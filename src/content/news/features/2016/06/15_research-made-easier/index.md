@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <em>The CyVerse discovery environment handles the technology of collaborative research so researchers can focus on the science. </em>
 

@@ -16,7 +16,9 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source", "training"]
+    - data-management
+    - open source
+    - training
 ---
 Users of the integrated Rule Oriented Data System (iRODS) from around the globe will gather in Utrecht, The Netherlands to discuss iRODS-enabled applications and discoveries, technologies powered by iRODS, and the future of iRODS and the iRODS Consortium.
 

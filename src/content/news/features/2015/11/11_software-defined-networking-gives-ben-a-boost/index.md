@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["networking"]
+    - networking
 ---
 <em><a href="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final.jpg"><img class="alignright size-medium wp-image-15190" src="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg" alt="BEN Logo 9 final" width="300" height="157" /></a>Breakable Experimental Network (BEN) is now faster and SDN-enabled</em>
 

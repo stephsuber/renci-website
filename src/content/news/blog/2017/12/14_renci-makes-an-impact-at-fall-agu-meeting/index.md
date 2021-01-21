@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null,null]
+    - 
 ---
 <div id="attachment_17155" class="wp-caption aligncenter" style="width: 640px"><img class="size-large wp-image-17155" src="http:\/\/renci.org\/wp-content\/uploads\/2017\/12\/20171212_142716-1024x768.jpg" alt="" width="640" height="480" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/12\/20171212_142716-1024x768.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2017\/12\/20171212_142716-300x225.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2017\/12\/20171212_142716-768x576.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2017\/12\/20171212_142716-640x480.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" \/><\/p>
 <p class="wp-caption-text">Chris Lenhardt (left), and Howard Lander with their poster at the AGU fall meeting.<\/p>

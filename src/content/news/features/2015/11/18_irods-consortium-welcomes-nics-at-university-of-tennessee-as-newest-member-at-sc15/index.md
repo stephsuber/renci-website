@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <p class="p1"><span class="s1"><i>Consortium membership doubles since last Supercomputing Conference.</i></span></p>
 <p class="p1"><span class="s1">AUSTIN, Texas, Nov. 18, 2015 - The <a href="https://www.nics.tennessee.edu/" target="_blank"><span class="s2">National Institute of Computational Sciences</span></a> (NICS) at the University of Tennessee today became the 13</span><span class="s3"><sup>th</sup></span><span class="s1"> member of the iRODS Consortium, the membership-based foundation organized to sustain the integrated Rule-Oriented Data System (<a href="x-webdoc://477066E8-AF68-4460-9119-C05A685E0ED2/irods.org"><span class="s2">iRODS</span></a>) as free open source data management software.</span></p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_15538" class="wp-caption alignright" style="width: 289px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP.jpg"  rel="lightbox[roadtrip]"><img class="wp-image-15538 " src="http:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP-300x214.jpg" alt="ESIP" width="289" height="206" srcset="https:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP-300x214.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP-768x548.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP-640x457.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2016\/08\/ESIP.jpg 1014w" sizes="(max-width: 289px) 100vw, 289px" \/><\/a><\/p>
 <p class="wp-caption-text">ESIP meeting participants discuss the challenges of a Data Commons at their recent summer meeting in Durham, NC.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div id="attachment_13141" class="wp-caption alignleft" style="width: 300px"><a href="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/02\/Jim-Evans.jpeg"  rel="lightbox[roadtrip]"><img class="size-medium wp-image-13141   " src="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/02\/Jim-Evans-300x198.jpeg" alt="Jim Evans" width="300" height="198" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/02\/Jim-Evans-300x198.jpeg 300w, https:\/\/renci.org\/wp-content\/uploads\/2014\/02\/Jim-Evans.jpeg 400w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>
 <p class="wp-caption-text">Jim Evans of the UNC School of Medicine leads the NCGENES research team.<\/p>

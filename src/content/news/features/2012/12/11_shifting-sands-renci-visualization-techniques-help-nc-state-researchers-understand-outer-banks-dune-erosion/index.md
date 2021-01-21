@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="size-large wp-image-12067 alignleft" title="OI-HI-mean-elevations-pic" src="http://www.renci.org/wp-content/uploads/2013/10/OI-HI-mean-elevations-pic-630x367.jpg" alt="" width="640" height="373" />
 It takes no more than watching the news to realize that homes and businesses along the U.S. East Coast face dangers from erosion, floods, and monster storms. Although North Carolina escaped most of the havoc caused by Hurricane Sandy, its Outer Banks constitute a vulnerable strip of land. The region’s fragile natural environments and popular tourist attractions are battered every year by tropical storms, nor’easters, and winds that erode beaches, shift sand dunes, degrade dune ridges, wash out roads, and sometimes threaten peoples’ lives and homes.<!--more-->

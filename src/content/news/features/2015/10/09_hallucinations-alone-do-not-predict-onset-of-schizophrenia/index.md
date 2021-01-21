@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <em>An analysis of psychological symptoms aims to refine diagnostic criteria for teens at high risk of developing the brain disorder that affects millions of people worldwide.</em>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC, and SANTA BARBARA, CA - Open Science for Synthesis is a unique bi-coastal training opportunity offered for early career scientists who want to learn new software and technology skills needed for open, collaborative, and reproducible synthesis research.
 

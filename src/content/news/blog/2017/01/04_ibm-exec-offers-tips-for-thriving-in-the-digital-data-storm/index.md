@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Cognitive thinking is the key to surviving and thriving in the perfect storm of modern technology, according to IBM\u2019s Mac Devine, who presented a National Consortium for Data Science (NCDS) DataBytes Webinar in December.<\/p>
 <p>Devine, vice president and CTO of emerging technology and advanced innovation, IBM Cloud Division, said that our interconnected world composed of big data, the Internet of Things and the cloud, has created a tidal wave of data that is too large to handle using traditional methods of managing information. Cognitive thinking, or using high-level technology to comb through large sets of data with a human mindset, is one strategy for coping with what he termed a \u201cperfect digital storm.\u201d<\/p>

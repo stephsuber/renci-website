@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignleft size-news-large wp-image-13845" src="http://renci.org/wp-content/uploads/2014/11/sc2014-banner-640x206.png" alt="sc2014-banner" width="640" height="206" />
 

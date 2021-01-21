@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="" align="alignnone" width="640"]<img src="https://farm8.staticflickr.com/7102/13743213204_4f75e94536_z.jpg" alt="" width="640" height="427" /> A full house for the NCDS Big Data Career Event[/caption]
 

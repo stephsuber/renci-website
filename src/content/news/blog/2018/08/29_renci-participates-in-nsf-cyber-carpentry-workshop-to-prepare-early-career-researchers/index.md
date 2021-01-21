@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null,null,null,null,null,null]
+    - 
 ---
 
 <figure class="wp-block-image"><img src="https:\/\/renci.org\/wp-content\/uploads\/2018\/08\/cyber-carpentry-01.jpg" alt="Teacher and students discuss an issue with their team project." class="wp-image-17743" srcset="https:\/\/renci.org\/wp-content\/uploads\/2018\/08\/cyber-carpentry-01.jpg 800w, https:\/\/renci.org\/wp-content\/uploads\/2018\/08\/cyber-carpentry-01-300x200.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2018\/08\/cyber-carpentry-01-768x512.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2018\/08\/cyber-carpentry-01-640x426.jpg 640w" sizes="(max-width: 800px) 100vw, 800px" \/><figcaption>From left: Andres Espindola-Camacho from Oklahoma State University, Jeremy Thorpe from Johns Hopkins University School of Medicine, Gaurav Kandoi from Iowa State University, and Yingru Xu from Duke University discuss an issue with their team project.<\/figcaption><\/figure>

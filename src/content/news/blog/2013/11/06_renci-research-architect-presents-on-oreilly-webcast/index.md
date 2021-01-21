@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI Senior Research Software Architect Michael Shoffner will be featured in a live O\u2019Reilly Media webinar tomorrow, Nov. 7, at 10 a.m. PST (1 p.m. EST). Shoffner, who is also an adjunct faculty member in the UNC School of Information and Library Science (SILS), will be speaking about \u201cTurning Bigger Data Into Better Healthcare: The direction clinical medicine is heading in the age of Big Data.\u201d Shoffner\u2019s talk will address one of the most important challenges facing the health care industry today: we now have more health-related data than ever before, but the technology to analyze this large influx of data is lacking.<\/p>
 <p>Not only must healthcare data technology scale to petabytes of clinical genomics data, but it must also weave together data management with cybersecurity, on-demand analysis, and data-driven decision support for health professionals. It must assist patients and healthcare providers with the technology logistics of managing complex data, as well as provide protection for healthcare institutions by mitigating liability arising from protected health information.<\/p>

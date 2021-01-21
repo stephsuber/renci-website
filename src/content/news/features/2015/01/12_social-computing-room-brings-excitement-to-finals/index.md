@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["students","visualization"]
+    - students
+    - visualization
 ---
 Typically, finals week brings to mind sleepless nights and groans of frustration as students slave away over last-minute projects and papers. This is not the case for students in <em>GEO 445: Medical Geography</em>, taught by Ashley R. Ward, PhD.
 

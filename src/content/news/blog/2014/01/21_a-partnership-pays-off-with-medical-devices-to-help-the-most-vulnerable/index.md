@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI is all about partnerships. Our software developers, engineers, data and computing specialists team with researchers to give them the technologies and cyberinfrastructure they need to continue important work and launch new projects.<\/p>
 <p>Such was the case with REALTROMINS, a medical device startup launched by a Keith Kocis, an MD in the department of pediatrics at UNC\u2019s School of Medicine, and his brother Daniel Kocis, Jr., PhD. REALTROMINS (which stands for REAL-Time Risk Of Mortality and INStability) set out to help the most vulnerable of medical patients: critically ill infants the pediatric intensive care unit and children\u2019s cardiac care unit at UNC Children\u2019s Hospital.<\/p>

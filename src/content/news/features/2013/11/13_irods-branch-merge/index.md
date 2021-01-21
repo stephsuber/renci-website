@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 DENVER, Nov. 13, 2013 – The Data Intensive Cyber Environments (DICE) Group at the University of North Carolina (UNC) at Chapel Hill and the University of California at San Diego (UCSD), and RENCI, (UNC-Chapel Hill’s Renaissance Computing Institute), announced today a plan to merge the two main branches of the iRODS (integrated Rule-Oriented Data System) data management platform into a single, sustainable and production-oriented product.  <!--more-->
 

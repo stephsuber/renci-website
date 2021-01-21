@@ -16,7 +16,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - []
+    - 
 ---
 Internet-enabled sensors and devices that network and communicate with each other – often called the Internet of Things (IoT) - are considered by many to be the next grand challenge in big data. While the constant connectivity of the IoT offers the potential to improve our economies, communities, and health, it also presents new challenges.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null]
+    - 
 ---
 <p>Claris Castillo, a senior computational and networked systems researcher at RENCI, recently completed the <a href="https:\/\/fridaycenter.unc.edu\/noncreditprograms\/bridges\/">BRIDGES<\/a> program that promotes academic leadership among women. The four-week program targets women in higher education institutions seeking to strengthen their academic leadership skills and advance their careers in academia.\u00a0<!--more--><\/p>
 <p>Castillo, who came to RENCI in 2013 from IBM Research, holds a PhD in Computer Science and conducts collaborative research in distributed systems, computational resource management, virtualization management and middleware development. Her current work focuses on producing middleware that deeply integrates cyberinfrastructure and scientific applications into customizable solutions that enable researchers to do science more effectively and efficiently.<\/p>

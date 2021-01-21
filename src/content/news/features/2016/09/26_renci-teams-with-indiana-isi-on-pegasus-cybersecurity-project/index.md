@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["networking","cyberinfrastructure"]
+    - networking
+    - cyberinfrastructure
 ---
 <a href="http://renci.org/wp-content/uploads/2016/09/IT-data-security-1.jpg"><img class="alignright size-medium wp-image-15597" src="http://renci.org/wp-content/uploads/2016/09/IT-data-security-1-300x188.jpg" alt="IT-data-security-1" width="300" height="188" /></a>CHAPEL HILL, NC - RENCI will work with Indiana University and the Information Sciences Institute (ISI) at the University of Southern California on a new project to strengthen the integrity of data, giving researchers added assurance and trust in computational science.<!--more-->
 

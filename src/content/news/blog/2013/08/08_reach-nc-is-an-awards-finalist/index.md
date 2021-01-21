@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI collaborations are winning awards all over! The Research, Engagement, and Capabilities Hub of North Carolina (REACH NC) was recently selected as a finalist in the University Economic Development Association\u2019s (<a href="http:\/\/universityeda.org">UEDA<\/a>) 2013 Awards of Excellence competition, in the Leadership &amp; Collaboration category.<\/p>
 <p>REACH NC is a searchable Web-based tool that allows scientists, academics, researchers and the business community to access profiles of experts at universities and research organizations across the state, in order to find people and resources needed to build research teams or to provide expert advice. The web interface compiles data from research publications, research grant awards and other sources to make it easier for faculty, university administrators, government agencies and the public to discover people with a particular expertise.<\/p>

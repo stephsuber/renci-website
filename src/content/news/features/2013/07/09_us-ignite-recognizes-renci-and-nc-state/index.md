@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class=" wp-image-12067 alignleft" title="USignite" alt="" src="http://www.renci.org/wp-content/uploads/2013/07/USignite.jpg" width="640" height="426" />
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignleft size-medium wp-image-13570" src="http://renci.org/wp-content/uploads/2014/09/colorful-brain-300x180.jpeg" alt="colorful-brain" width="300" height="180" />CHAPEL HILL, NC - A study led by University of North Carolina at Chapel Hill researchers represents an important step forward in the accurate diagnosis of people who are experiencing the earliest stages of psychosis.
 

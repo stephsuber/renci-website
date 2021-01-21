@@ -16,7 +16,7 @@ teams:
 collaborations:
     - sbdh
 tags:
-    - []
+    - 
 ---
 <em>The Open Storage Network will enable researchers to manage data more efficiently than ever before.</em>
 

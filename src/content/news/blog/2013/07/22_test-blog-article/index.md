@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><img class=" wp-image-11682 alignright" alt="Siggraph-2013" src="http:\/\/www.renci.org\/wp-content\/uploads\/2013\/05\/Siggraph-2013.jpg" width="227" height="289" srcset="https:\/\/renci.org\/wp-content\/uploads\/2013\/05\/Siggraph-2013.jpg 600w, https:\/\/renci.org\/wp-content\/uploads\/2013\/05\/Siggraph-2013-235x300.jpg 235w" sizes="(max-width: 227px) 100vw, 227px" \/><\/p>
 <p>Congrats to RENCI Senior Project Manager Mary Whitton for\u00a0winning the Outstanding\u00a0Service Award at the USA SIGGRAPH 2013 International Conference and Exhibition on Computer Graphics and Interactive Techniques.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Professors at NC State University and UNC-Chapel Hill have access to a tool that can bring both excitement and exploration into their curriculum \u2013 the Social Computing Room (SCR). While the resource is available on both campuses, educators can be unsure about how it effectively fits into their course plans.<\/p>
 <p>NC State\u2019s <a href="http:\/\/www.lib.ncsu.edu\/events\/series\/coffee-and-viz">Coffee and Viz<\/a> series hopes to provide ideas for instructors of all disciplines by highlighting those already using SCRs and other visualization spaces and by providing speakers with novel ideas for the use of visualization in education and research.<\/p>

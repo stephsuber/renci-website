@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/wp-content/uploads/2012/04/big-data.jpg"><img class="size-large wp-image-12067 alignleft" title="big-data" alt="" src="http://www.renci.org/wp-content/uploads/2013/11/big-data.jpg" width="640" height="315" /></a>
 

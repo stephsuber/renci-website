@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 DENVER, Nov. 20, 2013 – The iRODS Consortium today announced that DataDirect Networks (DDN), a leading provider of high performance, high capacity, scalable storage systems for big data, has become its first private sector member.  <!--more-->
 

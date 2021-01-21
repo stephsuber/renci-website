@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Patients with schizophrenia often cope with debilitating symptoms, and their suffering can be compounded by the lack of a reliable tool for diagnosing the disease. A group of researchers in the School of Medicine at the University of North Carolina at Chapel Hill works with bioinformatics software developers at RENCI to find new ways to study the brain in order to better understand schizophrenia and its causes.<!--more-->
 

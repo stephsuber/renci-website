@@ -16,7 +16,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - ["training"]
+    - training
 ---
 <em><img class="aligncenter size-large wp-image-17464" src="http://renci.org/wp-content/uploads/2018/03/DM-Header-1024x263.png" alt="" width="640" height="164" />Registration now open at </em><a href="http://www.datamatters.org/"><em>datamatters.org</em></a>
 

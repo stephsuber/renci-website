@@ -17,7 +17,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <em>As he approaches retirement, Reagan Moore reflects on SRB, iRODS, and the ongoing challenge of helping scientists manage their data.</em>
 

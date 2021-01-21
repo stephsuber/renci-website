@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <div class="post-entry">
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2015\/09\/ESAlogo.png"  rel="lightbox[roadtrip]"><img class="alignright size-medium wp-image-15015" src="http:\/\/renci.org\/wp-content\/uploads\/2015\/09\/ESAlogo-204x300.png" alt="ESAlogo" width="204" height="300" srcset="https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/ESAlogo-204x300.png 204w, https:\/\/renci.org\/wp-content\/uploads\/2015\/09\/ESAlogo.png 245w" sizes="(max-width: 204px) 100vw, 204px" \/><\/a>DataNet Tools and Services was the topic of a session at the recent Ecological Society of<br \/>

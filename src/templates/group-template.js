@@ -180,6 +180,7 @@ export const groupQuery = graphql`
           id
           fields {
               path
+              newsType
           }
           frontmatter {
               title

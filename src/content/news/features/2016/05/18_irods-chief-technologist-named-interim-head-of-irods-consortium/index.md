@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 <img class="alignleft size-medium wp-image-15460" src="http://renci.org/wp-content/uploads/2016/05/Coposky-Jason-300x200.jpeg" alt="Coposky, Jason" width="300" height="200" />CHAPEL HILL, NC - The iRODS Consortium announced today that Jason Coposky, Chief Technologist for the consortium for the past two years, has been named Interim Executive Director.
 

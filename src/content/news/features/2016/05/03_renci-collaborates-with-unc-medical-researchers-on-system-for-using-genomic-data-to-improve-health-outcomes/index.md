@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 In genomics and other medical fields, researchers are now able to capture and store large amounts of data from electronic medical records (EMRs). But while capturing massive amounts of medical data is becoming common, figuring out how to analyze, interpret and use it in ways that benefit the health of patients remains challenging.
 

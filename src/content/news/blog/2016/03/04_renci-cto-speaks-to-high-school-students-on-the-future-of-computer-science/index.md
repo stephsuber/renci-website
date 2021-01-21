@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>The next generation of potential computer scientists are making their way to K-12 classrooms each day, but are these young minds being exposed to the fundamentals of computer science? According to <a href="https:\/\/code.org\/promote" target="_blank">Code.org<\/a>, only one in four American high schools offer computer science courses, and few of those schools allow the course to count toward graduation.<\/p>
 <p>To counteract these statistics, some computer scientists are working harder to share their knowledge and experiences from the field. RENCI\u2019s Director of Informatics and Chief Technology Officer Charles Schmitt, PhD, joined the cause recently when he visited the North Carolina School of Science and Math (<a href="http:\/\/www.ncssm.edu\/" target="_blank">NCSSM<\/a>) to speak to a group of students about computer science. \u00a0<!--more--><\/p>

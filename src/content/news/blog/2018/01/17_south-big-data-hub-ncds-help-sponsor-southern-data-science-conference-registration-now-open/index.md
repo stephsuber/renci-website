@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><img class="aligncenter size-large wp-image-17364" src="http:\/\/renci.org\/wp-content\/uploads\/2018\/01\/Screen-Shot-2018-01-17-at-2.56.51-PM-1024x404.png" alt="" width="640" height="253" srcset="https:\/\/renci.org\/wp-content\/uploads\/2018\/01\/Screen-Shot-2018-01-17-at-2.56.51-PM-1024x404.png 1024w, https:\/\/renci.org\/wp-content\/uploads\/2018\/01\/Screen-Shot-2018-01-17-at-2.56.51-PM-300x118.png 300w, https:\/\/renci.org\/wp-content\/uploads\/2018\/01\/Screen-Shot-2018-01-17-at-2.56.51-PM-768x303.png 768w, https:\/\/renci.org\/wp-content\/uploads\/2018\/01\/Screen-Shot-2018-01-17-at-2.56.51-PM-640x252.png 640w" sizes="(max-width: 640px) 100vw, 640px" \/>The 2018 Southern Data Science Conference (SDSC 18) will bring experts and researchers from top companies and research institutes to Atlanta on April 13 and 14 for two days of sharing best practices and discussing the latest issues, challenges, and trends in data science.\u00a0<!--more--><\/p>
 <p>The South Big Data Hub is one of the sponsors of the conference, which is expected to attract more than 300 general attendees, 50-plus research attendees, and at least 30 speakers. Other conference sponsors are\u00a0<a href="https:\/\/www.datarobot.com\/">DataRobot<\/a>, \u00a0<a href="https:\/\/www.arcadis.com\/en\/united-states\/">Arcadis<\/a>, <a href="https:\/\/mailchimp.com\/">Mailchimp<\/a>, and the\u00a0<a href="http:\/\/www.datascienceconsortium.org\/">National Consortium for Data Science<\/a> (NCDS). South Hub Co-Executive Director Lea Shanley serves on the advisory board and will be one of the conference speakers.<\/p>

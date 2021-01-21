@@ -16,7 +16,7 @@ teams:
 collaborations:
     - sbdh
 tags:
-    - ["students"]
+    - students
 ---
 <em>DataStart provides real-world experiences for students while helping entrepreneurial companies</em>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http://www.renci.org/wp-content/uploads/2011/10/sc11-seattle-copy.png"><img class="alignnone size-full wp-image-8442" title="sc11-seattle copy" src="http://www.renci.org/wp-content/uploads/2011/10/sc11-seattle-copy.png" alt="" width="630" height="287" /></a></p>
 <p><br class="spacer_" /></p>

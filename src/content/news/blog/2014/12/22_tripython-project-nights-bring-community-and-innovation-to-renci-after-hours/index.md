@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>The <a href="http:\/\/tripython.org\/" target="_blank">Triangle Python Users Group<\/a> is a local organization that brings together experienced and new enthusiasts of Python, a widely used computer programming language. The group has been active in our area since 2002 but recently had a need for a new meeting space in the Chapel Hill area.<\/p>
 <p>RENCI has opened its doors for a few of the group\u2019s activities. Project nights are now held the second Wednesday of each month at RENCI. The informal project nights bring together new Python users seeking support and assistance with more experienced users. Together, they talk about their projects and potentially create cross collaboration.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>There has been a growing buzz in the media about the importance of STEM (Science, Technology, Engineering, and Math) education and the struggle to ensure students receive enough of it in public schools. Part of the reason for this intense focus is that the U.S. Department of Labor expects there will be <a href="http:\/\/mashable.com\/2011\/09\/07\/stem-microsoft-infographic\/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29" target="_blank">1.2 million job openings<\/a> in STEM related fields by 2018, but there won\u2019t be enough qualified graduates to fill those jobs.<\/p>
 <p>According to a Harris Interactive survey, many students who choose a math or science career interacted with a teacher or participated in a program that inspired them and helped launch their STEM career path. <a href="http:\/\/www.ncfirstrobotics.org\/" target="_blank">NC FIRST Robotics<\/a>, which was created to help students acquire the knowledge and skills needed to compete in our technologically-driven society, is one such program.\u00a0<!--more--><\/p>

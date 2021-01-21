@@ -1,11 +1,12 @@
 import React, { Fragment } from 'react'
 import { useTheme } from 'styled-components'
 import { graphql, Link } from 'gatsby'
-import { Container, Hero, HorizontalRule } from '../components/layout'
+import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title } from '../components/typography'
 import { Visible } from 'react-grid-system'
 import { Icon } from '../components/icon'
-import { TagLink } from '../components/link'
+import { Tag, Tags, Label } from '../components/news/tag'
+import { NewsDate } from '../components/news/news-date'
 
 export default ({ data, pageContext }) => {
   const theme = useTheme()
@@ -14,33 +15,45 @@ export default ({ data, pageContext }) => {
       title, publishDate, author, featuredImage,
       people, groups, projects, teams, collaborations, organizations,
     },
+    fields,
     html: articleHTML
   }} = data
   const { prevArticle, nextArticle } = pageContext
+  // collect all related objects
+  const tags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
+    // turn into shape { id, name, path }
+    .map(item => {
+      if (item.__typename == 'PeopleYaml') {
+        return ({ id: item.id, name: item.fullName, path: item.fields.path })
+      }
+      return ({ id: item.id, name: item.name, path: item.fields.path })
+    })
+    // alphabetize
+    .sort((t, u) => t.name < u.name ? -1 : 1)
 
   return (
     <Fragment>
       { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fullSize }></Hero> }
 
       <Container>
-        <Title>{ title }</Title>
+        <Section title=" ">
+          <NewsDate>{ publishDate }</NewsDate>
+          &nbsp;&nbsp;&nbsp;
+          <Label>{ fields.newsType }</Label>
 
-        { author && <Meta>Published on { publishDate } by <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> <br/></Meta> }
 
-        <HorizontalRule />
+          <Title>{ title }</Title>
 
-        <div style={{ padding: '1rem 0 0 0' }} dangerouslySetInnerHTML={{ __html: articleHTML }} />
+          <Meta>Published on { publishDate } by&nbsp;
+            { author ? <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> : 'Unknown'}
+          </Meta>
 
-        <HorizontalRule />
+          <Tags>
+            { tags.map(tag => <Tag link to={ tag.path }>{ tag.name }</Tag>) }
+          </Tags>
 
-        <Meta>
-          People: { people && people.map(person => <TagLink key={ person.id } to={ person.fields.path }>{ person.fullName }</TagLink>) } <br/><br/>
-          Groups: { groups && groups.map(group => <TagLink key={ group.id } to={ group.fields.path }>{ group.name }</TagLink>) } <br/><br/>
-          Teams: { teams && teams.map(team => <TagLink key={ team.id } to={ team.fields.path }>{ team.name }</TagLink>) } <br/><br/>
-          Projects: { projects && projects.map(project => <TagLink key={ project.id } to={ project.fields.path }>{ project.name }</TagLink>) } <br/><br/>
-          Collaborations: { collaborations && collaborations.map(collaboration => <TagLink key={ collaboration.id } to={ collaboration.fields.path }>{ collaboration.name }</TagLink>) } <br/><br/>
-          Organizations: { organizations && organizations.map(organization => <TagLink key={ organization.id } to={ organization.url }>{ organization.name }</TagLink>) }
-        </Meta>
+          <div style={{ padding: '1rem 0 0 0' }} dangerouslySetInnerHTML={{ __html: articleHTML }} />
+        </Section>
 
         <HorizontalRule />
 
@@ -93,7 +106,7 @@ export const newsQuery = graphql`
             }
           }
         }
-        publishDate(formatString: "dddd, MMMM Do, YYYY")
+        publishDate(formatString: "MMMM D, YYYY")
         author {
           id
           fullName
@@ -103,6 +116,7 @@ export const newsQuery = graphql`
         }
         people {
           id
+          __typename
           fullName
           fields {
             path
@@ -110,6 +124,7 @@ export const newsQuery = graphql`
         }
         groups {
           id
+          __typename
           name
           fields {
             path
@@ -117,6 +132,7 @@ export const newsQuery = graphql`
         }
         projects {
           id
+          __typename
           name
           fields {
             path
@@ -124,6 +140,7 @@ export const newsQuery = graphql`
         }
         teams {
           id
+          __typename
           name
           fields {
             path
@@ -131,6 +148,7 @@ export const newsQuery = graphql`
         }
         collaborations {
           id
+          __typename
           name
           fields {
             path
@@ -138,9 +156,14 @@ export const newsQuery = graphql`
         }
         organizations {
           id
+          __typename
           name
           url
         }
+      }
+      fields {
+        path
+        newsType
       }
       html
     }

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class=" wp-image-12067 alignleft" title="Event-E-iRODS-SC12" alt="" src="http://www.renci.org/wp-content/uploads/2012/11/Event-E-iRODS-SC121.jpg" width="640" height="349" />
 

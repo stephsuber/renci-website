@@ -1,6 +1,7 @@
 export * from './article'
 export * from './article-preview'
 export * from './news-context'
+export * from './news-date'
 export * from './news-filter-form'
 export * from './pagination-tray'
 export * from './spotlight'

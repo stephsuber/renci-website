@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>A news release published today announced a joint white paper by RENCI and <a href="http:\/\/kaminario.com\/flash-array\/" target="_blank">Kaminario<\/a>, the leading scale-out all-flash array provider. The report is aimed at IT administrators and provides guidelines on how to test storage for High Performance Virtual Clusters (HPVCs). It outlines two reference architectures for building HPVCs that support medium to large cluster workload requirements.<\/p>
 <p>In the paper, entitled &#8220;Reference Architecture: Scalable SSD Storage for Building a High Performance ESX Cluster,&#8221; Kaminario and RENCI developed a new methodology and best practices checklist for testing HPVCs that takes into account the necessity of performance consistency for competitive virtual environments. The method consists of a set of mixed workload combined tests, including read\/write, random\/sequential, and small\/large block size.<\/p>

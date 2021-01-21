@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC - IBM is the latest company to join the iRODS Consortium, a membership organization of users and service providers that sustains the integrated Rule-Oriented Data System (iRODS) as free open source data management software.
 

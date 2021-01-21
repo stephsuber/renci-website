@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_6347" align="aligncenter" width="630"]<img class="wp-image-6347 size-full" title="Chris Jones, lead investigator of the Mathematics and Climate Change Network" src="http://www.renci.org/wp-content/uploads/2010/09/math-climate-chris.jpg" alt="" width="630" height="401" /> Chris Jones, lead investigator of the Mathematics and Climate Change Network[/caption]
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Last week, I was asked to speak to young professionals about work-life balance, so I have been pondering this topic a lot. How do you juggle both a full-time, demanding and exacting career and the often-contradictory demands of raising little human beings to become productive members of society? To be honest, I think the \u201csecret\u201d is that all of us are just winging it, really, and we are creating and maintaining balance as we go \u2013 even if it doesn\u2019t appear that way to others\u00a0from the outside. Parenting and careers are all about change. Just when you think you have achieved the perfect balance, something changes \u2013 your child starts potty training, enters puberty, adjusts to a new school, or gets chosen for a school team. You earn a promotion and gain new responsibilities, move offices (which affects your commute), or start a new job. Your spouse has to travel more or has a change in health condition. Older family members need care and help in a way they haven\u2019t before.<\/p>
 <p><!--more--><\/p>

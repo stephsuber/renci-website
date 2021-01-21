@@ -19,7 +19,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["cyberinfrastructure", "data management", "open source"]
+    - cyberinfrastructure
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC – RENCI researchers will work with scientists from Clemson University and Washington State University on a project funded by the <a href="https://www.nsf.gov/">National Science Foundation</a> to develop cyberinfrastructure aimed at providing researchers around the nation and world with a more fluid and flexible system of analyzing large-scale data.
 

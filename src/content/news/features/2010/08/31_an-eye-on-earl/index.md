@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg"><img class="alignnone size-full wp-image-6198" title="earl-story-image" alt="" src="http://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg" width="630" height="315" /></a>
 

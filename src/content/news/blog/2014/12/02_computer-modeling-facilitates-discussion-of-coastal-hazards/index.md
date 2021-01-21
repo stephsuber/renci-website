@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>RENCI\u2019s Brian Blanton, PhD, recently gave a talk called \u201c<em>Simulating Storm Surge for Coastal Hazard and Risk Assessment\u201d<\/em> as part of a Disaster Resilience Symposium held at Virginia Tech.<\/p>
 <p>The goal of the symposium was to facilitate interdisciplinary discussion and collaboration on efforts to reduce the ecological and socioeconomic risks of coastal hazards. Living on a coastline comes with a certain set of risks, and coastal resilience researchers study the most effective ways to ensure coastal communities have the ability to bounce back after events such as tropical cyclones and tsunamis, and the resulting flooding and inundation.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><em>In three years, the WSSI shows that software best practices can make a difference in water science.<\/em><\/p>
 <p>Ask any elementary school student and they will tell you that water is a renewable resource.<\/p>

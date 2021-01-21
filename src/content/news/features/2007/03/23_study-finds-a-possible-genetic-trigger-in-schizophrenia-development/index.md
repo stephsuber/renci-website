@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 Advances in science require collaboration, innovation and a lot of painstaking hard work. An ongoing research project at the University of North Carolina-Chapel Hill that studies the possible genetic causes of schizophrenia is no exception.<!--more-->
 

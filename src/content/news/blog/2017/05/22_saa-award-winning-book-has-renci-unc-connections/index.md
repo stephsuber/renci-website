@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null,null,null]
+    - 
 ---
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM.png"  rel="lightbox[roadtrip]"><img class="alignleft wp-image-16403 " src="http:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM-192x300.png" alt="" width="251" height="392" srcset="https:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM-192x300.png 192w, https:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM-655x1024.png 655w, https:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM-640x1001.png 640w, https:\/\/renci.org\/wp-content\/uploads\/2017\/05\/Screen-Shot-2017-05-22-at-4.01.49-PM.png 682w" sizes="(max-width: 251px) 100vw, 251px" \/><\/a>The Waldo Gifford Leland Award is presented annually by the <a href="http:\/\/www2.archivists.org\/">Society of American Archivists<\/a> (SAA) to an author or authors in recognition of \u201cwriting of superior excellence and usefulness in the field of archival history, theory, or practice.\u201d<\/p>
 <p>It\u2019s an achievement worth bragging about, and this year, bragging rights belong to Philip C. Bantin, director of the <a href="https:\/\/www.soic.indiana.edu\/graduate\/degrees\/information-library-science\/dual-degrees\/archives-management-mls.html">archives and records management specialization<\/a> at Indiana University, as well as to multiple chapter authors, including a team from RENCI, UNC-Chapel Hill and Harvard\u00a0University.<!--more--><\/p>

@@ -16,7 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolinas Center","Duke Endowment","healthcare"]
+    - Carolinas Center
+    - Duke Endowment
+    - healthcare
 ---
 <a href="http://renci.org/wp-content/uploads/2017/03/Medical-Robots.jpg"><img class="aligncenter wp-image-16235 size-news-large" src="http://renci.org/wp-content/uploads/2017/03/Medical-Robots-640x369.jpg" alt="" width="640" height="369" /></a>
 

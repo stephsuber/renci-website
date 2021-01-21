@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png"><img class="alignnone size-full wp-image-8855" title="Vernon_Burton" src="http://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png" alt="" width="600" height="400" /></a></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>Increasingly, every aspect of society &#8211; from education to healthcare &#8211; relies on software-driven technology. Even as we rely more often on \u201csmart\u201d devices for all aspects of our daily lives, we may not be producing enough computer scientists and software developers to satisfy our demand for all things tech.<\/p>
 <div id="attachment_14146" class="wp-caption alignright" style="width: 300px"><img class="wp-image-14146 size-medium" src="http:\/\/renci.org\/wp-content\/uploads\/2014\/12\/Coding1-300x224.jpg" alt="Coding1" width="300" height="224" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/12\/Coding1-300x224.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2014\/12\/Coding1-1024x764.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2014\/12\/Coding1-640x478.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2014\/12\/Coding1.jpg 1296w" sizes="(max-width: 300px) 100vw, 300px" \/><\/p>

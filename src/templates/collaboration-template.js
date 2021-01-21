@@ -178,6 +178,7 @@ export const collaborationQuery = graphql`
         id
         fields {
           path
+          newsType
         }
         frontmatter {
           title

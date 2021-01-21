@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC, May 12, 2015 – Cleversafe, the market share leader in web-scale data storage, will become the ninth member of the iRODS Consortium, a membership-based foundation organized to sustain the integrated Rule-Oriented Data System (iRODS) as free open source data management software.
 

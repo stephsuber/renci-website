@@ -16,7 +16,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - []
+    - 
 ---
 <span style="font-family: Arial; font-size: small;"><i>State must support education and entrepreneurs to be a data leader</i></span>
 

@@ -17,7 +17,7 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_15576" align="aligncenter" width="780"]<a href="http://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg"><img class="wp-image-15576 size-full" src="http://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg" alt="Independence-louisiana-flooding-0311-exlarge-169" width="780" height="438" /></a> The National Water Model will help to mitigate disasters such as the recent flooding in Louisiana shown here. HydroShare and iRODS are helping to bring the model to a wider community of scientists and practitioners.[/caption]
 

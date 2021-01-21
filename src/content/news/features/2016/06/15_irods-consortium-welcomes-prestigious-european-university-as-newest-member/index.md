@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC – Utrecht University, one of the largest general research universities in Europe located in Utrecht, the Netherlands, is the 17<sup>th</sup> organization to join the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 CHAPEL HILL, NC, November 20, 2006—Students, faculty, and staff at the University of North Carolina at Chapel Hill will have access to the world’s largest visual history archive beginning this month, when the Renaissance Computing Institute (RENCI) deploys a 5.5-terabyte digital media cache of testimonies from the USC Shoah Foundation Institute’s Visual History Archive.<!--more-->
 

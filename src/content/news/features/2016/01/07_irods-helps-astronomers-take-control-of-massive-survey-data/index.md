@@ -16,7 +16,8 @@ teams:
 collaborations:
     - irods-consortium
 tags:
-    - ["data management","open source"]
+    - data-management
+    - open source
 ---
 CHAPEL HILL, NC - An international research team studying many of the tough questions in astronomy, including the evolution of galaxies and the nature of dark matter, now have a way to query their massive data sets, store and retrieve data and corresponding metadata, and transport files and images. 
 

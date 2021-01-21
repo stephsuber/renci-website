@@ -17,7 +17,7 @@ collaborations:
     - sbdh
     - ncds
 tags:
-    - []
+    - 
 ---
 <p style="text-align: left;"><em>Buried in troves of data that scientists have gathered, but not yet analyzed, could be key insights to improving health care disparities, </em><em>coastal hazards, and urban planning in the southern United States.</em></p>
 <strong>(Chapel Hill, N.C.</strong> – Nov. 2, 2015) -- The University of North Carolina’s <a href="http://renci.org/">Renaissance Computing Institute (RENCI)</a> and <a href="http://www.gatech.edu">Georgia Institute of Technology</a> will co-direct a new, national effort that is unprecedented in scope to develop a big data innovation hub serving 16 southern states and the District of Columbia. The hub will have dual locations in Atlanta and Chapel Hill, with co-executive directors who will be accountable to hub partners.

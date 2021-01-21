@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy.jpg"  rel="lightbox[roadtrip]"><img class="alignright wp-image-15569" src="http:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy-300x94.jpg" alt="DataBridge-Logo-Final copy" width="341" height="107" srcset="https:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy-300x94.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy-768x240.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy-1024x320.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy-640x200.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2016\/09\/DataBridge-Logo-Final-copy.jpg 1467w" sizes="(max-width: 341px) 100vw, 341px" \/><\/a>DataBridge, a National Science Foundation-funded project to make research data more discoverable and usable by a wide community of scientists, has the green light to expand its work into the neuroscience community, thanks to a new NSF <a href="https:\/\/www.nsf.gov\/awardsearch\/showAward?AWD_ID=1649397&amp;HistoricalAwards=false">EAGER<\/a> award.<\/p>
 <p><!--more-->The award itself is relatively small (less than $100,000) and will allow the researchers to consult with neuroscientists, develop a prototype DataBridge for Neuroscience (DBfN), and a community workshop. However, the impact could be significant for a hot scientific field that is making breakthrough discoveries about the human brain.<\/p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p>CHAPEL HILL, NC, April 29, 2009 – Stanly County will soon have detailed data about local weather conditions and new weather-related projects for school children thanks to the Renaissance Computing Institute (RENCI) Weather Web competition.</p>
 

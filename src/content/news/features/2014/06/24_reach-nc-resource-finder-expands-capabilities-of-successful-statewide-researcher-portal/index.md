@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.reachnc.org" target="_blank" rel="noopener"><img class="alignleft size-medium wp-image-13418" src="http://renci.org/wp-content/uploads/2014/06/reachnc-logo-300x80.jpg" alt="reachnc-logo" width="300" height="80" /></a>CHAPEL HILL, NC - <a href="http://www.reachnc.org" target="_blank" rel="noopener">REACH NC</a>, a Web portal that connects businesses, developers, government officials, other researchers and citizens to thousands of experts working in higher education and research institutions throughout North Carolina, now helps users find university assets and resources across the state through a new tool called the REACH NC Resource Finder. <!--more-->
 

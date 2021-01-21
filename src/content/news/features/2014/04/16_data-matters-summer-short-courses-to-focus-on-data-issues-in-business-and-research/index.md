@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignnone size-full wp-image-13307" src="http://www.renci.org/wp-content/uploads/2014/04/data-matters-story-image.png" alt="data-matters-story-image" width="640" height="236" />
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13826" align="aligncenter" width="642"]<a href="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png"><img class="wp-image-13826 size-full" title="Arctic_Duke_flag" src="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png" alt="Cassar on sea ice" width="642" height="425" /></a> Nicolas Cassar, assistant professor in Duke University’s Nicholas School of the Environment, stands on sea ice over the North Pole during an expedition last summer to collect data on carbon export from ocean surfaces to the deep. Cassar is one of the Duke faculty members who will work with RENCI through the Program in Applied Scientific and Information Visualization.[/caption]
 

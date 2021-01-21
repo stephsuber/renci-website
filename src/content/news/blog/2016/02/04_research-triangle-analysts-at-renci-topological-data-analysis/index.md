@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http:\/\/www.rtpanalysts.org\/" target="_blank">Research Triangle Analysts<\/a> met at RENCI for their first monthly meeting of the new year on January 19. Research Triangle Analysts meet at RENCI every third month and elsewhere around the Triangle during other months. The group, a 501(c)(3) non-profit and all-volunteer organization, promotes the advancement of data science throughout the Triangle\u2019s collaborative communities of analysts, mathematicians, statisticians, and scientists.<\/p>
 <div id="attachment_15324" class="wp-caption alignright" style="width: 300px"><a href="http:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026.jpg"  rel="attachment wp-att-15324" rel="lightbox[roadtrip]"><img class="size-medium wp-image-15324" src="http:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026-300x198.jpg" alt="Research Triangle Analysts participants learn about topological data analysis at RENCI." width="300" height="198" srcset="https:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026-300x198.jpg 300w, https:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026-768x506.jpg 768w, https:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026-1024x675.jpg 1024w, https:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026-640x422.jpg 640w, https:\/\/renci.org\/wp-content\/uploads\/2016\/02\/DSC_0026.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" \/><\/a><\/p>

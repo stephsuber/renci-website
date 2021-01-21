@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignnone size-full wp-image-6806" title="ECiwebsite" src="http://www.renci.org/wp-content/uploads/2011/02/banner2.png" alt="" width="780" height="312" />
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="size-medium wp-image-16476 alignleft" src="http://renci.org/wp-content/uploads/2017/06/SSRI-image-1-300x165.jpg" alt="" width="300" height="165" />CHAPEL HILL, NC - RENCI and partners at UNC-Chapel Hill, Duke University, Indiana University and the city of Durham, NC, will work together on a project that aims to allow scientists to share and analyze data across institutional boundaries while keeping that data safe and in compliance with regulations that control data location, availability, movement and access.<!--more-->
 

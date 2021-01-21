@@ -19,7 +19,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - ["students"]
+    - students
 ---
 Internship. Student Research Assistantship. These words once conjured images of time spent drudging away in corporate office air conditioning or musty back rooms of a university department. Time spent filing papers, making and slugging coffee, or solving the mystery of the broken copy machine (again!).
 

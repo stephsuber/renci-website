@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignright size-medium wp-image-13612" src="http://renci.org/wp-content/uploads/2014/10/031293-large-300x225.jpg" alt="031293__large" width="300" height="225" />CHAPEL HILL, NC - Sharing hydrologic data and models is getting easier, thanks to Hydroshare, a Web-based collaborative environment that expands the data sharing capabilities of the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (<a href="https://www.cuahsi.org/" target="_blank">CUAHSI</a>) Hydrologic Information System (<a href="http://his.cuahsi.org/" target="_blank">HIS</a>).
 

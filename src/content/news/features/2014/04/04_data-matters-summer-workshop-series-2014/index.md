@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignnone  wp-image-13255" alt="DataMatters-header-v2" src="http://www.renci.org/wp-content/uploads/2014/04/DataMatters-header-v2.png" width="640" height="179" />CHAPEL HILL, NC - Business managers, data analytics specialists, academic researchers, data center administrators and anyone else who grapples with big data are the target audience for a weeklong workshop series on data issues sponsored by the National Consortium for Data Science (NCDS), the Odum Institute for Social Science Research at UNC Chapel Hill, and the Renaissance Computing Institute (RENCI).<!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <strong><i>RENCI and Duke researchers aim to understand whether VEs can help patients control diabetes</i></strong>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="alignnone" title="RENCI Hackathon 2.0" alt="" src="http://farm4.staticflickr.com/3680/9407353027_02508f15b0_z.jpg" width="640" height="427" />
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing"]
+    - high performance computing
 ---
 <a href="http://renci.org/wp-content/uploads/2017/01/serversdatacenter.jpg"><img class="size-medium wp-image-15857 alignleft" src="http://renci.org/wp-content/uploads/2017/01/serversdatacenter-201x300.jpg" alt="" width="201" height="300" /></a>What is a data center? Ask any number of technologists or scientists and you will probably get a wide range of answers, in part because the data center concept changes as the technologies that power them change.
 

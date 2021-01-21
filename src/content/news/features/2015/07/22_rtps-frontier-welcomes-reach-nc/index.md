@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 RESEARCH TRIANGLE PARK, NC – REACH NC, the Web portal that helps bring the expertise of thousands of North Carolina-based researchers to businesses, developers, government agencies, and the public, has a new home at The Frontier, the new state-of-the-art space in Research Triangle Park designed to foster collaboration and community among business people and entrepreneurs.
 

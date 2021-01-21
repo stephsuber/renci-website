@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <img class="size-large wp-image-12067 alignleft" title="Launchpad-Julian-Wooten" alt="Julian Wooten of Launchpad" src="http://www.renci.org/wp-content/uploads/2013/10/Launchpad-Julian-Wooten-2012-Img4-web.jpg" width="640" height="427" />
 

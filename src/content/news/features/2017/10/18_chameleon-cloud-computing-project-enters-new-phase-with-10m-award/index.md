@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["testbed"]
+    - testbed
 ---
 <div id="pageContainer1" class="page" data-page-number="1"></div>
 <div id="pageContainer2" class="page" data-page-number="2">

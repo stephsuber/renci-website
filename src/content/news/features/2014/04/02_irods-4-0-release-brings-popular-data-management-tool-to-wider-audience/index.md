@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <a href="http://www.renci.org/news/irods-4-0-release-brings-popular-data-management-tool-to-wider-audience/"><img class="alignnone  wp-image-13241" src="http://www.renci.org/wp-content/uploads/2014/04/iRODS-Consortium-Logo-Dark-1024x444.jpg" alt="iRODS-Consortium-Logo-Dark" width="640" height="278" /></a>Chapel Hill, NC, April 2, 2014 – The iRODS Consortium today announced the release of iRODS 4.0, a sustainable and production-oriented version of the integrated Rule-Oriented Data System (iRODS) data management platform.
 

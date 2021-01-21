@@ -9,12 +9,14 @@ projects:
   - irods
 people:
   - jason-coposky
+groups:
+  -
 teams:
   - 
 collaborations:
   - irods-consortium
 tags:
-  - data management
+  - data-management
 ---
 
 ### iRODS users and consortium members will gather virtually from June 9-12

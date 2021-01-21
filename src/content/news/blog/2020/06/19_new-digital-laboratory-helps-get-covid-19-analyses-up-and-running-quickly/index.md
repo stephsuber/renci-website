@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null]
+    - 
 ---
 
 <figure class="wp-block-image size-large"><img src="https:\/\/renci.org\/wp-content\/uploads\/2020\/06\/BB-Blog-04-1024x512.png" alt="" class="wp-image-18658" srcset="https:\/\/renci.org\/wp-content\/uploads\/2020\/06\/BB-Blog-04-1024x512.png 1024w, https:\/\/renci.org\/wp-content\/uploads\/2020\/06\/BB-Blog-04-300x150.png 300w, https:\/\/renci.org\/wp-content\/uploads\/2020\/06\/BB-Blog-04-768x384.png 768w, https:\/\/renci.org\/wp-content\/uploads\/2020\/06\/BB-Blog-04-640x320.png 640w" sizes="(max-width: 1024px) 100vw, 1024px" \/><\/figure>

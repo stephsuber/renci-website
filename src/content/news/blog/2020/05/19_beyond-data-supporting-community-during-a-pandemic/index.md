@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - [null,null]
+    - 
 ---
 
 <figure class="wp-block-image size-large"><img src="https:\/\/renci.org\/wp-content\/uploads\/2020\/05\/Photo-Collages-for-Blogs-1024x819.png" alt="" class="wp-image-18613" srcset="https:\/\/renci.org\/wp-content\/uploads\/2020\/05\/Photo-Collages-for-Blogs-1024x819.png 1024w, https:\/\/renci.org\/wp-content\/uploads\/2020\/05\/Photo-Collages-for-Blogs-300x240.png 300w, https:\/\/renci.org\/wp-content\/uploads\/2020\/05\/Photo-Collages-for-Blogs-768x614.png 768w, https:\/\/renci.org\/wp-content\/uploads\/2020\/05\/Photo-Collages-for-Blogs-640x512.png 640w" sizes="(max-width: 1024px) 100vw, 1024px" \/><figcaption><em>Families showing off their new face masks, donated by Sarah Davis.<\/em><\/figcaption><\/figure>

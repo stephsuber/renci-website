@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 [caption id="attachment_13823" align="aligncenter" width="639"]<a href="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-11.56.35-AM.png"><img class="wp-image-13823 size-full" src="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-11.56.35-AM.png" alt="Sqord bands" width="639" height="428" /></a> Students display their Sqord Power Bands, electronic devices that record their physical activity. Players can instantly upload data from the devices to the Sqord website, a safe and exciting environment where they can keep track of their activities and engage in competitions with their friends.[/caption]
 

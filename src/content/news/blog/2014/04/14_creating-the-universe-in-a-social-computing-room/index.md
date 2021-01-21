@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - []
+    - 
 ---
 <p><a href="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/04\/photo.jpg"  rel="lightbox[roadtrip]"><img class=" wp-image-13286 alignleft" src="http:\/\/www.renci.org\/wp-content\/uploads\/2014\/04\/photo-910x1024.jpg" alt="photo" width="384" height="432" srcset="https:\/\/renci.org\/wp-content\/uploads\/2014\/04\/photo-910x1024.jpg 910w, https:\/\/renci.org\/wp-content\/uploads\/2014\/04\/photo-266x300.jpg 266w, https:\/\/renci.org\/wp-content\/uploads\/2014\/04\/photo-640x720.jpg 640w" sizes="(max-width: 384px) 100vw, 384px" \/><\/a>Students in a communications class at UNC Chapel Hill have been using the recently opened Social Computing Room (SCR) in the Odum Institute to create their own universe.<\/p>
 <p>The SCR provides an immersive 360-degree view of any visual content, allowing users to interact with and explore data in groups. The original SCR, built in 2007, is located in the RENCI space in ITS Manning on the UNC campus. Similar versions based off the original have recently opened at NC State University and in Odum\u2019s offices in Davis Library. RENCI assisted in the technical design and implementation of the room, helping to install all the hardware, baseline operating system, and projectors and supported part of the cost of outfitting the room.<!--more--><\/p>
