@@ -1,15 +1,10 @@
 import React from 'react'
 import { SEO } from '../components/seo'
-import { Container, Article, Section } from '../components/layout'
-import { Title, Paragraph } from '../components/typography'
-import { List } from '../components/list'
-import { ArrowLink } from '../components/link'
-import { useOrganizations } from '../hooks'
-import { OrganizationsList } from '../components/organizations'
+import { Container } from '../components/layout'
+import { Title } from '../components/typography'
 import { CollaborationsNetwork } from '../components/viz'
 
 const TeamSciencePage = () => {
-  const organizations = useOrganizations()
   return (
     <Container>
       <SEO title="Team Science at RENCI" />

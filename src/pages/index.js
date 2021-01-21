@@ -1,6 +1,6 @@
 import React, { Fragment } from "react"
 import { SEO } from '../components/seo'
-import { Container, Section, Hero } from '../components/layout'
+import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNewsSpotlight } from '../hooks'
 import { Spotlight } from '../components/news'
@@ -17,6 +17,7 @@ const IndexPage = () => {
         <img
           src={ HomeGraphic }
           style={{ marginBottom: '-12rem', maxWidth: '1000px' }}
+          alt=""
         />
       </div>
 
