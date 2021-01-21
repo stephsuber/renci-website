@@ -11,7 +11,7 @@ import { ArticlePreview, NewsFilterForm, PaginationTray, NewsContext } from '../
 const PER_PAGE = 10
 const PAGINATION_RADIUS = {
   mobile: 1,
-  desktop: 3,
+  desktop: 2,
 }
 const INITIAL_FILTERS = {
   group: '',
@@ -76,9 +76,9 @@ const NewsPage = () => {
   }, [page, filteredArticles])
 
   // debugging
-  useEffect(() => console.table(filters), [filters])
-  useEffect(() => console.log(filteredArticles), [filters])
-  useEffect(() => console.log('pageCount', pageCount), [pageCount, filters])
+  // useEffect(() => console.table(filters), [filters])
+  // useEffect(() => console.log(filteredArticles), [filters])
+  // useEffect(() => console.log('pageCount', pageCount), [pageCount, filters])
   
   //
 
@@ -100,12 +100,17 @@ const NewsPage = () => {
           {
             news.map((article, i) => (
               <Fragment key={ article.id }>
-                <ArticlePreview article={ article } path={ article.path } />
+                <ArticlePreview article={ article } path={ article.fields.path } />
                 { i < articles.length - 1 && <HorizontalRule /> }
               </Fragment>
             ))
           }
         </Section>
+
+        <PaginationTray />
+
+        <br />
+
       </NewsContext.Provider>
     </Container>
   )

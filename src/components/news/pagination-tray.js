@@ -17,6 +17,7 @@ const PageLink = styled(Link)(({ theme }) => `
   min-width: 2rem;
   text-align: center;
   border-radius 4px;
+  font-size: 80%;
   transition: background-color 500ms, color 250ms;
   display: flex;
   justify-content: center;
@@ -27,6 +28,7 @@ const PageLink = styled(Link)(({ theme }) => `
   &.active {
     transition: background-color 250ms, color 250ms;
     background-color: ${ theme.color.grey };
+    color: ${ theme.color.white };
   }
 `)
 
@@ -74,9 +76,8 @@ export const PaginationTray = () => {
         })
       }
       { (page < pageCount - paginationRadius) ? <Icon icon="ellipsis" /> : <Icon icon="blank" />}
+      <PageLink to={ `/news?page=${ nextPage }` }><Icon icon="chevron-right" /></PageLink>
+      <PageLink to={ `/news?page=${ pageCount }` }><Icon icon="last-page" /></PageLink>
     </Wrapper>
   )
 }
-
-      // <PageLink to={ `/news?page=${ nextPage }` }><Icon icon="chevron-right" /></PageLink>
-      // <PageLink to={ `/news?page=${ pageCount }` }><Icon icon="last-page" /></PageLink>

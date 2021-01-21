@@ -26,6 +26,17 @@ const ArticleTitle = styled(Subheading)(({ theme }) => `
   font-size: 24px;
 `)
 
+const ArticleType = styled.span(({ theme }) => `
+  margin: 0 ${ theme.spacing.small };
+  padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
+  border-radius: ${ theme.border.radius };
+  text-decoration: none !important;
+  transition: background-color 250ms;
+  background-color: ${ theme.color.grey };
+  color: ${ theme.color.white };
+  font-size: 75%;
+`)
+
 const TitleContainer = styled.div``
 
 const BodyContainer = styled.div`
@@ -76,8 +87,11 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
           }
           <Col xs={ 12 } md={ hasFeaturedImage ? 8 : 12 } lg={ hasFeaturedImage ? 9 : 12 }>
             <TitleContainer>
-              <ArticleDate>{ article.frontmatter.publishDate }</ArticleDate>
-              <ArticleTitle><Link to={ path }>{ article.frontmatter.title }</Link></ArticleTitle>
+              <ArticleDate>
+                { article.frontmatter.publishDate }
+                <ArticleType>{ article.fields.newsType }</ArticleType>
+              </ArticleDate>
+              <ArticleTitle><Link to={ path }>{ article.frontmatter.title }</Link> </ArticleTitle>
             </TitleContainer>
             <BodyContainer>
               <div dangerouslySetInnerHTML={{ __html: article.excerpt }} />

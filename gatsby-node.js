@@ -8,11 +8,18 @@ console.log(`\n\nStarting build, ${ now }\n\n`)
 exports.onCreateNode = ({ node, actions }) => {
   const { createNode, createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark') {
-    const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
+    const matches = node.fileAbsolutePath.match(/content\/news\/(features|blog)\/(\d{4})\/(\d{2})\/.+\/index.md$/)
     if (matches) {
-      const [, yyyydd] = matches
-      const path = `/news/${ yyyydd }/${ node.frontmatter.slug }`
+      const [, fileDirectory, yyyy, dd] = matches
+      let newType = 'feature'
+      if (fileDirectory === 'features') {
+        newType = 'feature'
+      } else if (fileDirectory === 'blog') {
+          newType = 'blog'
+      }
+      const path = `/${ newType }/${ yyyy }/${ dd }/${ node.frontmatter.slug }`
       createNodeField({ node, name: 'path', value: path })
+      createNodeField({ node, name: 'newsType', value: newType })
     }
   }
   if (node.internal.type === 'PeopleYaml') { createNodeField({ node, name: 'path', value: `/people/${ node.id }` }) }
@@ -260,7 +267,22 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
       news: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/news/"}},
+        filter: {fileAbsolutePath: {regex: "/content\/news\/features/"}},
+        sort: {fields: frontmatter___publishDate, order: DESC}
+      ) {
+        edges {
+          node {
+            fileAbsolutePath
+            frontmatter {
+              slug
+              title
+              publishDate(formatString: "MMMM DD, YYYY")
+            }
+          }
+        }
+      }
+      blog: allMarkdownRemark(
+        filter: {fileAbsolutePath: {regex: "/content\/news\/blog/"}},
         sort: {fields: frontmatter___publishDate, order: DESC}
       ) {
         edges {
@@ -275,7 +297,7 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
       events: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/events/"}},
+        filter: {fileAbsolutePath: {regex: "/content\/events/"}},
         sort: {fields: frontmatter___dates___start, order: ASC}
       ) {
         edges {
@@ -393,22 +415,45 @@ exports.createPages = ({ actions, graphql }) => {
      * Create news article pages
      */
 
-    const articles = result.data.news.edges
+    const newsArticles = result.data.news.edges
     console.log(`\nCreating news pages...`)
-    articles.forEach(({ node }, index) => {
-      const matches = node.fileAbsolutePath.match(/content\/news\/(\d{4}\/\d{2})\/.+\/index.md$/)
+    newsArticles.forEach(({ node }, index) => {
+      const matches = node.fileAbsolutePath.match(/content\/news\/features\/(\d{4}\/\d{2})\/.+\/index.md$/)
       if (matches) {
         const [, yyyydd] = matches
         const path = `/news/${ yyyydd }/${ node.frontmatter.slug }`
-        node.path = path
         console.log(` - ${ node.frontmatter.title } (${ path })`)
         createPage({
           path: path,
           component: newsArticleTemplate,
           context: { // additional data passed via context
             slug: node.frontmatter.slug,
-            prevArticle: index === 0 ? null : articles[index - 1].node,
-            nextArticle: index === articles.length - 1 ? null : articles[index + 1].node,
+            prevArticle: index === 0 ? null : newsArticles[index - 1].node,
+            nextArticle: index === newsArticles.length - 1 ? null : newsArticles[index + 1].node,
+          },
+        })
+      }
+    })
+
+    /**
+     * Create blog article pages
+     */
+
+    const blogArticles = result.data.blog.edges
+    console.log(`\nCreating blog pages...`)
+    blogArticles.forEach(({ node }, index) => {
+      const matches = node.fileAbsolutePath.match(/content\/news\/blog\/(\d{4}\/\d{2})\/.+\/index.md$/)
+      if (matches) {
+        const [, yyyydd] = matches
+        const path = `/blog/${ yyyydd }/${ node.frontmatter.slug }`
+        console.log(` - ${ node.frontmatter.title } (${ path })`)
+        createPage({
+          path: path,
+          component: newsArticleTemplate,
+          context: { // additional data passed via context
+            slug: node.frontmatter.slug,
+            prevArticle: index === 0 ? null : blogArticles[index - 1].node,
+            nextArticle: index === blogArticles.length - 1 ? null : blogArticles[index + 1].node,
           },
         })
       }
@@ -468,7 +513,8 @@ exports.createPages = ({ actions, graphql }) => {
       ...projects,
       ...teams,
       ...collaborations,
-      ...articles,
+      ...newsArticles,
+      ...blogArticles,
       ...events,
     ]
   })
