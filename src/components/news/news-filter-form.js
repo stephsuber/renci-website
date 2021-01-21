@@ -45,7 +45,7 @@ export const NewsFilterForm = () => {
   const { filters, filterChange } = useNewsContext()
   const groups = useGroups()
   const collaborations = useCollaborations()
-  const [groupsAndCollaborations, setGroupsAndCollaborations] = useState(groups.concat(collaborations))
+  const [groupsAndCollaborations, ] = useState(groups.concat(collaborations))
   const projects = useProjects()
   const [groupOptions, setGroupOptions] = useState([])
   const [projectOptions, setProjectOptions] = useState([])
@@ -60,20 +60,20 @@ export const NewsFilterForm = () => {
     const index = groupsAndCollaborations.findIndex(group => group.id === filters.group)
     const filteredProjects = index > -1 ? groupsAndCollaborations[index].projects : projects
     setProjectOptions(filteredProjects.map(project => ({ value: project.id, label: project.name })))
-  }, [filters])
+  }, [filters, groupsAndCollaborations])
 
   return (
     <Wrapper>
       <Selects>
         <Select
           { ...select('group') }
-          options={ [{ value: '', label: `Select Group/Collaboration (${ groupOptions.length })` }].concat(groupOptions) }
+          options={ [{ value: '', label: `Select Group/Collaboration` }].concat(groupOptions) }
           onChange={ filterChange('group') }
           value={ filters.group }
         />
         <Select
           { ...select('project') }
-          options={ [{ value: '', label: `Select Project (${ projectOptions.length })` }].concat(projectOptions) }
+          options={ [{ value: '', label: `Select Project` }].concat(projectOptions) }
           onChange={ filterChange('project') }
           value={ filters.project }
         />

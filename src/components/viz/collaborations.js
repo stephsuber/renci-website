@@ -112,16 +112,6 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
     },
   }
 
-  const getNeighborhood = node => {
-    if (!node) return 
-    let neighborhood = new Set()
-    indicentEdges(node).forEach(edge => {
-      if (!neighborhood.has(edge.source)) { neighborhood.add(edge.source) }
-      if (!neighborhood.has(edge.target)) { neighborhood.add(edge.target) }
-    })
-    return neighborhood
-  }
-
   const indicentEdges = useCallback(node => {
     return graphData.links.filter(({ source, target }) => source.id === node.id || node.id === target.id)
   }, [graphData])
@@ -138,7 +128,7 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
     // context.shadowBlur = 2
     // context.shadowColor = "rgba(0, 0, 0, 0.5)";
     context.fill()
-  }, [selectedNodes])
+  }, [])
 
   const handleNodeClick = node => {
     if (selectedRootNode && selectedRootNode === node) {
@@ -151,8 +141,8 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
   
   //
 
-  const createNode = useCallback((type, id, name) => ({ id: id, name: name, type: type, ...nodeStyles[type] }), [theme.color])
-  const createEdge = useCallback((edgeType, sourceID, targetID) => ({ type: edgeType, source: sourceID, target: targetID, value: 10 }), [theme.color])
+  const createNode = useCallback((type, id, name) => ({ id: id, name: name, type: type, ...nodeStyles[type] }), [nodeStyles])
+  const createEdge = useCallback((edgeType, sourceID, targetID) => ({ type: edgeType, source: sourceID, target: targetID, value: 10 }), [])
 
   useEffect(() => {
     let nodes = []
@@ -203,14 +193,25 @@ export const CollaborationsNetwork = ({ height = 800, width = 750 }) => {
       }
     })
     setGraphData({ nodes: nodes, links: edges })
-  }, [])
+  }, [createEdge, createNode, groups, collaborations])
 
   useEffect(() => {
+    const getNeighborhood = node => {
+      if (!node) return 
+      let neighborhood = new Set()
+      indicentEdges(node).forEach(edge => {
+        if (!neighborhood.has(edge.source)) { neighborhood.add(edge.source) }
+        if (!neighborhood.has(edge.target)) { neighborhood.add(edge.target) }
+      })
+      return neighborhood
+    }
+
     setSelectedNodes(new Set())
+
     if (!selectedRootNode) return
     let neighborhood = getNeighborhood(selectedRootNode)
     setSelectedNodes(equalArrays(neighborhood, selectedNodes) ? new Set() : neighborhood)
-  }, [selectedRootNode])
+  }, [selectedRootNode, selectedNodes, indicentEdges])
 
   const edgeParticles = d => {
     switch (d.type) {
