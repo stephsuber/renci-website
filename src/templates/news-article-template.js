@@ -20,7 +20,7 @@ export default ({ data, pageContext }) => {
   }} = data
   const { prevArticle, nextArticle } = pageContext
   // collect all related objects
-  const tags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
+  const tags = [].concat(groups).concat(collaborations).concat(projects).concat(teams).concat(people)
     // turn into shape { id, name, path }
     .map(item => {
       if (item.__typename == 'PeopleYaml') {
