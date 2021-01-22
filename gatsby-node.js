@@ -19,7 +19,7 @@ exports.onCreateNode = ({ node, actions }) => {
     const matches = node.fileAbsolutePath.match(/content\/news\/(features|blog)\/(\d{4})\/(\d{2})\/.+\/index.md$/)
     if (matches) {
       const [, fileDirectory, yyyy, dd] = matches
-      const newsType = (fileDirectory === 'blog') ? 'blog' : (fileDirectory === 'features') ? 'feature' : 'untagged'
+      const newsType = (fileDirectory === 'blog') ? 'blog' : (fileDirectory === 'features') ? 'news' : 'unsorted'
       const publicDir = (fileDirectory === 'blog') ? 'blog' : (fileDirectory === 'features') ? 'news' : 'unsorted'
       const path = `/${ publicDir }/${ yyyy }/${ dd }/${ node.frontmatter.slug }`
       createNodeField({ node, name: 'newsType', value: newsType })
