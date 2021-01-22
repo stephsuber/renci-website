@@ -20,7 +20,7 @@ export default ({ data, pageContext }) => {
   }} = data
   const { prevArticle, nextArticle } = pageContext
   // collect all related objects
-  const tags = [].concat(groups).concat(collaborations).concat(projects).concat(teams).concat(people)
+  const tags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
     // turn into shape { id, name, path }
     .map(item => {
       if (item.__typename == 'PeopleYaml') {
@@ -38,9 +38,8 @@ export default ({ data, pageContext }) => {
       <Container>
         <Section title=" ">
           <NewsDate>{ publishDate }</NewsDate>
-          &nbsp;&nbsp;&nbsp;
-          <Label>{ fields.newsType }</Label>
 
+          <Label style={{ float: 'right' }}>{ fields.newsType }</Label>
 
           <Title>{ title }</Title>
 

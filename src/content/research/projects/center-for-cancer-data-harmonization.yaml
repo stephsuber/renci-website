@@ -13,16 +13,15 @@ members:
   - id: guarav-vaidya
   - id: laura-christopherson
 partners:
-  - oregon-state-university
-  - oregon-hsu
-  - university-of-chicago
-  - johns-hopkins-university
   - lbnl
+  - oregon-hsu
+  - oregon-state-university
+  - university-of-chicago
 funding:
   - johns-hopkins-university
-  - leidos-biomedical
+  - leidos-biomedical-research
   - nih-nci
 www:
-  url: http://adcirc.org/
+  url: https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh
   github: 
   twitter:

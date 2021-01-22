@@ -4,7 +4,7 @@ email: fake@email.com
 description: >
   Semantic Infrastructure for Noctua and Gene Ontology is a project providing expertise in semantic technologies to the leading resource scientists use to exchange knowledge on how genes function.
 renciRole: !markdown |
-  [The Gene Ontology (GO) project](http://geneontology.org/), by far the largest knowledgebase of how genes function, has become a critical component of the computational infrastructure enabling the genomic revolution. Its Noctua modeling tool allows creating rich, machine-readable, models of gene function.
+  The [Gene Ontology](http://geneontology.org/) (GO) project, by far the largest knowledgebase of how genes function, has become a critical component of the computational infrastructure enabling the genomic revolution. Its Noctua modeling tool allows creating rich, machine-readable, models of gene function.
  
   Because all knowledge in GO is represented using semantic web technologies, this resource is amenable to computational integration and consistency checking. RENCI contributes expertise in semantic technologies and software to support development of the GO ontology release pipeline and the next-generation Noctua modeling tool.
 members:
@@ -20,6 +20,6 @@ funding:
   - university-of-southern-california
   - nih-nhgri
 www:
-  url: http://adcirc.org/
+  url: 
   github: 
   twitter:

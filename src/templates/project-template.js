@@ -24,7 +24,7 @@ export default ({ data, pageContext }) => {
 
   const sortedPartners = partners ? [...partners].sort((p, q) => p.name > q.name ? 1 : -1) : null
   const sortedFunders = funding ? [...funding].sort((f, g) => f.name > g.name ? 1 : -1) : null
-  const sortedNews = news ? [...news].sort((a, b) => a.frontmatter.publishDate > b.frontmatter.publishDate ? 1 : -1) : null
+  const sortedNews = news ? [...news].sort((a, b) => new Date(b.frontmatter.publishDate) - new Date(a.frontmatter.publishDate)) : null
   
   return (
     <Fragment>
@@ -37,18 +37,11 @@ export default ({ data, pageContext }) => {
       <Container>
         <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
         
-        <Section title="RENCI's Role">
-          <Article>
-            <div dangerouslySetInnerHTML={{ __html: renciRole }} />
-          </Article>
-        </Section>
-
-
         {
           sortedNews && (
-            <Section title="Recent News">
+            <Section title="News">
               {
-                sortedNews.slice(-2).map((article, i) => {
+                sortedNews.slice(0, 2).map((article, i) => {
                   return (
                     <Fragment key={ article.id }>
                       <ArticlePreview article={ article } path={ article.fields.path } compact />
@@ -60,6 +53,12 @@ export default ({ data, pageContext }) => {
             </Section>
           )
         }
+
+        <Section title="RENCI's Role">
+          <Article>
+            <div dangerouslySetInnerHTML={{ __html: renciRole }} />
+          </Article>
+        </Section>
 
         <Section title="Contributors">
           {

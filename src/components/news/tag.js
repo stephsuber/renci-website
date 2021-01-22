@@ -23,7 +23,7 @@ export const Tag = styled(Link)(({ theme }) => `
 
 export const Label = styled(Link)(({ theme }) => `
   margin: 0;
-  padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
+  padding: ${ theme.spacing.small } ${ theme.spacing.extraSmall };
   border: 1px solid ${ theme.color.grey };
   border-radius: ${ theme.border.radius };
   text-decoration: none !important;
@@ -31,7 +31,7 @@ export const Label = styled(Link)(({ theme }) => `
   background-color: ${ theme.color.white };
   color: ${ theme.color.darkgrey };
   font-size: 75%;
-  line-height: ${ theme.spacing.medium };
+  line-height: ${ theme.spacing.extraSmall };
   filter: brightness(1.1);
   transition: filter 250ms;
   &:hover {

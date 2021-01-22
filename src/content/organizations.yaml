@@ -119,8 +119,8 @@
 - name: Lawrence Berkeley National Laboratory
   id: lbnl
   url: https://www.lbl.gov/
-- name: Leidos Biomedical
-  id: leidos-biomedical
+- name: Leidos Biomedical Research, Inc.
+  id: leidos-biomedical-research
   url: https://www.leidos.com/company/subsidiaries/leidos-biomedical-research
 - name: Maastricht University
   id: maastricht-university
@@ -134,9 +134,6 @@
 - name: National Center for Supercomputing Applications
   id: ncsa
   url: http://www.ncsa.illinois.edu/
-- name: National Heart, Lung, and Blood Institute
-  id: nhlbi
-  url: https://www.nhlbi.nih.gov/
 - name: National Institutes of Health
   id: nih
   url: https://www.nih.gov/
@@ -164,6 +161,9 @@
 - name: NIH National Cancer Institute
   id: nih-nci
   url: https://www.cancer.gov/
+- name: NIH National Heart, Lung, and Blood Institute
+  id: nhlbi
+  url: https://www.nhlbi.nih.gov/
 - name: NIH National Human Genome Research Institute
   id: nih-nhgri
   url: https://www.genome.gov/
@@ -173,6 +173,9 @@
 - name: NIH Office of Data Science Strategy
   id: nih-odss
   url: https://datascience.nih.gov/about/odss
+- name: NOAA Coast Survey Development Lab
+  id: noaa-csdl
+  url: https://tidesandcurrents.noaa.gov/csdl.html
 - name: North Carolina State University
   id: nc-state-university
   url: https://www.ncsu.edu/
@@ -242,7 +245,7 @@
 - name: Texas Advanced Computing Center
   id: tacc
   url: https://www.tacc.utexas.edu/
-- name: The Odum Institute for Research in Social Science
+- name: Odum Institute for Research in Social Science
   id: odum-institute
   url: https://odum.unc.edu/
 - name: San Diego State University
@@ -354,7 +357,7 @@
 - name: University of Oklahoma
   id: university-of-oklahoma
   url: https://www.ou.edu/
-- name: University of Santa Cruz
+- name: University of California, Santa Cruz
   id: uc-santa-cruz
   url: https://www.ucsc.edu/
 - name: University of South Florida

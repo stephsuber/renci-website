@@ -1,10 +1,64 @@
 import React, { Fragment } from "react"
+import styled from 'styled-components'
 import { SEO } from '../components/seo'
+import { Link } from 'gatsby'
 import { Container, Section } from '../components/layout'
 import { Paragraph } from '../components/typography'
 import { useNewsSpotlight } from '../hooks'
 import { Spotlight } from '../components/news'
 import HomeGraphic from '../images/home-graphic.png'
+import { Icon } from '../components/icon'
+
+const LearnMoreLink = styled(Link)(({ theme }) => `
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  background-color: ${ theme.color.lightgrey };
+  color: ${ theme.color.dark };
+  padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
+  border-radius: ${ theme.border.radius };
+  font-size: 75%;
+  filter: opacity(0.25);
+  transition: filter 250ms;
+  display: inline-flex;
+  flex-direction: row;
+  gap: ${ theme.spacing.small };
+  align-items: center;
+  text-decoration: none;
+`)
+
+const VizWrapper = styled.div`
+  display: flex;
+  justify-content: center;
+  backgroundColor: transparent;
+  position: relative;
+  &:hover ${ LearnMoreLink } {
+    filter: opacity(0.75);
+  }
+`
+
+const Overlay = styled.div`
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% - 8rem);
+  bottom: -8rem;
+  background: linear-gradient(to bottom, transparent, white);
+`
+
+const Visualization = () => {
+  return (
+    <VizWrapper>
+      <img
+        src={ HomeGraphic }
+        style={{ marginBottom: '-12rem', maxWidth: '1000px' }}
+        alt=""
+      />
+      <Overlay />
+      <LearnMoreLink to="/home-viz"><Icon icon="question" size={ 16 } /> <span>Explore this graphic</span></LearnMoreLink>
+    </VizWrapper>
+  )  
+}
 
 const IndexPage = () => {
   const article = useNewsSpotlight()[0]
@@ -13,14 +67,7 @@ const IndexPage = () => {
     <Fragment>
       <SEO title="Home" />
 
-      <div style={{ display: 'flex', justifyContent: 'center', backgroundColor: 'lightgrey' }}>
-        <img
-          src={ HomeGraphic }
-          style={{ marginBottom: '-12rem', maxWidth: '1000px' }}
-          alt=""
-        />
-      </div>
-
+      <Visualization />
 
       <Container>
         <Section title="News Spotlight" fullWidth>

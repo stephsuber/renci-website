@@ -1,5 +1,5 @@
 id: bdc3-cici
-name: "BDC3: CICI"
+name: BioData Catalyst CICI Program
 description: >
   The NIH Cloud Institutes and Centers Interoperability (CICI) project is working to enable a cloud data and computing infrastructure demonstrating interoperability between NIH Institutes and Centers (ICs). CICI will leverage existing infrastructure to create a cloud-native semantic fabric enabling ICs to share data and computation in the cloud.
 renciRole: !markdown |
@@ -9,7 +9,10 @@ members:
   - id: stan-ahalt
     role: Lead
   - id: steve-cox
+    role: Lead
   - id: asia-mieczkowska
+    role: Lead
+  - id: patrick-patton
 partners:
   - rti-international
   - michigan-imputation-server

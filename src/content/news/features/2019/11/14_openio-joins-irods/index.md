@@ -6,11 +6,15 @@ publishDate: 2019-11-14
 author: stephanie-suber
 featuredImage: ./openio-pattern.png
 groups:
+    - 
 projects:
     - irods
 people:
+    - json-coposky
 teams:
+    - 
 collaborations:
+    - irods-consortium
 tags:
     - networking
 ---

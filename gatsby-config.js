@@ -21,7 +21,7 @@ module.exports = {
           },
         },
         { resolve: `gatsby-source-filesystem`, options: { name: `images`, path: `${ __dirname }/src/images` }, },
-        // { resolve: `gatsby-source-filesystem`, options: { name: `content`, path: `${ __dirname }/src/content` }, },
+        { resolve: `gatsby-source-filesystem`, options: { name: `content`, path: `${ __dirname }/src/content` }, },
         { resolve: `gatsby-source-filesystem`, options: { name: `people`, path: `${ __dirname }/src/content/people` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `teams`, path: `${ __dirname }/src/content/teams` } },
         { resolve: `gatsby-source-filesystem`, options: { name: `groups`, path: `${ __dirname }/src/content/research/groups` } },

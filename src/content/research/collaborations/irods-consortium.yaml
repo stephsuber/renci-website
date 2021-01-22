@@ -12,13 +12,13 @@ renciRole: !markdown |
 projects:
   - irods
 members:
-  - jason-coposky
-  - terrell-russell
-  - alan-king
-  - daniel-moore
-  - jgill
-  - kory-draughn
-  - justin-james
+  - id: jason-coposky
+  - id: terrell-russell
+  - id: alan-king
+  - id: daniel-moore
+  - id: jgill
+  - id: kory-draughn
+  - id: justin-james
 partners:
   - renci
   - bayer

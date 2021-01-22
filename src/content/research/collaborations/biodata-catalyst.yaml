@@ -1,5 +1,5 @@
 id: biodata-catalyst
-name: BioData Catalyst Coordinating Center
+name: BioData Catalyst Coordinating Center (BDC3)
 featuredImage: biodata-catalyst.png
 description: >
   The BioData Catalyst Coordinating Center coordinates project management, communications, project reporting, and collaboration standards for the NHLBI BioData Catalyst project. BioData Catalyst is a cloud-based ecosystem providing tools, applications, and workflows in secure workspaces. 
@@ -10,16 +10,18 @@ renciRole: !markdown |
 
   Though the primary goal of the BioData Catalyst project is to build a data science platform, at its core, this is a people-centric endeavor. The Coordinating Center is in place to support BioData Catalyst as a community working to collaboratively solve technical and scientific challenges.
 members:
-  - stan-ahalt
-  - sarah-davis
-  - marcus-anderson
-  - chris-erdmann
-  - paul-kerr
-  - chris-lenhardt
-  - amanda-miller
-  - patrick-patton
-  - stephanie-suber
-  - matt-watson
+  - id: stan-ahalt
+    role: Lead
+  - id: marcus-anderson
+  - id: sarah-davis
+  - id: chris-erdmann
+  - id: paul-kerr
+  - id: chris-lenhardt
+  - id: asia-mieczkowska
+  - id: amanda-miller
+  - id: patrick-patton
+  - id: stephanie-suber
+  - id: matt-watson
 projects:
   - bdc3-cici
   - bdc3-fellows
@@ -30,7 +32,6 @@ partners:
   - nhlbi-irc
   - seven-bridges
   - topmed
-  - us-va
   - uc-santa-cruz
   - university-of-chicago
   - unc

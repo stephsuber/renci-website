@@ -24,7 +24,8 @@ const TitleContainer = styled.div`
   & .row {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
+    align-items: center;
   }
 `
 
@@ -80,6 +81,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
             <TitleContainer>
               <div className="row">
                 <NewsDate>{ article.frontmatter.publishDate }</NewsDate>
+                &nbsp;&nbsp;
                 <Label className="label">{ article.fields.newsType }</Label>
               </div>
               <Subheading className="title"><Link to={ path }>{ article.frontmatter.title }</Link></Subheading>
