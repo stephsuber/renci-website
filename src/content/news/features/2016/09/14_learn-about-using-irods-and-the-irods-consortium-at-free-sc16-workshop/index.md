@@ -20,7 +20,7 @@ tags:
     - data-management
     - open-source
 ---
-[caption id="attachment_15583" align="aligncenter" width="461"]<a href="http://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg"><img class="wp-image-15583 size-full" src="http://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg" alt="SC attendees will have the chance to attend a free workshop on using iRODS." width="461" height="272" /></a> SC16 attendees will have the chance to attend a free workshop on using iRODS.[/caption]
+[caption id="attachment_15583" align="aligncenter" width="461"]<a href="https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg"><img class="wp-image-15583 size-full" src="https://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg" alt="SC attendees will have the chance to attend a free workshop on using iRODS." width="461" height="272" /></a> SC16 attendees will have the chance to attend a free workshop on using iRODS.[/caption]
 
 <em>IRODS: From Prototype to Production will be sponsored by DDN</em>
 
@@ -44,4 +44,4 @@ The iRODS development team will also offer ongoing presentations and demonstrati
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/">irods.org.</a>
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="http://www.renci.org">www.renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="https://www.renci.org">www.renci.org</a>.

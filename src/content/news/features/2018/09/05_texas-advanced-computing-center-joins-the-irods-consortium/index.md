@@ -52,7 +52,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The iRODS Consortium guides development and support of iRODS, along with providing production-ready iRODS distribution and iRODS professional integration services, training, and support. The consortium is administered by founding member&nbsp;<a href="http://www.renci.org/">RENCI</a>, a research institute for applications of cyberinfrastructure located at the&nbsp;<a href="http://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
+<p>The iRODS Consortium guides development and support of iRODS, along with providing production-ready iRODS distribution and iRODS professional integration services, training, and support. The consortium is administered by founding member&nbsp;<a href="https://www.renci.org/">RENCI</a>, a research institute for applications of cyberinfrastructure located at the&nbsp;<a href="http://www.unc.edu/">University of North Carolina at Chapel Hill</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

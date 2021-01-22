@@ -40,4 +40,4 @@ The command vehicle in the convoy was equipped with RENCI’s Automated Vehicle 
 
 The inability to “see” vehicles in the field is a handicap during complicated emergencies that involve rescues, evacuations, firefighting and medical assistance, often happening all at once. Automatic vehicle tracking can help emergency managers conduct these complicated activities more efficiently and effectively.
 
-For more on RENCI’s AVL system, see:<a href="http://www.renci.org/news/releases/accessing-the-big-picture"> http://www.renci.org/news/releases/accessing-the-big-picture</a>
+For more on RENCI’s AVL system, see:<a href="https://www.renci.org/news/releases/accessing-the-big-picture"> https://www.renci.org/news/releases/accessing-the-big-picture</a>

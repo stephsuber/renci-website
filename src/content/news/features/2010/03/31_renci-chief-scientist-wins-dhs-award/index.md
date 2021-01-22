@@ -18,13 +18,13 @@ collaborations:
 tags:
     - ["ADCIRC","DHS","Rick Luettich","storm surge"]
 ---
-[caption id="attachment_4866" align="alignnone" width="630"]<img class="wp-image-4866 size-large" title="adcirc" src="http://www.renci.org/wp-content/uploads/2010/03/adcirc-rick-story1-630x368.png" alt="adcirc" width="630" height="368" /> Rick Luettich's ADCIRC model showing storm surge on the North Carolina coast.[/caption]
+[caption id="attachment_4866" align="alignnone" width="630"]<img class="wp-image-4866 size-large" title="adcirc" src="https://www.renci.org/wp-content/uploads/2010/03/adcirc-rick-story1-630x368.png" alt="adcirc" width="630" height="368" /> Rick Luettich's ADCIRC model showing storm surge on the North Carolina coast.[/caption]
 
 Rick Luettich, RENCI chief scientist for coastal studies and director of the Center of Excellence for Natural Disasters, Coastal Infrastructure and Emergency Management at UNC Chapel Hill received the 2010 Science and Technology Impact Award from the U.S. Department of Homeland Security (DHS).
 
 <!--more-->
 
-[caption id="attachment_4870" align="alignleft" width="140"]<img class="size-full wp-image-4870" title="rluettich" src="http://www.renci.org/wp-content/uploads/2010/03/rluettich.jpg" alt="Rick Luettich" width="140" height="200" /> Rick Luettich[/caption]
+[caption id="attachment_4870" align="alignleft" width="140"]<img class="size-full wp-image-4870" title="rluettich" src="https://www.renci.org/wp-content/uploads/2010/03/rluettich.jpg" alt="Rick Luettich" width="140" height="200" /> Rick Luettich[/caption]
 
 Luettich, also director of UNC’s Institute of Marine Sciences in Morehead City, was recognized for his work on the ADCIRC storm surge and inundation model.  The model, developed by Luettich, shows the effects of storm surge caused by coastal storms, including water heights and inundation in coastal cities and river basins. Luettich’s work with RENCI includes adapting ADCIRC so that it can model surge along the North Carolina coast.
 

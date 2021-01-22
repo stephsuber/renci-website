@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_15030" align="alignright" width="224"]<a href="http://renci.org/wp-content/uploads/2015/09/Yufeng.jpg"><img class="wp-image-15030 size-medium" src="http://renci.org/wp-content/uploads/2015/09/Yufeng-224x300.jpg" alt="Yufeng" width="224" height="300" /></a> Yufeng Xin[/caption]
+[caption id="attachment_15030" align="alignright" width="224"]<a href="https://renci.org/wp-content/uploads/2015/09/Yufeng.jpg"><img class="wp-image-15030 size-medium" src="https://renci.org/wp-content/uploads/2015/09/Yufeng-224x300.jpg" alt="Yufeng" width="224" height="300" /></a> Yufeng Xin[/caption]
 
 The National Science Foundation recently announced plans to award nearly $12 million to <a href="http://www.us-ignite.org">US Ignite</a>, as part of the new <a href="https://www.whitehouse.gov/the-press-office/2015/09/14/fact-sheet-administration-announces-new-smart-cities-initiative-help" target="_blank">White House “Smart Cities” Initiative</a>, which will provide funding to projects and organizations developing next-generation Internet applications.
 

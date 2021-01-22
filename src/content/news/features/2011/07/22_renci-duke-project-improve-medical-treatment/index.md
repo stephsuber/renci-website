@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Agency for Healthcare Research and Quality (AHRQ)","behavioral health","decision support","Duke University","Duke University Hospital","Mindlinc","VisualDecisionLinc"]
 ---
-<p><img class="alignnone size-full wp-image-8055" title="RENCI-Duke Mindlinc" src="http://www.renci.org/wp-content/uploads/2011/07/renci-duke-mindlinc-story.jpg" alt="" width="630" height="532" /></p>
+<p><img class="alignnone size-full wp-image-8055" title="RENCI-Duke Mindlinc" src="https://www.renci.org/wp-content/uploads/2011/07/renci-duke-mindlinc-story.jpg" alt="" width="630" height="532" /></p>
 
 <p>CHAPEL HILL, NC, July 22, 2011--A R21 NIH exploratory/developmental research grant from the Agency for Healthcare Research and Quality (AHRQ) will enable RENCI and Duke University to develop a system that aggregates and visualizes historical medical data so doctors can use it to help them make the best possible treatment decisions for their patients.<!--more--></p>
 

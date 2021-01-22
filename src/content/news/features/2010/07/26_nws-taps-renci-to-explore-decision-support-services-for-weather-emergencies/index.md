@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["National Weather Service (NWS)","NOAA","Weather for Emergency Management"]
 ---
-<p><img class="alignnone size-full wp-image-5716" title="nws-logo" src="http://www.renci.org/wp-content/uploads/2010/07/nws-logo1.jpg" alt="" width="650" height="400" /></p>
+<p><img class="alignnone size-full wp-image-5716" title="nws-logo" src="https://www.renci.org/wp-content/uploads/2010/07/nws-logo1.jpg" alt="" width="650" height="400" /></p>
 
 <p>CHAPEL HILL, NC--NOAA’s National Weather Service (NWS) Office of Science and Technology will provide $400,000 to the Renaissance Computing Institute (RENCI) to develop and evaluate technologies that will help the emergency management community prepare for and respond to weather events such as hurricanes, tornadoes, blizzards and floods.  <!--more--></p>
 

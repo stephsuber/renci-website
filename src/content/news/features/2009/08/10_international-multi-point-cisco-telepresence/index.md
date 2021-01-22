@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Cisco","high-res video","National LambdaRail (NLR)"]
 ---
-[caption id="attachment_3961" align="alignnone" width="630"]<a href="http://www.renci.org/wp-content/uploads/2009/08/nlr-story-img.jpg"><img class="wp-image-3961 size-full" title="nlr-story-img" src="http://www.renci.org/wp-content/uploads/2009/08/nlr-story-img.jpg" alt="nlr-story-img" width="630" height="354" /></a> Image above shows the National Lambda Rail stretching across the United States.[/caption]
+[caption id="attachment_3961" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/08/nlr-story-img.jpg"><img class="wp-image-3961 size-full" title="nlr-story-img" src="https://www.renci.org/wp-content/uploads/2009/08/nlr-story-img.jpg" alt="nlr-story-img" width="630" height="354" /></a> Image above shows the National Lambda Rail stretching across the United States.[/caption]
 
 Cypress, Calif. – August 10, 2009 –  National LambdaRail (NLR), the cutting-edge network for advanced research and innovation owned by the U.S. research and education community, in collaboration with AARNet, Australia’s Academic and Research Network, and Cisco, arranged for the first, international Cisco TelePresence sessions over a research and education network between multiple physical locations.
 

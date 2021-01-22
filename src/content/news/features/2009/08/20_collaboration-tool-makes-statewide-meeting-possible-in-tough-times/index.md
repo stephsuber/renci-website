@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["North Carolina Emergency Managers Association","SmileTiger"]
 ---
-[caption id="attachment_3824" align="alignnone" width="630"]<a href="http://www.renci.org/wp-content/uploads/2009/06/hurricane-exercise1.jpg"><img class="wp-image-3824 size-full" title="hurricane-exercise1" src="http://www.renci.org/wp-content/uploads/2009/06/hurricane-exercise1.jpg" alt="hurricane-exercise1" width="630" height="473" /></a> Using SmileTiger software on a PC allows emergency managers to attend meetings and receive training without travel.[/caption]
+[caption id="attachment_3824" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/06/hurricane-exercise1.jpg"><img class="wp-image-3824 size-full" title="hurricane-exercise1" src="https://www.renci.org/wp-content/uploads/2009/06/hurricane-exercise1.jpg" alt="hurricane-exercise1" width="630" height="473" /></a> Using SmileTiger software on a PC allows emergency managers to attend meetings and receive training without travel.[/caption]
 
 <strong>The challenge: </strong>how to assemble emergency managers from 100 counties across North Carolina for an important meeting at a time when budgets are so tight that  traveling is not an option.
 

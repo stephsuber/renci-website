@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["RENCI at ECU","visualization"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2011/04/VisChallenge_2011_Wester.jpg"><img class="alignnone size-full wp-image-7328" title="VisChallenge_2011_Wester" src="http://www.renci.org/wp-content/uploads/2011/04/VisChallenge_2011_Wester.jpg" alt="" width="640" height="480" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2011/04/VisChallenge_2011_Wester.jpg"><img class="alignnone size-full wp-image-7328" title="VisChallenge_2011_Wester" src="https://www.renci.org/wp-content/uploads/2011/04/VisChallenge_2011_Wester.jpg" alt="" width="640" height="480" /></a></p>
 
 <p>The Visualization Challenge hosted by RENCI at East Carolina University (ECU) drew excellent presentations again this year.</p>
 

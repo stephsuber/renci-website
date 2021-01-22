@@ -20,7 +20,7 @@ tags:
 ---
 &nbsp;
 
-[caption id="attachment_7739" align="aligncenter" width="630"]<a href="http://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="http://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png" alt="" width="630" height="298" /></a> Research at the UNC Gillings School of Global Public Health doesn't stop in Chapel Hill. Our maps of North Carolina and the world show where School faculty, staff and students make a difference.[/caption]
+[caption id="attachment_7739" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="https://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png" alt="" width="630" height="298" /></a> Research at the UNC Gillings School of Global Public Health doesn't stop in Chapel Hill. Our maps of North Carolina and the world show where School faculty, staff and students make a difference.[/caption]
 
 CHAPEL HILL—The University of North Carolina’s Gillings School of Global Public Health has impact far beyond the UNC campus in Chapel Hill. From Dare to Swain counties in North Carolina, from Malawi to Malaysia, the school’s reach is worldwide.
 

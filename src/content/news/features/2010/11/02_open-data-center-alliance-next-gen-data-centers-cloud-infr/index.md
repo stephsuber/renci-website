@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg"><img class="alignnone size-full wp-image-6467" title="ODCA_logo" src="http://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg" alt="" width="630" height="435" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg"><img class="alignnone size-full wp-image-6467" title="ODCA_logo" src="https://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg" alt="" width="630" height="435" /></a></p>
 
 <p>SAN FRANCISCO - The Open Data Center Alliance, an independent consortium of global IT leaders this week announced its formation and previewed the Alliance's 0.5 vendor-agnostic Usage Model Roadmap.<!--more--></p>
 

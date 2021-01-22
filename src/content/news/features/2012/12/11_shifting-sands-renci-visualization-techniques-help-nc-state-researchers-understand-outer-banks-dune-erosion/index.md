@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="size-large wp-image-12067 alignleft" title="OI-HI-mean-elevations-pic" src="http://www.renci.org/wp-content/uploads/2013/10/OI-HI-mean-elevations-pic-630x367.jpg" alt="" width="640" height="373" />
+<img class="size-large wp-image-12067 alignleft" title="OI-HI-mean-elevations-pic" src="https://www.renci.org/wp-content/uploads/2013/10/OI-HI-mean-elevations-pic-630x367.jpg" alt="" width="640" height="373" />
 It takes no more than watching the news to realize that homes and businesses along the U.S. East Coast face dangers from erosion, floods, and monster storms. Although North Carolina escaped most of the havoc caused by Hurricane Sandy, its Outer Banks constitute a vulnerable strip of land. The region’s fragile natural environments and popular tourist attractions are battered every year by tropical storms, nor’easters, and winds that erode beaches, shift sand dunes, degrade dune ridges, wash out roads, and sometimes threaten peoples’ lives and homes.<!--more-->
 
 A North Carolina State University research team works to understand the dynamics of Outer Banks terrain using data on land elevation, sea levels, and coastal development and innovative visualization techniques developed through a collaboration with RENCI.
@@ -31,7 +31,7 @@ The researchers wanted to examine changes to the terrain over time, and to compa
 
 &nbsp;
 
-<a href="http://www.renci.org/wp-content/uploads/2012/12/Rodanthe_ridge_dynamics_A_elev.jpg"><img title="Rodanthe_ridge_dynamics_A_elev" src="http://www.renci.org/wp-content/uploads/2012/12/Rodanthe_ridge_dynamics_A_elev-630x289.jpg" alt="" width="630" height="289" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/12/Rodanthe_ridge_dynamics_A_elev.jpg"><img title="Rodanthe_ridge_dynamics_A_elev" src="https://www.renci.org/wp-content/uploads/2012/12/Rodanthe_ridge_dynamics_A_elev-630x289.jpg" alt="" width="630" height="289" /></a>
 <h3>Capturing both space and time</h3>
 “The Outer Banks is a long, narrow geographical area and with Sid’s help, we’ve been able to represent that large spatial area, as well as time, in one image,” said Tateosian. “That’s a much more effective way to look at our data than to compare a whole series of single images.”
 

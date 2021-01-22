@@ -43,7 +43,7 @@ experts </em>
 <p>The
 2019 meeting is sponsored by <a href="http://cloudian.com/">Cloudian</a>,
 <a href="http://www.ddn.com/">DDN</a>,
-<a href="http://www.renci.org/">RENCI</a>,
+<a href="https://www.renci.org/">RENCI</a>,
 <a href="http://www.suse.com/">SUSE</a>,
 <a href="http://www.uu.nl/en">Utrecht
 University</a>,

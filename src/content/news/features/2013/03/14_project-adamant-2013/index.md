@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["CENIC","ExoGENI","GENI","Open Resource Control Architecture (ORCA)"]
 ---
-<img class="size-large wp-image-12067 alignleft" title="networking" alt="" src="http://www.renci.org/wp-content/uploads/2013/10/networking.jpg" width="640" height="325" />
+<img class="size-large wp-image-12067 alignleft" title="networking" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/networking.jpg" width="640" height="325" />
 
 March 13, 2013 — La Mirada, CA — Project ADAMANT, a collaborative effort of the University of Southern California Information Sciences Institute (USC/ISI), RENCI at UNC Chapel Hill and Duke University, has been honored by the Corporation for Education Network Initiatives in California (<a href="http://www.cenic.org/">CENIC</a>) as the recipient of the 2013 Innovations in Networking Award for Experimental/Developmental Applications.<!--more-->
 

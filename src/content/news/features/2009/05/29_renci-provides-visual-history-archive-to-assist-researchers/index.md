@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["University of North Carolina at Greensboro (UNCG)","Visual History Archive (VHA)"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg"><img class="alignnone size-full wp-image-3688" title="vha_story_img" src="http://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg" alt="vha_story_img" width="630" height="500" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg"><img class="alignnone size-full wp-image-3688" title="vha_story_img" src="https://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg" alt="vha_story_img" width="630" height="500" /></a></p>
 
 <p>Carolinians, historians, and students will soon gain a better understanding of Holocaust survivors who reside in North Carolina.<!--more--></p>
 
@@ -32,4 +32,4 @@ tags:
 
 <p>The VHA is available to faculty, staff, students and the general public on the campuses of University of North Carolina Chapel Hill, Duke University, and North Carolina State University. Public listening/viewing areas are available at Davis Library at UNC, D.H. Hill Library at NC State, and Perkins library at Duke. UNC Greensboro is expected to have access to the VHA by the end of the summer.</p>
 
-<p>For more information about the VHA, see http://www.renci.org/focus-areas/humanities-arts-and-social-science/usc-shoah-foundation-vha.</p>
+<p>For more information about the VHA, see https://www.renci.org/focus-areas/humanities-arts-and-social-science/usc-shoah-foundation-vha.</p>

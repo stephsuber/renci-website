@@ -18,9 +18,9 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13187" align="alignnone" width="640"]<a href="http://www.renci.org/wp-content/uploads/2014/03/scr-ncsu.jpg"><img class="size-news-large wp-image-13187" src="http://www.renci.org/wp-content/uploads/2014/03/scr-ncsu-640x480.jpg" alt="scr-ncsu" width="640" height="480" /></a> New Social Computing Rooms at NC State and Odum Institute expand RENCI’s successful visualization technology[/caption]
+[caption id="attachment_13187" align="alignnone" width="640"]<a href="https://www.renci.org/wp-content/uploads/2014/03/scr-ncsu.jpg"><img class="size-news-large wp-image-13187" src="https://www.renci.org/wp-content/uploads/2014/03/scr-ncsu-640x480.jpg" alt="scr-ncsu" width="640" height="480" /></a> New Social Computing Rooms at NC State and Odum Institute expand RENCI’s successful visualization technology[/caption]
 
-With RENCI’s guidance and assistance, campus units at several Triangle universities are developing interactive multimedia presentation rooms modeled after RENCI’s own Social Computing Room (<a href="http://www.renci.org/blog/rencis-social-computing-room-in-action/" target="_blank">SCR</a>), located in the ITS Manning building on the UNC Chapel Hill campus. <!--more-->
+With RENCI’s guidance and assistance, campus units at several Triangle universities are developing interactive multimedia presentation rooms modeled after RENCI’s own Social Computing Room (<a href="https://www.renci.org/blog/rencis-social-computing-room-in-action/" target="_blank">SCR</a>), located in the ITS Manning building on the UNC Chapel Hill campus. <!--more-->
 
 The SCR provides an immersive 360-degree view of any visual content, allowing users to interact with and explore data in groups. The original SCR, built in 2007, runs on a Windows desktop and uses three projectors per wall (12 total) to achieve the 360-degree experience. The room can visualize scientific data set at 9.5 million pixels.  It also includes a system capable of tracking up to 15 people or resources in real time. The SCR’s many uses have included image analysis for cancer researchers at UNC’s School of Medicine as well as class projects and presentations for courses in computer science, English, art, and law.
 

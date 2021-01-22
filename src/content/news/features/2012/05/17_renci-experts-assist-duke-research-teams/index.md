@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13826" align="aligncenter" width="642"]<a href="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png"><img class="wp-image-13826 size-full" title="Arctic_Duke_flag" src="http://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png" alt="Cassar on sea ice" width="642" height="425" /></a> Nicolas Cassar, assistant professor in Duke University’s Nicholas School of the Environment, stands on sea ice over the North Pole during an expedition last summer to collect data on carbon export from ocean surfaces to the deep. Cassar is one of the Duke faculty members who will work with RENCI through the Program in Applied Scientific and Information Visualization.[/caption]
+[caption id="attachment_13826" align="aligncenter" width="642"]<a href="https://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png"><img class="wp-image-13826 size-full" title="Arctic_Duke_flag" src="https://renci.org/wp-content/uploads/2012/05/Screen-Shot-2014-11-13-at-12.12.05-PM.png" alt="Cassar on sea ice" width="642" height="425" /></a> Nicolas Cassar, assistant professor in Duke University’s Nicholas School of the Environment, stands on sea ice over the North Pole during an expedition last summer to collect data on carbon export from ocean surfaces to the deep. Cassar is one of the Duke faculty members who will work with RENCI through the Program in Applied Scientific and Information Visualization.[/caption]
 
 DURHAM, NC—Two Duke University research projects—one that uses virtual environments to combat the Type 2 diabetes epidemic and another that aims to understand the role of the oceans in global climate change—will get a boost from RENCI scientific visualization experts as they work to understand complex, multidimensional datasets.
 
@@ -35,7 +35,7 @@ Allison Vorderstrasse, assistant professor, School of Nursing</em>
 
 Johnson and Vorderstrasse developed a virtual environment (VE) designed to help patients with Type 2 diabetes understand and control their disease. The environment allows the patients to interact with other patients and clinicians, form social connections, explore diabetes educational resources, and take part in educational sessions.
 
-<a href="http://www.renci.org/wp-content/uploads/2012/05/Duke-VE.png"><img class="alignnone size-full wp-image-9056" title="Duke-VE" src="http://www.renci.org/wp-content/uploads/2012/05/Duke-VE.png" alt="" width="600" height="466" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/05/Duke-VE.png"><img class="alignnone size-full wp-image-9056" title="Duke-VE" src="https://www.renci.org/wp-content/uploads/2012/05/Duke-VE.png" alt="" width="600" height="466" /></a>
 
 <em>Above: The avatars of Constance M. Johnson (left) and Allison Vorderstrasse, both assistant professors in the Duke University School of Nursing, navigate through a grocery store in the virtual environment they have created for diabetes patients.</em>
 
@@ -54,7 +54,7 @@ RENCI will work with the team to create visualizations across space and time tha
 
 Cassar studies carbon export, the process by which marine phytoplankton sucks carbon dioxide (CO<sub>2</sub>) from the atmosphere and converts it to organic carbon, which then settles to the deep ocean floor. The process is central to the distribution of carbon between the atmosphere and deep oceans, and scientists ultimately want to understand how global climate change might affect this “oceanic biological pump.”
 
-<a href="http://www.renci.org/wp-content/uploads/2012/05/Arctic2011-485.png"><img class="alignnone size-full wp-image-9025" title="Arctic2011-(485)" src="http://www.renci.org/wp-content/uploads/2012/05/Arctic2011-485.png" alt="" width="600" height="399" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/05/Arctic2011-485.png"><img class="alignnone size-full wp-image-9025" title="Arctic2011-(485)" src="https://www.renci.org/wp-content/uploads/2012/05/Arctic2011-485.png" alt="" width="600" height="399" /></a>
 
 <em>Above: The German icebreaking research vessel Polarstern on its voyage around the North Pole last summer. Duke researcher Nicolas Cassar collected data on that expedition.</em>
 

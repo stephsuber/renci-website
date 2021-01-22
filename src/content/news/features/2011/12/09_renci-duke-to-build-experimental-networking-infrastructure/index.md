@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["ExoGENI","GENI","National Science Foundation","Networking","ORCA"]
 ---
-<p><img class="size-full wp-image-8604 alignnone" title="renci-exogeni-story" src="http://www.renci.org/wp-content/uploads/2011/12/renci-exogeni-story.jpg" alt="" width="630" height="450" /></p>
+<p><img class="size-full wp-image-8604 alignnone" title="renci-exogeni-story" src="https://www.renci.org/wp-content/uploads/2011/12/renci-exogeni-story.jpg" alt="" width="630" height="450" /></p>
 
 <p>CHAPEL HILL, Dec. 9, 2011--RENCI at the University of North Carolina, Chapel Hill and Duke University in partnership with IBM will lead a new project to build a nationwide test bed for networking and networked cloud computing.<!--more--></p>
 

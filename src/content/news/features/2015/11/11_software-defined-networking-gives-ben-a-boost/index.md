@@ -19,9 +19,9 @@ collaborations:
 tags:
     - networking
 ---
-<em><a href="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final.jpg"><img class="alignright size-medium wp-image-15190" src="http://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg" alt="BEN Logo 9 final" width="300" height="157" /></a>Breakable Experimental Network (BEN) is now faster and SDN-enabled</em>
+<em><a href="https://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final.jpg"><img class="alignright size-medium wp-image-15190" src="https://renci.org/wp-content/uploads/2015/11/BEN-Logo-9-final-300x157.jpg" alt="BEN Logo 9 final" width="300" height="157" /></a>Breakable Experimental Network (BEN) is now faster and SDN-enabled</em>
 
-CHAPEL HILL, NC, November 10, 2015 - A collaboration between researchers at RENCI and the University of Houston means that RENCI’s <a href="http://renci.org/news/benefits-of-ben/">Breakable Experimental Network</a> (BEN) will be faster and easier to use for scientists with data intensive research problems to solve.
+CHAPEL HILL, NC, November 10, 2015 - A collaboration between researchers at RENCI and the University of Houston means that RENCI’s <a href="https://renci.org/news/benefits-of-ben/">Breakable Experimental Network</a> (BEN) will be faster and easier to use for scientists with data intensive research problems to solve.
 
 <!--more-->
 
@@ -49,6 +49,6 @@ The partnership with the University of Houston could evolve into a continuing co
 
 <strong>RENCI networking research at SC15</strong>
 
-RENCI’s networking research group will be at the RENCI booth (#181) at <a href="http://sc15.supercomputing.org/">SC15</a>, the international conference for high performance computing, networking, storage and analysis in Austin, Texas, Nov. 17 – 19. Stop by the booth to learn more about ExoGENI. RENCI networking experts will also present <a href="http://renci.org/research/panorama/">PANORAMA</a>, an approach for modeling and diagnosing the run-time performance of complex scientific workflows, and the Resource Aware Data-centrIc collaboratIon Infrastructure (<a href="http://renci.org/radii/">RADII</a>), a cloud-based platform designed to enable data-centric collaborations. Another demonstration will deploy ExoGENI resources on <a href="https://www.cloudlab.us/">CloudLab</a>, a flexible, scientific infrastructure for research on the future of cloud computing.
+RENCI’s networking research group will be at the RENCI booth (#181) at <a href="http://sc15.supercomputing.org/">SC15</a>, the international conference for high performance computing, networking, storage and analysis in Austin, Texas, Nov. 17 – 19. Stop by the booth to learn more about ExoGENI. RENCI networking experts will also present <a href="https://renci.org/research/panorama/">PANORAMA</a>, an approach for modeling and diagnosing the run-time performance of complex scientific workflows, and the Resource Aware Data-centrIc collaboratIon Infrastructure (<a href="https://renci.org/radii/">RADII</a>), a cloud-based platform designed to enable data-centric collaborations. Another demonstration will deploy ExoGENI resources on <a href="https://www.cloudlab.us/">CloudLab</a>, a flexible, scientific infrastructure for research on the future of cloud computing.
 
-RENCI iRODS team, developers of the integrated Rule-Oriented Data System, will also be in the RENCI booth offering demonstrations and information about iRODS and the iRODS Consortium. For a complete list of booth presentations, click <a href="http://renci.org/sc15-renci-booth-schedule/">here</a>.
+RENCI iRODS team, developers of the integrated Rule-Oriented Data System, will also be in the RENCI booth offering demonstrations and information about iRODS and the iRODS Consortium. For a complete list of booth presentations, click <a href="https://renci.org/sc15-renci-booth-schedule/">here</a>.

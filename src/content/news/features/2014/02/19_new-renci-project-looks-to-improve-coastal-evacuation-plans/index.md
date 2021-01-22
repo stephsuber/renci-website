@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13096" align="alignleft" width="384"]<a href="http://www.renci.org/wp-content/uploads/2014/02/ADCIRC.png"><img class=" wp-image-13096 " alt="Storm surge inundation from Hurricane Isabel (2003) with evacuation routes and emergency management shelters (green dots)." src="http://www.renci.org/wp-content/uploads/2014/02/ADCIRC-1024x657.png" width="384" height="246" /></a> Storm surge inundation from Hurricane Isabel (2003) with evacuation routes and emergency management shelters (green dots).[/caption]
+[caption id="attachment_13096" align="alignleft" width="384"]<a href="https://www.renci.org/wp-content/uploads/2014/02/ADCIRC.png"><img class=" wp-image-13096 " alt="Storm surge inundation from Hurricane Isabel (2003) with evacuation routes and emergency management shelters (green dots)." src="https://www.renci.org/wp-content/uploads/2014/02/ADCIRC-1024x657.png" width="384" height="246" /></a> Storm surge inundation from Hurricane Isabel (2003) with evacuation routes and emergency management shelters (green dots).[/caption]
 
 While generating precise and accurate storm surge and atmospheric predictions during a tropical cyclone (a hurricane) is important, so too is knowing the best way to safely evacuate and shelter the large numbers of people threatened during these events.
 
@@ -34,4 +34,4 @@ The new modeling system will evaluate planning options and determine the most op
 
 Partners on the project include researchers at the University of Delaware, Cornell University, the State University of New York (SUNY) at Stonybrook, and the University of Oklahoma. Funding is provided through the NSF’s Interdisciplinary Research in Hazards and Disasters Science, Engineering, and Education for Sustainability program (<a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504707">Hazards SEES</a>).  The North Carolina Department of Public Safety, within which is the Emergency Management division, is also a participant in the project.
 
-For more information on all of RENCI's work with Coastal Hazards Modeling, visit our <a href="http://www.renci.org/research/coastal-hazards-modeling/">project page</a>.
+For more information on all of RENCI's work with Coastal Hazards Modeling, visit our <a href="https://www.renci.org/research/coastal-hazards-modeling/">project page</a>.

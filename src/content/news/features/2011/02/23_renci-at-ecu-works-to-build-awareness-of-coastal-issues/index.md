@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignnone size-full wp-image-6806" title="ECiwebsite" src="http://www.renci.org/wp-content/uploads/2011/02/banner2.png" alt="" width="780" height="312" />
+<img class="alignnone size-full wp-image-6806" title="ECiwebsite" src="https://www.renci.org/wp-content/uploads/2011/02/banner2.png" alt="" width="780" height="312" />
 
 It’s been almost four years since RENCI established its East Carolina University (ECU) regional engagement center, an effort that links RENCI experts to faculty, staff and students at ECU to address issues important to coastal North Carolina.<!--more-->
 

@@ -43,7 +43,7 @@ The team has worked on national and international projects, providing data manag
 On Thursday (Aug. 29), the DICE group will receive the 2008 J. Franklin Jameson Archival Advocacy Award from the Society of American Archivists during the group’s annual meeting in San Francisco. A society news release said the award honors “an individual, institution or organization that promotes greater public awareness, appreciation or support of archives. The DICE group was selected for its long-time support of and involvement in the archives profession’s work to address the challenges of managing, preserving, and providing access to electronic records.”
 
 <strong>School of Information and Library Science Web site</strong>: <a href="http://sils.unc.edu/" target="_blank" rel="noopener">http://sils.unc.edu/</a>
-<strong>RENCI Web site: </strong><a href="http://www.renci.org/">http://www.renci.org/</a>
+<strong>RENCI Web site: </strong><a href="https://www.renci.org/">https://www.renci.org/</a>
 <strong>DICE Web site:</strong> <a href="http://dice.unc.edu/" target="_blank" rel="noopener">http://diceresearch.org</a>
 <strong>iRODS Web site</strong>: <a href="http://www.irods.org/" target="_blank" rel="noopener">http://www.irods.org</a>
 

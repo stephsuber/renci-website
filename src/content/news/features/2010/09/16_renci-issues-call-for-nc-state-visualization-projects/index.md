@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1.jpg"><img class="alignnone size-large wp-image-6289" title="ncsu-engagement-cfp" src="http://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1-630x472.jpg" alt="" width="630" height="472" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1.jpg"><img class="alignnone size-large wp-image-6289" title="ncsu-engagement-cfp" src="https://www.renci.org/wp-content/uploads/2010/09/ncsu-engagement-cfp1-630x472.jpg" alt="" width="630" height="472" /></a></p>
 
 <p>RENCI at North Carolina State University seeks NC State faculty members and researchers to participate in the center’s inaugural Program in Applied Scientific and Information Visualization.</p>
 
@@ -28,7 +28,7 @@ tags:
 
 <p>Through the program, RENCI aims to expand the use of advanced visualization tools among NC State researchers, to help research teams take their work to a new level of academic achievement and to set the stage for future research collaborations that can compete for external funding. Participants in the program will be expected to generate concrete results, such as new methods, models, applications or prototypes that can serve as the basis of larger, externally funded projects.</p>
 
-<p>Applications are due Oct. 22, 2010. To see the complete Call for Proposals, including submission guidelines, please <a href="http://www.renci.org/wp-content/uploads/2010/09/RENCI-at-NCSU-Engagement-Program.pdf" target="_blank">download the CFP</a>.</p>
+<p>Applications are due Oct. 22, 2010. To see the complete Call for Proposals, including submission guidelines, please <a href="https://www.renci.org/wp-content/uploads/2010/09/RENCI-at-NCSU-Engagement-Program.pdf" target="_blank">download the CFP</a>.</p>
 
 <p><strong class="head2">About RENCI at North Carolina State</strong></p>
 

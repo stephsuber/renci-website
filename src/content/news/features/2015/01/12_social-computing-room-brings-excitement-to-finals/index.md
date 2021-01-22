@@ -31,7 +31,7 @@ For the past two years, Ward has structured GEO 445 as a project-based course wh
 
 “Presenting one poster per student would take forever, and students would likely check out. Instead, using the SCR closely mimics something you might see at a professional conference, and it lets students relax and have more time with posters they like,” said Ward.
 
-[caption id="attachment_14252" align="aligncenter" width="640"]<a href="http://renci.org/wp-content/uploads/2015/01/IMG_62361.jpg"><img class="wp-image-14252 size-large" src="http://renci.org/wp-content/uploads/2015/01/IMG_62361-1024x273.jpg" alt="GEO 445 Poster Session" width="640" height="171" /></a> Students in GEO 445 present their posters during the final exam session.[/caption]
+[caption id="attachment_14252" align="aligncenter" width="640"]<a href="https://renci.org/wp-content/uploads/2015/01/IMG_62361.jpg"><img class="wp-image-14252 size-large" src="https://renci.org/wp-content/uploads/2015/01/IMG_62361-1024x273.jpg" alt="GEO 445 Poster Session" width="640" height="171" /></a> Students in GEO 445 present their posters during the final exam session.[/caption]
 
 &nbsp;
 
@@ -41,6 +41,6 @@ As an added bonus, the posters are useful to Ward and her students after the sem
 
 Before the SCR came to campus, the GEO 445 course was lecture-driven with a written final exam. When Ward heard about the SCR from Amanda Henley, GIS librarian located in Davis Library, she had the idea to implement the poster sessions as the new culmination for a project-based class. Ward plans to maintain this structure: “I can’t foresee any other way because feedback has been so positive.” She is also working with RENCI staff to brainstorm a new idea for her Disease Ecology class using the SCR as a massive Google Earth display.
 
-For more on the SCR, see <a href="http://renci.org/news/built-for-interaction/" target="_blank">Built for Interaction</a>, or to reserve the RENCI SCR, email <a href="mailto:scr-help@renci.org" target="_blank">scr-help@renci.org</a>.
+For more on the SCR, see <a href="https://renci.org/news/built-for-interaction/" target="_blank">Built for Interaction</a>, or to reserve the RENCI SCR, email <a href="mailto:scr-help@renci.org" target="_blank">scr-help@renci.org</a>.
 
 [gallery size="medium" ids="14253,14254,14241"]

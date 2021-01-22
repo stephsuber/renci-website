@@ -34,7 +34,7 @@ Those who are interested in learning more about the bakeoff or the February meet
 
 <strong>RENCI, Catalyst for Innovation</strong>
 
-The Renaissance Computing Institute brings together computer and discipline scientists, artists, humanists, industry leaders, entrepreneurs, state leaders and educators for collaborations designed to reshape science, the economy, the state of North Carolina and the world. RENCI leverages its expertise and resources in leading edge computing, networking and data technologies to ignite innovation and find solutions to previously intractable problems. Founded in 2004 as a major collaborative venture of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization. For more, see <a href="http://www.renci.org/">www.renci.org</a>.
+The Renaissance Computing Institute brings together computer and discipline scientists, artists, humanists, industry leaders, entrepreneurs, state leaders and educators for collaborations designed to reshape science, the economy, the state of North Carolina and the world. RENCI leverages its expertise and resources in leading edge computing, networking and data technologies to ignite innovation and find solutions to previously intractable problems. Founded in 2004 as a major collaborative venture of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization. For more, see <a href="https://www.renci.org/">www.renci.org</a>.
 
 <strong> Media contact</strong>
 

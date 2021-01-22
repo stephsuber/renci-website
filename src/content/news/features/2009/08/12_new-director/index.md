@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Stan Ahalt"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg"><img class="alignnone size-full wp-image-3974" title="stan-story-img" src="http://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg" alt="stan-story-img" width="630" height="400" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg"><img class="alignnone size-full wp-image-3974" title="stan-story-img" src="https://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg" alt="stan-story-img" width="630" height="400" /></a></p>
 
 <p>CHAPEL HILL, NC — Stanley C. Ahalt, will become the new director of the Renaissance Computing Institute (RENCI), the multi-campus research center with its home base in Chapel Hill, UNC-Chapel Hill Vice Chancellor for Research and Economic Development Tony Waldrop announced today. <!--more--></p>
 
@@ -39,7 +39,7 @@ tags:
 <p>“I’m coming here because RENCI, with its unique multi-campus structure and multidisciplinary approach, offers tremendous opportunities,” said Ahalt. “RENCI is positioned to build fruitful partnerships that span campuses and research domains, academia, business and government. I look forward to bringing together the intellectual strength of our universities and RENCI’s advanced technology infrastructure to solve critical problems and to help build a robust North Carolina knowledge economy.”</p>
 
 <p><span class="head2">About RENCI</span><br />
- The Renaissance Computing Institute (RENCI), a multi-institutional organization, brings together multidisciplinary experts and advanced technological capabilities to address pressing research issues and to find solutions to complex problems that affect the quality of life in North Carolina, our nation and the world. Founded in 2004 as a major collaboration of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization. For more see http://www.renci.org.</p>
+ The Renaissance Computing Institute (RENCI), a multi-institutional organization, brings together multidisciplinary experts and advanced technological capabilities to address pressing research issues and to find solutions to complex problems that affect the quality of life in North Carolina, our nation and the world. Founded in 2004 as a major collaboration of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization. For more see https://www.renci.org.</p>
 
 <p>Media Contacts:<br />
  RENCI: Karen Green, kgreen@renci.org, 919-445-9648, 919-619-8213 (mobile)<br />

@@ -59,4 +59,4 @@ ORCA was developed at the Duke University New Internet Computing Lab by computer
 
 <a href="http://www.geni.net/">GENI Project website</a>
 
-<a href="http://www.renci.org">RENCI website</a>
+<a href="https://www.renci.org">RENCI website</a>

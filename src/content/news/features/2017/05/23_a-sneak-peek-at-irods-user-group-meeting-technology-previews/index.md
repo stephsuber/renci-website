@@ -23,7 +23,7 @@ tags:
 ---
 <em>New plugins to be highlighted; register now at </em><a href="https://irods.org/"><em>irods.org</em></a>
 
-[caption id="attachment_16413" align="aligncenter" width="640"]<a href="http://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o.jpg"><img class="wp-image-16413 size-large" src="http://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o-1024x681.jpg" alt="" width="640" height="426" /></a> Above: Terrell Russell speaks at last year's iRODS User Group Meeting.[/caption]
+[caption id="attachment_16413" align="aligncenter" width="640"]<a href="https://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o.jpg"><img class="wp-image-16413 size-large" src="https://renci.org/wp-content/uploads/2017/05/27943123275_b4da2bd365_o-1024x681.jpg" alt="" width="640" height="426" /></a> Above: Terrell Russell speaks at last year's iRODS User Group Meeting.[/caption]
 
 The worldwide iRODS community will gather June 13 – 15 for the first User Group Meeting to be held at Utrecht University in The Netherlands.
 
@@ -53,6 +53,6 @@ For more information on iRODS and the iRODS Consortium, visit <a href="https://i
 
 For more information on Utrecht University, the host of the 2017 UGM, visit <a href="https://www.uu.nl/en">https://www.uu.nl/en</a>.
 
-<a href="http://renci.org/wp-content/uploads/2017/05/ugm2017_logo_color.jpg">Download the 2017 UGM logo.</a>
+<a href="https://renci.org/wp-content/uploads/2017/05/ugm2017_logo_color.jpg">Download the 2017 UGM logo.</a>
 
-<a href="http://renci.org/wp-content/uploads/2016/11/iRODS-Logo.png">Download the iRODS logo.</a>
+<a href="https://renci.org/wp-content/uploads/2016/11/iRODS-Logo.png">Download the iRODS logo.</a>

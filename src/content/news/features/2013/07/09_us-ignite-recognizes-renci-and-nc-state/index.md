@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class=" wp-image-12067 alignleft" title="USignite" alt="" src="http://www.renci.org/wp-content/uploads/2013/07/USignite.jpg" width="640" height="426" />
+<img class=" wp-image-12067 alignleft" title="USignite" alt="" src="https://www.renci.org/wp-content/uploads/2013/07/USignite.jpg" width="640" height="426" />
 
 CHAPEL HILL, NC, July 9, 2013 - Researchers at RENCI and North Carolina State University took home an award at the recent US Ignite Application Summit for demonstrating a prototype next-generation Internet application that monitors large power systems over a wide-area, high-performance communication network.
 <!--more-->
@@ -43,4 +43,4 @@ U.S. Ignite is a nonprofit inspired by the White House Office of Science and Tec
 <a href="http://us-ignite.org/" target="_blank">US Ignite
 </a><a href="http://www.geni.net/" target="_blank">GENI
 </a><a href="http://www.ece.ncsu.edu/" target="_blank">NC State, department of electrical and computer engineering
-</a><a href="http://www.renci.org/" target="_blank">RENCI</a>
+</a><a href="https://www.renci.org/" target="_blank">RENCI</a>

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["GIS","RENCI at UNC Asheville","Urban Growth Model"]
 ---
-[caption id="attachment_4326" align="alignnone" width="630"]<a href="http://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg"><img class="wp-image-4326 size-full" title="asheville-story" src="http://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg" alt="asheville viz wall" width="630" height="320" /></a> The 16-foot visualization wall will aid in showing how geographic information systems work.[/caption]
+[caption id="attachment_4326" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg"><img class="wp-image-4326 size-full" title="asheville-story" src="https://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg" alt="asheville viz wall" width="630" height="320" /></a> The 16-foot visualization wall will aid in showing how geographic information systems work.[/caption]
 
 ASHEVILLE, NC--RENCI at UNC Asheville and Asheville-Buncombe Technical Community College (A-B Tech) announce the third annual celebration of Geographic Information Systems (GIS) Day in Western North Carolina. The community drop-in event will be held from 11 a.m. to 1 p.m. Thursday, Nov. 12, at the RENCI at UNC Asheville Community Engagement Site, located in the Grove Arcade in downtown Asheville.  The event is free and open to the public.
 

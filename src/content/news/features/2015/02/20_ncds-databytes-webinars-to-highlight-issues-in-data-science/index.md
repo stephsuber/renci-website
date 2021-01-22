@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://data2discovery.org/databytes-webinars/" target="_blank"><img class="alignright wp-image-14453 size-medium" src="http://renci.org/wp-content/uploads/2015/02/Screen-Shot-2015-02-13-at-1.34.58-PM-300x150.png" alt="Screen Shot 2015-02-13 at 1.34.58 PM" width="300" height="150" /></a>Throughout 2015, the <a href="http://data2discovery.org/" target="_blank">National Consortium for Data Science</a> (NCDS) will host a series of lunchtime webinars highlighting the most pressing and interesting issues in data science. The <a href="http://data2discovery.org/databytes-webinars/" target="_blank">DataBytes series</a> webinars will take place on or about the first Wednesday of each month. Talks will begin at noon, last 30 to 45 minutes, be followed by Q and A, and will conclude no later than 1 p.m.
+<a href="http://data2discovery.org/databytes-webinars/" target="_blank"><img class="alignright wp-image-14453 size-medium" src="https://renci.org/wp-content/uploads/2015/02/Screen-Shot-2015-02-13-at-1.34.58-PM-300x150.png" alt="Screen Shot 2015-02-13 at 1.34.58 PM" width="300" height="150" /></a>Throughout 2015, the <a href="http://data2discovery.org/" target="_blank">National Consortium for Data Science</a> (NCDS) will host a series of lunchtime webinars highlighting the most pressing and interesting issues in data science. The <a href="http://data2discovery.org/databytes-webinars/" target="_blank">DataBytes series</a> webinars will take place on or about the first Wednesday of each month. Talks will begin at noon, last 30 to 45 minutes, be followed by Q and A, and will conclude no later than 1 p.m.
 
 <!--more-->
 

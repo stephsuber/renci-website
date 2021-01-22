@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["National Science Foundation (NSF)","open source","Red Hat","water science","Water Science Software Institute (WSSI)"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2012/09/waterland1.jpg"><img class="size-large wp-image-12067 alignleft" title="waterland1" src="http://www.renci.org/wp-content/uploads/2013/10/waterland1.jpg" alt="" width="640" height="427" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/09/waterland1.jpg"><img class="size-large wp-image-12067 alignleft" title="waterland1" src="https://www.renci.org/wp-content/uploads/2013/10/waterland1.jpg" alt="" width="640" height="427" /></a>
 
 CHAPEL HILL, NC - RENCI, the Renaissance Computing Institute at UNC Chapel Hill, will receive $729,686 from the National Science Foundation to begin a process that could lead to the development of a multimillion-dollar Water Science Software Institute (WSSI) led by RENCI and UNC Chapel Hill with partners across the U.S.  <!--more-->
 

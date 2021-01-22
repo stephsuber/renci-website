@@ -23,7 +23,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The National Science Foundation today named the <a href="http://www.renci.org/">Renaissance Computing Institute (RENCI)</a> of the University of North Carolina at Chapel Hill as a collaborating institution on a $3 million pilot project to create a model and strategic plan for a <a href="http://cicoe-pilot.org/">Cyberinfrastructure Center of Excellence</a> (CI CoE). The goal of the effort is to establish a reservoir of expertise on best cyberinfrastructure practices for the nation’s largest research facilities. <br></p>
+<p>The National Science Foundation today named the <a href="https://www.renci.org/">Renaissance Computing Institute (RENCI)</a> of the University of North Carolina at Chapel Hill as a collaborating institution on a $3 million pilot project to create a model and strategic plan for a <a href="http://cicoe-pilot.org/">Cyberinfrastructure Center of Excellence</a> (CI CoE). The goal of the effort is to establish a reservoir of expertise on best cyberinfrastructure practices for the nation’s largest research facilities. <br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:more -->

@@ -19,7 +19,7 @@ tags:
     - data-management
     - open-source
 ---
-<a href="http://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg"><img class="alignright wp-image-15532" src="http://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg" alt="bayer_logo2" width="175" height="171" /></a>CHAPEL HILL, NC - The iRODS Consortium welcomes Bayer, a global life science company with core competencies in the fields of health care and agriculture, as the latest consortium member.<!--more-->
+<a href="https://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg"><img class="alignright wp-image-15532" src="https://renci.org/wp-content/uploads/2016/08/bayer_logo2.jpg" alt="bayer_logo2" width="175" height="171" /></a>CHAPEL HILL, NC - The iRODS Consortium welcomes Bayer, a global life science company with core competencies in the fields of health care and agriculture, as the latest consortium member.<!--more-->
 
 Launched in 2014, the membership-based iRODS Consortium leads the development and support of the integrated Rule-Oriented Data System (iRODS) as free open source software for managing large, complex data. Bayer uses iRODS to manage life sciences data at large scale.
 
@@ -35,4 +35,4 @@ The iRODS Consortium membership has doubled in the last year and now stands at 1
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/">irods.org.</a>
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="http://www.renci.org">www.renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="https://www.renci.org">www.renci.org</a>.

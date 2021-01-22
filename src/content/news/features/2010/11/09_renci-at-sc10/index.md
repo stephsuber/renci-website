@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2010/11/SC10-New-Orleans1.jpg"><img class="alignnone size-full wp-image-6483" title="SC10-New-Orleans" src="http://www.renci.org/wp-content/uploads/2010/11/SC10-New-Orleans1.jpg" alt="" width="630" height="287" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2010/11/SC10-New-Orleans1.jpg"><img class="alignnone size-full wp-image-6483" title="SC10-New-Orleans" src="https://www.renci.org/wp-content/uploads/2010/11/SC10-New-Orleans1.jpg" alt="" width="630" height="287" /></a>
 
 North Carolina research universities will present their latest work in high performance computing, data management and preservation, networking and scientific and information visualization at SC10, the international conference of high performance computing, networking, storage and analysis, beginning at 7 p.m. Monday, Nov. 15.  <!--more-->
 

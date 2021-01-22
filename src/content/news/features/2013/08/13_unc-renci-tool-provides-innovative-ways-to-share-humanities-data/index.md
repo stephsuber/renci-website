@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_12067" align="alignleft" width="640"]<a href="http://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg"><img class="size-large wp-image-12067" alt="dh-press-lwm1" src="http://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg" width="640" height="399" /></a> Screen shot of the DH Press project "Mapping the Long Women's Movement." Each dot represents a short audio clip; the color of the dots show what the clip is about and their placement on the map indicate where the event occurred.[/caption]
+[caption id="attachment_12067" align="alignleft" width="640"]<a href="https://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg"><img class="size-large wp-image-12067" alt="dh-press-lwm1" src="https://www.renci.org/wp-content/uploads/2013/08/dh-press-lwm1.jpg" width="640" height="399" /></a> Screen shot of the DH Press project "Mapping the Long Women's Movement." Each dot represents a short audio clip; the color of the dots show what the clip is about and their placement on the map indicate where the event occurred.[/caption]
 
 CHAPEL HILL, August 13, 2013 - A new software tool developed by the UNC-Chapel Hill Digital Innovation Lab (DIL) in collaboration with RENCI (UNC’s Renaissance Computing Institute) helps researchers, teachers, and community groups document history and community projects with an easy-to-use tool that builds interactive websites.
 

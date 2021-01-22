@@ -35,6 +35,6 @@ The iRODS Consortium was formed in 2013 by RENCI (the Renaissance Computing Inst
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services. The world’s top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at irods.org.
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of advanced technologies at the University of North Carolina at Chapel Hill. For more on RENCI, see <a href="http://www.renci.org">renci.org</a>
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of advanced technologies at the University of North Carolina at Chapel Hill. For more on RENCI, see <a href="https://www.renci.org">renci.org</a>
 
 &nbsp;

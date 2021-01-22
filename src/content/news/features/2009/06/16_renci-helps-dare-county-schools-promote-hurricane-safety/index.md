@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["hurricane awareness","RENCI at ECU"]
 ---
-[caption id="attachment_3787" align="alignnone" width="630"]<a href="http://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg"><img class="wp-image-3787 size-full" title="classroom_story" src="http://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg" alt="classroom_story" width="630" height="422" /></a> Michelle Covi, RENCI at ECU outreach coordinator, shows students at Nags Head Elementary School how to track the course of a hurricane during a hurricane awareness presentation by RENCI and National Weather Service staff. (photo: S. Daniel Siepert, RENCI at ECU)[/caption]
+[caption id="attachment_3787" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg"><img class="wp-image-3787 size-full" title="classroom_story" src="https://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg" alt="classroom_story" width="630" height="422" /></a> Michelle Covi, RENCI at ECU outreach coordinator, shows students at Nags Head Elementary School how to track the course of a hurricane during a hurricane awareness presentation by RENCI and National Weather Service staff. (photo: S. Daniel Siepert, RENCI at ECU)[/caption]
 
 Donna Kain, outreach director at RENCI at East Carolina University (ECU),  and Michelle Covi, outreach coordinator at RENCI at ECU, recently traveled to Nags Head Elementary School on the Outer Banks to promote Hurricane Preparedness Week in Dare County.
 

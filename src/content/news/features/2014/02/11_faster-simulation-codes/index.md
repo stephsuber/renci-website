@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13074" align="alignnone" width="640"]<img class="size-large wp-image-13074" alt="Image courtesy of CERN" src="http://www.renci.org/wp-content/uploads/2014/02/0503019-A4-at-144-dpi-1024x910.jpg" width="640" height="568" /> Image courtesy of CERN[/caption]
+[caption id="attachment_13074" align="alignnone" width="640"]<img class="size-large wp-image-13074" alt="Image courtesy of CERN" src="https://www.renci.org/wp-content/uploads/2014/02/0503019-A4-at-144-dpi-1024x910.jpg" width="640" height="568" /> Image courtesy of CERN[/caption]
 
 The Large Hadron Collider (LHC), the most powerful particle accelerator ever built, smashes tiny particles into each other in an effort to reproduce the conditions that existed within a billionth of a second after the Big Bang.
 

@@ -19,7 +19,7 @@ tags:
     - networking
     - cyberinfrastructure
 ---
-<a href="http://renci.org/wp-content/uploads/2016/09/IT-data-security-1.jpg"><img class="alignright size-medium wp-image-15597" src="http://renci.org/wp-content/uploads/2016/09/IT-data-security-1-300x188.jpg" alt="IT-data-security-1" width="300" height="188" /></a>CHAPEL HILL, NC - RENCI will work with Indiana University and the Information Sciences Institute (ISI) at the University of Southern California on a new project to strengthen the integrity of data, giving researchers added assurance and trust in computational science.<!--more-->
+<a href="https://renci.org/wp-content/uploads/2016/09/IT-data-security-1.jpg"><img class="alignright size-medium wp-image-15597" src="https://renci.org/wp-content/uploads/2016/09/IT-data-security-1-300x188.jpg" alt="IT-data-security-1" width="300" height="188" /></a>CHAPEL HILL, NC - RENCI will work with Indiana University and the Information Sciences Institute (ISI) at the University of Southern California on a new project to strengthen the integrity of data, giving researchers added assurance and trust in computational science.<!--more-->
 
 The three-year project, Scientific Workflow Integrity with Pegasus, is funded by a $1 million grant from the National Science Foundation (NSF) as part of its Cybersecurity Innovation for Cyberinfrastructure (CICI) program. Von Welch, director of IU’s Center for Applied Cybersecurity Research (CACR), is the project’s principal investigator.
 

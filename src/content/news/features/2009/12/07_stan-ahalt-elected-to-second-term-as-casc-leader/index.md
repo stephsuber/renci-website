@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Coalition for Academic Scientific Computation (CASC)","Stan Ahalt"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2009/12/CASC-logo.jpg"><img class="alignnone size-full wp-image-4449" title="CASC-logo" src="http://www.renci.org/wp-content/uploads/2009/12/CASC-logo.jpg" alt="CASC-logo" width="630" height="320" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2009/12/CASC-logo.jpg"><img class="alignnone size-full wp-image-4449" title="CASC-logo" src="https://www.renci.org/wp-content/uploads/2009/12/CASC-logo.jpg" alt="CASC-logo" width="630" height="320" /></a>
 
 Stan Ahalt, director of the Renaissance Computing Institute (RENCI), has been elected to a second term as chair of the Coalition for Academic Scientific Computation (CASC).<!--more-->
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Carolina Launch Pad","David Knowles","Dyzen","Kenan-Flagler Business School","Office of Technology Development (OTD)"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg"><img class="alignnone size-full wp-image-4604" title="launchpad-move-in" src="http://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg" alt="launchpad-move-in" width="630" height="414" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg"><img class="alignnone size-full wp-image-4604" title="launchpad-move-in" src="https://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg" alt="launchpad-move-in" width="630" height="414" /></a></p>
 
 <p>CHAPEL HILL, NC, January 8, 2010—New participants in Carolina Launch Pad will move into office space within the next few weeks as the pre-commercial incubator located at RENCI begins its second year.<!--more--></p>
 
@@ -46,6 +46,6 @@ tags:
 <p><span class="head2">About RENCI</span></p>
 
 <p>RENCI (the Renaissance Computing Institute) applies advanced technology resources and expertise to problems identified by the state of North Carolina and to university research initiatives. Its research contributes to the development of the next generation of technology infrastructure and cyber tools. Founded in 2004 as a major collaboration involving UNC Chapel Hill, Duke University and North Carolina State University, RENCI is a statewide virtual organization with facilities at campuses across North Carolina.   <br />
- For more see http://www.renci.org.</p>
+ For more see https://www.renci.org.</p>
 
 <p><strong>RENCI Contact:</strong> Karen Green, 919.445.9648 (office), 919.619.8213 (mobile), kgreen@renci.org</p>

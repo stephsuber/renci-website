@@ -61,7 +61,7 @@ All of the Data Grid hubs will be operational by fall 2009 and new datasets will
 
 <span class="head2">More information:</span>
 DICE Center: <a href="http://dice.unc.edu ">http://dice.unc.edu </a>
-RENCI: <a href="http://www.renci.org/">http://www.renci.org/</a>
+RENCI: <a href="https://www.renci.org/">https://www.renci.org/</a>
 SILS: <a href="http://sils.unc.edu/">http://sils.unc.edu/</a>
 iRODS: <a href="http://www.irods.org">http://www.irods.org
 </a>

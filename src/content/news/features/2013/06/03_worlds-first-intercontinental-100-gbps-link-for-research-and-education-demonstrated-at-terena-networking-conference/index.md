@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/news/releases/intercontinental-100-gbps-link-for-research-and-education/attachment/100-gbps-link" rel="attachment wp-att-10209"><img class="size-large wp-image-12067 alignleft" title="100-gbps-link" src="http://www.renci.org/wp-content/uploads/2013/10/100-gbps-link.jpg" alt="" width="640" height="422" /></a>
+<a href="https://www.renci.org/news/releases/intercontinental-100-gbps-link-for-research-and-education/attachment/100-gbps-link" rel="attachment wp-att-10209"><img class="size-large wp-image-12067 alignleft" title="100-gbps-link" src="https://www.renci.org/wp-content/uploads/2013/10/100-gbps-link.jpg" alt="" width="640" height="422" /></a>
 
 Maastricht, The Netherlands – June 3, 2013 – Six of the world’s leading research and education (R&amp;E) networks and two commercial partners today demonstrated for the first time a Transatlantic 100 gigabits-per-second (Gbps or one billion bits per second) transmission link for research and education between North America and Europe during the <a href="https://tnc2013.terena.org" target="_blank">TERENA Networking Conference 2013</a> (TNC2013), held in Maastricht, The Netherlands. These demonstrations showcased emerging technologies and advanced applications for science, research and education.
 

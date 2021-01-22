@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13111" align="alignleft" width="307"]<a href="http://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914.jpg"><img class=" wp-image-13111  " src="http://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914-731x1024.jpg" alt="An old family photo used in the new &quot;Cedars in the Pines&quot; exhibit at the N.C. Museum of History." width="307" height="430" /></a> An old family photo used in the new "Cedars in the Pines" exhibit at the N.C. Museum of History.[/caption]
+[caption id="attachment_13111" align="alignleft" width="307"]<a href="https://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914.jpg"><img class=" wp-image-13111  " src="https://www.renci.org/wp-content/uploads/2014/02/Zaytoun_Family_PaternalGparents1914-731x1024.jpg" alt="An old family photo used in the new &quot;Cedars in the Pines&quot; exhibit at the N.C. Museum of History." width="307" height="430" /></a> An old family photo used in the new "Cedars in the Pines" exhibit at the N.C. Museum of History.[/caption]
 
 RENCI Web Interface Designer Joe Hope is working with staff at the <a href="https://digitalinnovation.unc.edu" target="_blank">Digital Innovation Lab</a> at UNC Chapel Hill and Akram Khater, Professor of History and Director of the Middle Eastern Studies Program at NC State University, to build a set of interactive maps for “Cedars in the Pines,” an exhibit opening Saturday, February 22 at the North Carolina Museum of History.
 

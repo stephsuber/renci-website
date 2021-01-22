@@ -23,9 +23,9 @@ When you put more than 50 faculty members, center directors, and researchers fro
 
 <!--more-->
 
-The variety of faculty and administrators who attended Data@Carolina, held at <a style="font-style: inherit; font-weight: inherit;" href="http://renci.org/" target="_blank">RENCI</a> on
+The variety of faculty and administrators who attended Data@Carolina, held at <a style="font-style: inherit; font-weight: inherit;" href="https://renci.org/" target="_blank">RENCI</a> on
 
-[caption id="attachment_15083" align="alignright" width="300"]<a href="http://renci.org/wp-content/uploads/2015/10/IMG_3168_small.jpg"><img class="size-medium wp-image-15083" src="http://renci.org/wp-content/uploads/2015/10/IMG_3168_small-300x225.jpg" alt="Ahalt addresses the Data@Carolina audience about big data opportunities across the nation." width="300" height="225" /></a> Ahalt addresses the Data@Carolina audience about big data opportunities across the nation.[/caption]
+[caption id="attachment_15083" align="alignright" width="300"]<a href="https://renci.org/wp-content/uploads/2015/10/IMG_3168_small.jpg"><img class="size-medium wp-image-15083" src="https://renci.org/wp-content/uploads/2015/10/IMG_3168_small-300x225.jpg" alt="Ahalt addresses the Data@Carolina audience about big data opportunities across the nation." width="300" height="225" /></a> Ahalt addresses the Data@Carolina audience about big data opportunities across the nation.[/caption]
 
 Friday, Sept. 25 and co-sponsored by <a style="font-style: inherit; font-weight: inherit;" href="http://www.odum.unc.edu/odum/home2.jsp" target="_blank">The Odum Institute for Research in Social Science</a>, attests to the multidisciplinary nature of digital data as a tool in research and education as well as a field that desperately needs additional educational programs.
 
@@ -33,7 +33,7 @@ Technical disciplines (math, statistics, computer science, library and informati
 
 The workshop challenged attendees to begin developing a comprehensive campus-wide big data strategy that addresses educational needs as well as the needs of researchers who want to collect, analyze, share, and store large complex data sets. Ideas presented fell into three general categories.
 
-[caption id="attachment_15084" align="alignleft" width="300"]<a href="http://renci.org/wp-content/uploads/2015/10/IMG_4114_small.jpg"><img class="wp-image-15084 size-medium" src="http://renci.org/wp-content/uploads/2015/10/IMG_4114_small-300x204.jpg" alt="Presenters from across campus spent time sharing the data questions they find most important. (pictured: Will Bosley speaking for the UNC Digital Innovation Lab)" width="300" height="204" /></a> Presenters from across campus spent time sharing the data questions they find most important. (pictured: Will Bosley speaking for the UNC Digital Innovation Lab)[/caption]
+[caption id="attachment_15084" align="alignleft" width="300"]<a href="https://renci.org/wp-content/uploads/2015/10/IMG_4114_small.jpg"><img class="wp-image-15084 size-medium" src="https://renci.org/wp-content/uploads/2015/10/IMG_4114_small-300x204.jpg" alt="Presenters from across campus spent time sharing the data questions they find most important. (pictured: Will Bosley speaking for the UNC Digital Innovation Lab)" width="300" height="204" /></a> Presenters from across campus spent time sharing the data questions they find most important. (pictured: Will Bosley speaking for the UNC Digital Innovation Lab)[/caption]
 
 <strong style="font-style: inherit;">Undergraduate education
 </strong>Virtually every career in the 21<sup style="font-style: inherit; font-weight: inherit;">st</sup> century requires data literacy, which means the issue must be addressed in undergraduate education programs. Ideas discussed included a required data science course for all undergrads; a two-year, university-wide theme of data science and data literacy for the campus; and an undergraduate minor related to data.

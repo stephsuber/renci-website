@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["data grids","DataDirect Networks","DICE","iRODS","SC11","Web Object Scaler (WOS)"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="size-full wp-image-6572 alignnone" title="irods-story-img" src="http://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="size-full wp-image-6572 alignnone" title="irods-story-img" src="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
 
 <p>SEATTLE, Nov. 9, 2011 – The RENCI/North Carolina booth (#2942) will be one of several on the SC11 show floor to participate in a demonstration that will connect booths in the Washington State Convention Center with large data sets in the U.S. and Europe, creating a distributed, high-speed international data grid that allows researchers to share, store and manage large data sets.<!--more--></p>
 
@@ -34,4 +34,4 @@ tags:
 
 <p>Moore and DDN Chief Scientist Dave Fellinger will provide an overview of the WOS-iRODS data grid and a second international data grid connecting Kings College London to RENCI, KEK in Tokyo, Japan; Academia Sinica in Taiwan; and IN2P3 in France.  Their talk takes place at 3:30 p.m. Tuesday, Nov. 15, in the RENCI booth. At 2:30 p.m. Tuesday, also in the RENCI booth, Moore will highlight iRODS and some of the research organizations using iRODS, including NASA, the National Optical Astronomy Observatory, the Australian Research Collaboration Service, and the Texas Digital Libraries.</p>
 
-<p>For more on RENCI at SC11, see <a href="http://www.renci.org/news/releases/renci-sc11">RENCI@SC11, Washington State Convention Center, Seattle</a></p>
+<p>For more on RENCI at SC11, see <a href="https://www.renci.org/news/releases/renci-sc11">RENCI@SC11, Washington State Convention Center, Seattle</a></p>

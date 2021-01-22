@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_15617" align="alignright" width="300"]<a href="http://renci.org/wp-content/uploads/2016/09/Ashok.jpg"><img class="size-medium wp-image-15617" src="http://renci.org/wp-content/uploads/2016/09/Ashok-300x200.jpg" alt="Ashok Goel's class, Knowledge-Based Artificial Intelligence (CS 4635/7637); Architecture East Room 123 Reinsch-Pierce Family Auditorium" width="300" height="200" /></a> Ashok Goel of Georgia Tech leads one of the three research teams that received awards through the South Big Data Hub Spokes program.[/caption]
+[caption id="attachment_15617" align="alignright" width="300"]<a href="https://renci.org/wp-content/uploads/2016/09/Ashok.jpg"><img class="size-medium wp-image-15617" src="https://renci.org/wp-content/uploads/2016/09/Ashok-300x200.jpg" alt="Ashok Goel's class, Knowledge-Based Artificial Intelligence (CS 4635/7637); Architecture East Room 123 Reinsch-Pierce Family Auditorium" width="300" height="200" /></a> Ashok Goel of Georgia Tech leads one of the three research teams that received awards through the South Big Data Hub Spokes program.[/caption]
 
 <em>Awards part of $11 million in National Science Foundation Big Data Hub “Spoke” awards</em>
 

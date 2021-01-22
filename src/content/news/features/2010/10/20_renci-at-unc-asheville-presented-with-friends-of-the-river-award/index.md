@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Friends of the River","Land-of-Sky Regional Council","RENCI at UNC Asheville"]
 ---
-[caption id="attachment_6423" align="aligncenter" width="630"]<a href="http://www.renci.org/wp-content/uploads/2010/10/Jim-Fox-Friend-of-River-Award1.jpg"><img class="wp-image-6423 size-full" title="Jim-Fox-Friend-of-River-Award1" src="http://www.renci.org/wp-content/uploads/2010/10/Jim-Fox-Friend-of-River-Award1.jpg" alt="" width="630" height="416" /></a> RENCI at UNC Asheville Director Jim Fox (right) receives the Friends of the River Award from Bob Davy of the Land-of-Sky Regional Council at the group’s annual dinner.[/caption]
+[caption id="attachment_6423" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2010/10/Jim-Fox-Friend-of-River-Award1.jpg"><img class="wp-image-6423 size-full" title="Jim-Fox-Friend-of-River-Award1" src="https://www.renci.org/wp-content/uploads/2010/10/Jim-Fox-Friend-of-River-Award1.jpg" alt="" width="630" height="416" /></a> RENCI at UNC Asheville Director Jim Fox (right) receives the Friends of the River Award from Bob Davy of the Land-of-Sky Regional Council at the group’s annual dinner.[/caption]
 
 ASHEVILLE, NC—RENCI at UNC Asheville received the Friends of the River Award by the Land-of-Sky Regional Council at the 33<sup>rd</sup> annual Friends of the River Dinner held Sept. 29.
 

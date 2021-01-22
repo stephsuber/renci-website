@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="size-large wp-image-12067 alignleft" title="Giftboogle" alt="" src="http://www.renci.org/wp-content/uploads/2013/10/Giftboogle-Story1.jpg" width="640" height="386" />
+<img class="size-large wp-image-12067 alignleft" title="Giftboogle" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/Giftboogle-Story1.jpg" width="640" height="386" />
 
 <em>Above: Gift Boogle CEO Eric McAfee (left), and COO Scott Kleist.</em>
 
@@ -50,7 +50,7 @@ Gift Boogle: <a href="http://www.giftboogle.com/">http://www.giftboogle.com/</a>
 
 Carolina Launch Pad: <a href="http://carolinalaunchpad.org/">http://carolinalaunchpad.org/</a>
 
-RENCI: <a href="http://www.renci.org/">http://www.renci.org/</a>
+RENCI: <a href="https://www.renci.org/">https://www.renci.org/</a>
 
 CED: <a href="http://www.cednc.org/">http://www.cednc.org/</a>
 

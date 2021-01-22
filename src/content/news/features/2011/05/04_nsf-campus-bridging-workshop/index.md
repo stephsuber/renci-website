@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Advisory Committee for Cyberinfrastructure (ACCI)","Campus Bridging","Campus Bridging Task Force","National Science Foundation (NSF)"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg"><img class="alignnone size-full wp-image-7532" title="cyberinfrastructure" src="http://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg" alt="" width="630" height="336"></a>
+<a href="https://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg"><img class="alignnone size-full wp-image-7532" title="cyberinfrastructure" src="https://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg" alt="" width="630" height="336"></a>
 
 A new report includes recommendations to help campuses create cyberinfrastructure that allows seamless collaboration and data sharing.
 

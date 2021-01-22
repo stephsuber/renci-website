@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Carolina Launch Pad","Kenan-Flagler Business School","Office of Technology Development (OTD)","Rheomics"]
 ---
-[caption id="attachment_6519" align="aligncenter" width="630"]<a href="http://www.renci.org/wp-content/uploads/2010/11/rheomics.jpg"><img class="wp-image-6519 size-large" title="rheomics" src="http://www.renci.org/wp-content/uploads/2010/11/rheomics-630x420.jpg" alt="" width="630" height="420" /></a> From left to right, Russell Taylor, Ph.D., Richard Spero, Ph.D. and Richard Superfine, Ph.D.[/caption]
+[caption id="attachment_6519" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2010/11/rheomics.jpg"><img class="wp-image-6519 size-large" title="rheomics" src="https://www.renci.org/wp-content/uploads/2010/11/rheomics-630x420.jpg" alt="" width="630" height="420" /></a> From left to right, Russell Taylor, Ph.D., Richard Spero, Ph.D. and Richard Superfine, Ph.D.[/caption]
 <p style="text-align: left;">CHAPEL HILL, NC—Carolina Launch Pad, the pre-commercial technology business accelerator located at RENCI (the Renaissance Computing Institute), this month welcomed Rheomics Inc. to the program.</p>
 Rheomics builds systems that fuel the mechanical revolution in biology, and will lead to diagnostics of clotting disorders and cancer metastasis. The company’s patented technologies make it possible to pull on blood clots, individual cells, or small particles—the size of a bacterium or smaller—with precise forces. Rheomics sees a market opportunity for this technology in new cancer diagnostics, point-of-care blood clotting analysis, biofluid rheology and lab instruments to advance biological research.<!--more-->
 
@@ -36,4 +36,4 @@ Each Launch Pad participant receives office space for one year at RENCI headquar
 
 ###
 
-<a href="http://www.renci.org/wp-content/uploads/2010/11/innovate-logo.png"><img class="alignright size-full wp-image-6527" title="innovate-logo" src="http://www.renci.org/wp-content/uploads/2010/11/innovate-logo.png" alt="" width="340" height="89" /></a>Carolina Launchpad supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">http://innovate.unc.edu</a>.
+<a href="https://www.renci.org/wp-content/uploads/2010/11/innovate-logo.png"><img class="alignright size-full wp-image-6527" title="innovate-logo" src="https://www.renci.org/wp-content/uploads/2010/11/innovate-logo.png" alt="" width="340" height="89" /></a>Carolina Launchpad supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">http://innovate.unc.edu</a>.

@@ -49,14 +49,14 @@ tags:
 
 
 <ul>
-		<li><strong>RENCI  Distinguished Lecture</strong>, featuring Kathy Kleiman, programmer, historian and producer of a documentary on the ENIAC programmers, the women who programmed the ENIAC machine during World War II. The lecture takes place beginning at 11:30 a.m., Thursday, Sept. 23, in the Von Canon Room at Bryan University Center. Lunch will be available on a first-come, first-served basis. Register online at http://www.renci.org/focusareas/eduoutreach/lectureseries.php</li>
+		<li><strong>RENCI  Distinguished Lecture</strong>, featuring Kathy Kleiman, programmer, historian and producer of a documentary on the ENIAC programmers, the women who programmed the ENIAC machine during World War II. The lecture takes place beginning at 11:30 a.m., Thursday, Sept. 23, in the Von Canon Room at Bryan University Center. Lunch will be available on a first-come, first-served basis. Register online at https://www.renci.org/focusareas/eduoutreach/lectureseries.php</li>
 </ul>
 <ul>
 		<li><strong>Duke-RENCI  Open House</strong>, 3 p.m. – 5 p.m. Tuesday, Oct. 14. Duke faculty, staff and students are invited to visit the new RENCI center, meet RENCI staff, and see the mutli-touch wall in action.</li>
 </ul>
 
 
-<p>Contact the Duke-RENCI engagement center at 919-681-962. For  directions to the center see http://www.renci.org/about/duke.php.</p>
+<p>Contact the Duke-RENCI engagement center at 919-681-962. For  directions to the center see https://www.renci.org/about/duke.php.</p>
 
 <p><strong>RENCI…Catalyst for  Innovation</strong><br />
  The Renaissance Computing Institute brings together teams of talented researchers, engineers, technologists and leaders in government, business, the arts and humanities to attack major research questions and community issues in ways that accelerate discovery and drive innovation. RENCI has nationally significant expertise and capabilities in high performance computing, visualization, collaborative tools, networking, device prototyping, and data systems as well as engagement sites across the state. Founded in 2004 as a major collaborative venture of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization.  For more, see <a href="../">www.renci.org</a>.</p>

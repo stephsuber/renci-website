@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Data Intensive Cyber Environments (DICE)","iRODS"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="alignright size-full wp-image-6572" title="Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill" src="http://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="alignright size-full wp-image-6572" title="Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill" src="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
 
 <p>The Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill will hold the third annual User Group Meeting for iRODS, the Integrated Rule-Oriented Data System, on “Sustainable Policy-Based Data Management, Sharing, and Preservation.”</p>
 
@@ -61,7 +61,7 @@ tags:
 <p>iRODS User Group Meeting 2011 <br />
  <a href="https://www.irods.org" target="_blank">iRODS Integrated Rule-Oriented Data System wiki </a><br />
  <a href="http://dice.unc.edu" target="_blank">Data Intensive Cyber Environments Center (DICE Center) </a><br />
- <a href="http://www.renci.org">Renaissance Computing Institute (RENCI)</a> <br />
+ <a href="https://www.renci.org">Renaissance Computing Institute (RENCI)</a> <br />
  Data Intensive Cyberinfrastructure Foundation <br />
  iRODS Introductory Information </p>
 

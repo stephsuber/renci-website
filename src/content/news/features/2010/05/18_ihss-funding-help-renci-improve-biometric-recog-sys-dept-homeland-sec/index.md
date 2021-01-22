@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["biometric technologies","informatics","Institute for Homeland Security Solutions","Research Triangle"]
 ---
-<p><img class="alignnone size-full wp-image-5030" title="IHSS-Story-photo-final" src="http://www.renci.org/wp-content/uploads/2010/05/IHSS-Story-photo-final.jpg" alt="IHSS-Story-photo-final" width="630" height="473" /></p>
+<p><img class="alignnone size-full wp-image-5030" title="IHSS-Story-photo-final" src="https://www.renci.org/wp-content/uploads/2010/05/IHSS-Story-photo-final.jpg" alt="IHSS-Story-photo-final" width="630" height="473" /></p>
 
 <p><em>Concept image of possible future biometric identification system.</em></p>
 

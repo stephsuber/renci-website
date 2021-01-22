@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Arcot Rajasekar","data","DataBridge","National Science Foundation (NSF)","School of Information and Library Science(SILS)"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg"><img class="size-large wp-image-12067 alignleft" title="renci-article" src="http://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg" alt="" width="640" height="427" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg"><img class="size-large wp-image-12067 alignleft" title="renci-article" src="https://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg" alt="" width="640" height="427" /></a>
 
 CHAPEL HILL, NC - Arcot Rajasekar, professor at the School of Information and Library Science (SILS) at the University of North Carolina at Chapel Hill and chief scientist at the Renaissance Computing Institute (RENCI), is the principal investigator of one of eight new Big Data research projects receiving awards from the National Science Foundation (NSF) with support from the National Institutes of Health (NIH).<!--more-->
 
@@ -32,7 +32,7 @@ Rajasekar’s project, “DataBridge – A Sociometric System for Long-Tail Scie
 
 “This grant is an excellent fit for campus and SILS’ priorities and the research and curriculum initiatives already underway,” said Gary Marchionini, SILS dean and Cary C. Boshamer Distinguished Professor. “We are excited to have an opportunity to extend our national leadership in big data tools and services.”
 
-Other recent Big Data projects that involve collaborations between RENCI and UNC SILS include <a href="http://www.renci.org/news/releases/nsf-datanet" target="_blank">DataNet</a>, led by SILS professor and RENCI domain scientist for data management Reagan Moore; <a href="http://sils.unc.edu/news/2012/ci-ber-big-data" target="_blank">CI-BER</a>, led by SILS professor Richard Marciano; and development of the <a href="http://www.diph.org/" target="_blank">Digital Public Humanities Toolkit</a>, a project of the UNC Digital Innovation Lab led by Robert C. Allen, James Logan Godfrey Distinguished Professor of American Studies.
+Other recent Big Data projects that involve collaborations between RENCI and UNC SILS include <a href="https://www.renci.org/news/releases/nsf-datanet" target="_blank">DataNet</a>, led by SILS professor and RENCI domain scientist for data management Reagan Moore; <a href="http://sils.unc.edu/news/2012/ci-ber-big-data" target="_blank">CI-BER</a>, led by SILS professor Richard Marciano; and development of the <a href="http://www.diph.org/" target="_blank">Digital Public Humanities Toolkit</a>, a project of the UNC Digital Innovation Lab led by Robert C. Allen, James Logan Godfrey Distinguished Professor of American Studies.
 
 The DataBridge project is a collaboration with Gary King, a professor at Harvard University, Merce Crosas, Harvard MIT Data Center, and Justin Zhan, North Carolina Agriculture &amp; Technical State University. Co-principal investigators at UNC include: Thomas W. Carsey, director of the H.W. Odum Institute; Hye-Chung Kum, research associate professor, School of Social Work and adjunct professor in computer science; Howard Lander, senior research software developer at RENCI; and Sharlini Sankaran, executive director of REACH NC and a RENCI senior research scientist. Jonathan Crabtree, assistant director of computing and archiving at the H.W. Odum Institute and a doctoral student at SILS, is a senior member of the team.
 

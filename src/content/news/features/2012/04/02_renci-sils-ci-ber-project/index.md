@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2012/04/big-data.jpg"><img class="size-large wp-image-12067 alignleft" title="big-data" alt="" src="http://www.renci.org/wp-content/uploads/2013/11/big-data.jpg" width="640" height="315" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/04/big-data.jpg"><img class="size-large wp-image-12067 alignleft" title="big-data" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/big-data.jpg" width="640" height="315" /></a>
 
 CHAPEL HILL, NC - On March 29, 2012, the White House announced the "Big Data Research and Development Initiative."
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2013/09/storm-surge-blanton.jpg"><img class="alignnone size-news-large wp-image-12536" alt="storm-surge-blanton" src="http://www.renci.org/wp-content/uploads/2013/09/storm-surge-blanton-640x490.jpg" width="640" height="490" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2013/09/storm-surge-blanton.jpg"><img class="alignnone size-news-large wp-image-12536" alt="storm-surge-blanton" src="https://www.renci.org/wp-content/uploads/2013/09/storm-surge-blanton-640x490.jpg" width="640" height="490" /></a>
 
 CHAPEL HILL, NC - The state of North Carolina is the third most susceptible to hurricane and tropical storm damage, with only Florida and Louisiana taking more hits from hurricanes in the history of weather tracking. In recent years, RENCI has contributed to the never-ending task of protecting the North Carolina coastline from potential damage by developing cyberinfrastructure and software to construct models of wave surge from large-scale storms.  <!--more-->
 

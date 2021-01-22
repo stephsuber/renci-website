@@ -56,7 +56,7 @@ tags:
 
 <p><br class="spacer_" /></p>
 
-<p><a href="http://www.renci.org/wp-content/uploads/2009/12/touch-table-project-group.jpg"><img class="alignnone size-large wp-image-4532" title="touch-table-project-group" src="http://www.renci.org/wp-content/uploads/2009/12/touch-table-project-group-630x416.jpg" alt="touch-table-project-group" width="630" height="416" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/12/touch-table-project-group.jpg"><img class="alignnone size-large wp-image-4532" title="touch-table-project-group" src="https://www.renci.org/wp-content/uploads/2009/12/touch-table-project-group-630x416.jpg" alt="touch-table-project-group" width="630" height="416" /></a></p>
 
 <p><em>From left to to right: UNC grad students Sachin Patil, Zhimin Ren and Stephen J. Guy, RENCI's Jason Coposky, UNC faculty member Dinesh Manocha and Ming C. Lin, and UNC grad student Sean Curtis</em></p>
 

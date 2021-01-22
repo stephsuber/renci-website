@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Altometrics","Carolina KickStart","Carolina Launch Pad","Dyzen","Kenan-Flagler Business School","Rheomics","UNC Office of Technology Development"]
 ---
-<em><img class="alignleft wp-image-7375 " title="carolina_kickstart_logo" src="http://www.renci.org/wp-content/uploads/2011/04/carolina_kickstart_logo-630x295.jpg" alt="" width="329" height="154" /></em>
+<em><img class="alignleft wp-image-7375 " title="carolina_kickstart_logo" src="https://www.renci.org/wp-content/uploads/2011/04/carolina_kickstart_logo-630x295.jpg" alt="" width="329" height="154" /></em>
 
 Twelve startup companies based on innovations at the University of North Carolina at Chapel Hill will present at the annual Emerging Company Showcase on May 3.
 
@@ -26,7 +26,7 @@ The new scientific and technology firms are poised to market discoveries such as
 
 The event is 6 p.m. to 8:30 p.m. at the William and Ida Friday Center in Chapel Hill. Admission is free; however RSVPs are required by registering here.
 
-The showcase is hosted by Carolina KickStart in conjunction with the <a href="http://www.kenan-flagler.unc.edu/Programs/MBA/concentration/entrepreneurial/index.cfm">UNC Kenan-Flagler Business School</a>, <a href="http://otd.unc.edu/">UNC Office of Technology Development</a> and <a href="http://www.renci.org/">RENCI</a>, the Renaissance Computing Institute.
+The showcase is hosted by Carolina KickStart in conjunction with the <a href="http://www.kenan-flagler.unc.edu/Programs/MBA/concentration/entrepreneurial/index.cfm">UNC Kenan-Flagler Business School</a>, <a href="http://otd.unc.edu/">UNC Office of Technology Development</a> and <a href="https://www.renci.org/">RENCI</a>, the Renaissance Computing Institute.
 
 “This event engages the entrepreneurial community and provides exposure for early-stage companies coming out of UNC,” said Don Rose, Ph.D., director of Carolina KickStart. “A forum like this not only celebrates the great innovations at the University, but demonstrates our efforts to translate those innovations into companies with high impact.”
 
@@ -44,7 +44,7 @@ Zoller is an instructor in <a href="http://www.kenan-flagler.unc.edu/Programs/MB
 
 “The showcase highlights cutting edge technologies developed at UNC,” said Cam Patterson, M.D., M.B.A., associate dean for medical entrepreneurship, UNC School of Medicine, and executive director of Carolina KickStart. “The <a href="http://innovate.unc.edu">Innovate@Carolina</a> initiative emphasizes that this is a core part of our institutional mandate. These are the companies that will drive innovation, improve quality of life, and drive economic growth in the state of North Carolina over the next decade.”
 
-Carolina KickStart is a program of the <a href="http://tracs.unc.edu">NC TraCS Institute</a>, home of UNC’s <a href="http://www.ctsaweb.org/">Clinical and Translational Science Awards</a> from the National Institutes of Health. The program helps commercialize ideas and inventions to bring biomedical and technological discoveries to market for use by patients and other consumers. <a href="http://www.renci.org/">RENCI</a>, a collaboration involving UNC, Duke, N.C. State and other universities, does cyberinfrastructure research and has programs to spur the development of technology infrastructure to move innovations into the marketplace.
+Carolina KickStart is a program of the <a href="http://tracs.unc.edu">NC TraCS Institute</a>, home of UNC’s <a href="http://www.ctsaweb.org/">Clinical and Translational Science Awards</a> from the National Institutes of Health. The program helps commercialize ideas and inventions to bring biomedical and technological discoveries to market for use by patients and other consumers. <a href="https://www.renci.org/">RENCI</a>, a collaboration involving UNC, Duke, N.C. State and other universities, does cyberinfrastructure research and has programs to spur the development of technology infrastructure to move innovations into the marketplace.
 
 This event supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/">innovate.unc.edu</a> .
 

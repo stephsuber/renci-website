@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignleft size-full wp-image-13381" src="http://www.renci.org/wp-content/uploads/2014/06/logo.png" alt="logo" width="316" height="99" />A nationwide team that includes researchers from the Renaissance Computing Institute at UNC Chapel Hill (RENCI) and North Carolina State University will demonstrate how innovative cyber-physical systems can be used to prevent cyber attacks on power grids as part of the <a href="http://smartamerica.org/expo/" target="_blank">SmartAmerica Challenge</a> and Expo, June 11 in Washington, D.C.  <!--more-->
+<img class="alignleft size-full wp-image-13381" src="https://www.renci.org/wp-content/uploads/2014/06/logo.png" alt="logo" width="316" height="99" />A nationwide team that includes researchers from the Renaissance Computing Institute at UNC Chapel Hill (RENCI) and North Carolina State University will demonstrate how innovative cyber-physical systems can be used to prevent cyber attacks on power grids as part of the <a href="http://smartamerica.org/expo/" target="_blank">SmartAmerica Challenge</a> and Expo, June 11 in Washington, D.C.  <!--more-->
 
 The event will showcase how cyber-physical systems and the “Internet of Things” can boost American competitiveness, create new business opportunities and jobs, and improve quality of life. Twenty-four teams, including the NC State-RENCI team, will show the potential benefits of integrated systems of cyber and physical technologies: for example, vehicles that can make their own way through a battlefield to pick up the wounded, or disaster response systems that can coordinate human first responders, robots, and dogs.
 

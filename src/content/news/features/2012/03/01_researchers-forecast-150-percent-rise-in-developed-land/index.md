@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Center for Applied Geographic Information Science (CAGIS)","RENCI at UNC Charlotte"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png"><img class="alignnone size-full wp-image-8639" title="RENCI-historical-maps" src="http://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png" alt="" width="580" height="681" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png"><img class="alignnone size-full wp-image-8639" title="RENCI-historical-maps" src="https://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png" alt="" width="580" height="681" /></a></p>
 
 <p>A study by researchers RENCI at UNC Charlotte researchers shows 570 percent increase in developed land since 1976.</p>
 

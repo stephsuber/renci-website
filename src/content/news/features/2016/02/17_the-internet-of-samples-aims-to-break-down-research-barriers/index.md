@@ -20,7 +20,7 @@ tags:
 ---
 The Internet of Things may be all the rage, but a group of scientists that met recently at the Renaissance Computing Institute (RENCI) wants to add the Internet of Samples (<a href="http://earthcube.org/group/isamples" target="_blank">iSamples</a>) to your radar.
 
-[caption id="attachment_15338" align="alignright" width="356"]<a href="http://renci.org/wp-content/uploads/2016/02/DSC_0023.jpg" rel="attachment wp-att-15338"><img class="wp-image-15338" src="http://renci.org/wp-content/uploads/2016/02/DSC_0023-300x176.jpg" alt="iSamples teamwork" width="356" height="209" /></a> A multidisciplinary group of scientists and researchers brainstorm potential elements of the iSamples action plan for the coming year.[/caption]
+[caption id="attachment_15338" align="alignright" width="356"]<a href="https://renci.org/wp-content/uploads/2016/02/DSC_0023.jpg" rel="attachment wp-att-15338"><img class="wp-image-15338" src="https://renci.org/wp-content/uploads/2016/02/DSC_0023-300x176.jpg" alt="iSamples teamwork" width="356" height="209" /></a> A multidisciplinary group of scientists and researchers brainstorm potential elements of the iSamples action plan for the coming year.[/caption]
 
 Across the world, scientists engage in research that requires them to collect physical samples, which are often unique and difficult to acquire. Think of samples from the moon, core samples of the Earth, or those collected by submersibles sent to the depths of the ocean.
 
@@ -32,7 +32,7 @@ Not only are these samples difficult to obtain, but once gathered, they often re
 
 iSamples, an <a href="http://earthcube.org/" target="_blank">Earthcube</a> Research Coordination Network funded by the <a href="http://www.nsf.gov/" target="_blank">National Science Foundation</a>, aims to bridge the world of physical samples with the digital world by creating a cyberinfrastructure that enables collaboration between scientific domains that use samples but may not traditionally work together.
 
-[caption id="attachment_15337" align="alignleft" width="321"]<a href="http://renci.org/wp-content/uploads/2016/02/iSamplesfossil.png" rel="attachment wp-att-15337"><img class="wp-image-15337" src="http://renci.org/wp-content/uploads/2016/02/iSamplesfossil.png" alt="iSamplesfossil" width="321" height="229" /></a> A researcher at the NC Museum of Natural Sciences shows off a pre-mammalian fossil from about 230 million years ago.[/caption]
+[caption id="attachment_15337" align="alignleft" width="321"]<a href="https://renci.org/wp-content/uploads/2016/02/iSamplesfossil.png" rel="attachment wp-att-15337"><img class="wp-image-15337" src="https://renci.org/wp-content/uploads/2016/02/iSamplesfossil.png" alt="iSamplesfossil" width="321" height="229" /></a> A researcher at the NC Museum of Natural Sciences shows off a pre-mammalian fossil from about 230 million years ago.[/caption]
 
 The iSamples team focuses on three areas: 1) the creation of unique identifiers for samples, similar to the Digital Object Identifier (<a href="https://www.doi.org/" target="_blank">DOI</a>) system already widely in use; 2) a unified metadata standard that accounts for the different sample types gathered across disciplines; and 3) general outreach to communicate the benefits of a universal and systematic method of sharing sample information.
 

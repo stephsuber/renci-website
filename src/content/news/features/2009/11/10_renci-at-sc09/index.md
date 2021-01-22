@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["cloud computing","data management","SC09","supercomputing","visualization infrastructure"]
 ---
-<p><img class="alignnone size-full wp-image-4358" title="SC09LogoBlack" src="http://www.renci.org/wp-content/uploads/2009/11/SC09LogoBlack.jpg" alt="SC09LogoBlack" width="630" height="320" /></p>
+<p><img class="alignnone size-full wp-image-4358" title="SC09LogoBlack" src="https://www.renci.org/wp-content/uploads/2009/11/SC09LogoBlack.jpg" alt="SC09LogoBlack" width="630" height="320" /></p>
 
 <p>Portland, OR—The Renaissance Computing Institute (RENCI) will offer a look at leading edge technologies that enable research, decision making and collaboration in its exhibit at SC09, the international conference for high performance computing, networking, storage and analysis.<!--more--></p>
 
@@ -30,6 +30,6 @@ tags:
 
 <p>Also presenting a live remote demonstration using a multi-touch table will be Jeff Michael, director of the UNC Charlotte Urban Institute and of RENCI at UNC Charlotte, and Bill Ribarsky, director of the Charlotte Visualization Center at UNC Charlotte. The two will present the Urbanization Explorer, an interactive tool used on the multi-touch table to help decision makers understand the potential impacts of urban growth. The researchers will present data on the Charlotte region’s growth since 1976, displayed as interactive maps on the multi-touch table. Users can use their fingers to zoom, pan, and navigate, and to grab a variety of on-screen tools. The demonstration will take place at 10:30 a.m. Thursday, Nov. 19.</p>
 
-<p>For the full schedule of events in the RENCI booth, see the <a href="http://www.renci.org/wp-content/uploads/2009/11/PresentationSchedule_FINAL.pdf" target="_blank">RENCI SC09 Booth Schedule</a>. A live web cam into the RENCI booth will be accessible from the RENCI <a href="http://www.renci.org">home page</a> beginning Monday, Nov. 16, and will be active during the exhibit hall hours.</p>
+<p>For the full schedule of events in the RENCI booth, see the <a href="https://www.renci.org/wp-content/uploads/2009/11/PresentationSchedule_FINAL.pdf" target="_blank">RENCI SC09 Booth Schedule</a>. A live web cam into the RENCI booth will be accessible from the RENCI <a href="https://www.renci.org">home page</a> beginning Monday, Nov. 16, and will be active during the exhibit hall hours.</p>
 
 <p>For more on SC09, please visit <a href="http://sc09.supercomputing.org/">http://sc09.supercomputing.org/</a>.</p>

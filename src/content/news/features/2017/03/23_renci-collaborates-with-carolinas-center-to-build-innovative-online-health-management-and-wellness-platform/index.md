@@ -20,7 +20,7 @@ tags:
     - Duke Endowment
     - healthcare
 ---
-<a href="http://renci.org/wp-content/uploads/2017/03/Medical-Robots.jpg"><img class="aligncenter wp-image-16235 size-news-large" src="http://renci.org/wp-content/uploads/2017/03/Medical-Robots-640x369.jpg" alt="" width="640" height="369" /></a>
+<a href="https://renci.org/wp-content/uploads/2017/03/Medical-Robots.jpg"><img class="aligncenter wp-image-16235 size-news-large" src="https://renci.org/wp-content/uploads/2017/03/Medical-Robots-640x369.jpg" alt="" width="640" height="369" /></a>
 
 CHAPEL HILL, NC - A new web-based platform being developed by RENCI in partnership with The <a href="http://cchospice.org/">Carolinas Center for Hospice and End of Life Care</a> will allow people in the Carolinas to better manage their health and interact with loved ones and healthcare providers on planning for their future healthcare.
 

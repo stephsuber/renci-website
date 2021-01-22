@@ -51,7 +51,7 @@ Created in 2004, RENCI includes a statewide network of academic institutions wor
 Additional research findings, including animated maps of land conversion rates for the four-county region, are available at http://renci.uncc.edu/WesternExpansion/.
 
 <span class="head2"><strong>About RENCI</strong></span>
-<a href="http://www.renci.org">RENCI</a> operates facilities at UNC Asheville, UNC Charlotte, East Carolina University, UNC Chapel Hill, Duke University and NC State University as well as its flagship site off campus in Chapel Hill.
+<a href="https://www.renci.org">RENCI</a> operates facilities at UNC Asheville, UNC Charlotte, East Carolina University, UNC Chapel Hill, Duke University and NC State University as well as its flagship site off campus in Chapel Hill.
 
 RENCI at UNC Charlotte involves faculty and staff from three UNC Charlotte research centers: the Urban Institute, the <a href="http://gis.uncc.edu" target="_blank">Center for Applied Geographic Information Science</a> and the <a href="http://www.viscenter.uncc.edu" target="_blank">Charlotte Visualization Center</a>.
 

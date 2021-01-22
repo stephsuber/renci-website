@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["English 102","Rebecca Nesvet","Social Computing Room"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2011/10/ppt-alt.jpg"><img class="size-large wp-image-8469 alignnone" title="ppt-alt" src="http://www.renci.org/wp-content/uploads/2011/10/ppt-alt-630x370.jpg" alt="" width="630" height="370" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2011/10/ppt-alt.jpg"><img class="size-large wp-image-8469 alignnone" title="ppt-alt" src="https://www.renci.org/wp-content/uploads/2011/10/ppt-alt-630x370.jpg" alt="" width="630" height="370" /></a>
 
 To paraphrase Marshall McLuhan, change the communication medium and you’ve changed the message.
 

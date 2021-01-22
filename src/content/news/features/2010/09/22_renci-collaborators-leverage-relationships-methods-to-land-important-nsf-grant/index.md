@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["National Science Foundation (NSF)","RENCI at UNC Charlotte","UNC Charlotte Urban Institute"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/09/Model-Diagram.jpeg"><img class="alignnone size-large wp-image-6335" title="Model Diagram" src="http://www.renci.org/wp-content/uploads/2010/09/Model-Diagram-630x473.jpg" alt="" width="630" height="473" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/09/Model-Diagram.jpeg"><img class="alignnone size-large wp-image-6335" title="Model Diagram" src="https://www.renci.org/wp-content/uploads/2010/09/Model-Diagram-630x473.jpg" alt="" width="630" height="473" /></a></p>
 <p>The four organizations that comprise RENCI at UNC Charlotte have been awarded $300,000 from the National Science Foundation to study how land owners’ decision processes affect forest persistence.<!--more--></p>
 <p>Recognized for their forecasts of growth patterns in the Charlotte Metro region, The four partners in RENCI at UNC Charlotte  –  already recognized for their forecasts of growth patterns in the Charlotte Metro region - are UNC Charlotte Center for Applied GIScience (CAGIS), the UNC Charlotte Infrastructure, Design, Environment and Sustainability Center (IDEAS), the UNC Charlotte Visualization Center (VisCenter), and the UNC Charlotte Urban Institute. The NSF award will allow researchers with the four groups to use data and modeling techniques developed in their previous work forecasting growth and development to look at why natural areas persist.</p>
 <p>The grant was one of  17 awards made to pilot urban research projects and covers a 30-month period beginning Sept. 15.</p>

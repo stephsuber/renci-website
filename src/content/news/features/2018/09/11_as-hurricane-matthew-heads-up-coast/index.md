@@ -24,7 +24,7 @@ tags:
 
 CHAPEL HILL, NC &mdash; As Hurricane Matthew slowly makes it way toward the U.S., RENCI’s Dell PowerEdge supercomputer, named Hatteras for the home of North Carolina’s most famous Outer Banks lighthouse, is working overtime to model the storm surge that Matthew could bring to communities along the Eastern Seaboard.  <!--more-->
 
-![Model shows storm surge from Hurricane Matthew](http://renci.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-04-at-3.02.25-PM-1024x699.png)
+![Model shows storm surge from Hurricane Matthew](https://renci.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-04-at-3.02.25-PM-1024x699.png)
 
 Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas.
 

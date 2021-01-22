@@ -20,7 +20,7 @@ tags:
 ---
 
 
-<p><a href="http://www.renci.org/wp-content/uploads/2012/02/David-Shaw__photo__600x400.jpg"><img class="alignnone size-full wp-image-8797" title="David-Shaw__photo__600x400" src="http://www.renci.org/wp-content/uploads/2012/02/David-Shaw__photo__600x400.jpg" alt="" width="600" height="400" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2012/02/David-Shaw__photo__600x400.jpg"><img class="alignnone size-full wp-image-8797" title="David-Shaw__photo__600x400" src="https://www.renci.org/wp-content/uploads/2012/02/David-Shaw__photo__600x400.jpg" alt="" width="600" height="400" /></a></p>
 
 <p><em>David E. Shaw’s special-purpose supercomputer could help researchers understand malfunctions underlying many diseases.</em><!--more--></p>
 <p>CHAPEL HILL, NC--Understanding how protein molecules move could resolve longstanding scientific questions and help researchers design a new generation of lifesaving drugs.</p>

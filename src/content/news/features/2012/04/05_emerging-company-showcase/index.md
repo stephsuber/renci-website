@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Carolina Launch Pad","Emerging Company Showcase","Impulsonic","Innovation"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2012/04/innovation-img.jpg"><img class="size-large wp-image-12067 alignleft" title="innovation-img" alt="" src="http://www.renci.org/wp-content/uploads/2013/11/innovation-img.jpg" width="640" height="311" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/04/innovation-img.jpg"><img class="size-large wp-image-12067 alignleft" title="innovation-img" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/innovation-img.jpg" width="640" height="311" /></a>
 
 Fourteen startup companies based on innovations at the University of North Carolina at Chapel Hill will present at the annual Emerging Company Showcase on April 18.
 

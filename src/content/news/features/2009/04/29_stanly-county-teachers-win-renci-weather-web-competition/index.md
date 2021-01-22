@@ -28,12 +28,12 @@ tags:
 
 <p>“It is a great honor to be selected for this award and I feel that it will benefit not only students in Stanly County, but the citizens of the county,” said Mabry, a 6th grade teacher and a Specialist in the North Carolina National Guard, who will soon be deployed on a mission.  “Weather plays a very important part of our everyday life and to receive this for our county creates a great joy for all.  In May I will be leaving for Fort Sill, OK, and then deploy to an exercise. I am very honored to serve my country and also help the young people of America today as a teacher. I look forward to seeing this Weather Web weather station when I return home.”</p>
 
-<p>Proposals for the 2009 Weather Web competition were submitted to RENCI in March and representatives of RENCI and the State Climate Office reviewed the proposals in early April to determine the winning curriculum and county. The new curriculum will be posted on the RENCI website at <a href="http://www.renci.org/focus-areas/education-and-outreach/renci-weather-web">http://www.renci.org/focus-areas/education-and-outreach/renci-weather-web</a>, where past winning Weather Web curricula are already available. The SCO will determine the most suitable site for a station in the county.</p>
+<p>Proposals for the 2009 Weather Web competition were submitted to RENCI in March and representatives of RENCI and the State Climate Office reviewed the proposals in early April to determine the winning curriculum and county. The new curriculum will be posted on the RENCI website at <a href="https://www.renci.org/focus-areas/education-and-outreach/renci-weather-web">https://www.renci.org/focus-areas/education-and-outreach/renci-weather-web</a>, where past winning Weather Web curricula are already available. The SCO will determine the most suitable site for a station in the county.</p>
 
 <p>The winners from last year's Weather Web competition came from Alexander Central High School in Taylorsville (Alexander County); Ocracoke School on Ocracoke Island (Hyde County); and from a collaboration of several schools in Yancey County.</p>
 
 <p>For more information about the Weather Web competition go to<br />
- <a href="http://www.renci.org/focus-areas/education-and-outreach/renci-weather-web">http://www.renci.org/focus-areas/education-and-outreach/renci-weather-web</a><br />
+ <a href="https://www.renci.org/focus-areas/education-and-outreach/renci-weather-web">https://www.renci.org/focus-areas/education-and-outreach/renci-weather-web</a><br />
  The winning curriculum will be posted on this website in June. All data from the awarded station, and from existing stations in the state, are available on the SCO website at <a href="http://www.nc-climate.ncsu.edu/cronos" target="_blank">http://www.nc-climate.ncsu.edu/cronos</a>.</p>
 
 <p>RENCI…Catalyst for Innovation <br />

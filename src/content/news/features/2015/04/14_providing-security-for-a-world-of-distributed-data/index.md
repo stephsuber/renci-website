@@ -31,7 +31,7 @@ Developed at RENCI initially to help medical researchers who use sensitive data 
 <strong>Fighting back against health care hacks
 </strong>SRS launched in 2009 as a project to enable the Carolina Data Warehouse for Health (CDW-H), a database of clinical health records for all UNC Hospitals patients, to provide medical researchers and healthcare professionals secure access to patient records. At that time, UNC Health Care—through the new North Carolina Translational and Clinical Science (NC TraCS) Institute—wanted to develop a system that would give researchers access to CDW-H data but minimize the riskof data leakage that could compromise personal privacy and result in noncompliance with federal regulations.
 
-[caption id="attachment_14771" align="alignright" width="300"]<img class="wp-image-14771" src="http://renci.org/wp-content/uploads/2015/04/Shoffner2-300x200.jpg" alt="Shoffner - Secure Research Space" width="300" height="200" /> RENCI’s Michael Shoffner explains the Secure Research Space technology to attendees of the UNC Innovation Showcase, held on the UNC-Chapel Hill campus April 9. The showcase highlights startups and new technologies launched as the result of UNC research projects.[/caption]
+[caption id="attachment_14771" align="alignright" width="300"]<img class="wp-image-14771" src="https://renci.org/wp-content/uploads/2015/04/Shoffner2-300x200.jpg" alt="Shoffner - Secure Research Space" width="300" height="200" /> RENCI’s Michael Shoffner explains the Secure Research Space technology to attendees of the UNC Innovation Showcase, held on the UNC-Chapel Hill campus April 9. The showcase highlights startups and new technologies launched as the result of UNC research projects.[/caption]
 
 With funding from NC TraCS, a research team led by RENCI Senior Research Software Architect Michael Shoffner created what was then called the Secure Medical Research Workspace. That prototype evolved into today’s SRS.
 
@@ -50,6 +50,6 @@ So far, SRS has been prototyped with data sets within the UNC Health Care system
 
 “The wealth of medical and other personal data available today means tremendous opportunities to advance personalized medicine, medical research, businesses relations with their customers, and more,” said Charles Schmitt, RENCI’s director of informatics and software development. “But there are also risks when using sensitive data. If SRS enables knowledge discovery by minimizing the risk of data leakage, then we’ve made an important impact.”
 
-At this time the research team is looking for partners to help them test, improve, and enhance the SRS. For more information, see the <a href="http://renci.org/wp-content/uploads/2015/04/12-0096-Marketing-Doc-022514-1.pdf" target="_blank">SRS spec sheet</a> or contact the UNC-Chapel Hill <a href="http://research.unc.edu/otd/" target="_blank">Office of Technology Development</a> at 919-966-3929.
+At this time the research team is looking for partners to help them test, improve, and enhance the SRS. For more information, see the <a href="https://renci.org/wp-content/uploads/2015/04/12-0096-Marketing-Doc-022514-1.pdf" target="_blank">SRS spec sheet</a> or contact the UNC-Chapel Hill <a href="http://research.unc.edu/otd/" target="_blank">Office of Technology Development</a> at 919-966-3929.
 
 &nbsp;

@@ -18,11 +18,11 @@ collaborations:
 tags:
     - ["Date Intensive Cyber Environments (DICE)","School of Information and Library Science (SILS)","TUCASCI"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg"><img class="size-full wp-image-4301 alignnone" title="TUCASI-story-img" src="http://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg" alt="TUCASI-story-img" width="630" height="320" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg"><img class="size-full wp-image-4301 alignnone" title="TUCASI-story-img" src="https://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg" alt="TUCASI-story-img" width="630" height="320" /></a></p>
 
 <p>CHAPEL HILL, NC--An initiative that will determine how Triangle area universities access, manage, and share ever-growing stores of digital data launched this fall with funding from the  <a href="http://www.rtp.org/main/index.php?pid=53&amp;sec=1">Triangle Universities Center for Advanced Studies, Inc.</a> (TUCASI).<!--more--></p>
 
-<p>The two-year TUCASI data-Infrastructure Project (TIP) will deploy a federated data cyberinfrastructure—or data cloud—that will manage and store digital data for Duke University, NC State University, UNC Chapel Hill, and the  <a href="http://www.renci.org">Renaissance Computing Institute</a> (RENCI) and allow the campuses to more seamlessly share data with each other, with national research projects, and private sector partners in Research Triangle Park and beyond.</p>
+<p>The two-year TUCASI data-Infrastructure Project (TIP) will deploy a federated data cyberinfrastructure—or data cloud—that will manage and store digital data for Duke University, NC State University, UNC Chapel Hill, and the  <a href="https://www.renci.org">Renaissance Computing Institute</a> (RENCI) and allow the campuses to more seamlessly share data with each other, with national research projects, and private sector partners in Research Triangle Park and beyond.</p>
 
 <p>RENCI and the <a href="http://dice.unc.edu">Data Intensive Cyber Environments (DICE) Center at UNC Chapel Hill</a> manage the $2.7 million TIP. The provosts, heads of libraries and chief information officers at the three campuses signed off on the project just before the start of the fall semester.</p>
 

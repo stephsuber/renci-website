@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Clark Jeffries","microRNAs","RNA Journal"]
 ---
-<p><img class="alignnone size-full wp-image-7210" title="microRNAs" src="http://www.renci.org/wp-content/uploads/2011/03/microRNAs.jpg" alt="" width="640" height="426" /></p>
+<p><img class="alignnone size-full wp-image-7210" title="microRNAs" src="https://www.renci.org/wp-content/uploads/2011/03/microRNAs.jpg" alt="" width="640" height="426" /></p>
 
 <p>One of biology’s most talked-about breakthroughs of the past decade involves microRNAs—small, non-coding strands of RNA—and their prevalence in all living cells. <!--more--></p>
 

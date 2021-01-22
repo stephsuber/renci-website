@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Asheville","Erskine Bowles","RENCI at UNC Asheville","Stan Ahalt"]
 ---
-[caption id="attachment_4171" align="alignnone" width="630"]<img class="wp-image-4171 size-full" style="margin-top: 10px; margin-bottom: 10px;" title="RENCIatAsheville1" src="http://www.renci.org/wp-content/uploads/2009/10/RENCIatAsheville1.jpg" alt="RENCIatAsheville1" width="630" height="439" /> Demonstrations on the 20-foot visualization wall were featured at the opening of RENCI's new downtown Asheville center.[/caption]
+[caption id="attachment_4171" align="alignnone" width="630"]<img class="wp-image-4171 size-full" style="margin-top: 10px; margin-bottom: 10px;" title="RENCIatAsheville1" src="https://www.renci.org/wp-content/uploads/2009/10/RENCIatAsheville1.jpg" alt="RENCIatAsheville1" width="630" height="439" /> Demonstrations on the 20-foot visualization wall were featured at the opening of RENCI's new downtown Asheville center.[/caption]
 
 ASHEVILLE, NC — Community and university leaders celebrated the opening of the new downtown location of RENCI at UNC Asheville on Oct. 1. The event featured a ceremonial ribbon cutting and messages of support for the Asheville center from Erskine Bowles, president of the University of North Carolina System, UNC Asheville Chancellor Anne Ponder and Asheville Mayor Terry Bellamy.
 
@@ -30,7 +30,7 @@ The city of Asheville agreed to pay the rent for the downtown space in appreciat
 
 An open house, which followed the grand opening ceremony, featured demonstrations of work being done at the Asheville center, including computer modeling to understand the effects of floods and landslides in the region and computer tools for mapping natural hazard risks for emergency officials responding to floods, landslides, wildfire and other threats around Buncombe County.
 
-<img class="size-full wp-image-4172 alignleft" title="RENCIatAsheville2" src="http://www.renci.org/wp-content/uploads/2009/10/RENCIatAsheville2.jpg" alt="RENCIatAsheville2" width="630" height="393" />
+<img class="size-full wp-image-4172 alignleft" title="RENCIatAsheville2" src="https://www.renci.org/wp-content/uploads/2009/10/RENCIatAsheville2.jpg" alt="RENCIatAsheville2" width="630" height="393" />
 
 <em>Jim Fox, director of RENCI at UNC Asheville, welcomes visitors to the new RENCI center as UNC System President Erskine Bowles, far right, and Asheville Mayor Terry Bellamy, second from right, look on.</em>
 

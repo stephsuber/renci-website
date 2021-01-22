@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["EAGER","Earth Cube","iRODS","National Science Foundation","SILS"]
 ---
-<a href="http://www.renci.org/wp-content/uploads/2012/04/earth.png"><img class="size-large wp-image-12067 alignleft" title="earth" src="http://www.renci.org/wp-content/uploads/2013/11/earth.png" alt="" width="640" height="247" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2012/04/earth.png"><img class="size-large wp-image-12067 alignleft" title="earth" src="https://www.renci.org/wp-content/uploads/2013/11/earth.png" alt="" width="640" height="247" /></a>
 
 CHAPEL HILL - RENCI and the <a href="http://sils.unc.edu/">School of Information and Library Sciences</a> (SILS) at UNC Chapel Hill have joined a nationwide effort to build an integrated data management infrastructure that will help scientists better understand the complex processes of the planet Earth, from meteorology to solid earth sciences to hydrology and oceanography.<!--more-->
 

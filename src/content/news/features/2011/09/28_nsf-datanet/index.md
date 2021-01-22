@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["DataNet Federation Consortium","DICE","iRODS","National Science Foundation","RENCI","School of Information and Library Science (SILS)"]
 ---
-[caption id="attachment_8296" align="alignright" width="229"]<a href="http://www.renci.org/wp-content/uploads/2011/09/moore_reagan_08.jpg"><img class="size-full wp-image-8296" title="moore_reagan_08" src="http://www.renci.org/wp-content/uploads/2011/09/moore_reagan_08.jpg" alt="" width="229" height="320" /></a> Reagan Moore, Ph.D., the principal investigator for the consortium, director of the DICE Center, SILS professor and domain scientist for data management at RENCI.[/caption]
+[caption id="attachment_8296" align="alignright" width="229"]<a href="https://www.renci.org/wp-content/uploads/2011/09/moore_reagan_08.jpg"><img class="size-full wp-image-8296" title="moore_reagan_08" src="https://www.renci.org/wp-content/uploads/2011/09/moore_reagan_08.jpg" alt="" width="229" height="320" /></a> Reagan Moore, Ph.D., the principal investigator for the consortium, director of the DICE Center, SILS professor and domain scientist for data management at RENCI.[/caption]
 
 CHAPEL HILL, NC, Sept. 28, 2011--The National Science Foundation has funded the University of North Carolina at Chapel Hill to lead a multi-institutional team that will build and deploy a prototype national data management infrastructure that addresses some of the key data challenges facing scientific researchers in the digital age.
 

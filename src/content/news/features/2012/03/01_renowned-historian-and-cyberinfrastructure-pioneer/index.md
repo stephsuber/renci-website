@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png"><img class="alignnone size-full wp-image-8855" title="Vernon_Burton" src="http://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png" alt="" width="600" height="400" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png"><img class="alignnone size-full wp-image-8855" title="Vernon_Burton" src="https://www.renci.org/wp-content/uploads/2012/03/Vernon_Burton.png" alt="" width="600" height="400" /></a></p>
 
 <p>Orville Vernon Burton, a Clemson University history professor and renowned expert on Abraham Lincoln, the Civil War era, race relations and the history of the American South, will speak from 2 p.m. – 3:30 p.m., Thursday, March 29, in room 141 of the Frederick P. Brooks, Jr. Building, 201 S. Columbia St., Chapel Hill. A short reception will follow the talk.<!--more--></p>
 

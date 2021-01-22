@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Data Intensive Cyber Environments (DICE)","National Archives and Records Administration (NARA)","Reagan Moore","School of Information and Library Science (SILS)"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/02/data_storage_edited.jpg"><img class="alignnone size-full wp-image-2923" title="data_storage_edited" src="http://www.renci.org/wp-content/uploads/2009/02/data_storage_edited.jpg" alt="data_storage_edited" width="630" height="417" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/02/data_storage_edited.jpg"><img class="alignnone size-full wp-image-2923" title="data_storage_edited" src="https://www.renci.org/wp-content/uploads/2009/02/data_storage_edited.jpg" alt="data_storage_edited" width="630" height="417" /></a></p>
 <p>How will our grandchildren understand the dramatic events of the 2008 U.S. presidential election if they can’t access the rich digital information that documented and, arguably, influenced the process?<!--more--></p>
 <p>To create a “memory” to deliver today’s digital information reliably to future generations, the National Archives and Records Administration (NARA) Transcontinental Persistent Archives Prototype (TPAP) project is addressing key challenges in safeguarding, preserving and providing access to authentic electronic records as the nation’s information becomes increasingly digital.</p>
 <p>To support this effort, the National Science Foundation (NSF) Office of Cyberinfrastructure recently awarded nearly $1 million to the Data Intensive Cyber Environments (DICE) group at RENCI and the School of Information and Library Science (SILS) at the University of North Carolina at Chapel Hill.</p>

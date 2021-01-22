@@ -21,13 +21,13 @@ tags:
     - open-source
     - high performance computing
 ---
-<a href="http://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b.jpg"><img class="aligncenter wp-image-15762 size-large" src="http://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg" alt="23107653222_82fda09b5e_b" width="640" height="427" /></a>
+<a href="https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b.jpg"><img class="aligncenter wp-image-15762 size-large" src="https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg" alt="23107653222_82fda09b5e_b" width="640" height="427" /></a>
 
 <em>Need to Take Control of Your Data? Visit iRODS in Booth 3628 </em>
 
 SALT LAKE CITY, UTAH – Attendees of SC16 who are interested in open source data management will have plenty of opportunities to learn about the integrated Rule-Oriented Data System (iRODS) and the new iRODS 4.2, which will be released just in time for the conference.
 
-iRODS, is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. A team of software engineers based at the <a href="http://www.renci.org/">Renaissance Computing Institute</a> (RENCI) at UNC-Chapel Hill develop iRODS and the software is sustained by the <a href="http://irods.org/consortium/">iRODS Consortium</a>, a membership-based organization with 15 active members in the U.S. and Europe. SC16 attendees can visit the RENCI booth on the SC show floor (#3628) during regular exhibit hours to learn about what’s new in iRODS 4.2, hear case studies, and see demonstrations from iRODS developers and Consortium members. Free iRODS t-shirts will be available to conference participants who attend a presentation in the booth.<!--more-->
+iRODS, is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. A team of software engineers based at the <a href="https://www.renci.org/">Renaissance Computing Institute</a> (RENCI) at UNC-Chapel Hill develop iRODS and the software is sustained by the <a href="http://irods.org/consortium/">iRODS Consortium</a>, a membership-based organization with 15 active members in the U.S. and Europe. SC16 attendees can visit the RENCI booth on the SC show floor (#3628) during regular exhibit hours to learn about what’s new in iRODS 4.2, hear case studies, and see demonstrations from iRODS developers and Consortium members. Free iRODS t-shirts will be available to conference participants who attend a presentation in the booth.<!--more-->
 
 <strong>iRODS 4.2: Enhanced integration meets expert software engineering</strong>
 
@@ -77,4 +77,4 @@ iRODS Senior Data Scientist Terrell Russell will present <em>iRODS and Reproduci
 
 The iRODS Consortium is a membership organization that leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS professional integration services, training, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/">irods.org</a>.
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="http://www.renci.org">www.renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="https://www.renci.org">www.renci.org</a>.

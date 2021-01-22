@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Botany through Web 2.0 (BOT 2.0)","UNC - Chapel Hill"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg"><img class="alignnone size-full wp-image-3989" title="bot-story-img" src="http://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg" alt="Students from across the state took part in BotCamp 2009 at the University of North Carolina at Chapel Hill" width="630" height="419" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg"><img class="alignnone size-full wp-image-3989" title="bot-story-img" src="https://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg" alt="Students from across the state took part in BotCamp 2009 at the University of North Carolina at Chapel Hill" width="630" height="419" /></a></p>
 
 <p>Students from across the state took part in BotCamp 2009 at the University of North Carolina at Chapel Hill June 19 and July 24-25. BotCamp offered a new innovative curriculum, called Bot 2.0, designed to educate, recruit and retain non-traditional students in the study of botanical science.<!--more--></p>
 
@@ -32,4 +32,4 @@ tags:
 
 <p>“We had a number of hands-on activities that encouraged students to observe plant characteristics and approach plant identification like biologists while not getting too wrapped up in the formal taxonomic language,” said Greenberg. “The students also had the opportunity to use our Facebook and Flickr sites, and our blog so they could share what they learned with others using the same social networking tools they use every day.”</p>
 
-<p>For more information about BOT 2.0, see the <a href="http://www.renci.org/focus-areas/education-and-outreach/bot-20">RENCI website</a> or the <a href="http://ils.unc.edu/mrc/">Metadata Research Center website</a>.</p>
+<p>For more information about BOT 2.0, see the <a href="https://www.renci.org/focus-areas/education-and-outreach/bot-20">RENCI website</a> or the <a href="http://ils.unc.edu/mrc/">Metadata Research Center website</a>.</p>

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13215" align="alignleft" width="225"]<a href="http://www.renci.org/wp-content/uploads/2014/03/1.jpg"><img class="  wp-image-13215" src="http://www.renci.org/wp-content/uploads/2014/03/1-664x1024.jpg" alt="1" width="225" height="347" /></a> The VISR will include equipment much like this rack of high performance servers.[/caption]
+[caption id="attachment_13215" align="alignleft" width="225"]<a href="https://www.renci.org/wp-content/uploads/2014/03/1.jpg"><img class="  wp-image-13215" src="https://www.renci.org/wp-content/uploads/2014/03/1-664x1024.jpg" alt="1" width="225" height="347" /></a> The VISR will include equipment much like this rack of high performance servers.[/caption]
 
 RENCI and the <a href="http://www.odum.unc.edu/odum/home2.jsp" target="_blank">UNC-Chapel Hill Odum Institute for Research in Social Science</a> are combining their expertise in technology and the social sciences to begin development of a Virtual Institute for Social Research (VISR). The VISR will be a multifaceted high performance data and computing research environment that brings together researchers from across the world to collaboratively address the challenges facing social science.
 

@@ -19,7 +19,7 @@ collaborations:
 tags:
     - high performance computing
 ---
-[caption id="attachment_15625" align="aligncenter" width="640"]<a href="http://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action/attachment/screen-shot-2016-10-04-at-3-02-25-pm/"><img class="wp-image-15625 size-large" src="http://renci.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-04-at-3.02.25-PM-1024x699.png" alt="Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas. " width="640" height="437" /></a> Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas.[/caption]
+[caption id="attachment_15625" align="aligncenter" width="640"]<a href="https://renci.org/news/as-hurricane-creeps-closer-a-renci-supercomputer-swings-into-action/attachment/screen-shot-2016-10-04-at-3-02-25-pm/"><img class="wp-image-15625 size-large" src="https://renci.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-04-at-3.02.25-PM-1024x699.png" alt="Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas. " width="640" height="437" /></a> Models this week show storm surge from Hurricane Matthew could be as high as 12 feet in some coastal areas.[/caption]
 
 CHAPEL HILL, NC - As Hurricane Matthew slowly makes it way toward the U.S., RENCI’s Dell PowerEdge supercomputer, named Hatteras for the home of North Carolina’s most famous Outer Banks lighthouse, is working overtime to model the storm surge that Matthew could bring to communities along the Eastern Seaboard.  <!--more-->
 

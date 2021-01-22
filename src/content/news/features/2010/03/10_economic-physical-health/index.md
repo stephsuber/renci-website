@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Gillings Innovation Labs","Gillings School of Global Public Health","informatics","market locator"]
 ---
-<img class="alignnone size-full wp-image-4770" title="farmers-market-story" src="http://www.renci.org/wp-content/uploads/2010/03/farmers-market-story.jpg" alt="farmers-market-story" width="630" height="473" />
+<img class="alignnone size-full wp-image-4770" title="farmers-market-story" src="https://www.renci.org/wp-content/uploads/2010/03/farmers-market-story.jpg" alt="farmers-market-story" width="630" height="473" />
 
 No store-bought tomatoes can compare with sweet, juicy, still-warm-from-the-sun heirloom varieties found at midsummer farmers’ markets.
 
@@ -34,7 +34,7 @@ To determine score, the tool looks at drive-time circles of different radii arou
 
 Ammerman's team and RENCI software developers plan to improve the tool by studying data from farmers’ markets in Washington state to better understand who shops at farmers’ markets (Baby Boomers vs. Gen Xers, for example). By more accurately identifying which area residents are likely to shop at a market, the tool will be better able to choose successful market locations, said Charles Schmitt, director of RENCI’s informatics division.
 
-<img class="alignnone size-large wp-image-4776" title="huff" src="http://www.renci.org/wp-content/uploads/2010/03/huff-630x195.png" alt="huff" width="630" height="195" />
+<img class="alignnone size-large wp-image-4776" title="huff" src="https://www.renci.org/wp-content/uploads/2010/03/huff-630x195.png" alt="huff" width="630" height="195" />
 <em>Above: RENCI's market locator shows strategic sites for farmers'  markets based on population density and demographics. Researchers are  fine-tuning the tool looking at what groups are most likely to shop at  the markets.</em>
 
 “You want to know how many people live within driving distance of a given location, but more importantly, you want to know how many of them are likely to shop at a farmers’ market,” said Schmitt. “There could be many factors that come into play, from income to age to education level.”
@@ -43,4 +43,4 @@ Putting markets where they are most likely to succeed will give other researcher
 
 For more information see:
 Linking local sustainable farming and health
-<a href="http://www.renci.org/focus-areas/biosciences-health/improving-health-and-economies" target="_blank"> Improving health and economies</a>
+<a href="https://www.renci.org/focus-areas/biosciences-health/improving-health-and-economies" target="_blank"> Improving health and economies</a>

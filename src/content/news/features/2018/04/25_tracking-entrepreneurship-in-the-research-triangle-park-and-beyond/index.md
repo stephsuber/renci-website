@@ -40,7 +40,7 @@ With PLACE, researchers like Feldman can study the environmental factors that he
 
 <strong>Finding patterns in history</strong>
 
-<a href="http://renci.org/wp-content/uploads/2018/04/RTP-1.jpeg"><img class="alignright wp-image-17494 size-full" src="http://renci.org/wp-content/uploads/2018/04/RTP-1.jpeg" alt="" width="320" height="213" /></a>The Research Triangle Park (RTP), an economic hub that was essentially created from scratch in the 1950s, provides a fruitful case study for examining regional transformation. As a test case for PLACE, the team populated the platform with decades worth of data on RTP gathered by the late William F. “Bill” Little, a former vice president of the UNC System, who had been involved with RTP since its early days.
+<a href="https://renci.org/wp-content/uploads/2018/04/RTP-1.jpeg"><img class="alignright wp-image-17494 size-full" src="https://renci.org/wp-content/uploads/2018/04/RTP-1.jpeg" alt="" width="320" height="213" /></a>The Research Triangle Park (RTP), an economic hub that was essentially created from scratch in the 1950s, provides a fruitful case study for examining regional transformation. As a test case for PLACE, the team populated the platform with decades worth of data on RTP gathered by the late William F. “Bill” Little, a former vice president of the UNC System, who had been involved with RTP since its early days.
 
 “To best understand how economic growth is generated, how places change, how new industries emerge, we need a long time series,” said Feldman. “We’re now able to really do a deep dive on the RTP region. We have a chance to look at the development of this regional economy over a 60-year time period.”
 

@@ -26,7 +26,7 @@ RENCI senior software developer Steve Chall and senior visualization researcher 
 
 &nbsp;
 
-[caption id="attachment_5056" align="alignright" width="378"]<a title="A still of the RENCI developed Visualize Particulate Matter (VPM) software tool demonstrating the behavior of pollutants in a visual framework." href="http://www.renci.org/wp-content/uploads/2010/05/vpm-software-still.jpg"><img class="size-large wp-image-5056" title="vpm-software-still" src="http://www.renci.org/wp-content/uploads/2010/05/vpm-software-still-630x366.jpg" alt="" width="378" height="220" /></a> A still of the RENCI-developed Visualize Particulate Matter (VPM) software tool demonstrating the size distribution of pollutants in a visual framework.[/caption]
+[caption id="attachment_5056" align="alignright" width="378"]<a title="A still of the RENCI developed Visualize Particulate Matter (VPM) software tool demonstrating the behavior of pollutants in a visual framework." href="https://www.renci.org/wp-content/uploads/2010/05/vpm-software-still.jpg"><img class="size-large wp-image-5056" title="vpm-software-still" src="https://www.renci.org/wp-content/uploads/2010/05/vpm-software-still-630x366.jpg" alt="" width="378" height="220" /></a> A still of the RENCI-developed Visualize Particulate Matter (VPM) software tool demonstrating the size distribution of pollutants in a visual framework.[/caption]
 
 &nbsp;
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["BEN","GENI","Infinera","National Science Foundation","ORCA"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg"><img class="size-full wp-image-4267 alignnone" title="ben-story-logo" src="http://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg" alt="ben-story-logo" width="630" height="309" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg"><img class="size-full wp-image-4267 alignnone" title="ben-story-logo" src="https://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg" alt="ben-story-logo" width="630" height="309" /></a></p>
 
 <p>CAMBRIDGE, MASS.—New funding was announced this week for the RENCI and Duke University project to develop a dark fiber network where researchers can create and manage network experiments. <!--more--></p>
 
@@ -30,4 +30,4 @@ tags:
 
 <p>The GENI Spiral 2 awards were announced Oct. 12 by BBN Technolgies, the firm that manages the GENI initiative for the NSF.</p>
 
-<p>For more on BEN, ORCA and GENI, see the RENCI feature story, <a href="http://www.renci.org/news/features/break-this-network">Break this network</a>.</p>
+<p>For more on BEN, ORCA and GENI, see the RENCI feature story, <a href="https://www.renci.org/news/features/break-this-network">Break this network</a>.</p>

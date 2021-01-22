@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2013/07/ESIP-logo-new_edited3.png"><img class="size-large wp-image-12067 alignleft" title="ESIP-logo-new_edited" alt="" src="http://www.renci.org/wp-content/uploads/2013/07/ESIP-logo-new_edited3.png" width="640" height="204" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2013/07/ESIP-logo-new_edited3.png"><img class="size-large wp-image-12067 alignleft" title="ESIP-logo-new_edited" alt="" src="https://www.renci.org/wp-content/uploads/2013/07/ESIP-logo-new_edited3.png" width="640" height="204" /></a>
 
 July 16, 2013 —The Federation of Earth Science Information Partners (<a href="http://www.esipfed.org">ESIP Federation</a>) met in Chapel Hill, North Carolina to advance the work of its data practitioner community. Hosted by RENCI, the meeting focused on bringing together communities to improve Earth science data management practices and coordinate efforts to make data more discoverable, accessible and useful to many.  <!--more-->
 

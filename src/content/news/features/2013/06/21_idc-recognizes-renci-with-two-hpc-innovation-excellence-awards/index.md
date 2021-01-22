@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_10256" align="alignnone" width="640"]<img class=" wp-image-12067 " title="Sandy_2-hindcast" src="http://www.renci.org/wp-content/uploads/2013/06/Sandy_2-hindcast-630x371.jpg" alt="" width="640" height="377" /> An ASGS hindcast of water inundation resulting from Hurricane Sandy, with reds showing the highest surge and inundation levels. A hindcast uses actual storm data to compare numerical models to actual storm data and thereby measure the accuracy of the models. For Hurricane Sandy, ASGS models were as accurate or better than those used by the National Weather Service.[/caption]
+[caption id="attachment_10256" align="alignnone" width="640"]<img class=" wp-image-12067 " title="Sandy_2-hindcast" src="https://www.renci.org/wp-content/uploads/2013/06/Sandy_2-hindcast-630x371.jpg" alt="" width="640" height="377" /> An ASGS hindcast of water inundation resulting from Hurricane Sandy, with reds showing the highest surge and inundation levels. A hindcast uses actual storm data to compare numerical models to actual storm data and thereby measure the accuracy of the models. For Hurricane Sandy, ASGS models were as accurate or better than those used by the National Weather Service.[/caption]
 <p style="text-align: left;">CHAPEL HILL, NC, June 20, 2013 - International Data Corporation (IDC) presented the 2013 HPC Innovation Excellence Awards last week at the ISC'13 supercomputing conference in Leipzig, Germany.  Of the 11 awards presented, two were won by RENCI, the Renaissance Computing Institute at UNC-Chapel Hill.</p>
 NCGENES and the ADCIRC Surge Guidance System, both projects that depend on RENCI-developed technologies and computing resources, were among the projects recognized for using high performance computing to impact research, business and society.
 <p style="text-align: left;"><!--more--></p>
@@ -32,9 +32,9 @@ IDC began the awards program in 2011 and winners have included organizations in 
 <p style="text-align: left;"><strong>For more information:</strong></p>
 <p style="text-align: left;"><a href="http://www.idc.com/" target="_blank">IDC</a></p>
 <p style="text-align: left;"><a href="http://adcirc.org/" target="_blank">ADCIRC website</a></p>
-<p style="text-align: left;"><a href="http://www.renci.org/wp-content/uploads/2013/06/ADCIRC-fact-sheet.pdf" target="_blank">ADCIRC fact sheet</a></p>
+<p style="text-align: left;"><a href="https://www.renci.org/wp-content/uploads/2013/06/ADCIRC-fact-sheet.pdf" target="_blank">ADCIRC fact sheet</a></p>
 <p style="text-align: left;">NCGENES</p>
-<p style="text-align: left;"><a href="http://www.renci.org/" target="_blank">RENCI</a></p>
+<p style="text-align: left;"><a href="https://www.renci.org/" target="_blank">RENCI</a></p>
 <p style="text-align: left;"><strong>RENCI Media Contact:</strong></p>
 <p style="text-align: left;">Karen Green
 919-445-9648 (office)

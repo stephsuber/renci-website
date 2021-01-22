@@ -30,4 +30,4 @@ RENCI plans to survey the entire North Carolina coast with the camera system to 
 
 Although research with the camera system now targets disaster mitigation and response, the setup has many practical uses. Universities could capture walking tours of their campuses, buildings and recreation resources, post the imagery on the Web and use it as a recruiting tool. Communities could capture 360-degree video of commercial building sites and tourist attractions. Public safety officials could document streets and walkways and discover areas that are poorly lit or otherwise unsafe.
 
-For more information, see <a href="http://www.renci.org/focus-areas/disaster-and-environmental-research/immersive-media">http://www.renci.org/focus-areas/disaster-and-environmental-research/immersive-media</a>
+For more information, see <a href="https://www.renci.org/focus-areas/disaster-and-environmental-research/immersive-media">https://www.renci.org/focus-areas/disaster-and-environmental-research/immersive-media</a>

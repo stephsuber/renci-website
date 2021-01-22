@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["National Climate Data Center (NCDC)","National Oceanic and Atmospheric Administration (NOAA)","North Carolina State University"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png"><img class="alignnone size-full wp-image-3728" title="noaa_logo22" src="http://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png" alt="noaa_logo22" width="630" height="450" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png"><img class="alignnone size-full wp-image-3728" title="noaa_logo22" src="https://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png" alt="noaa_logo22" width="630" height="450" /></a></p>
 
 <p>COLLEGE PARK, Md. – The Renaissance Computing Institute (RENCI) is one of 16 partners in a new climate research project led by the University of Maryland called the Cooperative Institute for Climate and Satellites (CICS).<!--more--></p>
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg"><img class="alignnone size-full wp-image-6198" title="earl-story-image" alt="" src="http://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg" width="630" height="315" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg"><img class="alignnone size-full wp-image-6198" title="earl-story-image" alt="" src="https://www.renci.org/wp-content/uploads/2010/08/earl-story-image.jpg" width="630" height="315" /></a>
 
 Chapel Hill, NC—As Hurricane Earl strengthened and headed toward North Carolina’s coast, RENCI researchers tracked it's every move with a Weather Research Forecast (WRF) model that plotted the storm’s course on a grid, with each point in the grid representing a 3-kilometer-by-3-kilometer box.<!--more-->
 
@@ -26,7 +26,7 @@ The model’s 3 km resolution is significant because it means scientists did not
 
 <span class="renci_head">Hurricane Earl animation</span>
 
-[pro-player width='630' height='353' repeat='true' type='video']http://www.renci.org/wp-content/uploads/2010/08/2010083100.mp4[/pro-player]
+[pro-player width='630' height='353' repeat='true' type='video']https://www.renci.org/wp-content/uploads/2010/08/2010083100.mp4[/pro-player]
 
 &nbsp;
 

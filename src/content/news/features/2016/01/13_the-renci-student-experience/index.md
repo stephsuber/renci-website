@@ -52,9 +52,9 @@ She also had the opportunity to attend the 2015 <a href="http://datamatters.org/
 <hr />
 
 <h4>Fan Jiang</h4>
-<a href="http://renci.org/wp-content/uploads/2016/01/Fan_Sept2015_2.jpg" rel="attachment wp-att-15281"><img class="wp-image-15281 alignleft" src="http://renci.org/wp-content/uploads/2016/01/Fan_Sept2015_2-300x300.jpg" alt="Fan_2" width="200" height="199" /></a>Sometimes, student work experiences grant the chance to work on projects that seemed inconceivable when learning the skills in the classroom. Fan Jiang, a graduate student in the UNC-Chapel Hill School of Information and Library Science (SILS), has worked on a National Science Foundation-funded project for the last year.
+<a href="https://renci.org/wp-content/uploads/2016/01/Fan_Sept2015_2.jpg" rel="attachment wp-att-15281"><img class="wp-image-15281 alignleft" src="https://renci.org/wp-content/uploads/2016/01/Fan_Sept2015_2-300x300.jpg" alt="Fan_2" width="200" height="199" /></a>Sometimes, student work experiences grant the chance to work on projects that seemed inconceivable when learning the skills in the classroom. Fan Jiang, a graduate student in the UNC-Chapel Hill School of Information and Library Science (SILS), has worked on a National Science Foundation-funded project for the last year.
 
-“I mainly helped with the implementation of the workflow virtual appliance [for <a href="http://renci.org/research/adamant/" target="_blank">ADAMANT</a>]. This work was demonstrated at <a href="http://sc14.supercomputing.org/" target="_blank">Supercomputing</a> (the international high performance computing conference) last year and also resulted in a research paper,” said Jiang.
+“I mainly helped with the implementation of the workflow virtual appliance [for <a href="https://renci.org/research/adamant/" target="_blank">ADAMANT</a>]. This work was demonstrated at <a href="http://sc14.supercomputing.org/" target="_blank">Supercomputing</a> (the international high performance computing conference) last year and also resulted in a research paper,” said Jiang.
 
 <hr />
 
@@ -77,7 +77,7 @@ Rick Skarbez, UNC-CH computer science graduate student, says students at RENCI a
 <hr />
 
 <h4>Jessica Smith</h4>
-<a href="http://renci.org/wp-content/uploads/2016/01/JessSept2015_3-e1452656643245.jpg" rel="attachment wp-att-15287"><img class="size-medium wp-image-15287 alignright" src="http://renci.org/wp-content/uploads/2016/01/JessSept2015_3-e1452656643245-261x300.jpg" alt="Jess_3" width="261" height="300" /></a>For many students, an internship brings into focus the specialties within a field of study they are most suited to pursue after graduation. Jessica Smith is a UNC-Chapel Hill marine sciences graduate student working on coastal hazards research with Brian Blanton, director of environmental initiatives at RENCI.
+<a href="https://renci.org/wp-content/uploads/2016/01/JessSept2015_3-e1452656643245.jpg" rel="attachment wp-att-15287"><img class="size-medium wp-image-15287 alignright" src="https://renci.org/wp-content/uploads/2016/01/JessSept2015_3-e1452656643245-261x300.jpg" alt="Jess_3" width="261" height="300" /></a>For many students, an internship brings into focus the specialties within a field of study they are most suited to pursue after graduation. Jessica Smith is a UNC-Chapel Hill marine sciences graduate student working on coastal hazards research with Brian Blanton, director of environmental initiatives at RENCI.
 
 According to Smith, working at RENCI has increased her knowledge of and interest in a sub-field of marine sciences. “From the work I’ve completed here, and the work that will be my master’s project, I think that I want to work in the coastal hazards modeling field after I graduate,” she said.
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["cyb","Cyberinfrastructure","UNC - Chapel Hill","Virtual Organization"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg"><img class="alignnone size-full wp-image-4696" title="virtual-org2" src="http://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg" alt="virtual-org2" width="630" height="302" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg"><img class="alignnone size-full wp-image-4696" title="virtual-org2" src="https://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg" alt="virtual-org2" width="630" height="302" /></a></p>
 
 <p>Over the past three years, RENCI has evolved into a statewide organization that spans six North Carolina campuses and affiliated institutes and 27 facilities in seven regions across the state.</p>
 
@@ -40,4 +40,4 @@ tags:
 
 <p><span class="head2">About RENCI</span><br />
  RENCI (the Renaissance Computing Institute) applies advanced technology resources and expertise to problems identified by the state of North Carolina and to university research initiatives. Its research contributes to the development of the next generation of technology infrastructure and cyber tools. Founded in 2004 as a major collaboration involving UNC Chapel Hill, Duke University and North Carolina State University, RENCI is a statewide virtual organization with facilities at campuses across North Carolina.   <br />
- For more see http://www.renci.org.</p>
+ For more see https://www.renci.org.</p>

@@ -31,7 +31,7 @@ tags:
  Data  simulation: Charles Finley, UNC School of Medicine, and Mark Reed, RENCI/UNC  Chapel Hill.</p>
 
 <p><strong>More information:</strong><br />
- RENCI  Cochlear Implant project: <a href="http://www.renci.org/focus-areas/biosciences-medicine/cochlear-implant-studies">http://www.renci.org/focus-areas/biosciences-medicine/cochlear-implant-studies</a><br />
+ RENCI  Cochlear Implant project: <a href="https://www.renci.org/focus-areas/biosciences-medicine/cochlear-implant-studies">https://www.renci.org/focus-areas/biosciences-medicine/cochlear-implant-studies</a><br />
  Charles  Finley: <a href="http://www.med.unc.edu/ent/faculty/research-faculty-1/charles-c-finley-phd" target="_blank">http://www.med.unc.edu/ent/faculty/research-faculty-1/charles-c-finley-phd</a></p>
 
 <p><strong>RENCI…Catalyst for  Innovation</strong><br />

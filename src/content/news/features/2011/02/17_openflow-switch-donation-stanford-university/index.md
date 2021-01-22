@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Breakable Experimental Network (BEN)","Global Environment for Network Innovations (GENI)","Open Resource Control Architecture (ORCA)","OpenFlow"]
 ---
-<p><img class="alignnone size-full wp-image-6759" title="OpenFlow Switch" src="http://www.renci.org/wp-content/uploads/2011/02/UNC-CS-Story.jpg" alt="" width="630" height="370" /></p>
+<p><img class="alignnone size-full wp-image-6759" title="OpenFlow Switch" src="https://www.renci.org/wp-content/uploads/2011/02/UNC-CS-Story.jpg" alt="" width="630" height="370" /></p>
 
 <p>CHAPEL HILL, February 18, 2011--With funds from the GENI Project Office (GPO) distributed through Stanford University, RENCI and its Triangle area university partners recently received five OpenFlow-enabled network switches valued at $3,000 per unit.<!--more--></p>
 

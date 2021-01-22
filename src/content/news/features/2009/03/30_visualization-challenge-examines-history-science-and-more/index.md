@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["East Carolina University (ECU)","RENCI at ECU","Visualization Challenge"]
 ---
-[caption id="attachment_3420" align="alignnone" width="630"]<a href="http://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg"><img class="wp-image-3420 size-full" title="vischal2009_web" src="http://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg" alt="vischal2009_web" width="630" height="422" /></a> John Wagner won the RENCI at ECU Visualization Challenge with this representation of a 19th century gunboat.[/caption]
+[caption id="attachment_3420" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg"><img class="wp-image-3420 size-full" title="vischal2009_web" src="https://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg" alt="vischal2009_web" width="630" height="422" /></a> John Wagner won the RENCI at ECU Visualization Challenge with this representation of a 19th century gunboat.[/caption]
 
 RENCI at East Carolina University’s (ECU) second annual Visualization Challenge, held March 25, featured presentations on the center’s 21-foot by 6-foot visualization wall on topics ranging from 3D archeological ship reconstruction to research into genetic diseases using fruit flies.
 

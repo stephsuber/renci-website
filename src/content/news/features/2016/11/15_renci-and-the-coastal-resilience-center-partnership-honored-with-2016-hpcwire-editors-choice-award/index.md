@@ -18,7 +18,7 @@ collaborations:
 tags:
     - high performance computing
 ---
-[caption id="attachment_15780" align="alignnone" width="512"]<a href="http://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg"><img class="wp-image-15780 size-full" src="http://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg" alt="SC16award_2" width="512" height="341" /></a> Tom Tabor, publisher of HPCWire, presents an HPCWire reader’s choice award to RENCI Communications Director Karen Green. Also pictured are Anthony Jenkins of Dell (far left) and RENCI COO Jay Aikat (far right).[/caption]
+[caption id="attachment_15780" align="alignnone" width="512"]<a href="https://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg"><img class="wp-image-15780 size-full" src="https://renci.org/wp-content/uploads/2016/11/SC16award_2.jpg" alt="SC16award_2" width="512" height="341" /></a> Tom Tabor, publisher of HPCWire, presents an HPCWire reader’s choice award to RENCI Communications Director Karen Green. Also pictured are Anthony Jenkins of Dell (far left) and RENCI COO Jay Aikat (far right).[/caption]
 
 SALT LAKE CITY, UT - The University of North Carolina at Chapel Hill’s Renaissance Computing Institute (RENCI) and the Department of Homeland Security Coastal Resilience Center of Excellence (CRC) have been recognized in the annual <em>HPCwire</em> Readers’ and Editors’ Choice Awards, presented at the 2016 International Conference for High Performance Computing, Networking, Storage and Analysis (SC16) in Salt Lake City, Utah.<!--more-->
 
@@ -26,7 +26,7 @@ The RENCI/CRC collaboration won Editor’s Choice: Best Use of High-Performance 
 
 The full list of winners is available on the <a href="https://www.hpcwire.com/"><em>HPCwire</em> website</a>.
 
-The ADCIRC coastal circulation and storm surge model, which applies high performance computing and data analysis to understanding dangerous storm surges, is part of a long-term collaboration involving <a href="http://www.renci.org/">RENCI</a>, the <a href="http://coastalresiliencecenter.unc.edu/">CRC</a> and the University of North Carolina at Chapel Hill (UNC)’s <a href="http://ims.unc.edu/">Institute of Marine Sciences</a>. For more than 20 years, researchers from UNC and others have worked to enhance and improve the model.
+The ADCIRC coastal circulation and storm surge model, which applies high performance computing and data analysis to understanding dangerous storm surges, is part of a long-term collaboration involving <a href="https://www.renci.org/">RENCI</a>, the <a href="http://coastalresiliencecenter.unc.edu/">CRC</a> and the University of North Carolina at Chapel Hill (UNC)’s <a href="http://ims.unc.edu/">Institute of Marine Sciences</a>. For more than 20 years, researchers from UNC and others have worked to enhance and improve the model.
 
 Visualizations of the models appeared on the <a href="http://nc-cera.renci.org/">Coastal Emergency Risks Assessment website</a>. Outputs from the runs are routinely incorporated into guidance information by the National Weather Service, the National Hurricane Center and agencies such as the U.S. Coast Guard, the U.S. Army Corps of Engineers, FEMA, and local and regional emergency management divisions. The models can also be used as a tool to help make decisions about evacuations, and where to position supplies and response personnel.
 
@@ -40,6 +40,6 @@ Luettich, one the of principal developers of ADCIRC, emphasized the importance o
 
 "From thought leaders to end users, the <em>HPCwire</em> readership reaches and engages every corner of the high performance computing community," said Tom Tabor, CEO of Tabor Communications, publisher of <em>HPCwire</em>. "Receiving their recognition signifies community support across the entire HPC space as well as the breadth of industries it serves. We are proud to recognize these efforts and make the voices of our readers heard, and our congratulations go out to all the winners."
 
-To learn more about RENCI and its work in data analytics, data management and high performance computing, visit the RENCI booth (#3628) on the SC16 show floor. To see a list of presentations taking place in the RENCI booth, visit the <a href="http://renci.org/sc-16-renci-booth-schedule/">RENCI website</a>.
+To learn more about RENCI and its work in data analytics, data management and high performance computing, visit the RENCI booth (#3628) on the SC16 show floor. To see a list of presentations taking place in the RENCI booth, visit the <a href="https://renci.org/sc-16-renci-booth-schedule/">RENCI website</a>.
 
-<a href="http://renci.org/wp-content/uploads/2016/11/SC16award.jpg"><img class="wp-image-15781 size-full alignnone" src="http://renci.org/wp-content/uploads/2016/11/SC16award.jpg" alt="SC16award" width="512" height="341" /></a>
+<a href="https://renci.org/wp-content/uploads/2016/11/SC16award.jpg"><img class="wp-image-15781 size-full alignnone" src="https://renci.org/wp-content/uploads/2016/11/SC16award.jpg" alt="SC16award" width="512" height="341" /></a>

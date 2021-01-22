@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignleft size-medium wp-image-13570" src="http://renci.org/wp-content/uploads/2014/09/colorful-brain-300x180.jpeg" alt="colorful-brain" width="300" height="180" />CHAPEL HILL, NC - A study led by University of North Carolina at Chapel Hill researchers represents an important step forward in the accurate diagnosis of people who are experiencing the earliest stages of psychosis.
+<img class="alignleft size-medium wp-image-13570" src="https://renci.org/wp-content/uploads/2014/09/colorful-brain-300x180.jpeg" alt="colorful-brain" width="300" height="180" />CHAPEL HILL, NC - A study led by University of North Carolina at Chapel Hill researchers represents an important step forward in the accurate diagnosis of people who are experiencing the earliest stages of psychosis.
 
 Psychosis includes hallucinations or delusions that define the development of severe mental disorders such as schizophrenia. Schizophrenia emerges in late adolescence and early adulthood and affects about 1 in every 100 people. In severe cases, the impact on a young person can be a life compromised, and the burden on family members can be almost as severe.
 

@@ -22,7 +22,7 @@ The National Institutes of Health (NIH) has tapped the University of North Carol
 
 The Data Commons Pilot Phase provides nearly $646,000 to RENCI and UNC-Chapel Hill and another $578,000 to partners at seven institutions. The project launched in September and phase 1 will conclude in 2018. The award is one of 12 Data Commons Pilot Phase awards totaling $9 million announced by the NIH on Nov. 6.
 
-<img class="alignright wp-image-17018 size-medium" src="http://renci.org/wp-content/uploads/2017/11/med_davinci_data_guy-300x300.jpg" alt="" width="300" height="300" />
+<img class="alignright wp-image-17018 size-medium" src="https://renci.org/wp-content/uploads/2017/11/med_davinci_data_guy-300x300.jpg" alt="" width="300" height="300" />
 
 The NIH Data Commons Pilot Phase is expected to span fiscal years 2017-2020. The pilot phase will explore the feasibility and best practices for making digital objects available through collaborative platforms. The work will be done on public clouds, which are virtual spaces where service providers make resources, such as applications and storage, available over the internet. The Data Commons aims to make biomedical research data Findable, Accessible, Interoperable, and Reusable (FAIR) for more biomedical researchers.
 

@@ -19,7 +19,7 @@ tags:
     - networking
     - testbed
 ---
-<a href="http://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2.png"><img class="alignright size-thumbnail wp-image-15171" src="http://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2-150x150.png" alt="ExoGENI logo2" width="150" height="150" /></a>AUSTIN, TEXAS - Each year the SC conference, the annual gathering of industry and research experts in high performance computing, networking, storage and analysis, sets up one of the most powerful and advanced networks in the world: SCinet.
+<a href="https://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2.png"><img class="alignright size-thumbnail wp-image-15171" src="https://renci.org/wp-content/uploads/2015/11/ExoGENI-logo2-150x150.png" alt="ExoGENI logo2" width="150" height="150" /></a>AUSTIN, TEXAS - Each year the SC conference, the annual gathering of industry and research experts in high performance computing, networking, storage and analysis, sets up one of the most powerful and advanced networks in the world: SCinet.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ SCinet serves as the platform for exhibitors to demonstrate advanced computing r
 
 This year 25 demonstrations will participate in SCinet NRE, including four that will use ExoGENI, a nationwide test bed for advanced networking and networked cloud computing. Led by RENCI with collaborators at Duke University, ExoGENI is part of the National Science Foundation’s GENI (Global Environment for Network Innovations) initiative. In effect, ExoGENI is a widely distributed networked infrastructure-as-a-service (NIaaS) platform geared towards experimentation and computational tasks.
 
-Below is information on the SCinet NRE demonstrations that will use ExoGENI, including two that will take place in the RENCI booth. For a complete list of SC15 NRE demos click here. For more information on ExoGENI visit the ExoGENI <a href="http://www.exogeni.net/" target="_blank">website</a> or the RENCI <a href="http://renci.org/research/geni/" target="_blank">website</a>.
+Below is information on the SCinet NRE demonstrations that will use ExoGENI, including two that will take place in the RENCI booth. For a complete list of SC15 NRE demos click here. For more information on ExoGENI visit the ExoGENI <a href="http://www.exogeni.net/" target="_blank">website</a> or the RENCI <a href="https://renci.org/research/geni/" target="_blank">website</a>.
 
 <strong>SCinet NRE demos featuring ExoGENI</strong>
 

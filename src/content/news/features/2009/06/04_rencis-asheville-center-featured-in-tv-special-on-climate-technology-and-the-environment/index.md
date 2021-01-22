@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Jim Fox","RENCI at UNC Asheville"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg"><img class="alignnone size-full wp-image-3713" title="conv-story2" src="http://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg" alt="conv-story2" width="630" height="437" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg"><img class="alignnone size-full wp-image-3713" title="conv-story2" src="https://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg" alt="conv-story2" width="630" height="437" /></a></p>
 
 <p>ASHEVILLE, NC--RENCI at UNC Asheville Director Jim Fox and media artist and co-founder of design and engineering firm The Elumenati David McConville were featured in a half-hour program that aired on Asheville's educational channel twice a day from May 12 to May 19. <!--more-->The show, "Climate, Technology and Our Environment," was one episode in a four-part series hosted by UNC Asheville Chancellor Anne Ponder. The series explored the challenges and opportunities facing Western North Carolina citizens and communities and featured some of the region's outstanding innovators, policy-makers and educators.</p>
 

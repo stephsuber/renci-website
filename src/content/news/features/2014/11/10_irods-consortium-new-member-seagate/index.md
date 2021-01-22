@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignright size-medium wp-image-13783" src="http://renci.org/wp-content/uploads/2014/11/seagate-2c-pos-R-300x96.jpg" alt="seagate_2c_pos R" width="300" height="96" />CHAPEL HILL, NC, November 10, 2014, 2014 – Seagate Technology, a world leader in storage solutions, is the latest corporation to join the iRODS Consortium, a group that supports and guides the continued development of the integrated Rule-Oriented Data System, or iRODS.
+<img class="alignright size-medium wp-image-13783" src="https://renci.org/wp-content/uploads/2014/11/seagate-2c-pos-R-300x96.jpg" alt="seagate_2c_pos R" width="300" height="96" />CHAPEL HILL, NC, November 10, 2014, 2014 – Seagate Technology, a world leader in storage solutions, is the latest corporation to join the iRODS Consortium, a group that supports and guides the continued development of the integrated Rule-Oriented Data System, or iRODS.
 
 <!--more-->
 

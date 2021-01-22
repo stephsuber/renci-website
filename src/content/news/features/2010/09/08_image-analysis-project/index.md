@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<p><img class="alignnone size-full wp-image-6229" title="melanoma-story-image" src="http://www.renci.org/wp-content/uploads/2010/09/melanoma-story-image.jpg" alt="" width="630" height="315" /></p>
+<p><img class="alignnone size-full wp-image-6229" title="melanoma-story-image" src="https://www.renci.org/wp-content/uploads/2010/09/melanoma-story-image.jpg" alt="" width="630" height="315" /></p>
 
 <p>CHAPEL HILL, NC--Melanoma—the most serious form of skin cancer—varies in size, shape and severity, and although pathologists and researchers often intuitively differentiate between types of melanomas, the variations have never been formally quantified and documented. <!--more--></p>
 

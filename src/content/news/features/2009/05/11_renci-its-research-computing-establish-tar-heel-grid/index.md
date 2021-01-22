@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/05/thg.jpg"><img class="alignnone size-full wp-image-3641" title="thg" src="http://www.renci.org/wp-content/uploads/2009/05/thg.jpg" alt="thg" width="630" height="600" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/05/thg.jpg"><img class="alignnone size-full wp-image-3641" title="thg" src="https://www.renci.org/wp-content/uploads/2009/05/thg.jpg" alt="thg" width="630" height="600" /></a></p>
 
 <p>Researchers at the University of North Carolina at Chapel Hill have a new distributed computing resource through the efforts of the Renaissance Computing Institute (RENCI) and Information Technology Services’ Research Computing.<!--more--></p>
 

@@ -21,7 +21,7 @@ tags:
 ---
 <em>NSF grant will address security issues of Network Infrastructure as a Service (NIaaS)</em>
 
-<a href="http://renci.org/wp-content/uploads/2016/10/NetworkSecurity_large.jpg"><img class="aligncenter size-full wp-image-15713" src="http://renci.org/wp-content/uploads/2016/10/NetworkSecurity_large.jpg" alt="NetworkSecurity_large" width="960" height="604" /></a>
+<a href="https://renci.org/wp-content/uploads/2016/10/NetworkSecurity_large.jpg"><img class="aligncenter size-full wp-image-15713" src="https://renci.org/wp-content/uploads/2016/10/NetworkSecurity_large.jpg" alt="NetworkSecurity_large" width="960" height="604" /></a>
 
 CHAPEL HILL, NC - RENCI will lead a $1 million research project to securely automate and monitor the creation of virtual “superfacilities” that link scientists to multiple resources to increase their productivity.
 

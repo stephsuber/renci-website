@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<div id="attachment_13123" class="wp-caption alignleft" style="width: 280px"><a href="http://www.renci.org/wp-content/uploads/2014/02/ted_x_unc_Folt.jpg"  rel="lightbox[roadtrip]"><img class="size-full wp-image-13123 " alt="Chancellor Carol L. Folt talks with a student during a TEDxUNC breakout session. (Courtesy of Connelly Crowe, TEDxUNC.)" src="http://www.renci.org/wp-content/uploads/2014/02/ted_x_unc_Folt.jpg" width="280" height="230" /></a></p>
+<div id="attachment_13123" class="wp-caption alignleft" style="width: 280px"><a href="https://www.renci.org/wp-content/uploads/2014/02/ted_x_unc_Folt.jpg"  rel="lightbox[roadtrip]"><img class="size-full wp-image-13123 " alt="Chancellor Carol L. Folt talks with a student during a TEDxUNC breakout session. (Courtesy of Connelly Crowe, TEDxUNC.)" src="https://www.renci.org/wp-content/uploads/2014/02/ted_x_unc_Folt.jpg" width="280" height="230" /></a></p>
 <p class="wp-caption-text">Chancellor Carol L. Folt talks with a student during a TEDxUNC breakout session. (Courtesy of Connelly Crowe, TEDxUNC.)</p>
 </div>
 <p>It&#8217;s been more than a week since the successful conclusion of TEDxUNC 2014, our local version of a TED conference. The event took place Saturday, Feb, 15, only a few days after a winter storm, which closed the university for the previous two and half days and kept most people hunkered down at home.</p>

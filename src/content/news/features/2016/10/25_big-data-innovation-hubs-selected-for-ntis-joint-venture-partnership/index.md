@@ -18,7 +18,7 @@ collaborations:
 tags:
     -
 ---
-<em><a href="http://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg"><img class="aligncenter wp-image-15739 size-full" src="http://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg" alt="joint-partners_1" width="700" height="250" /></a>Partnerships called “a major milestone for the data economy”</em>
+<em><a href="https://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg"><img class="aligncenter wp-image-15739 size-full" src="https://renci.org/wp-content/uploads/2016/10/joint-partners_1.jpg" alt="joint-partners_1" width="700" height="250" /></a>Partnerships called “a major milestone for the data economy”</em>
 
 The four Big Data Regional Innovation Hubs have been selected by the <a href="http://www.ntis.gov">National Technical Information Service</a> (NTIS) of the U.S. Department of Commerce to enter into a Joint Venture Partnership. Once finalized, this partnership will provide opportunities for collaborations between the Big Data Hubs and NTIS to deliver groundbreaking data projects across federal agencies.<!--more-->
 

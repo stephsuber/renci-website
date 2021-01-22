@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["RENCI at ECU","Storms to Life"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg"><img class="alignnone size-full wp-image-4705" title="Hurricane Floyd" src="http://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg" alt="Hurricane Floyd" width="630" height="567" /></a><br class="spacer_" /></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg"><img class="alignnone size-full wp-image-4705" title="Hurricane Floyd" src="https://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg" alt="Hurricane Floyd" width="630" height="567" /></a><br class="spacer_" /></p>
 
 <p>Nothing communicates the effects of a natural disaster quite like personal stories: the recounting of an 80-year-old man and his dog who survived Hurricane Hazel by hiding in a freezer; the image of a lone sailor perched atop the wreckage of his ship in the aftermath of the San Ciriaco Hurricane (1899).<!--more--></p>
 

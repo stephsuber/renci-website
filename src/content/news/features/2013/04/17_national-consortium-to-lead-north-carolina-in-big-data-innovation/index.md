@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.renci.org/wp-content/uploads/2013/05/ncds-feature-story-smaller-pic1.jpg"><img class=" wp-image-12067 alignleft" alt="ncds-feature-story-smaller-pic" src="http://www.renci.org/wp-content/uploads/2013/05/ncds-feature-story-smaller-pic1.jpg" width="640" height="406" /></a>
+<a href="https://www.renci.org/wp-content/uploads/2013/05/ncds-feature-story-smaller-pic1.jpg"><img class=" wp-image-12067 alignleft" alt="ncds-feature-story-smaller-pic" src="https://www.renci.org/wp-content/uploads/2013/05/ncds-feature-story-smaller-pic1.jpg" width="640" height="406" /></a>
 
 Chapel Hill, NC – A new collaboration called the National Consortium for Data Science (NCDS) aims to make North Carolina a national hub for data-intensive business and data science research and education, a move that will help develop a national strategy to ensure U.S. leadership in the data-driven global economy.<!--more-->
 

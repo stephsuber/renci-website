@@ -39,7 +39,7 @@ tags:
 
 <p>“What we ended up with was a virtual world that provides an immersive experience,” said Conway. “You can look one way and see the lawyers, another way and see the jury. You can turn around and see the virtual audience. It’s a three-dimensional experience, which makes it more realistic.”</p>
 
-<p><a href="http://www.renci.org/wp-content/uploads/2009/09/Courtroom-SCR-Mock-Trial-small.jpg"><img class="alignnone size-full wp-image-4125" title="Courtroom-SCR-Mock-Trial-small" src="http://www.renci.org/wp-content/uploads/2009/09/Courtroom-SCR-Mock-Trial-small.jpg" alt="Courtroom-SCR-Mock-Trial-small" width="630" height="388" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/09/Courtroom-SCR-Mock-Trial-small.jpg"><img class="alignnone size-full wp-image-4125" title="Courtroom-SCR-Mock-Trial-small" src="https://www.renci.org/wp-content/uploads/2009/09/Courtroom-SCR-Mock-Trial-small.jpg" alt="Courtroom-SCR-Mock-Trial-small" width="630" height="388" /></a></p>
 
 <p>Byerly and third-year law student PJ Puryear coached the competing student litigation teams.  Student litigators included second and third-year law students Lauren Felter and Badar Tareen, as prosecution co-counsel, and second-year law students Mary Martin and Tristan Routh, as defense co-counsel. Myers presided as judge. Witnesses were played by third-year law students Kris Gould, Charlotte Hall, Puryear, and Byerly. Jurors attended virtually and included Kyzer and third-year law students Mike Hall and Aubrey McEachern.</p>
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - high performance computing
 ---
-<a href="http://renci.org/wp-content/uploads/2017/01/serversdatacenter.jpg"><img class="size-medium wp-image-15857 alignleft" src="http://renci.org/wp-content/uploads/2017/01/serversdatacenter-201x300.jpg" alt="" width="201" height="300" /></a>What is a data center? Ask any number of technologists or scientists and you will probably get a wide range of answers, in part because the data center concept changes as the technologies that power them change.
+<a href="https://renci.org/wp-content/uploads/2017/01/serversdatacenter.jpg"><img class="size-medium wp-image-15857 alignleft" src="https://renci.org/wp-content/uploads/2017/01/serversdatacenter-201x300.jpg" alt="" width="201" height="300" /></a>What is a data center? Ask any number of technologists or scientists and you will probably get a wide range of answers, in part because the data center concept changes as the technologies that power them change.
 
 In the 1960s and 70s, as scientists began to exploit new technological research tools, data centers began popping up on university campuses and at research labs worldwide. The first- generation data centers functioned primarily as long-term data repositories. In the 1980s and 90s, data centers evolved to include new resources and tools for managing data sets that were growing larger and more complex. These new methods for accessing, managing, and archiving data meant researchers could collaborate and share their data and research results.<!--more-->
 
@@ -33,4 +33,4 @@ Key features of Data Center 3.0 include:
  	<li>With metadata standards, evolving vocabularies that cross disciplines, and linked data, more interoperability across data collections will be possible.</li>
  	<li><strong>Robust analytical tools.</strong> Data Center 3.0 will make analytical tools available through a data grid, making it easier for scientists to analyze, compute, and create simulations from data.</li>
 </ul>
-To learn more about the Data Center 3.0 concept, read the RENCI <a href="http://renci.org/wp-content/uploads/2016/12/RENCI-WP-2016_DatCenter3.0-FINAL-12.9.16.pdf">Data Center 3.0 white paper</a>.
+To learn more about the Data Center 3.0 concept, read the RENCI <a href="https://renci.org/wp-content/uploads/2016/12/RENCI-WP-2016_DatCenter3.0-FINAL-12.9.16.pdf">Data Center 3.0 white paper</a>.

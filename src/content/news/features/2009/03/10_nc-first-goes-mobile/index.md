@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["mobile","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)"]
 ---
-<p style="text-align: center;"><a href="http://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile.jpg"><img class="size-large wp-image-3225 aligncenter" title="ncfirst-mobile" src="http://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile-375x630.jpg" alt="ncfirst-mobile" width="375" height="630" /></a></p>
+<p style="text-align: center;"><a href="https://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile.jpg"><img class="size-large wp-image-3225 aligncenter" title="ncfirst-mobile" src="https://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile-375x630.jpg" alt="ncfirst-mobile" width="375" height="630" /></a></p>
 
 <p>CHAPEL HILL, NC, March 10, 2009 - Emergency managers and first responders across North Carolina can now interpret weather data from their own pockets using the mobile version of  the Renaissance Computing Institute’s (RENCI) NC-FIRST Web portal.<!--more--></p>
 
@@ -32,7 +32,7 @@ tags:
 
 <p>The NC-FIRST training course is a four-day program design to help first responders understand scientific weather data and is offered through 27 community colleges across the state.  The program is taught by meteorologists and was recently incorporated into North Carolina’s emergency Management Certification Program.</p>
 
-<p>The NC-FIRST mobile site is aimed at emergency managers with passwords for the site. For more on NC-FIRST, see <a href="http://www.renci.org/focus-areas/disaster-and-environmental-research/nc-first">http://www.renci.org/focus-areas/disaster-and-environmental-research/nc-first</a>.<br />
+<p>The NC-FIRST mobile site is aimed at emergency managers with passwords for the site. For more on NC-FIRST, see <a href="https://www.renci.org/focus-areas/disaster-and-environmental-research/nc-first">https://www.renci.org/focus-areas/disaster-and-environmental-research/nc-first</a>.<br />
  <strong><br />
  RENCI…Catalyst for Innovation </strong><br />
  The Renaissance Computing Institute, a multi-institutional organization, brings together multidisciplinary experts and advanced technological capabilities to address pressing research issues and to find solutions to complex problems that affect the quality of life in North Carolina, our nation and the world. RENCI leverages its expertise and resources in leading edge computing, visualization, networking and data technologies to catalyze new collaborations and solve problems. Founded in 2004 as a major collaborative venture of Duke University, North Carolina State University, the University of North Carolina at Chapel Hill and the state of North Carolina, RENCI is a statewide virtual organization.</p>

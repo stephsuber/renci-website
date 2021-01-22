@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["CHAT"]
 ---
-<p><img class="alignnone size-full wp-image-4658" title="chat-festival" src="http://www.renci.org/wp-content/uploads/2010/01/chat-festival.jpg" alt="chat-festival" width="630" height="204" /></p>
+<p><img class="alignnone size-full wp-image-4658" title="chat-festival" src="https://www.renci.org/wp-content/uploads/2010/01/chat-festival.jpg" alt="chat-festival" width="630" height="204" /></p>
 
 <p>Participants in CHAT (Collaborations: Humanities, Arts &amp; Technology), a digital arts and humanities festival Feb. 16-20, will take part in interactive projects that explore the impact of technology on our lives.</p>
 

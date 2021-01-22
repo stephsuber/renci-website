@@ -34,6 +34,6 @@ The iRODS Consortium formed about a year ago with RENCI and members of Germanyâ€
 
 For more information on the iRODS Consortium, see irods-consortium.org.
 
-For a complete schedule of RENCI booth presentations at SC13, see <a href="http://www.renci.org/SC13-schedule">SC13 Presentation Schedule</a>.
+For a complete schedule of RENCI booth presentations at SC13, see <a href="https://www.renci.org/SC13-schedule">SC13 Presentation Schedule</a>.
 
 ### Media contact: Karen Green, 919-619-8213, kgreen@renci.org, @RENCI

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Cisco Systems","distance learning","e-learning","MCNC","NCREN","Telepresence","UNC","Video Services","VoIP"]
 ---
-<img class="alignnone size-large wp-image-7719" title="MCNC" src="http://www.renci.org/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-11.09.53-AM-630x434.png" alt="" width="630" height="434" />
+<img class="alignnone size-large wp-image-7719" title="MCNC" src="https://www.renci.org/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-11.09.53-AM-630x434.png" alt="" width="630" height="434" />
 
 RESEARCH TRIANGLE PARK, N.C., June 23, 2011 /PRNewswire-USNewswire/ -- <a title="MCNC Site" href="https://www.mcnc.org/" target="_blank">MCNC</a> announced today that the video services infrastructure on the North Carolina Research and Education Network (NCREN) is scheduled to be upgraded on July 1.
 

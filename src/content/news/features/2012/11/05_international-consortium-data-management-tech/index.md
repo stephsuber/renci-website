@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class=" wp-image-12067 alignleft" title="Event-E-iRODS-SC12" alt="" src="http://www.renci.org/wp-content/uploads/2012/11/Event-E-iRODS-SC121.jpg" width="640" height="349" />
+<img class=" wp-image-12067 alignleft" title="Event-E-iRODS-SC12" alt="" src="https://www.renci.org/wp-content/uploads/2012/11/Event-E-iRODS-SC121.jpg" width="640" height="349" />
 
 SALT LAKE CITY, Nov. 5, 2012 - A new consortium to be formed by the University of North Carolina at Chapel Hill and members of the <a href="http://www.mpg.de/en">Max Planck Society</a>, Germany’s most successful research organization, will work to develop a popular open source data management solution called the integrated Rule-Oriented Data System (iRODS) into a sustained, production-quality technology for data management, sharing and integration.<!--more-->
 
@@ -38,11 +38,11 @@ Additionally, an informational reception about iRODS and E-iRODS will be held fr
 
 “SC12 will be our first chance to talk to research communities about their data challenges and how they could benefit from being involved in the E-iRODS Consortium,” said Charles Schmitt, director of data initiatives at RENCI. “We invite any group looking for data solutions—whether they are current iRODS users or not—to attend this reception.”
 
-For a full schedule of events in the RENCI booth, see the RENCI@SC12 booth schedule (<a href="http://www.renci.org/wp-content/uploads/2012/11/RENCI-SC12-Schedule1.pdf">RENCI SC12 Booth Schedule PDF</a>)
+For a full schedule of events in the RENCI booth, see the RENCI@SC12 booth schedule (<a href="https://www.renci.org/wp-content/uploads/2012/11/RENCI-SC12-Schedule1.pdf">RENCI SC12 Booth Schedule PDF</a>)
 <h3>More information:</h3>
 E-iRODS website
 
-<a href="http://www.renci.org">RENCI website</a>
+<a href="https://www.renci.org">RENCI website</a>
 
 <a href="http://www.mpg.de/en" target="_blank">Max Planck Society website</a>
 

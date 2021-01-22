@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_6347" align="aligncenter" width="630"]<img class="wp-image-6347 size-full" title="Chris Jones, lead investigator of the Mathematics and Climate Change Network" src="http://www.renci.org/wp-content/uploads/2010/09/math-climate-chris.jpg" alt="" width="630" height="401" /> Chris Jones, lead investigator of the Mathematics and Climate Change Network[/caption]
+[caption id="attachment_6347" align="aligncenter" width="630"]<img class="wp-image-6347 size-full" title="Chris Jones, lead investigator of the Mathematics and Climate Change Network" src="https://www.renci.org/wp-content/uploads/2010/09/math-climate-chris.jpg" alt="" width="630" height="401" /> Chris Jones, lead investigator of the Mathematics and Climate Change Network[/caption]
 
 CHAPEL HILL, NC, Sept. 23, 2010—A new project funded by the National Science Foundation links researchers at leading U.S. universities to study the mathematical problems related to climate change research.
 
@@ -34,7 +34,7 @@ The network’s mathematicians will work closely with climate scientists at rese
 
 Jones called the network “a virtual climate mathematics center with national reach” that will conduct research under three themes: data reconstruction and analysis, climate process models and the dynamics of climate.
 
-[caption id="attachment_6352" align="alignright" width="300"]<a href="http://www.renci.org/wp-content/uploads/2010/09/math-climate-group.jpg"><img class="size-medium wp-image-6352" title="Members of the Mathematics and Climate Change Network, led by UNC Chapel Hill." src="http://www.renci.org/wp-content/uploads/2010/09/math-climate-group-300x105.jpg" alt="" width="300" height="105" /></a> Members of the Mathematics and Climate Change Network, led by UNC Chapel Hill. Click for larger version.[/caption]
+[caption id="attachment_6352" align="alignright" width="300"]<a href="https://www.renci.org/wp-content/uploads/2010/09/math-climate-group.jpg"><img class="size-medium wp-image-6352" title="Members of the Mathematics and Climate Change Network, led by UNC Chapel Hill." src="https://www.renci.org/wp-content/uploads/2010/09/math-climate-group-300x105.jpg" alt="" width="300" height="105" /></a> Members of the Mathematics and Climate Change Network, led by UNC Chapel Hill. Click for larger version.[/caption]
 
 Data problems to be tackled include optimizing existing climate models so they more accurately describe climate processes. That work involves assimilating data from many disparate sources, including historical data, and developing mathematical methods for interpreting historical data so it can be used in mathematical models. Incorporating accurate empirical data into climate models will help to develop more accurate models of future climatic conditions, said Jones.
 

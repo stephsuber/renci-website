@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<em><img class="alignleft size-medium wp-image-10989" src="http://renci.org/wp-content/uploads/2013/06/ncds-feature-story-smaller-pic-300x190.jpg" alt="" width="300" height="190" />One-year Fellowships begin July 1</em>
+<em><img class="alignleft size-medium wp-image-10989" src="https://renci.org/wp-content/uploads/2013/06/ncds-feature-story-smaller-pic-300x190.jpg" alt="" width="300" height="190" />One-year Fellowships begin July 1</em>
 <p class="p1"><span class="s1">Three researchers located at Drexel University, North Carolina State University, and the University of North Carolina at Chapel Hill have been named 2016 -2017 Data Fellows by the National Consortium for Data Science (NCDS) the consortium announced today.</span></p>
 <p class="p1"><!--more--></p>
 <p class="p1"><span class="s1">The NCDS, a public-private partnership to advance data science and address the challenges and opportunities of big data, will provide each Data Fellow with $50,000 to support work that addresses data science research issues in novel and innovative ways. Their work will be expected to advance the mission and vision of the NCDS, which formed in early 2013. Fellowships begin July 1 and last one year. </span></p>

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignnone size-full wp-image-13307" src="http://www.renci.org/wp-content/uploads/2014/04/data-matters-story-image.png" alt="data-matters-story-image" width="640" height="236" />
+<img class="alignnone size-full wp-image-13307" src="https://www.renci.org/wp-content/uploads/2014/04/data-matters-story-image.png" alt="data-matters-story-image" width="640" height="236" />
 
 Business managers, data analytics specialists, academic researchers, data center administrators and anyone else who grapples with big data are the target audience for a weeklong workshop series on data issues sponsored by the National Consortium for Data Science (NCDS), the Odum Institute for Social Science Research at UNC Chapel Hill, and the Renaissance Computing Institute (RENCI).
 
@@ -45,4 +45,4 @@ The National Consortium for Data Science formed in 2013 as a non-profit public-p
 
 The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit <a href="http://www.odum.unc.edu" target="_blank">www.odum.unc.edu</a>.
 
-RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit <a href="http://www.renci.org" target="_blank">www.renci.org</a>.
+RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit <a href="https://www.renci.org" target="_blank">www.renci.org</a>.

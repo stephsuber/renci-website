@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<a href="http://www.reachnc.org" target="_blank" rel="noopener"><img class="alignleft size-medium wp-image-13418" src="http://renci.org/wp-content/uploads/2014/06/reachnc-logo-300x80.jpg" alt="reachnc-logo" width="300" height="80" /></a>CHAPEL HILL, NC - <a href="http://www.reachnc.org" target="_blank" rel="noopener">REACH NC</a>, a Web portal that connects businesses, developers, government officials, other researchers and citizens to thousands of experts working in higher education and research institutions throughout North Carolina, now helps users find university assets and resources across the state through a new tool called the REACH NC Resource Finder. <!--more-->
+<a href="http://www.reachnc.org" target="_blank" rel="noopener"><img class="alignleft size-medium wp-image-13418" src="https://renci.org/wp-content/uploads/2014/06/reachnc-logo-300x80.jpg" alt="reachnc-logo" width="300" height="80" /></a>CHAPEL HILL, NC - <a href="http://www.reachnc.org" target="_blank" rel="noopener">REACH NC</a>, a Web portal that connects businesses, developers, government officials, other researchers and citizens to thousands of experts working in higher education and research institutions throughout North Carolina, now helps users find university assets and resources across the state through a new tool called the REACH NC Resource Finder. <!--more-->
 
 Powered by the eagle-i open-source tool from Harvard University (funded by Harvard Catalyst, The Harvard Clinical and Translational Science Center [grant number 1UL1 TR001102-01]), the Resource Finder allows users to locate facilities such as wet labs and service labs, and resources such as scientific instruments, clinical trial participation opportunities, and open source software. The Resource Finder is the first statewide implementation of its kind and was developed through a partnership with UNC General Administration, the North Carolina Biotechnology Center, the Renaissance Computing Institute (RENCI), and The North Carolina Translational and Clinical Sciences (NC TraCS) Institute at The University of North Carolina at Chapel Hill.
 
@@ -38,7 +38,7 @@ NC TraCS is home to the NIH Clinical and Translational Science Awards (CTSA) Pro
 
 UNC General Administration houses the offices of the President and other senior officers of the 17-campus University of North Carolina.  This core administrative staff is responsible for executing the policies of the UNC Board of Governors and providing University-wide leadership in the areas of academic affairs, business and financial management, long-range planning, student affairs, research, legal affairs, and government relations. UNC General Administration also has administrative oversight of a number of University affiliates, including UNC-TV, the North Carolina Arboretum, the NC State Education Assistance Authority, the NC State Approving Agency, the UNC Press, and the NC Center for International Understanding.
 
-To read a recent white paper on REACH NC and its impact, see <a href="http://www.renci.org/White-Paper-2014-REACHNC" target="_blank" rel="noopener">http://www.renci.org/White-Paper-2014-REACHNC</a>
+To read a recent white paper on REACH NC and its impact, see <a href="https://www.renci.org/White-Paper-2014-REACHNC" target="_blank" rel="noopener">https://www.renci.org/White-Paper-2014-REACHNC</a>
 
 Media Contact: Karen Green, Communications Director, RENCI
 <a href="mailto:kgreen@renci.org" target="_blank" rel="noopener">kgreen@renci.org</a>; 919-445-9648.

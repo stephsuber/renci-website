@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["computational fluid dynamics (CFD)","CWE2010","Institute for the Environment"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg"><img class="alignnone size-full wp-image-3948" title="wind-conf-img" src="http://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg" alt="wind-conf-img" width="630" height="269" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg"><img class="alignnone size-full wp-image-3948" title="wind-conf-img" src="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg" alt="wind-conf-img" width="630" height="269" /></a></p>
 
 <p>Registration is now open for the Fifth International Symposium on Computational Wind Engineering (CWE2010) to be held at the Friday Center for Continuing Education in Chapel Hill May 23-27.</p>
 

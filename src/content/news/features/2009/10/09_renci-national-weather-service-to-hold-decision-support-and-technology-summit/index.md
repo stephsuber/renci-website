@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["disaster research","National Oceanic and Atmospheric Administration (NOAA)","NOAA"]
 ---
-<p><img class="alignleft size-full wp-image-4245" title="US-NationalWeatherService-Logo" src="http://www.renci.org/wp-content/uploads/2009/10/US-NationalWeatherService-Logo.jpg" alt="US-NationalWeatherService-Logo" width="630" height="481" /></p>
+<p><img class="alignleft size-full wp-image-4245" title="US-NationalWeatherService-Logo" src="https://www.renci.org/wp-content/uploads/2009/10/US-NationalWeatherService-Logo.jpg" alt="US-NationalWeatherService-Logo" width="630" height="481" /></p>
 
 <p>CHAPEL HILL, NC--Leaders from the National Weather Service, meteorological researchers from RENCI and  North Carolina campuses, and community decision makers will convene Oct. 29 and 30 to discuss decision support, technology trends, and how technological tools can improve forecasts, severe weather warnings and communication with the public on weather issues.<!--more--></p>
 

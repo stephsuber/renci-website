@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["RENCI at UNC Asheville","RENCI at UNC Charlotte","UNC Charlotte Urban Institute","Urban Growth Model"]
 ---
-<p><strong><a href="http://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1.jpg"><img class="alignnone size-large wp-image-5882" title="UNCC-western-nc1" src="http://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1-630x458.jpg" alt="" width="630" height="458" /></a></strong></p>
+<p><strong><a href="https://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1.jpg"><img class="alignnone size-large wp-image-5882" title="UNCC-western-nc1" src="https://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1-630x458.jpg" alt="" width="630" height="458" /></a></strong></p>
 
 <p><strong>Charlotte,  N.C. –</strong> From 1976 to 2006, land development in the North Carolina mountains increased 568 percent, from 34,348 acres to 229,422 acres, and is expected to increase another 63 percent by 2030 (an additional 145,374 acres), according to a study just released by researchers at the Renaissance Computing Institute (RENCI) at UNC Charlotte.<!--more--></p>
 

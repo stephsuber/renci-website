@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignright size-medium wp-image-13612" src="http://renci.org/wp-content/uploads/2014/10/031293-large-300x225.jpg" alt="031293__large" width="300" height="225" />CHAPEL HILL, NC - Sharing hydrologic data and models is getting easier, thanks to Hydroshare, a Web-based collaborative environment that expands the data sharing capabilities of the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (<a href="https://www.cuahsi.org/" target="_blank">CUAHSI</a>) Hydrologic Information System (<a href="http://his.cuahsi.org/" target="_blank">HIS</a>).
+<img class="alignright size-medium wp-image-13612" src="https://renci.org/wp-content/uploads/2014/10/031293-large-300x225.jpg" alt="031293__large" width="300" height="225" />CHAPEL HILL, NC - Sharing hydrologic data and models is getting easier, thanks to Hydroshare, a Web-based collaborative environment that expands the data sharing capabilities of the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (<a href="https://www.cuahsi.org/" target="_blank">CUAHSI</a>) Hydrologic Information System (<a href="http://his.cuahsi.org/" target="_blank">HIS</a>).
 
 The first version of HydroShare, developed by RENCI with input from a large community of scientists and software engineers, is now available on the <a href="http://beta.hydroshare.org/" target="_blank">HydroShare website</a>. The HydroShare beta version allows hydrologists and other scientists studying water-related issues to easily upload data from their research projects, add metadata about the data files, and contribute related links, papers and source data.
 
@@ -36,4 +36,4 @@ RENCI’s efforts to build the HydroShare architecture are part of a larger $4.5
 
 For more information or to download the beta version of HydroShare, visit <a href="http://hydroshare.cuahsi.org/" target="_blank">http://hydroshare.cuahsi.org/</a>.
 
-For more on RENCI’s role in Hydroshare, see our HydroShare <a href="http://renci.org/research/hydroshare/" target="_blank">research project page</a>.
+For more on RENCI’s role in Hydroshare, see our HydroShare <a href="https://renci.org/research/hydroshare/" target="_blank">research project page</a>.

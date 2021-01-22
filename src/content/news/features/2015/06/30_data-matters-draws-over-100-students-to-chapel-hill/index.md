@@ -46,7 +46,7 @@ The National Consortium for Data Science formed in 2013 as a non-profit public-p
 
 The Odum Institute for Research in Social Science provides a range of consulting services on quantitative and qualitative methods, GIS and spatial analysis, survey research, and data management. For more information, visit <a href="http://www.odum.unc.edu/">www.odum.unc.edu</a>.
 
-RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit <a href="http://www.renci.org/">www.renci.org</a>.
+RENCI develops and deploys advanced computing, networking, and data technologies to enable research discoveries and business innovations. The institute is a collaborative effort involving UNC, Duke University and NC State University. For more information, visit <a href="https://www.renci.org/">www.renci.org</a>.
 
 <hr />
 

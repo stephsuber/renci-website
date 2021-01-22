@@ -19,7 +19,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_15576" align="aligncenter" width="780"]<a href="http://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg"><img class="wp-image-15576 size-full" src="http://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg" alt="Independence-louisiana-flooding-0311-exlarge-169" width="780" height="438" /></a> The National Water Model will help to mitigate disasters such as the recent flooding in Louisiana shown here. HydroShare and iRODS are helping to bring the model to a wider community of scientists and practitioners.[/caption]
+[caption id="attachment_15576" align="aligncenter" width="780"]<a href="https://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg"><img class="wp-image-15576 size-full" src="https://renci.org/wp-content/uploads/2016/09/Independence-louisiana-flooding-0311-exlarge-169.jpg" alt="Independence-louisiana-flooding-0311-exlarge-169" width="780" height="438" /></a> The National Water Model will help to mitigate disasters such as the recent flooding in Louisiana shown here. HydroShare and iRODS are helping to bring the model to a wider community of scientists and practitioners.[/caption]
 
 The national water science community has been abuzz since August, when the National Oceanic and Atmospheric Administration (NOAA) launched its new high resolution <a href="http://water.noaa.gov/about/nwm">National Water Model</a> (NWM), a system that simulates the flow of rivers and streams throughout the continental United States in more detail than ever before possible.<!--more-->
 

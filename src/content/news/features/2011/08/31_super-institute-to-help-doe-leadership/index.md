@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["DOE","HPC","petascale","SCiDAC","SUPER"]
 ---
-[caption id="attachment_8254" align="alignnone" width="630"]<img class="wp-image-8254 size-large" title="Jaguar-Supercomputer" src="http://www.renci.org/wp-content/uploads/2011/08/Jaguar-Supercomputer-Becomes-Fastest-in-the-World-2-630x472.jpg" alt="Jaguar supercomputer" width="630" height="472" /> Jaguar, at Oak Ridge National Laboratory, currently reigns as the fastest supercomputer at a U.S. Department of Energy lab.[/caption]
+[caption id="attachment_8254" align="alignnone" width="630"]<img class="wp-image-8254 size-large" title="Jaguar-Supercomputer" src="https://www.renci.org/wp-content/uploads/2011/08/Jaguar-Supercomputer-Becomes-Fastest-in-the-World-2-630x472.jpg" alt="Jaguar supercomputer" width="630" height="472" /> Jaguar, at Oak Ridge National Laboratory, currently reigns as the fastest supercomputer at a U.S. Department of Energy lab.[/caption]
 
 CHAPEL HILL, NC--High performance computing (HPC) researchers at the Renaissance Computing Institute at UNC Chapel Hill (RENCI) will collaborate in a nationwide research effort designed to ensure that scientists will be able to take full advantage of some of the world’s largest computing systems at U.S. Department of Energy laboratories.
 

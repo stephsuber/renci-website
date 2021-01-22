@@ -18,7 +18,7 @@ collaborations:
 tags:
     - students
 ---
-<img class="alignleft size-full wp-image-14876" src="http://renci.org/wp-content/uploads/2015/06/social_comp3.jpeg" alt="social_comp3" width="640" height="426" />
+<img class="alignleft size-full wp-image-14876" src="https://renci.org/wp-content/uploads/2015/06/social_comp3.jpeg" alt="social_comp3" width="640" height="426" />
 
 CHAPEL HILL, NC – Big data and data presented as imagery hold great value as tools for educators and researchers, but working with enormous data sets can be overwhelming.
 
@@ -38,4 +38,4 @@ Each room holds up to 15 people comfortably and includes three projectors (12 pe
 
 The rooms—all available for use free of charge—have been popular and RENCI has documented the development of the SCRs and some of their uses in a white paper entitled <em>Getting to Know the Social Computing Rooms</em>.
 
-To learn more about SCRs and how faculty and students are using them, read the white paper <a href="http://renci.org/White-Paper-2015-SCR">here</a>.
+To learn more about SCRs and how faculty and students are using them, read the white paper <a href="https://renci.org/White-Paper-2015-SCR">here</a>.

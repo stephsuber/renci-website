@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignright size-full wp-image-12914" alt="spotlight-image-data-fellows" src="http://www.renci.org/wp-content/uploads/2013/11/spotlight-image-data-fellows.jpg" width="300" height="152" />CHAPEL HILL, NC, Nov. 19, 2013 - The National Consortium for Data Science (NCDS) has named five faculty members at North Carolina universities as its inaugural Data Science Faculty Fellows.
+<img class="alignright size-full wp-image-12914" alt="spotlight-image-data-fellows" src="https://www.renci.org/wp-content/uploads/2013/11/spotlight-image-data-fellows.jpg" width="300" height="152" />CHAPEL HILL, NC, Nov. 19, 2013 - The National Consortium for Data Science (NCDS) has named five faculty members at North Carolina universities as its inaugural Data Science Faculty Fellows.
 
 The Faculty Fellows will each receive $30,000 to support research projects that address novel and innovative data science research issues. Their work will be expected to advance the mission and vision of the NCDS, which formed in early 2013 as a public-private partnership to address the challenges related to collecting, sharing and using large, diverse data collections, or big data.  Twenty faculty members from seven institutions applied for Fellowships. Their proposals were reviewed by a subcommittee from NCDS member institutions.
 

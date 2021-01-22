@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="size-large wp-image-12067 alignleft" title="ashok-image" alt="" src="http://www.renci.org/wp-content/uploads/2013/10/ashok-image.jpg" width="640" height="386" />
+<img class="size-large wp-image-12067 alignleft" title="ashok-image" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/ashok-image.jpg" width="640" height="386" />
 
 CHAPEL HILL, NC - Ashok Krishnamurthy, PhD, director of research and scientific development at the Ohio Supercomputer Center (OSC), will join the Renaissance Computing Institute (RENCI) at UNC Chapel Hill as deputy director on Feb. 1, RENCI Director Stan Ahalt, PhD, announced today.
 
@@ -40,4 +40,4 @@ Krishnamurthy holds PhD and master’s degrees in electrical engineering from th
 
 &nbsp;
 
-<a href="http://www.renci.org/wp-content/uploads/2013/01/Ashok_Krishnamurthy1.jpg" target="_blank">Download a photo of Ashok Krishnamurthy</a>
+<a href="https://www.renci.org/wp-content/uploads/2013/01/Ashok_Krishnamurthy1.jpg" target="_blank">Download a photo of Ashok Krishnamurthy</a>

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["RENCI at UNC Asheville","The Elumenati"]
 ---
-[caption id="attachment_13883" align="aligncenter" width="630"]<a href="http://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png"><img class="wp-image-13883 size-full" src="http://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png" alt="Basilica-edited-Asheville" width="630" height="369" /></a> 3D model looking south down Asheville’s Haywood Street with the Basilica of St. Lawrence (green domed roof) in the foreground.[/caption]
+[caption id="attachment_13883" align="aligncenter" width="630"]<a href="https://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png"><img class="wp-image-13883 size-full" src="https://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png" alt="Basilica-edited-Asheville" width="630" height="369" /></a> 3D model looking south down Asheville’s Haywood Street with the Basilica of St. Lawrence (green domed roof) in the foreground.[/caption]
 
 As the city of Asheville considers how to redevelop sites in its busy and historic downtown, researchers at <a href="http://unca.renci.org" target="_blank">RENCI at UNC Asheville</a> are assisting them with a tool that models design alternatives in an interactive, three-dimensional environment.
 

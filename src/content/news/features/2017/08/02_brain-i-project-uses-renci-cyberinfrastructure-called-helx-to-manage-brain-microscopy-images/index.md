@@ -37,7 +37,7 @@ tags:
 <!-- /wp:more -->
 
 <!-- wp:image {"id":16615,"align":"left","linkDestination":"custom"} -->
-<div class="wp-block-image"><figure class="alignleft"><a href="http://renci.org/wp-content/uploads/2017/08/Jason-Stein-pic.jpeg"><img src="http://renci.org/wp-content/uploads/2017/08/Jason-Stein-pic-300x300.jpeg" alt="" class="wp-image-16615"/></a></figure></div>
+<div class="wp-block-image"><figure class="alignleft"><a href="https://renci.org/wp-content/uploads/2017/08/Jason-Stein-pic.jpeg"><img src="https://renci.org/wp-content/uploads/2017/08/Jason-Stein-pic-300x300.jpeg" alt="" class="wp-image-16615"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -97,7 +97,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[video width="1228" height="688" mp4="http://renci.org/wp-content/uploads/2017/08/TinyTake17-04-2017-10-21-02.mp4"][/video]
+[video width="1228" height="688" mp4="https://renci.org/wp-content/uploads/2017/08/TinyTake17-04-2017-10-21-02.mp4"][/video]
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->

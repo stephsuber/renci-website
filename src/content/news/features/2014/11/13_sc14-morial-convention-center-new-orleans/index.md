@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="alignleft size-news-large wp-image-13845" src="http://renci.org/wp-content/uploads/2014/11/sc2014-banner-640x206.png" alt="sc2014-banner" width="640" height="206" />
+<img class="alignleft size-news-large wp-image-13845" src="https://renci.org/wp-content/uploads/2014/11/sc2014-banner-640x206.png" alt="sc2014-banner" width="640" height="206" />
 
 RENCI and its partners, the iRODS Consortium and the National Consortium for Data Science, will feature their work in an exhibit at SC14, the world’s premier conference for high performance computing, networking, storage, and analysis.
 
@@ -32,6 +32,6 @@ In addition to the Monday night opening gala, exhibit hours for the conference w
 
 An iRODS Consortium reception will take place on Wednesday, Nov. 19, at the Westin New Orleans Canal Place, 100 Iberville St., beginning at 5 p.m. The reception, sponsored by consortium member Data Direct Networks (DDN), will offer the chance to interact informally with iRODS users and consortium members, and to hear about iRODS use cases and success stories. Light food will be served and a cash bar will be available.
 
-<a href="http://renci.org/sc2014-booth-schedule/" target="_blank">View the RENCI SC14 booth schedule.</a>
+<a href="https://renci.org/sc2014-booth-schedule/" target="_blank">View the RENCI SC14 booth schedule.</a>
 
-News release: <a href="http://renci.org/news/irods-consortium-new-member-seagate/" target="_blank">iRODS Consortium welcomes Seagate</a>
+News release: <a href="https://renci.org/news/irods-consortium-new-member-seagate/" target="_blank">iRODS Consortium welcomes Seagate</a>

@@ -20,7 +20,7 @@ tags:
 ---
 &nbsp;
 
-[caption id="attachment_7739" align="alignnone" width="640"]<a href="http://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="http://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg" alt="" width="640" height="508" /></a> Carolina Saunders, 7th grade head of Student U, enjoys a healthy cup of frozen yogurt with one of her students. [/caption]
+[caption id="attachment_7739" align="alignnone" width="640"]<a href="https://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="https://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg" alt="" width="640" height="508" /></a> Carolina Saunders, 7th grade head of Student U, enjoys a healthy cup of frozen yogurt with one of her students. [/caption]
 
 DURHAM, NC—Three teams of middle school students are helping a new company out of UNC Chapel Hill called Sqord test a device that will become part of the company’s e-gaming system designed to encourage kids to be more physically active. <!--more-->
 
@@ -34,6 +34,6 @@ Sqord founder Coleman Greene, a recent MBA graduate of UNC’s <a href="http://w
 
 “This is a way for us to work on getting our product ready for the market and to learn about what motivates kids to change their behavior,” said Greene. “We want our system to promote long-term increases in activity levels that will make kids healthier overall.”
 
-Sqord is one of six new companies from UNC Chapel Hill that participates in this year’s <a href="http://www.carolinalaunchpad.org/">Carolina Launch Pad</a>. Started in 2009 by <a href="http://www.renci.org/">RENCI</a>, the <a href="http://otd.unc.edu/">UNC Office of Technology Development</a> and UNC’s Kenan-Flagler Business School, Carolina Launch Pad helps UNC students, faculty and staff turn their ideas and technical prototypes into viable technology businesses.
+Sqord is one of six new companies from UNC Chapel Hill that participates in this year’s <a href="http://www.carolinalaunchpad.org/">Carolina Launch Pad</a>. Started in 2009 by <a href="https://www.renci.org/">RENCI</a>, the <a href="http://otd.unc.edu/">UNC Office of Technology Development</a> and UNC’s Kenan-Flagler Business School, Carolina Launch Pad helps UNC students, faculty and staff turn their ideas and technical prototypes into viable technology businesses.
 
 <em> This initiative supports the <a href="mailto:Innovate@Carolina">Innovate@Carolina</a> Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit </em><em><a href="http://innovate.unc.edu/">http://innovate.unc.edu/</a>.</em>

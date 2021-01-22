@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13226" align="alignnone" width="563"]<img class=" wp-image-13226  " alt="A doctor at Boston Children’s Hospital checks on a young epilepsy patient during treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital" src="http://www.renci.org/wp-content/uploads/2014/03/20130329_LaserAblation-6-1024x694.jpg" width="563" height="381" /> A doctor at Boston Children’s Hospital checks on a young epilepsy patient during<br />treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital[/caption]
+[caption id="attachment_13226" align="alignnone" width="563"]<img class=" wp-image-13226  " alt="A doctor at Boston Children’s Hospital checks on a young epilepsy patient during treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital" src="https://www.renci.org/wp-content/uploads/2014/03/20130329_LaserAblation-6-1024x694.jpg" width="563" height="381" /> A doctor at Boston Children’s Hospital checks on a young epilepsy patient during<br />treatment. Photo credit: Katherine C. Cohen, Boston Children’s Hospital[/caption]
 
 CHAPEL HILL, NC - For patients with epilepsy and their doctors, determining the best treatment plan often involves playing "medical detective."
 
@@ -40,4 +40,4 @@ When fully functional, the project could illustrate how digital medical records 
 
 In addition to Loddenkemper, partners in the project are Mohammed Mikati, MD, chief of pediatric neurology at the Duke University School of Medicine; Michael Tennison, MD, professor of child neurology in the UNC School of Medicine, and Alan Leviton, MD, Boston Children’s Hospital.
 
-For more information, see <a href="http://www.renci.org/research/evidence-based-medicine/">http://www.renci.org/research/evidence-based-medicine/</a>.
+For more information, see <a href="https://www.renci.org/research/evidence-based-medicine/">https://www.renci.org/research/evidence-based-medicine/</a>.

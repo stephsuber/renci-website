@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["high performance computing (HPC)","VSCSE."]
 ---
-<p><img class="alignnone size-full wp-image-4978" title="blue-ridge-cluster" src="http://www.renci.org/wp-content/uploads/2010/04/blue-ridge-cluster.jpg" alt="blue-ridge-cluster" width="630" height="320" /></p>
+<p><img class="alignnone size-full wp-image-4978" title="blue-ridge-cluster" src="https://www.renci.org/wp-content/uploads/2010/04/blue-ridge-cluster.jpg" alt="blue-ridge-cluster" width="630" height="320" /></p>
 
 <p><span style="font-size: large;">Note: Enrollement for the Many-core Processors course is now closed.</span></p>
 
@@ -41,7 +41,7 @@ tags:
 
 <p>For questions related to on-site courses offered at RENCI, please send email to vscse@renci.org.  For directions to RENCI, see the RENCI website.</p>
 
-<p><a href="http://www.renci.org/wp-content/uploads/2010/04/VSCSE-2010-Flyer.pdf">VSCSE poster</a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2010/04/VSCSE-2010-Flyer.pdf">VSCSE poster</a></p>
 
 <p><span class="head2">Local hotel accommodations</span><br />
  <strong>Sheraton Chapel Hill Hotel</strong>*<br />

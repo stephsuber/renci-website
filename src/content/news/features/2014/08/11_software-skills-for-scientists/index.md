@@ -20,7 +20,7 @@ tags:
 ---
 Forty-five students from around the globe spent the last three weeks in classrooms at RENCI in Chapel Hill and at the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California, Santa Barbara, learning the software and technology skills needed for open, collaborative, and reproducible synthesis research.
 
-[caption id="attachment_13491" align="alignleft" width="640"]<img class="size-news-large wp-image-13491" src="http://renci.org/wp-content/uploads/2014/08/group-pic-ncds1-640x426.jpg" alt="Participants and instructors in the RENCI portion of the Open Science for Software course pose for a group photo on the final day of class. " width="640" height="426" /> Participants and instructors in the RENCI portion of the Open Science for Software course pose for a group photo on the final day of class.[/caption]
+[caption id="attachment_13491" align="alignleft" width="640"]<img class="size-news-large wp-image-13491" src="https://renci.org/wp-content/uploads/2014/08/group-pic-ncds1-640x426.jpg" alt="Participants and instructors in the RENCI portion of the Open Science for Software course pose for a group photo on the final day of class. " width="640" height="426" /> Participants and instructors in the RENCI portion of the Open Science for Software course pose for a group photo on the final day of class.[/caption]
 
 <!--more-->
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - ["Altometrics","Carolina Launch Pad","Carolina Roadmap","UNC - Chapel Hill"]
 ---
-<p><a href="http://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg"><img class="alignnone size-full wp-image-6663" title="Altometrics Jeff Terrell" src="http://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg" alt="" width="630" height="355" /></a></p>
+<p><a href="https://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg"><img class="alignnone size-full wp-image-6663" title="Altometrics Jeff Terrell" src="https://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg" alt="" width="630" height="355" /></a></p>
 
 <p><em>Altometrics was founded by Jeff Terrell (above) and Sir Robert Burbridge.</em></p>
 

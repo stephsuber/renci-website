@@ -21,7 +21,7 @@ tags:
 ---
 CHAPEL HILL, NC - An international research team studying many of the tough questions in astronomy, including the evolution of galaxies and the nature of dark matter, now have a way to query their massive data sets, store and retrieve data and corresponding metadata, and transport files and images. 
 
-By partnering with data specialists at UNC-Chapel Hill’s Renaissance Computing Institute (<a href="http://www.renci.org" target="_blank">RENCI</a>) who develop the integrated Rule-Oriented Data System (iRODS) researchers and students now have online databases for two large astronomical data sets: the REsolved Spectroscopy of a Local VolumE (RESOLVE) survey and the Environmental COntext (ECO) catalog. <!--more-->
+By partnering with data specialists at UNC-Chapel Hill’s Renaissance Computing Institute (<a href="https://www.renci.org" target="_blank">RENCI</a>) who develop the integrated Rule-Oriented Data System (iRODS) researchers and students now have online databases for two large astronomical data sets: the REsolved Spectroscopy of a Local VolumE (RESOLVE) survey and the Environmental COntext (ECO) catalog. <!--more-->
 
 The RESOLVE Survey combines new optical and radio spectroscopy with archival multi-wavelength photometry to perform an unprecedented census of gas, dark matter, and stars in galaxies and their larger groupings, spanning nearly five orders of magnitude in spatial scale. The ECO catalog is designed to complement RESOLVE by providing a similar, but purely archival census within an order of magnitude larger volume.
 
@@ -39,4 +39,4 @@ For more information on RESOLVE and ECO, see <a href="http://resolve.astro.unc.e
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source data management software for data discovery, workflow automation, secure collaboration, and storage virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS support and professional integration services. The world’s top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org" target="_blank">irods.org</a>.
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of advanced technologies at the University of North Carolina at Chapel Hill. For more on RENCI, see <a href="http://renci.org" target="_blank">renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of advanced technologies at the University of North Carolina at Chapel Hill. For more on RENCI, see <a href="https://renci.org" target="_blank">renci.org</a>.

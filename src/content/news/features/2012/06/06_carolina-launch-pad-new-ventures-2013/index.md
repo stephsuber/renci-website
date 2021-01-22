@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-<img class="size-large wp-image-12067 alignleft" title="Carolina Launch Pad Headquarters" src="http://www.renci.org/wp-content/uploads/2013/11/launchpad-story.jpg" alt="" width="640" height="427" />
+<img class="size-large wp-image-12067 alignleft" title="Carolina Launch Pad Headquarters" src="https://www.renci.org/wp-content/uploads/2013/11/launchpad-story.jpg" alt="" width="640" height="427" />
 
 CHAPEL HILL, NC, June 6, 2012—A new crop of Carolina entrepreneurs have joined Carolina Launch Pad, the university’s pre-commercial technology startup incubator. The companies will participate in the program for the next year.<!--more-->
 
@@ -43,7 +43,7 @@ For more information, visit the <a href="http://carolinalaunchpad.org/" target="
 
 Related links:
 
-<a href="http://www.renci.org/">RENCI</a>
+<a href="https://www.renci.org/">RENCI</a>
 <a href="http://www.kenan-flagler.unc.edu/" target="_blank">Kenan-Flagler Business School</a>
 <a href="http://otd.unc.edu/" target="_blank">UNC Office of Technology Development</a>
 

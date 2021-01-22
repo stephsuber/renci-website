@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-[caption id="attachment_13682" align="alignleft" width="294"]<img class="wp-image-13682 size-medium" src="http://renci.org/wp-content/uploads/2014/10/15611566075-32552f9112-k-294x300.jpg" alt="15611566075_32552f9112_k" width="294" height="300" /> Russ Gyurek of CISCO Systems speaks at an NCDS Tech Talk at UNC-Chapel Hill.[/caption]
+[caption id="attachment_13682" align="alignleft" width="294"]<img class="wp-image-13682 size-medium" src="https://renci.org/wp-content/uploads/2014/10/15611566075-32552f9112-k-294x300.jpg" alt="15611566075_32552f9112_k" width="294" height="300" /> Russ Gyurek of CISCO Systems speaks at an NCDS Tech Talk at UNC-Chapel Hill.[/caption]
 
 CHAPEL HILL, NC - The Internet of Everything is here, it’s big and growing exponentially, and it promises to transform society even more dramatically than previous disruptive technologies, including the Internet and electricity.
 

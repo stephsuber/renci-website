@@ -58,6 +58,6 @@ tags:
 
 <p><a href="http://www.cs.unc.edu/">UNC Chapel Hill Computer Science Department</a></p>
 
-<p><a href="http://www.renci.org/">RENCI</a></p>
+<p><a href="https://www.renci.org/">RENCI</a></p>
 
 <p><em>RENCI supports the Innovate@Carolina Roadmap, UNC’s  plan to help Carolina become a world leader in launching university-born  ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">http://innovate.unc.edu</a>.</em></p>

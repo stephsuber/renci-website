@@ -20,7 +20,7 @@ tags:
     - open-source
     - training
 ---
-<em><img class="aligncenter size-large wp-image-17439" src="http://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png" alt="" width="640" height="298" />Registration discounts through April 1; visit </em><em><a href="https://irods.org/" target="_blank" rel="noopener">irods.org</a></em>
+<em><img class="aligncenter size-large wp-image-17439" src="https://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png" alt="" width="640" height="298" />Registration discounts through April 1; visit </em><em><a href="https://irods.org/" target="_blank" rel="noopener">irods.org</a></em>
 
 DURHAM, NC - Users of the integrated Rule Oriented Data System (iRODS) will come to Durham, NC from points around the globe to attend the 2018 iRODS User Group Meeting (UGM) June 5 – 7.
 
@@ -45,4 +45,4 @@ Registration is now open and early bird discounts are available until April 1. S
 
 The iRODS Consortium is a membership organization that supports the development of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The iRODS Consortium provides a production-ready iRODS distribution and iRODS training, professional integration services, and support. The world's top researchers in life sciences, geosciences, and information management use iRODS to control their data. Learn more at <a href="http://irods.org/" target="_blank" rel="noopener">irods.org</a>.
 
-The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="http://www.renci.org/" target="_blank" rel="noopener">www.renci.org</a>.
+The iRODS Consortium is administered by founding member RENCI, a research institute for applications of cyberinfrastructure at the University of North Carolina at Chapel Hill. For more information about RENCI, please visit <a href="https://www.renci.org/" target="_blank" rel="noopener">www.renci.org</a>.
