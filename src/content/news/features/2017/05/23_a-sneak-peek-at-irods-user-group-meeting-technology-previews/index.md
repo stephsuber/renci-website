@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
     - training
 ---
 <em>New plugins to be highlighted; register now at </em><a href="https://irods.org/"><em>irods.org</em></a>

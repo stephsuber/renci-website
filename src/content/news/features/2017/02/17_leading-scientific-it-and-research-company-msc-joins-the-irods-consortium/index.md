@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 CHAPEL HILL, NC – Medical Science and Computing, LLC (<a href="http://www.mscweb.com/#science-technology-1">MSC</a>), a company that provides scientific information technology and research services to the federal health and life sciences community, has joined the growing membership of the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS).<!--more-->
 

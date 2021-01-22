@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <table cellspacing="0" cellpadding="0">
 <tbody>

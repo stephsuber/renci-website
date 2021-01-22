@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <em>IRODS: From Prototype to Production will be sponsored by DDN</em>
 

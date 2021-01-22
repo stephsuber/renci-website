@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 [caption id="attachment_15583" align="aligncenter" width="461"]<a href="http://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg"><img class="wp-image-15583 size-full" src="http://renci.org/wp-content/uploads/2016/09/iRODS-small.jpg" alt="SC attendees will have the chance to attend a free workshop on using iRODS." width="461" height="272" /></a> SC16 attendees will have the chance to attend a free workshop on using iRODS.[/caption]
 

@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <!-- wp:paragraph -->
 <p>The <a href="https://irods.org/" target="_blank" rel="noreferrer noopener">iRODS Consortium</a>, the foundation that leads development and support of the integrated Rule-Oriented Data System (iRODS) data management software, welcomes <a href="https://www.suse.com" target="_blank" rel="noreferrer noopener">SUSE</a> as its newest Consortium member.&nbsp;&nbsp;</p>

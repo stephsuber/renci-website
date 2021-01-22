@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
     - training
 ---
 <em><img class="aligncenter size-large wp-image-17439" src="http://renci.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-06-at-2.09.46-PM-1024x476.png" alt="" width="640" height="298" />Registration discounts through April 1; visit </em><em><a href="https://irods.org/" target="_blank" rel="noopener">irods.org</a></em>

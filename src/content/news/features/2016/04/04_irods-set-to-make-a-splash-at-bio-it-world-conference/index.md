@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <i>Consortium members, users to demo open source software for data management</i>
 

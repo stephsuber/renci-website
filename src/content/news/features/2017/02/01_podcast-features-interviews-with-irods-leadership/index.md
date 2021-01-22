@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 iRODS Consortium Executive Director Jason Coposky and Chief Technologist Terrell Russell were interviewed on the Research, Computing &amp; Engineering Podcast in an episode published on Jan. 27.<!--more-->
 

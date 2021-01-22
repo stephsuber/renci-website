@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
     - high performance computing
 ---
 <a href="http://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b.jpg"><img class="aligncenter wp-image-15762 size-large" src="http://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg" alt="23107653222_82fda09b5e_b" width="640" height="427" /></a>

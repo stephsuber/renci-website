@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 CHAPEL HILL, NC - Two software development experts with nearly 30 years of combined experience have officially taken the lead roles in the iRODS Consortium, the membership-based foundation that leads development and support of the integrated Rule-Oriented Data System (<a href="https://irods.org/">iRODS</a>).<!--more-->
 

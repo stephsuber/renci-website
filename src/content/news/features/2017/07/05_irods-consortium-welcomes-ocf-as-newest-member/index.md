@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <em>UK-based technical support provider will now have a role in future iRODS development </em>
 

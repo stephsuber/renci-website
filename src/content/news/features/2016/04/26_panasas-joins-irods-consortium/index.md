@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <strong><img class="alignleft size-full wp-image-15403" src="http://renci.org/wp-content/uploads/2016/04/panasas.png" alt="" width="338" height="130" />SUNNYVALE, Calif., – April 26, 2016 </strong>– <a href="http://www.panasas.com/" target="_blank">Panasas</a><sup>®</sup>, the leader in performance scale-out network-attached storage (NAS), today announced that it has joined the <a href="http://irods.org/" target="_blank">iRODS Consortium</a> as a contributing member. The iRODS Consortium leads development and support of the Integrated Rule-Oriented Data System (iRODS), free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. The consortium and the iRODS development team are located at the Renaissance Computing Institute (RENCI) at the University of North Carolina, Chapel Hill.
 

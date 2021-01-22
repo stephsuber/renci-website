@@ -20,7 +20,7 @@ organizations:
     - utrecht-university
 tags:
     - data-management
-    - open source
+    - open-source
     - training
     - hackathon
 ---

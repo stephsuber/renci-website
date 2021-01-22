@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <em><a href="http://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2.jpg"><img class="aligncenter wp-image-16263 size-large" src="http://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2-1024x542.jpg" alt="" width="640" height="339" /></a>Go to </em><a href="https://irods.org/"><em>irods.org</em></a><em> to register for the 2017 User Group Meeting at Utrecht University</em>
 

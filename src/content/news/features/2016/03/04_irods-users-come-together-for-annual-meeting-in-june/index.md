@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <p class="p1"><span class="s1"><i>Users invited to present talks, demonstrations, and posters.</i></span></p>
 Users of the integrated Rule Oriented Data System (iRODS) from around the globe will gather in Chapel Hill in June to discuss iRODS-enabled applications and discoveries, technologies powered by iRODS, and the future of iRODS and the iRODS Consortium.

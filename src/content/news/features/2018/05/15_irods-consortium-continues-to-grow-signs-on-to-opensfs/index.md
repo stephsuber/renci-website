@@ -18,7 +18,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <em>Quantum, NetApp join consortium that helps sustain the iRODS open source platform</em>
 

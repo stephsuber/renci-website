@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <em><span style="font-weight: 400;">Organization is now implementing new iRODS-based infrastructure</span></em>
 

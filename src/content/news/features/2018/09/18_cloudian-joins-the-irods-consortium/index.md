@@ -17,7 +17,7 @@ collaborations:
     - irods-consortium
 tags:
     - data-management
-    - open source
+    - open-source
 ---
 <!-- wp:heading {"level":4} -->
 <h4>HyperStore Enterprise Object Storage Validated with iRODS Platform</h4>
