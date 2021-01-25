@@ -15,13 +15,13 @@ renciRole: !markdown |
 members:
   - id: ilya-baldin
     role: Principal Investigator
-  - id: erica-fu
-  - id: komal-thareja
-  - id: mauricio-tavares
   - id: mert-cevik
-  - id: michael-stealey
-  - id: paul-ruth
+  - id: erica-fu
   - id: yue-guo
+  - id: paul-ruth
+  - id: michael-stealey
+  - id: mauricio-tavares
+  - id: komal-thareja
 partners:
   - university-of-kentucky
   - clemson-university
@@ -44,5 +44,5 @@ funding:
   - nsf
 www:
   url: https://www.fabric-testbed.net/
-  github: https://github.com/fabric-testbed
+  github: fabric-testbed
   twitter: FABRICtestbed
