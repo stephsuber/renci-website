@@ -11,7 +11,7 @@ export const BaseTag = styled.span(({ theme }) => `
   text-decoration: none !important;
   background-color: ${ theme.color.lightgrey };
   color: ${ theme.color.darkgrey };
-  font-size: 75%;
+  font-size: 80%;
   line-height: ${ theme.spacing.medium };
   filter: brightness(1.1);
   transition: filter 250ms;
@@ -26,6 +26,7 @@ export const Label = styled(BaseTag)(({ theme }) => `
   background-color: ${ theme.color.white };
   line-height: ${ theme.spacing.extraSmall };
   text-transform: uppercase;
+  font-size: 65%;
 `)
 
 //
