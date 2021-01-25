@@ -13,7 +13,6 @@ const Wrapper = styled.article`
   margin: 0 -1rem;
 `
 
-
 const ArticleTitle = styled(Subheading)(({ theme }) => `
   color: ${ theme.color.darkgrey };
   font-weight: normal;
@@ -61,6 +60,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
                   <Col xs={ 12 }>
                     <Img
                       fluid={ article.frontmatter.featuredImage.childImageSharp.fullSize }
+                      style={{ marginBottom: '1rem' }}
                       imgStyle={{ width: 'auto', height: '100%' }}
                       alt="Featured image"
                     />
@@ -70,6 +70,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
                   <Col md={ 4 } lg={ 3 }>
                     <Img
                       fixed={ article.frontmatter.featuredImage.childImageSharp.previewSize }
+                      se={{ marginBottom: '1rem' }}
                       style={{ width: '100%', height: '250px' }}
                       alt="Featured image"
                     />
