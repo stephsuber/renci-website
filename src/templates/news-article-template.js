@@ -71,7 +71,7 @@ export default ({ data, pageContext }) => {
             }
           </div>
 
-          <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', alignItems: 'flex-end' }}>
+          <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-end' }}>
             {
               nextArticle && (
                 <Fragment>
