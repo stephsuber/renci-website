@@ -1,5 +1,6 @@
 ---
 title: Cloud Computing Testbed Chameleon Launches Third Phase with Focus on IoT and Reproducibility
+subtitle: $10 million NSF grant funds next four years of multi-institutional project
 slug: cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility
 link: https://renci.org/news/cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility/
 spotlight: false
@@ -23,9 +24,6 @@ tags:
     - networking
     - testbed
 ---
-
-_$10 million NSF grant funds next four years of multi-institutional project_
-
 
 Since it launched in 2015, [Chameleon](https://chameleoncloud.org) has enabled systems and networking innovations by providing thousands of computer scientists with the bare metal access they need to conceptualize, assemble, and test new cloud computing approaches.
 

@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import { useTheme } from 'styled-components'
 import { graphql, Link } from 'gatsby'
 import { Container, Hero, HorizontalRule, Section } from '../components/layout'
-import { Meta, Title } from '../components/typography'
+import { Meta, Title, Subtitle } from '../components/typography'
 import { Visible } from 'react-grid-system'
 import { Icon } from '../components/icon'
 import { Tag, Tags } from '../components/news/tag'
@@ -13,7 +13,7 @@ export default ({ data, pageContext }) => {
   const theme = useTheme()
   const { article: {
     frontmatter: {
-      title, publishDate, author, featuredImage,
+      title, subtitle, publishDate, author, featuredImage,
       people, groups, projects, teams, collaborations, organizations,
     },
     fields,
@@ -44,7 +44,17 @@ export default ({ data, pageContext }) => {
 
           <Title>{ title }</Title>
 
-          <Meta>Published on { publishDate } by&nbsp;
+          {
+            subtitle && (
+              <Fragment>
+                <Subtitle>{ subtitle }</Subtitle>
+                <br />
+              </Fragment>
+            )
+          }
+
+          <Meta>
+            Published on { publishDate } by&nbsp;
             { author ? <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> : 'Unknown'}
           </Meta>
 
@@ -52,7 +62,9 @@ export default ({ data, pageContext }) => {
             { tags.map(tag => <Tag link to={ tag.path }>{ tag.name }</Tag>) }
           </Tags>
 
-          <div style={{ padding: '1rem 0 0 0' }} dangerouslySetInnerHTML={{ __html: articleHTML }} />
+          <br /><br />
+
+          <div dangerouslySetInnerHTML={{ __html: articleHTML }} />
         </Section>
 
         <HorizontalRule />
@@ -96,6 +108,7 @@ export const newsQuery = graphql`
     article: markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       frontmatter {
         title
+        subtitle
         featuredImage {
           childImageSharp {
             fullSize: fluid {
