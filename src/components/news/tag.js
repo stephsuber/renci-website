@@ -25,6 +25,7 @@ export const Label = styled(BaseTag)(({ theme }) => `
   border: 1px solid ${ theme.color.grey };
   background-color: ${ theme.color.white };
   line-height: ${ theme.spacing.extraSmall };
+  text-transform: uppercase;
 `)
 
 //
