@@ -39,7 +39,7 @@ export const PaginationTray = () => {
     <Wrapper>
       <PageLink to={ `/news?page=1` }><Icon icon="first-page" /></PageLink>
       <PageLink to={ `/news?page=${ prevPage }` }><Icon icon="chevron-left" /></PageLink>
-      { (page > paginationRadius + 1) ? <Icon icon="ellipsis" /> : <Icon icon="blank" /> }
+      { (page > paginationRadius + 1) ? <Icon icon="ellipsis" fill="#ccc" /> : <Icon icon="blank" /> }
       {
         [...Array(pageCount).keys()].map(index => {
           // we only want three page links on either side f the current link if possible
@@ -75,7 +75,7 @@ export const PaginationTray = () => {
           )
         })
       }
-      { (page < pageCount - paginationRadius) ? <Icon icon="ellipsis" /> : <Icon icon="blank" />}
+      { (page < pageCount - paginationRadius) ? <Icon icon="ellipsis" fill="#ccc" /> : <Icon icon="blank" />}
       <PageLink to={ `/news?page=${ nextPage }` }><Icon icon="chevron-right" /></PageLink>
       <PageLink to={ `/news?page=${ pageCount }` }><Icon icon="last-page" /></PageLink>
     </Wrapper>
