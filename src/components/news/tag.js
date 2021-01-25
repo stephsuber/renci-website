@@ -20,15 +20,6 @@ export const BaseTag = styled.span(({ theme }) => `
   }
 `)
 
-export const Label = styled(BaseTag)(({ theme }) => `
-  padding: ${ theme.spacing.small } ${ theme.spacing.extraSmall };
-  border: 1px solid ${ theme.color.grey };
-  background-color: ${ theme.color.white };
-  line-height: ${ theme.spacing.extraSmall };
-  text-transform: uppercase;
-  font-size: 65%;
-`)
-
 //
 
 export const Tag = ({ link, ...props }) => {

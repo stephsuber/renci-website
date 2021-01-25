@@ -5,7 +5,8 @@ import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title } from '../components/typography'
 import { Visible } from 'react-grid-system'
 import { Icon } from '../components/icon'
-import { Tag, Tags, Label } from '../components/news/tag'
+import { Tag, Tags } from '../components/news/tag'
+import { Label } from '../components/news/label'
 import { NewsDate } from '../components/news/news-date'
 
 export default ({ data, pageContext }) => {

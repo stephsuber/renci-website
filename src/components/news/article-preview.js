@@ -5,7 +5,8 @@ import Img from 'gatsby-image'
 import { Subheading } from '../typography'
 import { Container as Grid, Row, Col, Visible } from 'react-grid-system'
 import { ArrowLink } from '../link'
-import { Tag, Label } from './tag'
+import { Tag } from './tag'
+import { Label } from './label'
 import { NewsDate } from './news-date'
 
 const Wrapper = styled.article`
