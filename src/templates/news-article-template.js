@@ -5,6 +5,7 @@ import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title, Subtitle } from '../components/typography'
 import { Visible } from 'react-grid-system'
 import { Icon } from '../components/icon'
+import { ArrowLink } from '../components/link'
 import { Tag, Tags } from '../components/news/tag'
 import { Label } from '../components/news/label'
 import { NewsDate } from '../components/news/news-date'
@@ -13,7 +14,7 @@ export default ({ data, pageContext }) => {
   const theme = useTheme()
   const { article: {
     frontmatter: {
-      title, subtitle, publishDate, author, featuredImage,
+      title, subtitle, publishDate, author, featuredImage, previewImage,
       people, groups, projects, teams, collaborations, organizations,
     },
     fields,
@@ -34,7 +35,7 @@ export default ({ data, pageContext }) => {
 
   return (
     <Fragment>
-      { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fullSize } /> }
+      { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid } /> }
 
       <Container>
         <Section>
@@ -72,15 +73,12 @@ export default ({ data, pageContext }) => {
 
         <HorizontalRule />
 
-        <div style={{ display: 'flex', padding: '1rem 0' }}>
+        <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between', padding: '1rem 0' }}>
           <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start' }}>
             {
               prevArticle && (
                 <Fragment>
-                  <Link to={ prevArticle.fields.path } style={{ display: 'inline-flex', justifyContent: 'flex-start', alignItems: 'center' }}>
-                    <Icon icon="arrow-left" size={ 16 } fill={ theme.color.darkgrey } />
-                    PREVIOUS <Visible md lg xl>ARTICLE</Visible><br/>
-                  </Link>
+                  <ArrowLink to={ prevArticle.fields.path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
                   <Meta style={{ paddingLeft: '1rem' }}>{ prevArticle.frontmatter.title }</Meta>
                 </Fragment>
               )
@@ -91,10 +89,7 @@ export default ({ data, pageContext }) => {
             {
               nextArticle && (
                 <Fragment>
-                  <Link to={ nextArticle.fields.path } style={{ display: 'inline-flex', justifyContent: 'flex-end', alignItems: 'center' }}>
-                    NEXT <Visible md lg xl>ARTICLE</Visible>
-                    <Icon icon="arrow-right" size={ 16 } fill={ theme.color.darkgrey } />
-                  </Link>
+                  <ArrowLink to={ nextArticle.fields.path } text="NEXT ARTICLE" arrowPlacement="right" />
                   <Meta style={{ paddingRight: '1rem' }}>{ nextArticle.frontmatter.title }</Meta>
                 </Fragment>
               )
@@ -114,11 +109,15 @@ export const newsQuery = graphql`
         subtitle
         featuredImage {
           childImageSharp {
-            fullSize: fluid {
+            fluid {
               ...GatsbyImageSharpFluid
             }
-            previewSize: fixed(width: 300, height: 300) {
-              ...GatsbyImageSharpFixed
+          }
+        }
+        previewImage {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
             }
           }
         }

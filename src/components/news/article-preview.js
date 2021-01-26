@@ -48,38 +48,41 @@ const BodyContainer = styled.div`
 
 export const ArticlePreview = ({ article, path, compact = false }) => {
   const theme = useTheme()
-  const hasFeaturedImage = (article.frontmatter.featuredImage !== null) && (compact === false)
+  const hasPreviewImage = (article.frontmatter.previewImage !== null) && (compact === false)
+  console.log(article.frontmatter.title)
+  console.log(article.frontmatter.previewImage)
+  console.log(hasPreviewImage)
   return (
     <Wrapper>
       <Grid fluid>
         <Row>
           {
-            hasFeaturedImage && (
+            hasPreviewImage && (
               <Fragment>
                 <Visible sm>
                   <Col xs={ 12 }>
                     <Img
-                      fluid={ article.frontmatter.featuredImage.childImageSharp.fullSize }
+                      fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
                       style={{ marginBottom: '1rem' }}
                       imgStyle={{ width: 'auto', height: '100%' }}
-                      alt="Featured image"
+                      alt="Preview image"
                     />
                   </Col>
                 </Visible>
                 <Visible md lg xl>
                   <Col md={ 4 } lg={ 3 }>
                     <Img
-                      fixed={ article.frontmatter.featuredImage.childImageSharp.previewSize }
+                      fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
                       se={{ marginBottom: '1rem' }}
                       style={{ width: '100%', height: '250px' }}
-                      alt="Featured image"
+                      alt="Preview image"
                     />
                   </Col>
                 </Visible>
               </Fragment>
             )
           }
-          <Col xs={ 12 } md={ hasFeaturedImage ? 8 : 12 } lg={ hasFeaturedImage ? 9 : 12 }>
+          <Col xs={ 12 } md={ hasPreviewImage ? 8 : 12 } lg={ hasPreviewImage ? 9 : 12 }>
             <TitleContainer>
               <div className="row">
                 <NewsDate>{ article.frontmatter.publishDate }</NewsDate>

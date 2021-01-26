@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import { Link } from 'gatsby'
 import { Icon } from '../icon'
@@ -7,26 +8,43 @@ const Wrapper = styled.span(({ theme, float }) => `
   float: ${ float ? float : 'none' };
   & .icon {
     fill: ${ theme.color.darkgrey };
-    transition: transform 100ms, opacity 250ms;
-    transform: translateX(0rem) scale(0.9) translateX(0.1rem);
-    transform-origin: 0% 50%;
-    opacity: 0.25;
     padding-top: 2px;
+    transform-origin: 50% 50%;
+    transition: transform 100ms, opacity 250ms;
+    opacity: 0.25;
   }
+  & .icon-left { transform: scale(0.9); }
+  & .icon-right { transform: scale(0.9); }
   &:hover, &:focus {
     transition: transform 250ms, opacity 100ms;
-    & .icon {
-      transform: translateX(0.1rem) scale(1.0) translateX(0.2rem);
-      opacity: 1.0;
-    }
+    & .icon { opacity: 1.0; }
+    & .icon-left { transform: scale(1.0) translateX(-0.2rem); }
+    & .icon-right { transform: scale(1.0) translateX(0.2rem); }
   }
 `)
 
-export const ArrowLink = ({ text, float, ...props }) => (
-  <Wrapper float={ float }>
-    <Link { ...props }>
-      { text }
-    </Link>
-    <Icon icon="arrow-right" className="icon" size={ 14 } />
-  </Wrapper>
-)
+export const ArrowLink = ({ text, float, arrowPlacement, ...props }) => {
+  if (arrowPlacement === 'left') {
+    return (
+      <Wrapper float={ float } placement={ arrowPlacement }>
+        <Icon icon="arrow-left" className="icon icon-left" size={ 14 } />
+        <Link { ...props }>{ text }</Link>
+      </Wrapper>
+    )
+  }
+  return (
+    <Wrapper float={ float } placement={ arrowPlacement }>
+      <Link { ...props }>{ text }</Link>
+      <Icon icon="arrow-right" className="icon icon-right" size={ 14 } />
+    </Wrapper>
+  )
+}
+
+ArrowLink.propTypes = {
+  arrowPlacement: PropTypes.oneOf(['left', 'right']).isRequired,
+  text: PropTypes.string.isRequired,
+}
+
+ArrowLink.defaultProps = {
+  arrowPlacement: 'right',
+}

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Img from 'gatsby-image'
@@ -41,39 +41,36 @@ const Wrapper = styled.div(({ theme, backgroundColor }) => `
   min-height: 500px;
   overflow: hidden;
   background-color: ${ backgroundColor };
-  background-image: linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
-  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
-  linear-gradient(30deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
-  linear-gradient(150deg, ${ theme.color.black } 12%, transparent 12%, transparent 87%, ${ theme.color.black } 87%, ${ theme.color.black }),
-  linear-gradient(60deg, ${ theme.color.darkgrey } 25%, transparent 25.5%, transparent 75%, ${ theme.color.darkgrey } 75%, ${ theme.color.darkgrey }), 
-  linear-gradient(60deg, ${ theme.color.darkgrey } 25%, transparent 25.5%, transparent 75%, ${ theme.color.darkgrey } 75%, ${ theme.color.darkgrey });
+`)
+
+const Pattern = styled.div(({ theme }) => `
+  position: relative;
+  min-height: 500px;
+  overflow: hidden;
+  background-color: ${ theme.color.darkgrey };
+  background-image:
+    linear-gradient(30deg, #000000 12%, transparent 12%, transparent 87%, #000000 87%, #000000),
+    linear-gradient(150deg, #000000 12%, transparent 12%, transparent 87%, #000000 87%, #000000),
+    linear-gradient(30deg, #000000 12%, transparent 12%, transparent 87%, #000000 87%, #000000),
+    linear-gradient(150deg, #000000 12%, transparent 12%, transparent 87%, #000000 87%, #000000),
+    linear-gradient(60deg, #00000066 25%, transparent 25.5%, transparent 75%, #00000066 75%, #00000066), 
+    linear-gradient(60deg, #00000066 25%, transparent 25.5%, transparent 75%, #00000066 75%, #00000066);
   background-size:40px 70px;
   background-position: 0 0, 0 0, 20px 35px, 20px 35px, 0 0, 20px 35px;
 `)
 
 export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children }) => {
   const { scrollPosition } = useScrollPosition()
+  console.log(children)
 
   return (
     <Wrapper backgroundColor={ backgroundColor }>
-        {
-          backgroundImage && (
-            <Img
-              fluid={ backgroundImage }
-              style={{ height: '500px' }}
-              imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }}
-            />
-          )
-        }
       {
-        children && (
-          <Content>
-            <Container>
-              { children }
-            </Container>
-          </Content>
-        )
+        backgroundImage
+          ? <Img fluid={ backgroundImage } style={{ height: '500px' }} imgStyle={{ transform: `translateY(${ scrollPosition / 2 }px)` }} />
+          : <Pattern />
       }
+      { children && <Content><Container>{ children }</Container></Content> }
     </Wrapper>
   )
 }
