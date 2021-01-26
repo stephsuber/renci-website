@@ -57,7 +57,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
           {
             hasPreviewImage && (
               <Fragment>
-                <Visible xs>
+                <Visible xs sm>
                   <Col xs={ 12 }>
                     <Img
                       fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
@@ -67,7 +67,7 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
                     <br/>
                   </Col>
                 </Visible>
-                <Visible sm md lg xl>
+                <Visible md lg xl>
                   <Col md={ 5 } lg={ 4 }>
                     <Img
                       fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
@@ -80,12 +80,12 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
               </Fragment>
             )
           }
-          <Col xs={ 12 } md={ hasPreviewImage ? 7 : 12 } lg={ hasPreviewImage ? 8 : 12 }>
+          <Col xs={ 12 } sm={ 12 } md={ hasPreviewImage ? 7 : 12 } lg={ hasPreviewImage ? 8 : 12 }>
             <TitleContainer>
               <div className="row">
                 <NewsDate>{ article.frontmatter.publishDate }</NewsDate>
                 &nbsp;&nbsp;
-                <Label className="label">{ article.fields.newsType }</Label>
+                <Label className={ article.fields.newsType }>{ article.fields.newsType }</Label>
               </div>
               <Subheading className="title"><Link to={ path }>{ article.frontmatter.title }</Link></Subheading>
             </TitleContainer>
