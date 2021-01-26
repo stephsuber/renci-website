@@ -60,7 +60,7 @@ export default ({ data, pageContext }) => {
           </Meta>
 
           <Tags>
-            { tags.map(tag => <Tag link to={ tag.path }>{ tag.name }</Tag>) }
+            { tags.map(tag => <Tag link to={ tag.path } key={ tag.path }>{ tag.name }</Tag>) }
           </Tags>
 
           <br />
