@@ -1,5 +1,6 @@
 ---
 title: What to expect at the 2020 iRODS User Group Meeting
+subtitle: iRODS users and consortium members will gather virtually June 9-12
 slug: irods-ugm-2020-expectations
 spotlight: true
 publishDate: 2020-06-08
@@ -18,8 +19,6 @@ collaborations:
 tags:
   - data-management
 ---
-
-### iRODS users and consortium members will gather virtually from June 9-12
 
 The worldwide [iRODS](https://irods.org/) user community will connect online this week for the 12th Annual iRODS User Group Meeting – three days of learning, sharing of use cases, and discussions of new capabilities that have been added to iRODS in the last year.
 

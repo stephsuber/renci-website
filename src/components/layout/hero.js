@@ -61,7 +61,6 @@ const Pattern = styled.div(({ theme }) => `
 
 export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children }) => {
   const { scrollPosition } = useScrollPosition()
-  console.log(children)
 
   return (
     <Wrapper backgroundColor={ backgroundColor }>

@@ -49,9 +49,7 @@ const BodyContainer = styled.div`
 export const ArticlePreview = ({ article, path, compact = false }) => {
   const theme = useTheme()
   const hasPreviewImage = (article.frontmatter.previewImage !== null) && (compact === false)
-  console.log(article.frontmatter.title)
-  console.log(article.frontmatter.previewImage)
-  console.log(hasPreviewImage)
+  
   return (
     <Wrapper>
       <Grid fluid>
@@ -59,30 +57,30 @@ export const ArticlePreview = ({ article, path, compact = false }) => {
           {
             hasPreviewImage && (
               <Fragment>
-                <Visible sm>
+                <Visible xs>
                   <Col xs={ 12 }>
                     <Img
                       fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
-                      style={{ marginBottom: '1rem' }}
                       imgStyle={{ width: 'auto', height: '100%' }}
                       alt="Preview image"
                     />
+                    <br/>
                   </Col>
                 </Visible>
-                <Visible md lg xl>
-                  <Col md={ 4 } lg={ 3 }>
+                <Visible sm md lg xl>
+                  <Col md={ 5 } lg={ 4 }>
                     <Img
                       fluid={ article.frontmatter.previewImage.childImageSharp.fluid }
-                      se={{ marginBottom: '1rem' }}
                       style={{ width: '100%', height: '250px' }}
                       alt="Preview image"
                     />
+                    <br/>
                   </Col>
                 </Visible>
               </Fragment>
             )
           }
-          <Col xs={ 12 } md={ hasPreviewImage ? 8 : 12 } lg={ hasPreviewImage ? 9 : 12 }>
+          <Col xs={ 12 } md={ hasPreviewImage ? 7 : 12 } lg={ hasPreviewImage ? 8 : 12 }>
             <TitleContainer>
               <div className="row">
                 <NewsDate>{ article.frontmatter.publishDate }</NewsDate>

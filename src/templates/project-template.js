@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react'
+import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import { Container, Article, Section, Hero, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
@@ -7,6 +8,33 @@ import { ArticlePreview } from '../components/news'
 import { PeopleList } from '../components/people'
 import { OrganizationsList } from '../components/organizations'
 import { Link } from '../components/link'
+
+const NewsSection = ({ news, maxLength }) => {
+  return (
+    <Section title="News">
+      {
+        news.slice(0, maxLength).map((article, i) => {
+          return (
+            <Fragment key={ article.id }>
+              <ArticlePreview article={ article } path={ article.fields.path } />
+              { i < Math.min(news.length, maxLength) - 1 && <HorizontalRule /> }
+            </Fragment>
+          )
+        })
+      }
+    </Section>
+  )
+}
+
+NewsSection.propTypes = {
+  maxLength: PropTypes.number.isRequired,
+}
+
+NewsSection.defaultProps = {
+  maxLength: 2,
+}
+
+//
 
 export default ({ data, pageContext }) => {
   const { projectsYaml: {
@@ -37,22 +65,7 @@ export default ({ data, pageContext }) => {
       <Container>
         <SocialTray url={ www.url } twitter={ www.twitter } github={ www.github } />
         
-        {
-          sortedNews && (
-            <Section title="News">
-              {
-                sortedNews.slice(0, 2).map((article, i) => {
-                  return (
-                    <Fragment key={ article.id }>
-                      <ArticlePreview article={ article } path={ article.fields.path } compact />
-                      { i < news.length - 1 && <HorizontalRule /> }
-                    </Fragment>
-                  )
-                })
-              }
-            </Section>
-          )
-        }
+        { sortedNews && <NewsSection news={ sortedNews } /> }
 
         <Section title="RENCI's Role">
           <Article>
@@ -61,29 +74,9 @@ export default ({ data, pageContext }) => {
         </Section>
 
         <Section title="Contributors">
-          {
-            members && (
-              <Article title="RENCI Team">
-                <PeopleList members={ members } />
-              </Article>
-            )
-          }
-          
-          {
-            sortedPartners && (
-              <Article title="Partners">
-                <OrganizationsList contributors={ sortedPartners } />
-              </Article>
-            )
-          }
-          
-          {
-            sortedFunders && (
-              <Article title="Funding">
-                <OrganizationsList contributors={ sortedFunders } />
-              </Article>
-            )
-          }
+          { members && <Article title="RENCI Team"><PeopleList members={ members } /></Article> }
+          { sortedPartners && <Article title="Partners"><OrganizationsList contributors={ sortedPartners } /></Article> }
+          { sortedFunders && <Article title="Funding"><OrganizationsList contributors={ sortedFunders } /></Article> }
         </Section>
 
       </Container>
@@ -153,8 +146,15 @@ export const projectQuery = graphql`
           publishDate(formatString: "MMMM DD, YYYY")
           featuredImage {
             childImageSharp {
-              previewSize: fixed(width: 300, height: 300) {
-                ...GatsbyImageSharpFixed
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+          previewImage {
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
               }
             }
           }
