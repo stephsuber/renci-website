@@ -8,21 +8,22 @@ const Wrapper = styled.span(({ theme, float }) => `
   & .icon {
     fill: ${ theme.color.darkgrey };
     transition: transform 100ms, opacity 250ms;
-    transform: translateX(0rem) scale(0.9) translate(0.2rem);
+    transform: translateX(0rem) scale(0.9) translateX(0.1rem);
     transform-origin: 0% 50%;
     opacity: 0.25;
+    padding-top: 2px;
   }
   &:hover, &:focus {
     transition: transform 250ms, opacity 100ms;
     & .icon {
-      transform: translateX(0.1rem) scale(1.0) translate(0.3rem);
+      transform: translateX(0.1rem) scale(1.0) translateX(0.2rem);
       opacity: 1.0;
     }
   }
 `)
 
-export const ArrowLink = ({ text, ...props }) => (
-  <Wrapper>
+export const ArrowLink = ({ text, float, ...props }) => (
+  <Wrapper float={ float }>
     <Link { ...props }>
       { text }
     </Link>
