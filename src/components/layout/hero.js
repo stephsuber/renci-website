@@ -65,11 +65,15 @@ export const Hero = ({ backgroundImage, backgroundColor, overlayColor, children 
             />
           )
         }
-      <Content>
-        <Container>
-          { children }
-        </Container>
-      </Content>
+      {
+        children && (
+          <Content>
+            <Container>
+              { children }
+            </Container>
+          </Content>
+        )
+      }
     </Wrapper>
   )
 }

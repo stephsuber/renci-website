@@ -34,10 +34,10 @@ export default ({ data, pageContext }) => {
 
   return (
     <Fragment>
-      { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fullSize }></Hero> }
+      { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fullSize } /> }
 
       <Container>
-        <Section title=" ">
+        <Section>
           <NewsDate>{ publishDate }</NewsDate>
 
           <Label style={{ float: 'right' }}>{ fields.newsType }</Label>
