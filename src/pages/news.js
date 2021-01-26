@@ -58,7 +58,6 @@ const NewsPage = () => {
   }, [windowWidth])
 
   useEffect(() => {
-    console.log(filters)
     let newArticles = [...articles]
     if (filters.group) {
       newArticles = newArticles.filter(article => 
