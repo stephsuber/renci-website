@@ -5,6 +5,10 @@ import styled from 'styled-components'
 
 export const BaseTag = styled.span(({ theme }) => `
   margin: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: ${ theme.spacing.extraSmall } ${ theme.spacing.small };
   border-radius: ${ theme.border.radius };
   border: 1px solid ${ theme.color.grey };
