@@ -49,8 +49,8 @@ export default ({ data, pageContext }) => {
                         news.slice(0, 2).map((article, i) => {
                             return (
                                 <Fragment key={ article.id }>
-                                <ArticlePreview article={ article } path={ article.fields.path } compact />
-                                    { i < news.length - 1 && <HorizontalRule /> }
+                                  <ArticlePreview article={ article } path={ article.fields.path } compact />
+                                  { i < 1 && <HorizontalRule /> }
                                 </Fragment>
                             )
                         })

@@ -48,10 +48,11 @@ export default ({ data, pageContext }) => {
             subtitle && (
               <Fragment>
                 <Subtitle>{ subtitle }</Subtitle>
-                <br />
               </Fragment>
             )
           }
+
+          <br />
 
           <Meta>
             Published on { publishDate } by&nbsp;
@@ -62,7 +63,9 @@ export default ({ data, pageContext }) => {
             { tags.map(tag => <Tag link to={ tag.path }>{ tag.name }</Tag>) }
           </Tags>
 
-          <br /><br />
+          <br />
+          <HorizontalRule />
+          <br />
 
           <div dangerouslySetInnerHTML={{ __html: articleHTML }} />
         </Section>
