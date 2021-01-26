@@ -77,7 +77,7 @@ export default ({ data, pageContext }) => {
             {
               prevArticle && (
                 <Fragment>
-                  <Link to={ prevArticle.path } style={{ display: 'inline-flex', justifyContent: 'flex-start', alignItems: 'center' }}>
+                  <Link to={ prevArticle.fields.path } style={{ display: 'inline-flex', justifyContent: 'flex-start', alignItems: 'center' }}>
                     <Icon icon="arrow-left" size={ 16 } fill={ theme.color.darkgrey } />
                     PREVIOUS <Visible md lg xl>ARTICLE</Visible><br/>
                   </Link>
@@ -91,7 +91,7 @@ export default ({ data, pageContext }) => {
             {
               nextArticle && (
                 <Fragment>
-                  <Link to={ nextArticle.path } style={{ display: 'inline-flex', justifyContent: 'flex-end', alignItems: 'center' }}>
+                  <Link to={ nextArticle.fields.path } style={{ display: 'inline-flex', justifyContent: 'flex-end', alignItems: 'center' }}>
                     NEXT <Visible md lg xl>ARTICLE</Visible>
                     <Icon icon="arrow-right" size={ 16 } fill={ theme.color.darkgrey } />
                   </Link>
