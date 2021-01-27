@@ -20,7 +20,6 @@ export default ({ data, pageContext }) => {
     fields,
     html: articleHTML
   }} = data
-  console.log(tags)
   const { prevArticle, nextArticle } = pageContext
   // collect all related objects
   const articleTags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
