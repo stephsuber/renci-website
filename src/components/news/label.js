@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { BaseTag } from './tag'
 
 export const Label = styled(BaseTag)(({ theme }) => `
-  padding: ${ theme.spacing.small } ${ theme.spacing.extraSmall };
+  padding: ${ theme.spacing.small } ${ theme.spacing.small };
   border: 0;
   background-color: ${ theme.color.renciBlue };
   color: ${ theme.color.white };

@@ -18,7 +18,7 @@ teams:
 collaborations:
     - 
 tags:
-    - high-performance-computing
+    - hpc
 ---
 <!-- wp:html -->
 <div class="entry-meta" style="margin-top: -1rem;">Updated: May 10, 2019</div>

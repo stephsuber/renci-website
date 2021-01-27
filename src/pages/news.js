@@ -1,6 +1,6 @@
 import React, { Fragment, useEffect, useMemo, useState } from 'react'
 import { SEO } from '../components/seo'
-import styled from 'styled-components'
+import styled, { useTheme } from 'styled-components'
 import { useLocation } from '@reach/router'
 import { Container, Section, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
@@ -16,6 +16,7 @@ const PAGINATION_RADIUS = {
 const INITIAL_FILTERS = {
   group: '',
   project: '',
+  topic: '',
 }
 
 const FlexHeader = styled.div`
@@ -29,18 +30,33 @@ const FlexHeader = styled.div`
   }
 `
 
+const filtersUrl = (params, basePath = '/news') => {
+  if (Object.values(params).join('') === '')
+    return basePath
+  const q = Object.keys(params)
+    .filter(key => params[key] !== '')
+    .map(key => `${ key }=${ params[key] }`).join('&')
+  return basePath + '?' + q
+}
+
 const NewsPage = () => {
+  const theme = useTheme()
   const location = useLocation()
   const { windowWidth } = useWindow()
   const articles = useNews() // all articles
   const [filters, setFilters] = useState(INITIAL_FILTERS)
   const [filteredArticles, setFilteredArticles] = useState(articles)
   const [news, setNews] = useState([]) // articles to render
-  const [page, setPage] = useState(1) // page number currently viewing
+  const [page, setPage] = useState(1) // page number currently beingviewed
   const [paginationRadius, setPaginationRadius] = useState(PAGINATION_RADIUS.mobile)
 
-  const filterChange = filterKey => event => {
+  const changeFilterSelect = filterKey => event => {
     setFilters({ ...filters, [filterKey]: event.target.value })
+    setPage(1)
+  }
+
+  const clearFilters = event => {
+    setFilters(INITIAL_FILTERS)
     setPage(1)
   }
 
@@ -50,8 +66,12 @@ const NewsPage = () => {
 
   useEffect(() => {
     const queryParams = new URLSearchParams(location.search)
-    setPage(+queryParams.get('page') || 1)
-  }, [location])
+    const queryPage = +queryParams.get('page') || 1
+    const queryGroup = queryParams.get('group') || ''
+    const queryTopic = queryParams.get('topic') || ''
+    setPage(queryPage)
+    setFilters({ ...filters, group: queryGroup, topic: queryTopic })
+  }, [location.search])
 
   useEffect(() => {
     setPaginationRadius(windowWidth < 600 ? PAGINATION_RADIUS.mobile : PAGINATION_RADIUS.desktop)
@@ -60,13 +80,17 @@ const NewsPage = () => {
   useEffect(() => {
     let newArticles = [...articles]
     if (filters.group) {
-      newArticles = newArticles.filter(article => 
-        (article.frontmatter.groups && article.frontmatter.groups.findIndex(g => g.id === filters.group) > -1) ||
-        (article.frontmatter.collaborations && article.frontmatter.collaborations.findIndex(c => c.id === filters.group) > -1)
-      )
+      newArticles = newArticles.filter(article => {
+        const groupMatch = article.frontmatter.groups && article.frontmatter.groups.findIndex(g => g.id === filters.group) > -1
+        const collaborationMatch = article.frontmatter.collaborations && article.frontmatter.collaborations.findIndex(c => c.id === filters.group) > -1
+        return groupMatch || collaborationMatch
+      })
     }
     if (filters.project) {
       newArticles = newArticles.filter(article => article.frontmatter.projects && article.frontmatter.projects.map(p => p.id).includes(filters.project))
+    }
+    if (filters.topic) {
+      newArticles = newArticles.filter(article => article.frontmatter.tags && article.frontmatter.tags.map(t => t.id).includes(filters.topic))
     }
     setFilteredArticles(newArticles)
   }, [page, filters])
@@ -76,16 +100,11 @@ const NewsPage = () => {
     setNews(pageOfNews)
   }, [page, filteredArticles])
 
-  // debugging
-  // useEffect(() => console.table(filters), [filters])
-  // useEffect(() => console.log(filteredArticles), [filters])
-  // useEffect(() => console.log('pageCount', pageCount), [pageCount, filters])
-  
   //
 
   return (
     <Container className="container">
-      <NewsContext.Provider value={{ news, page, prevPage, nextPage, pageCount, paginationRadius, filters, filterChange }}>
+      <NewsContext.Provider value={{ news, page, prevPage, nextPage, pageCount, paginationRadius, filters, changeFilterSelect, clearFilters, filtersUrl }}>
         <SEO title="RENCI News" />
         
         <FlexHeader>

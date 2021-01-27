@@ -18,7 +18,7 @@ teams:
 collaborations:
     - 
 tags:
-    - high-performance-computing
+    - hpc
 ---
 
 

@@ -1,7 +1,7 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 import { SEO } from '../components/seo'
-import { Container, Article, Section } from '../components/layout'
-import { Title, Paragraph } from '../components/typography'
+import { Container } from '../components/layout'
+import { Title } from '../components/typography'
 import { useTags } from '../hooks'
 
 const TagsPage = () => {
@@ -11,7 +11,7 @@ const TagsPage = () => {
     <Container>
       <SEO title="Tags" />
 
-      <h1>Tags</h1>
+      <Title>Tags</Title>
 
       <pre>{ JSON.stringify(tags, null, 2) }</pre>
 

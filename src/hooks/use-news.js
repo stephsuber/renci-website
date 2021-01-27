@@ -38,7 +38,13 @@ const newsQuery = graphql`{
           groups {
             id
           }
+          collaborations {
+            id
+          }
           projects {
+            id
+          }
+          tags {
             id
           }
         }
@@ -86,6 +92,9 @@ const newsQuery = graphql`{
             }
           }
           groups {
+            id
+          }
+          collaborations {
             id
           }
           projects {

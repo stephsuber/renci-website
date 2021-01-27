@@ -19,7 +19,7 @@ collaborations:
 tags:
     - data-management
     - open-source
-    - high-performance-computing
+    - hpc
 ---
 <a href="https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b.jpg"><img class="aligncenter wp-image-15762 size-large" src="https://renci.org/wp-content/uploads/2016/11/23107653222_82fda09b5e_b-1024x683.jpg" alt="23107653222_82fda09b5e_b" width="640" height="427" /></a>
 

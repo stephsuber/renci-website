@@ -10,13 +10,16 @@ groups:
 projects:
     - 
 people:
-    - 
+    - amanda-miller
+    - jeffrey-tilson
+    - hannah-hiles
+    - sarah-davis
 teams: 
-    - 
+    - project-management
 collaborations:
     - 
 tags:
-    - 
+    - covid-19
 ---
 
 ![Families showing off their new face masks](https://renci.org/wp-content/uploads/2020/05/Photo-Collages-for-Blogs-1024x819.png)

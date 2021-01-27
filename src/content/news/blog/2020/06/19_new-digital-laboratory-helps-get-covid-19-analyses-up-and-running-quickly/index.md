@@ -10,13 +10,13 @@ groups:
 projects:
     - 
 people:
-    - 
+    - steve-cox
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - covid-19
 ---
 
 ![Blackbalsam logo superimposed on landscape](https://renci.org/wp-content/uploads/2020/06/BB-Blog-04-1024x512.png)

@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { Link } from '../link'
 import { Icon } from '../icon'
 import { useNewsContext } from './news-context'
+import { useLocation } from '@reach/router'
 
 const Wrapper = styled.nav(({ theme }) => `
   display: flex;
@@ -33,13 +34,15 @@ const PageLink = styled(Link)(({ theme }) => `
 `)
 
 export const PaginationTray = () => {
-  const { page, prevPage, nextPage, pageCount, paginationRadius } = useNewsContext()
-  
+  const { page, prevPage, nextPage, pageCount, paginationRadius, filters, filtersUrl } = useNewsContext()
+  const location = useLocation()
+
   return (
     <Wrapper>
-      <PageLink to={ `/news?page=1` }><Icon icon="first-page" /></PageLink>
-      <PageLink to={ `/news?page=${ prevPage }` }><Icon icon="chevron-left" /></PageLink>
-      { (page > paginationRadius + 1) ? <Icon icon="ellipsis" fill="#ccc" /> : <Icon icon="blank" /> }
+      <PageLink to={ filtersUrl({ page: 1, ...filters }) }><Icon icon="first-page" /></PageLink>
+      <PageLink to={ filtersUrl({ page: prevPage, ...filters }) }><Icon icon="chevron-left" /></PageLink>
+      <Icon icon="ellipsis" fill={ page > paginationRadius + 1 ? '#ccc' : 'transparent' } />
+
       {
         [...Array(pageCount).keys()].map(index => {
           // we only want three page links on either side f the current link if possible
@@ -67,7 +70,7 @@ export const PaginationTray = () => {
           return (
             <PageLink
               key={ `page-${ i }` }
-              to={ `/news?page=${ i }` }
+              to={ filtersUrl({ page: i, ...filters }) }
               className={ i === page ? 'active' : undefined }
             >
               { i }
@@ -75,9 +78,9 @@ export const PaginationTray = () => {
           )
         })
       }
-      { (page < pageCount - paginationRadius) ? <Icon icon="ellipsis" fill="#ccc" /> : <Icon icon="blank" />}
-      <PageLink to={ `/news?page=${ nextPage }` }><Icon icon="chevron-right" /></PageLink>
-      <PageLink to={ `/news?page=${ pageCount }` }><Icon icon="last-page" /></PageLink>
+      <Icon icon="ellipsis" fill={ pageCount > 2 * paginationRadius - 1 && page < pageCount - paginationRadius ? '#ccc' : 'transparent' } />
+      <PageLink to={ filtersUrl({ page: nextPage, ...filters }) }><Icon icon="chevron-right" /></PageLink>
+      <PageLink to={ filtersUrl({ page: pageCount, ...filters }) }><Icon icon="last-page" /></PageLink>
     </Wrapper>
   )
 }

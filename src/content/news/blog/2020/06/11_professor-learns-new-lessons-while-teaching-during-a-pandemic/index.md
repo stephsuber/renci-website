@@ -10,13 +10,14 @@ groups:
 projects:
     - 
 people:
-    - 
+    - ashok-krishnamurthy
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - 
+    - covid-19
+    - students
 ---
 
 ![Ashok Krishnamurthy headshot](https://renci.org/wp-content/uploads/2020/06/Ashok-Teaching-Blog-01-1024x512.png)

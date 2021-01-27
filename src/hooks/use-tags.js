@@ -1,8 +1,8 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
 const tagsQuery = graphql`{
-  tags: allTagsYaml {
-    edges {
+  tags: allTagsYaml(sort: {order: ASC, fields: name}) {
+   edges {
       node {
         id
         name

@@ -1,20 +1,41 @@
 import React, { Fragment } from 'react'
-import { useTheme } from 'styled-components'
 import { graphql, Link } from 'gatsby'
+import { navigate, useLocation } from '@reach/router'
 import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title, Subtitle } from '../components/typography'
-import { Visible } from 'react-grid-system'
-import { Icon } from '../components/icon'
 import { ArrowLink } from '../components/link'
 import { Tag, Tags } from '../components/news/tag'
 import { Label } from '../components/news/label'
 import { NewsDate } from '../components/news/news-date'
 
+const PreviousArticleLink = ({ title, path }) => (
+  <Fragment>
+    <ArrowLink to={ path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
+    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
+  </Fragment>
+)
+
+const filtersUrl = (params, basePath = '/news') => {
+  if (Object.values(params).join('') === '')
+    return basePath
+  const q = Object.keys(params)
+    .filter(key => params[key] !== '')
+    .map(key => `${ key }=${ params[key] }`).join('&')
+  return basePath + '?' + q
+}
+
+const NextArticleLink = ({ title, path }) => (
+  <Fragment>
+    <ArrowLink to={ path } text="NEXT ARTICLE" arrowPlacement="right" />
+    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
+  </Fragment>
+)
+
 export default ({ data, pageContext }) => {
-  const theme = useTheme()
+  const location = useLocation()
   const { article: {
     frontmatter: {
-      title, subtitle, publishDate, author, featuredImage, previewImage,
+      title, subtitle, publishDate, author, featuredImage,
       people, groups, projects, teams, collaborations, organizations, tags
     },
     fields,
@@ -22,15 +43,26 @@ export default ({ data, pageContext }) => {
   }} = data
   const { prevArticle, nextArticle } = pageContext
   // collect all related objects
-  const articleTags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
+  const articleTags = groups
+    .concat(collaborations)
+    .concat(projects)
+    .concat(organizations)
+    .concat(teams)
+    .concat(people)
+    // remove null items
+    .filter(item => item !== null)
     // turn into array of objects with shape { id, name, path }
     .map(item => {
-      if (item.__typename == 'PeopleYaml') {
-        return ({ id: item.id, name: item.fullName, path: item.fields.path })
+      switch (item.__typename) {
+        case 'PeopleYaml':
+          return ({ id: item.id, name: item.fullName, path: item.fields.path })
+        case 'OrganizationsYaml':
+          return ({ id: item.id, name: item.name, path: item.url })
+        default:
+          return ({ id: item.id, name: item.name, path: item.fields.path })
       }
-      return ({ id: item.id, name: item.name, path: item.fields.path })
     })
-    .concat(tags.map((item, i) => ({ id: item.id, name: item.name, path: `/news?tag=${ item.id }` })))
+    .concat(tags.map((item, i) => ({ id: item.id, name: item.name, path: filtersUrl({ topic: item.id }) })))
     // alphabetize
     .sort((t, u) => t.name < u.name ? -1 : 1)
 
@@ -42,7 +74,7 @@ export default ({ data, pageContext }) => {
         <Section>
           <NewsDate>{ publishDate }</NewsDate>
 
-          <Label style={{ float: 'right' }}>{ fields.newsType }</Label>
+          <Label style={{ float: 'right' }} className={ fields.newsType }>{ fields.newsType }</Label>
 
           <Title>{ title }</Title>
 
@@ -57,15 +89,16 @@ export default ({ data, pageContext }) => {
           <br />
 
           <Meta>
-            Published on { publishDate } by&nbsp;
-            { author ? <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link> : 'Unknown'}
+            Published on { publishDate } <br />
+            { author && <span>Author: <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link></span> }
           </Meta>
 
+          <br />
+          
           <Tags>
             { articleTags.map(tag => <Tag link to={ tag.path } key={ tag.path }>{ tag.name }</Tag>) }
           </Tags>
 
-          <br />
           <HorizontalRule />
           <br />
 
@@ -76,25 +109,10 @@ export default ({ data, pageContext }) => {
 
         <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between', padding: '1rem 0' }}>
           <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start' }}>
-            {
-              prevArticle && (
-                <Fragment>
-                  <ArrowLink to={ prevArticle.fields.path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
-                  <Meta style={{ paddingLeft: '1rem' }}>{ prevArticle.frontmatter.title }</Meta>
-                </Fragment>
-              )
-            }
+            { prevArticle && <PreviousArticleLink title={ prevArticle.frontmatter.title } path={ prevArticle.fields.path } /> }
           </div>
-
           <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-end' }}>
-            {
-              nextArticle && (
-                <Fragment>
-                  <ArrowLink to={ nextArticle.fields.path } text="NEXT ARTICLE" arrowPlacement="right" />
-                  <Meta style={{ paddingRight: '1rem' }}>{ nextArticle.frontmatter.title }</Meta>
-                </Fragment>
-              )
-            }
+            { nextArticle && <NextArticleLink title={ nextArticle.frontmatter.title } path={ nextArticle.fields.path } /> }
           </div>
         </div>
       </Container>
