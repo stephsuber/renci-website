@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Chris Bizon","Cyberinfrastructure","Jonathan Berg","National Human Genome Research Institute","North Carolina Clinical Genomic Evaluation (NCGENES)","UNC Department of Genetics"]
+    -
 ---
+
 https://www.youtube.com/watch?v=l4B2gF1h6mo
 
 CHAPEL HILL, NC - Sometimes, technology progresses faster than our ability to take advantage of it. The Internet was the domain of the U.S. Department of Defense and a handful of scientists before enterprising college students and technology geeks figured out how to make money off it and launched the “dot.com” era. Similarly, in only a decade, technology has transformed the sequencing of a whole human genome from a scientific milestone costing about $3 billion to a relatively routine affair costing several thousand dollars. But using this wealth of genomic data to improve healthcare and human health has proven to be a tougher nut to crack. <!--more-->
@@ -77,3 +78,9 @@ This research is funded by a four-year, $8 million grant from the National Human
 <span class="renci_head"><strong>Co PIs:</strong> </span>Jonathan Berg, M.D., Ph.D., UNC Department of Genetics; Kirk Wilhelmsen, M.D., Ph.D., RENCI and UNC Department of Genetics; Karen Weck, M.D., UNC Molecular Genetics Laboratory; Gail Henderson, Ph.D., UNC Department of Social Medicine
 
 <strong><span class="renci_head">RENCI Team:</span> Chris Bizon, Phil Owen, Keary Cavin, Nassib Nassar, Jason Reilly, Charles Schmitt, Erik Scott, Xiaoshu Wang</strong>
+
+<!-- old tags
+
+["Chris Bizon","Cyberinfrastructure","Jonathan Berg","National Human Genome Research Institute","North Carolina Clinical Genomic Evaluation (NCGENES)","UNC Department of Genetics"]
+
+-->

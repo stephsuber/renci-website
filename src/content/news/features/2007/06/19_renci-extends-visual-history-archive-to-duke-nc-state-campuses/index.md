@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Douglas Greenberg","USC Shoah Foundation Institute","Visual History Archive (VHA)"]
+    ["Douglas Greenberg","USC Shoah Foundation Institute","Visual History Archive (VHA)"]
 ---
 CHAPEL HILL, NC, June 19, 2007 – The Renaissance Computing Institute (RENCI) has expanded access to the world’s largest video history archive to students, faculty and staff at Duke University and North Carolina State University.
 

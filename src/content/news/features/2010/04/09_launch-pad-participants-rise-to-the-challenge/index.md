@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Blinkcoupons","Carolina Challenge","Carolina Launch Pad"]
+    ["Blinkcoupons","Carolina Challenge","Carolina Launch Pad"]
 ---
 &nbsp;
 

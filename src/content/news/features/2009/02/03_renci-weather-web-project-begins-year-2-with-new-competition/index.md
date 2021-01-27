@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["competition","North Carolina State Climate Office (SCO)","weather station","Weather Web"]
+    ["competition","North Carolina State Climate Office (SCO)","weather station","Weather Web"]
 ---
 <p>CHAPEL HILL, NC, February 3, 2009- North Carolina counties that lack weather stations--and therefore lack detailed weather data--will once again have the chance to acquire a research and operational grade weather station through the Renaissance Computing Institute (RENCI) Weather Web project, aimed at enhancing weather-related K-12 education and at improving the quantity and quality of weather data in underserved areas of the state.<!--more--></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Institute for the Environment","NASA","VPM"]
+    ["Institute for the Environment","NASA","VPM"]
 ---
 Uma Shankar and Alexis Zubrow know all too well that what you breathe can be hazardous to your health. The two are research associates at the <a href="http://www.ie.unc.edu/" target="_blank">Institute for the Environment at UNC Chapel Hill</a> who study atmospheric pollutants such as particulate matter and ozone and how technology tools can be used to help decision makers understand their properties and make informed decisions related to human health and environmental quality. With help from RENCI, they are now able to “see” microscopic pollutant particles (particulate matter, or PM) and examine how PM populations are distributed in size and how their physical characteristics change over time. <!--more-->
 

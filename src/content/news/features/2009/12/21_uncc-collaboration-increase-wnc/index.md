@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville","RENCI at UNC Charlotte","Urban Growth Model"]
+    ["RENCI at UNC Asheville","RENCI at UNC Charlotte","Urban Growth Model"]
 ---
 Asheville, N.C. – Ever wanted to predict the future? Researchers at UNC Asheville and UNC Charlotte, as part of an ongoing Renaissance Computing Institute (RENCI) project, are learning how to do just that. Using historical satellite imagery, development trends, population data and population projections, they’ve been able to design an Urban Growth Model that can generate a visual representation of what our landscape may look like in the near future.
 

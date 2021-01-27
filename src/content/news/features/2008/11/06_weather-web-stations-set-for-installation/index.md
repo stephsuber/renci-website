@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["North Carolina Research Education Network (NCREN)","North Carolina State Climate Office (SCO)","Weather Web"]
+    ["North Carolina Research Education Network (NCREN)","North Carolina State Climate Office (SCO)","Weather Web"]
 ---
 CHAPEL HILL, NC, November 6, 2008 – Alexander and Yancey counties will be home to new weather stations in November, providing residents and emergency responders access to real-time weather and climate data and students scientific data for classroom curricula as a result of the Renaissance Computing Institute’s (RENCI) Weather Web competition. <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - ncds
 tags:
-    - high performance computing
+    - high-performance-computing
 ---
 <strong>By Nelson Tull</strong>
 

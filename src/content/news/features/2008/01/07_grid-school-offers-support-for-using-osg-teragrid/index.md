@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Open Science Grid (OSG)"]
+    ["Open Science Grid (OSG)"]
 ---
 Applications are now being accepted for the 2008 Tuskegee Grid School (TUGS '08) to be held Feb. 6 - 8 at Tuskegee University, Tuskegee, AL.
 

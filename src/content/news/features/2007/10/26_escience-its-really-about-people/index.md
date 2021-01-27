@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioinformatics","David Heckerman","Phil Papadopoulus"]
+    ["bioinformatics","David Heckerman","Phil Papadopoulus"]
 ---
 Even though the buzz about eScience often focuses on massive hardware, user interfaces, storage capacity and other technical issues, in the end, the ability of eScience to serve the needs of research teams boils down to people: the ability of infrastructure builders to communicate with scientific communities and understand their needs and the realities of their work cultures.
 

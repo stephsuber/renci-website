@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","UNC - Chapel Hill"]
+    ["Carolina Launch Pad","UNC - Chapel Hill"]
 ---
 CHAPEL HILL, NC, September 15, 2009—Carolina Launch Pad, the pre-commercial technology business accelerator located at the Renaissance Computing Institute (RENCI) will soon begin its second year and is seeking a new class of aspiring IT entrepreneurs from the UNC Chapel Hill community. <!--more-->
 

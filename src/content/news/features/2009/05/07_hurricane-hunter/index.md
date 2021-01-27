@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["disaster research","Hurricane Isabel","NOAA"]
+    ["disaster research","Hurricane Isabel","NOAA"]
 ---
 <p>[vimeo 4534888]</p>
 <p><em>Hurricane Awareness activities at RDU</em></p>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Buncombe County","Multi-hazard Risk Tool","RENCI at UNC Asheville"]
+    ["Buncombe County","Multi-hazard Risk Tool","RENCI at UNC Asheville"]
 ---
 Emergency personnel and town planners and managers in Buncombe County have a new online tool for analyzing natural hazard risks and their potential costs.
 

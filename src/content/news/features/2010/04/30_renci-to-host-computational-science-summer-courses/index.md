@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)","VSCSE."]
+    ["high performance computing (HPC)","VSCSE."]
 ---
 <p><img class="alignnone size-full wp-image-4978" title="blue-ridge-cluster" src="https://www.renci.org/wp-content/uploads/2010/04/blue-ridge-cluster.jpg" alt="blue-ridge-cluster" width="630" height="320" /></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Science Foundation (NSF)","TeraGrid"]
+    ["National Science Foundation (NSF)","TeraGrid"]
 ---
 Partners in the National Science Foundation's TeraGrid project held their quarterly meeting in Chapel Hill, NC,  March 13 - 15, where they discussed the impact of TeraGrid resources and infrastructure on scientific discovery and strategized on ways to involve the broader research community in the TeraGrid.  <!--more-->
 

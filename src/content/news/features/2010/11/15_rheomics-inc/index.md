@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","Kenan-Flagler Business School","Office of Technology Development (OTD)","Rheomics"]
+    ["Carolina Launch Pad","Kenan-Flagler Business School","Office of Technology Development (OTD)","Rheomics"]
 ---
 [caption id="attachment_6519" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2010/11/rheomics.jpg"><img class="wp-image-6519 size-large" title="rheomics" src="https://www.renci.org/wp-content/uploads/2010/11/rheomics-630x420.jpg" alt="" width="630" height="420" /></a> From left to right, Russell Taylor, Ph.D., Richard Spero, Ph.D. and Richard Superfine, Ph.D.[/caption]
 <p style="text-align: left;">CHAPEL HILL, NC—Carolina Launch Pad, the pre-commercial technology business accelerator located at RENCI (the Renaissance Computing Institute), this month welcomed Rheomics Inc. to the program.</p>

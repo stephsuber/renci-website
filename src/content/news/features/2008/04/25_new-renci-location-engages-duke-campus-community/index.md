@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Cobalt","Croquet","Renaissance Bistro","RENCI-Duke Engagement Center"]
+    ["Cobalt","Croquet","Renaissance Bistro","RENCI-Duke Engagement Center"]
 ---
 Chapel Hill, NC, April 25, 2008 – RENCI at Duke, the engagement center on the Duke University campus, will open its doors in May, expanding the RENCI virtual organization to eight facilities in six locations across North Carolina. <!--more-->
 

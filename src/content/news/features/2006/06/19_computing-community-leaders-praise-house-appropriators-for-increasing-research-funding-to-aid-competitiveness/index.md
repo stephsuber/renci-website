@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["American Competitiveness Initiative (ACI)","Computing Research Association (CRA)"]
+    ["American Competitiveness Initiative (ACI)","Computing Research Association (CRA)"]
 ---
 Washington, D.C. - Leaders of the Computing Research Association (CRA) and ACM's U.S. Public Policy Committee (USACM) today commended Rep. Frank Wolf (R-VA) and his colleagues on a House Appropriations Subcommittee for fully supporting the President's American Competitiveness Initiative (ACI) in legislation passed by the subcommittee today. <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","Cathy Innes","David Knowles","Kenan-Flagler Business School","Office of Technology Development (OTD)","Ted Zoller"]
+    ["Carolina Launch Pad","Cathy Innes","David Knowles","Kenan-Flagler Business School","Office of Technology Development (OTD)","Ted Zoller"]
 ---
 CHAPEL HILL, NC, August 27, 2008—Carolina faculty, staff and students who want to turn their technological inventions and ideas into viable businesses have a new program to assist them called Carolina Launch Pad.<!--more-->
 

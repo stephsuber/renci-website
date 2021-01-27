@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Access Grid (AG)","James Horey"]
+    ["Access Grid (AG)","James Horey"]
 ---
 CHAPEL HILL, NC, April 18, 2008 - Sensor network research will be the focus of an informal research seminar at the Renaissance Computing Institute (RENCI) on Friday, April 25. James Horey, a researcher at the University of New Mexico (UNM), will be the speaker. He will present his talk, <em>“Beyond the Lab: Sensor Networks in the Real  World”</em> at 3 p.m. in the Biltmore Conference Room at RENCI (in the new 590  suite).<!--more-->
 

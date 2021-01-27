@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Biological Magnetic Resonance Bank (BMRB)","Open Science Grid (OSG)"]
+    ["Biological Magnetic Resonance Bank (BMRB)","Open Science Grid (OSG)"]
 ---
 Miron Livny, a professor of computer science at the University of Wisconsin and a well-known expert on distributed processing and high throughput computing, will provide an overview of two national distributed computing facilities at a Feb. 23 lecture. The talk begins at 10:15 a.m. at 011 Sitterson Hall on the UNC-Chapel Hill campus. It will last about an hour and will be followed by a short question and answer session.
 

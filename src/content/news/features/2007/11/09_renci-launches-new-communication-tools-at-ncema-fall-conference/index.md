@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ken Galluppi","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)"]
+    ["Ken Galluppi","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)"]
 ---
 The annual fall conference of the North Carolina Emergency Managers Association featured the debut of RENCI’s Collaborative Workspace Environment, a comprehensive online workspace for emergency managers consisting of desktop conferencing software, the North Carolina Emergency Management Association (NCEMA) Web portal, and NC-FIRST, RENCI's portal for weather information.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
+    ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
 ---
 The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced “haystack”) will hold its first international conference April 19 – 21, 2007, in Durham, NC.
 

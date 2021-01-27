@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Breakable Experimental Network (BEN)","Duke University","Global Environments for Network Innovation (GENI)","Infinera"]
+    ["Breakable Experimental Network (BEN)","Duke University","Global Environments for Network Innovation (GENI)","Infinera"]
 ---
 Chapel Hill, NC—A research team involving the Renaissance Computing Institute (RENCI), Duke University and Infinera (Nasdaq: INFN) is one of 29 teams across the nation that will participate in the first phase of the National Science Foundation’s Global Environments for Network Innovation (GENI) project. <!--more-->
 

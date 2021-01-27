@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["CUAHSI","Data Intensive Cyber Environments (DICE)","HydroShare","iRODS","National Science Foundation (NSF)","Utah State University","water science"]
+    -
 ---
+
 <img class="size-large wp-image-12067 alignleft" title="HydroShare" src="https://www.renci.org/wp-content/uploads/2013/11/HydroShare_Story_Header_Image_Edited.jpg" alt="" width="640" height="427" />
 
 CHAPEL HILL, NC - RENCI, the Renaissance Computing Institute at UNC Chapel Hill, will work with Utah State University and water scientists across the U.S. on a $4.5 million collaborative project funded by the National Science Foundation aimed at giving hydrologists the technology infrastructure they need to address critical issues related to water quality, quantity, accessibility, and management.<!--more-->
@@ -45,3 +46,7 @@ The funding period began July 1 and a kickoff meeting will be held in the fall.
 <a href="http://www.cuahsi.org" target="_blank">CUAHSI</a>
 <a href="http://www.usu.edu" target="_blank">Utah State University</a>
 <a href="http://www.ie.unc.edu" target="_blank">UNC Institute for the Environment</a>
+
+<!-- old tags
+["CUAHSI","Data Intensive Cyber Environments (DICE)","HydroShare","iRODS","National Science Foundation (NSF)","Utah State University","water science"]
+-->

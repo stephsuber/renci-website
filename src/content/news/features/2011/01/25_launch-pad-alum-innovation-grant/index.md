@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Altometrics","Carolina Launch Pad","Carolina Roadmap","UNC - Chapel Hill"]
+    -
 ---
+
 <p><a href="https://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg"><img class="alignnone size-full wp-image-6663" title="Altometrics Jeff Terrell" src="https://www.renci.org/wp-content/uploads/2011/01/altometrics-jeff-terrell.jpg" alt="" width="630" height="355" /></a></p>
 
 <p><em>Altometrics was founded by Jeff Terrell (above) and Sir Robert Burbridge.</em></p>
@@ -43,3 +44,7 @@ tags:
 <p>For more on Carolina Launch Pad, see <a href="http://www.carolinalaunchpad.org/" target="_blank">www.carolinalaunchpad.org</a></p>
 
 <p><em>Carolina Launch Pad supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu" target="_blank">http://innovate.unc.edu</a>.</em></p>
+
+<!-- old tags
+["Altometrics","Carolina Launch Pad","Carolina Roadmap","UNC - Chapel Hill"]
+-->

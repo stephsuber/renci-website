@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ADCIRC","HydroMet","Mobile Micro Rain Radar (MMRR)","Unmanned Aerial Vehicle (UAV)"]
+    ["ADCIRC","HydroMet","Mobile Micro Rain Radar (MMRR)","Unmanned Aerial Vehicle (UAV)"]
 ---
 The upcoming Spring meeting of the North Carolina Emergency Management Association, the 2007 North Carolina All Hazards Conference, will feature much of the work being done through RENCI’s disaster research efforts.
 

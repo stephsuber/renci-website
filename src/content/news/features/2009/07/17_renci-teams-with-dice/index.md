@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Data Grid","DICE","iRODS","SILS"]
+    ["Data Grid","DICE","iRODS","SILS"]
 ---
 CHAPEL HILL, NC, July 16, 2009—Almost a year after the Data Intensive Cyber Environments (DICE) research group moved from the University of California at San Diego to the University of North Carolina at Chapel Hill, the internationally recognized research group has established deep ties to the Renaissance Computing Institute (RENCI).
 

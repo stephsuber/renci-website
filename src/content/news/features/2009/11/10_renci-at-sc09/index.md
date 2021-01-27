@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["cloud computing","data management","SC09","supercomputing","visualization infrastructure"]
+    ["cloud computing","data management","SC09","supercomputing","visualization infrastructure"]
 ---
 <p><img class="alignnone size-full wp-image-4358" title="SC09LogoBlack" src="https://www.renci.org/wp-content/uploads/2009/11/SC09LogoBlack.jpg" alt="SC09LogoBlack" width="630" height="320" /></p>
 

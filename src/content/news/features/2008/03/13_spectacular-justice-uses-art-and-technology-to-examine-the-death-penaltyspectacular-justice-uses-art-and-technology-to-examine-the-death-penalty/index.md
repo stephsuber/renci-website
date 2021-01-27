@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Joyce Rudinsky","Ray Idaszak","Social Computing Room (SCR)","Spectacular Justice"]
+    ["Joyce Rudinsky","Ray Idaszak","Social Computing Room (SCR)","Spectacular Justice"]
 ---
 CHAPEL HILL, NC, March 13, 2008 – It's easy to separate yourself from the raw emotions associated with the death penalty when you read about a far off execution or hear a 30-second news sound bite.
 

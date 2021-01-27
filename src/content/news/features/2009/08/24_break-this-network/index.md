@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Breakable Experimental Network (BEN)","Global Environment for Network Innovations (GENI)","Infinera","Multi-touch Interactive Network (MIN)","National Science Foundation (NSF)","Open Resource Control Architecture (ORCA)"]
+    ["Breakable Experimental Network (BEN)","Global Environment for Network Innovations (GENI)","Infinera","Multi-touch Interactive Network (MIN)","National Science Foundation (NSF)","Open Resource Control Architecture (ORCA)"]
 ---
 <p>[vimeo 6182090]</p>
 

@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Advisory Committee for Cyberinfrastructure (ACCI)","Campus Bridging","Campus Bridging Task Force","National Science Foundation (NSF)"]
+    -
 ---
+
 <a href="https://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg"><img class="alignnone size-full wp-image-7532" title="cyberinfrastructure" src="https://www.renci.org/wp-content/uploads/2011/05/cyberinfrastructure.jpg" alt="" width="630" height="336"></a>
 
 A new report includes recommendations to help campuses create cyberinfrastructure that allows seamless collaboration and data sharing.
@@ -52,3 +53,9 @@ Thirty-nine leaders from academic institutions across the U.S. attended the Anah
 The workshop report and recommendations, as well as reports from two other campus bridging workshops were used in developing the final report of the NSF’s Advisory Committee for Cyberinfrastructure (ACCI) Task Force on Campus Bridging.
 
 The Campus Bridging Task Force was one of six established by the NSF in 2009 to investigate long-term cyberinfrastructure issues. Each task force subsequently discussed and generated a final report containing recommendations and ideas for advancing cyberinfrastructure in support of NSF research. &nbsp;The final reports of all of the six task forces are available on the NSF website.
+
+<!-- old tags
+
+["Advisory Committee for Cyberinfrastructure (ACCI)","Campus Bridging","Campus Bridging Task Force","National Science Foundation (NSF)"]
+
+-->

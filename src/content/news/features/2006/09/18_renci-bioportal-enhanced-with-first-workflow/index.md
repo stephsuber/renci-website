@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioportal"]
+    ["bioportal"]
 ---
 CHAPEL HILL, NC, September 20, 2006 – The North Carolina/TeraGrid Bioportal, the web-based biology environment developed at the Renaissance Computing Institute (RENCI), now offers scientists a new capability to help them work more efficiently and effectively. <!--more-->
 

@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["DICE","e-irods","iRODS","NASA","The Assembly of the Federation of Earth Science Information Partners (ESIP Federation)","UNC - Chapel Hill"]
+    - 
 ---
+
 <img class="size-large wp-image-12067 alignleft" title="The Assembly of the Federation of Earth Science Information Partners (ESIP Federation) elected four new member organizations" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/Earth-Image.jpg" width="640" height="427" />
 
 The Assembly of the Federation of Earth Science Information Partners (ESIP Federation) elected four new member organizations, two of which have an affiliation with RENCI and the University of North Carolina at Chapel Hill, bringing total membership to more than 140 organizations.<!--more-->
@@ -38,3 +39,12 @@ According to Benedict, “The steady growth of ESIP Federation membership and th
 The University of South Florida College of Marine Science and the NASA Applied Sciences Program - Health and Air Quality Applications,  also were elected to the federation.
 
 More information: <a href="http://www.esipfed.org/" target="_blank">ESIP Federation Website</a>
+
+<!-- old tags:
+    - DICE
+    - e-irods
+    - iRODS
+    - NASA
+    - The Assembly of the Federation of Earth Science Information Partners (ESIP Federation)
+    - UNC - Chapel Hill
+-->

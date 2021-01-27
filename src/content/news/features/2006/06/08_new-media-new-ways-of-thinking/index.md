@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Cathy Davidson","New Media"]
+    ["Cathy Davidson","New Media"]
 ---
 Graduate students today, unlike their parents and professors, grew up using computers, have relied on the Web for research and entertainment for most of their lives, and use email, instant messaging and blogs as effortlessly as previous generations use the telephone.<!--more-->
 

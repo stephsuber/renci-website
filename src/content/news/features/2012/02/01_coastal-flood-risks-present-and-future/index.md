@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["disaster research","FEMA","scientific visualization"]
+    -
 ---
 <p><img class="alignnone size-full wp-image-8746" title="floodmap-2012-STORY-header-img" src="https://www.renci.org/wp-content/uploads/2012/02/floodmap-2012-STORY-header-img.jpg" alt="" width="630" height="350" /><br class="spacer_" /></p>
 <p>Scientists can’t control coastal flooding caused by storm surge. But they can help government agencies and the public understand the risks from storm surge and wind waves in vulnerable areas like North Carolina’s Outer Banks.<!--more--></p>
@@ -36,3 +36,6 @@ tags:
 <p>The end product of that effort, said Blanton, will be a scientific evaluation of the risk of living on the coast—whether economic, risk to infrastructure or risk to lives—under changed conditions.</p>
 <p>“We hope to provide scientific data on the flood hazard risk and the uncertainty that goes along with that data, because the uncertainty can be quite high when you’re talking about a 100-year future climate,” said Blanton. “We hope our work will inform future policy discussions.”</p>
 
+<!-- old tags
+    ["disaster research","FEMA","scientific visualization"]
+-->

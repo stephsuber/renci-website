@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Morehead Planetarium and Science Center","Paperhand Puppet Intervention","RED"]
+    -
 ---
+
 <p>[vimeo 41164097]</p>
 <p>A creative team at the University of North Carolina’s Morehead Planetarium and Science Center is combining traditional storytelling with digital technologies from RENCI to create a fulldome planetarium show that promises to wow both adults and children when it premiers during winter of 2012.</p>
 <p><!--more--></p>
@@ -31,3 +32,8 @@ tags:
 <p>“It would have taken us years to get our shows to where they are now without the help we’ve gotten from RENCI, including the use of the RED camera,” said Heinz.</p>
 <p>The production will premier in November and will continue through February.</p>
 
+<!-- old tags
+
+["Morehead Planetarium and Science Center","Paperhand Puppet Intervention","RED"]
+
+-->

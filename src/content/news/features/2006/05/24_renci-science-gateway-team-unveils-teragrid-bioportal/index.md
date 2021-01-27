@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioportal","National Science Foundation (NSF)","TeraGrid"]
+    ["bioportal","National Science Foundation (NSF)","TeraGrid"]
 ---
 A web-based work environment developed at the Renaissance Computing Institute (RENCI) will give users of the National Science Foundation's TeraGrid easy access to a wide range of bioinformatics and biomedical applications and databases and will allow the national biology research community to access computing, data, and other resources offered through the TeraGrid.<!--more-->
 

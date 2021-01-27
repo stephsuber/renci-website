@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioinformatics","Computer Science"]
+    ["bioinformatics","Computer Science"]
 ---
 The Renaissance Computing Institute (RENCI) will host a panel discussion on the data needs of the bioinformatics and genetics communities at research universities in the Triangle from 2:30 – 4 p.m. Thursday, Oct. 26 at the Friday Center, 100 Friday Center Drive, Chapel Hill.<!--more-->
 

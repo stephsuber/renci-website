@@ -16,8 +16,13 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data grids","DataDirect Networks","DICE","iRODS","SC11","Web Object Scaler (WOS)"]
+    - 
 ---
+
+<!-- tags: 
+["data grids","DataDirect Networks","DICE","iRODS","SC11","Web Object Scaler (WOS)"]
+-->
+
 <p><a href="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="size-full wp-image-6572 alignnone" title="irods-story-img" src="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
 
 <p>SEATTLE, Nov. 9, 2011 – The RENCI/North Carolina booth (#2942) will be one of several on the SC11 show floor to participate in a demonstration that will connect booths in the Washington State Convention Center with large data sets in the U.S. and Europe, creating a distributed, high-speed international data grid that allows researchers to share, store and manage large data sets.<!--more--></p>

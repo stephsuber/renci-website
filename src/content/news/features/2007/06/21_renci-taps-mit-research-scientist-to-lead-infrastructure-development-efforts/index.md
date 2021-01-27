@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Patrick Dreher","Quantum Chromodynamics"]
+    ["Patrick Dreher","Quantum Chromodynamics"]
 ---
 CHAPEL HILL, NC, June 21, 2007--Patrick Dreher, a theoretical nuclear physicist at MIT with years of experience in research computing and information technology strategic planning, will lead the effort to expand the IT infrastructure that supports the work of the Renaissance Computing Institute (RENCI), its engagement sites, and research computing at the University of North Carolina at Chapel Hill, RENCI Director Dan Reed announced today.
 

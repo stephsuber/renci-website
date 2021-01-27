@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["BLASTMaster","Open Science Grid (OSG)","Science Gateway","TeraGrid"]
+    ["BLASTMaster","Open Science Grid (OSG)","Science Gateway","TeraGrid"]
 ---
 [caption id="attachment_3791" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/06/senecavirus-edited.jpg"><img class="wp-image-3791 size-full" title="senecavirus-edited" src="https://www.renci.org/wp-content/uploads/2009/06/senecavirus-edited.jpg" alt="senecavirus-edited" width="630" height="535" /></a> 3D replica of senecavirus, a pathogen discovered several years ago by researchers in Pennsylvania. UC San Francisco researcher Eric Delwart and his colleague Chunlin Wang of Stanford University use the RENCI-developed TeraGrid Science Gateway to access grid computing resources in their search for new viruses. (Credit: Institute for Animal Health, UK)[/caption]
 

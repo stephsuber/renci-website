@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville","The Elumenati"]
+    ["RENCI at UNC Asheville","The Elumenati"]
 ---
 [caption id="attachment_13883" align="aligncenter" width="630"]<a href="https://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png"><img class="wp-image-13883 size-full" src="https://renci.org/wp-content/uploads/2010/03/Screen-Shot-2014-11-14-at-3.09.09-PM.png" alt="Basilica-edited-Asheville" width="630" height="369" /></a> 3D model looking south down Asheville’s Haywood Street with the Basilica of St. Lawrence (green domed roof) in the foreground.[/caption]
 

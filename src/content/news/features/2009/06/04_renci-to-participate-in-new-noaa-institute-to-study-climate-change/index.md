@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Climate Data Center (NCDC)","National Oceanic and Atmospheric Administration (NOAA)","North Carolina State University"]
+    ["National Climate Data Center (NCDC)","National Oceanic and Atmospheric Administration (NOAA)","North Carolina State University"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png"><img class="alignnone size-full wp-image-3728" title="noaa_logo22" src="https://www.renci.org/wp-content/uploads/2009/06/noaa_logo22.png" alt="noaa_logo22" width="630" height="450" /></a></p>
 

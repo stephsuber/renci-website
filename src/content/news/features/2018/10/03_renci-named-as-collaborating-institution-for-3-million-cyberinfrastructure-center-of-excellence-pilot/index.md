@@ -16,7 +16,8 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data management","cyberinfrastructure"]
+    - data-management
+    - cyberinfrastructure
 ---
 <!-- wp:paragraph -->
 <p><em>Project will create a model for advising NSF’s largest scientific facilities</em><br></p>

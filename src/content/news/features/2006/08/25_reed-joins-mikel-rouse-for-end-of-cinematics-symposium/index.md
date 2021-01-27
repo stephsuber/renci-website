@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Friday Center","The End of Cinematics","UNC - Chapel Hill"]
+    ["Friday Center","The End of Cinematics","UNC - Chapel Hill"]
 ---
 On September 29, the William and Ida Friday Center for Continuing Education in partnership with the Carolina Performing Arts Series and the Carolina Inn, will host UNC-Chapel Hill’s inaugural Performing Arts Symposium. <!--more-->
 

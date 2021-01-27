@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Department of Energy (DOE)","SCiDAC"]
+    ["Department of Energy (DOE)","SCiDAC"]
 ---
 CHAPEL HILL, NC, September 11, 2006 — The Renaissance Computing Institute will play a key role in two national research projects that are among 30 computational science projects being supported by the Department of Energy’s Scientific Discovery (SciDAC) program.<!--more-->
 

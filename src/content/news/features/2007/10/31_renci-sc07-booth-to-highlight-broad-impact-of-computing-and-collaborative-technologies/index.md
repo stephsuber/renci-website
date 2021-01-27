@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","gigapixel imagery","National Center for Supercomputing (NCSA)","Ocracoke"]
+    ["3D visualization","gigapixel imagery","National Center for Supercomputing (NCSA)","Ocracoke"]
 ---
 CHAPEL HILL, October 31, 2007—Integrated models for disaster planning and management, virtual environments for research and decision support, and computing and visualization to reveal the functions of proteins and gene mutations linked to cancer are among the presentations that will be featured in the Renaissance Computing Institute (RENCI) booth at SC07 in Reno.
 

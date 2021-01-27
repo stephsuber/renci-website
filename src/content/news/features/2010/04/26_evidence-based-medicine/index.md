@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Chris Bizon","Duke University","emergency medical record (EMR)","informatics","Ketan Mane","Mindlinc"]
+    ["Chris Bizon","Duke University","emergency medical record (EMR)","informatics","Ketan Mane","Mindlinc"]
 ---
 <p><img class="alignnone size-full wp-image-4948" title="ev-based-med-graphic1" src="https://www.renci.org/wp-content/uploads/2010/04/ev-based-med-graphic1.jpg" alt="ev-based-med-graphic1" width="630" height="414" /></p>
 

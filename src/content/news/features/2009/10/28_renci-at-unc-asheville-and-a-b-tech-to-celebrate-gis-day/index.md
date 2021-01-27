@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["GIS","RENCI at UNC Asheville","Urban Growth Model"]
+    ["GIS","RENCI at UNC Asheville","Urban Growth Model"]
 ---
 [caption id="attachment_4326" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg"><img class="wp-image-4326 size-full" title="asheville-story" src="https://www.renci.org/wp-content/uploads/2009/10/asheville-story.jpg" alt="asheville viz wall" width="630" height="320" /></a> The 16-foot visualization wall will aid in showing how geographic information systems work.[/caption]
 

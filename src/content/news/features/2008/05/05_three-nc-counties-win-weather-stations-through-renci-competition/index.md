@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Jennifer Shelton","North Carolina Research Education Network (NCREN)","Weather Web"]
+    ["Jennifer Shelton","North Carolina Research Education Network (NCREN)","Weather Web"]
 ---
 CHAPEL HILL, NC, May 5, 2008 – Three counties in North Carolina will soon have detailed information about the weather patterns in their region and new classroom curricula that uses real-time weather station information as a result of the Renaissance Computing Institute (RENCI) Weather Web competition. The winners are Yancey, Hyde and Alexander counties.<!--more-->
 

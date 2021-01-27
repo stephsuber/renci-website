@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Information Technology Services (ITS)","ITS Teaching and Learning","Social Computing Room (SCR)","UNC School of Law"]
+    ["Information Technology Services (ITS)","ITS Teaching and Learning","Social Computing Room (SCR)","UNC School of Law"]
 ---
 <p>[vimeo 6753650]</p>
 

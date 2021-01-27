@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["New Media Consortium (NMC)","Second Life"]
+    ["New Media Consortium (NMC)","Second Life"]
 ---
 RENCI director Dan Reed will lecture in the virtual world Second Life on Friday, March 16, at 1 p.m.  Reed’s lecture, titled “Computing the Future:  The 3D Net,” explores what technology advances the next decade – a geological epoch on the computing time scale – could bring to education and research.
 

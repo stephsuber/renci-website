@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at East Carolina University","RENCI at UNC Asheville"]
+    ["RENCI at East Carolina University","RENCI at UNC Asheville"]
 ---
 CHAPEL HILL, NC, October 25, 2006--The Renaissance Computing Institute (RENCI) today announced plans to expand its reach to Western and Eastern North Carolina by opening sites in Asheville, affiliated with the University of North Carolina Asheville, and in Greenville, affiliated with East Carolina University.<!--more-->
 

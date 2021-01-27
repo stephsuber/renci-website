@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Data Intensive Cyber Environments (DICE)","iRODS"]
+    ["Data Intensive Cyber Environments (DICE)","iRODS"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="alignright size-full wp-image-6572" title="Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill" src="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Center for Exploratory Genetic Analysis (CCEGA)","genetics"]
+    ["Carolina Center for Exploratory Genetic Analysis (CCEGA)","genetics"]
 ---
 CHAPEL HILL, December 18, 2006--The Carolina Center for Exploratory Genetic Analysis (CCEGA), will present the results of its genetics “bake-off” at a meeting Feb. 2, 2007 in the Health Science Library building on the UNC-Chapel Hill campus. CCEGA is a collaborative project funded by the National Institutes of Health and led by the Renaissance Computing Institute (RENCI) and genetics department of the University of North Carolina at Chapel Hill.<!--more-->
 

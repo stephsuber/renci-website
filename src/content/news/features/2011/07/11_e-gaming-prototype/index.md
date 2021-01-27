@@ -16,9 +16,10 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","Sqord","Student U"]
+    -
 ---
-&nbsp;
+
+<!-- tags: ["Carolina Launch Pad","Sqord","Student U"] -->
 
 [caption id="attachment_7739" align="alignnone" width="640"]<a href="https://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="https://www.renci.org/wp-content/uploads/2011/07/studentU_630X500.jpg" alt="" width="640" height="508" /></a> Carolina Saunders, 7th grade head of Student U, enjoys a healthy cup of frozen yogurt with one of her students. [/caption]
 

@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ADCIRC","CSI","Jennette’s Pier","renewable energy","Wave Energy"]
+    -
 ---
+
 Where can North Carolina find alternative sources of energy to generate new economic opportunities as well as electrical power?
 
 A research team led by the University of North Carolina’s <a href="http://csi.northcarolina.edu/" target="_blank" rel="noopener">Coastal Studies Institute</a> (CSI) is looking east to the waters off the North Carolina coast for answers.<!--more-->
@@ -44,3 +45,9 @@ The Electric Power Research Institute estimates ocean waves’ energy potential 
 The project will place much emphasis on outreach and education, and interactive displays and educational exhibits will be featured on a newly refurbished <a href="http://www.jennettespier.net/">Jennette’s Pier</a> in Nags Head. At the end of the pier, a research “hut” will allow scientists to deploy instruments directly into the water and will give energy companies the opportunity to test prototype energy generating devices in the water.
 
 “Companies that make devices to capture ocean energy will have direct access to the ocean,” said Gamiel, who is also helping design the information infrastructure for the pier’s research station. “They will be able to use this facility to install and test their devices. The focus will be on giving them the chance to create new products that could lead to job creation.”
+
+<!-- old tags
+
+["ADCIRC","CSI","Jennette’s Pier","renewable energy","Wave Energy"]
+
+-->

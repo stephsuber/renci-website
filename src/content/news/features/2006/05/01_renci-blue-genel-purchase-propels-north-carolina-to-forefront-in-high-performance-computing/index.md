@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Blue Gene","high performance computing (HPC)","IBM"]
+    ["Blue Gene","high performance computing (HPC)","IBM"]
 ---
 The Renaissance Computing Institute (RENCI), a multidisciplinary institute affiliated with the University of North Carolina at Chapel Hill, Duke and North Carolina State universities, has acquired an IBM Blue Gene®/L computing system that will give scientists and business researchers computing power never before available in North Carolina, IBM and RENCI announced today.<!--more-->
 

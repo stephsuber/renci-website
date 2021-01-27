@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Duke University","Florence Italy","medical imaging","RENCI@Duke","Venice Italy","visualization"]
+    ["Duke University","Florence Italy","medical imaging","RENCI@Duke","Venice Italy","visualization"]
 ---
 [caption id="attachment_5127" align="aligncenter" width="630"]<a title="Visualization of the construction of Francesco a Folloni, Florence. What began as a class project will expand through the RENCI@Duke Applied Scientific and Information Visualization program." href="https://www.renci.org/wp-content/uploads/2010/06/dukeViz2.jpg"><img class="wp-image-5127 size-full" title="dukeViz" src="https://www.renci.org/wp-content/uploads/2010/06/dukeViz2.jpg" alt="" width="630" height="300" /></a> Visualization of the construction of Francesco a Folloni, Campania, Italy. What began as a class project will expand through the RENCI@Duke Applied Scientific and Information Visualization program.[/caption]
 

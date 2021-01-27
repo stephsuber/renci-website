@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","John Blondin","John Gilligan"]
+    ["3D visualization","John Blondin","John Gilligan"]
 ---
 RALEIGH, March 2, 2007—The Renaissance Computing Institute (RENCI) at North Carolina State University will open its doors to the Triangle research community on Friday, March 23, for an open house that will showcase RENCI technologies and collaborations with NC State researchers.
 

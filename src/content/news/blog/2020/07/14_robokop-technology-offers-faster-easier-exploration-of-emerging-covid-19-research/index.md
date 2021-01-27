@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - covid-19
+    - "covid-19"
 ---
 
 ![ROBOKOP Technology offers fast, easier, exploration of emerging COVID-19 research](https://renci.org/wp-content/uploads/2020/07/ROBOKOP-Blog-01-1024x512.png)

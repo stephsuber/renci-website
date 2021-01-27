@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Jeff White","Steve Chall"]
+    ["3D visualization","Jeff White","Steve Chall"]
 ---
 Jeff White, an associate professor in the Department of Soil Science at North Carolina State University (NCSU), hopes to make farming more cost-effective and environmentally sound in North Carolina and across the country, with help from the Renaissance Computing Institute (RENCI) and its visualization resources.<!--more-->
 White studies site-specific nitrogen management in agricultural fields in collaboration with scientists from NCSU’s Department of Crop Science. Nitrogen, the main chemical used in agricultural fertilizers, is a mixed blessing. On the one hand, it can help farmers increase crop yields and profit. On the other, nitrogen fertilizers can leach into the groundwater, contaminate water supplies and enter surface waters and degrade their quality. High nitrate levels in well water, rivers, lakes, and streams can harm humans,  fish, and wildlife.

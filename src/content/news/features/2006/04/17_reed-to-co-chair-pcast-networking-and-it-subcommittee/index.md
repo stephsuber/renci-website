@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)"]
+    ["President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 RENCI Director Daniel A. Reed will serve as co-chair of the President's Council of Advisors on Science and Technology (PCAST) subcommittee on Networking and Information Technology. The group will examine U.S. global IT competitiveness as well as social, economic and workforce issues. It also will take an in-depth look at the work of the Networking and Information Technology Research and Development (NITRD) program, the multi-agency federal IT R&amp;D effort. <!--more-->
 

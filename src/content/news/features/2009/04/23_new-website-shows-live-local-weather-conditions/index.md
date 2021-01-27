@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville","weatherwebcams"]
+    ["RENCI at UNC Asheville","weatherwebcams"]
 ---
 ASHEVILLE, NC--As a possible April snowstorm approaches, eyes are turned to the sky. Now weather buffs won't have to look out the window to get a glimpse of regional weather, thanks to a new weather watching website created by staff and student researchers at the Renaissance Computing Institute (RENCI) at UNC Asheville. The Web site, <a href="http://www.weatherwebcams.org" target="_blank">http://www.weatherwebcams.org</a>, gives viewers access to images from dozens of local webcams, showing nearly real time weather in more than 100 locations across North Carolina, Tennessee, Virginia and Georgia.
 

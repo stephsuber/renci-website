@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)"]
+    ["high performance computing (HPC)"]
 ---
 RENCI is hosting a two-week summer institute for high school students to explore key concepts in computers, electronics and robotics. The summer institute will take place July 16-27 at the Renaissance Computing Institute’s Chapel Hill location, 100 Europa Drive.
 

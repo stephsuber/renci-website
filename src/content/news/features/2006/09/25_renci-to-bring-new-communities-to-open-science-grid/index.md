@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Science Foundation (NSF)","Open Science Grid (OSG)"]
+    ["National Science Foundation (NSF)","Open Science Grid (OSG)"]
 ---
 <p class="head4">CHAPEL HILL, NC – The Renaissance Computing Institute (RENCI) will help in the next phase of development of the Open Science Grid by working to make the grid useful to even more scientists representing a wider range of research fields.</p>
 <p class="head4">The National Science Foundation and the Department of Energy’s Office of Science today announced a five-year, $30 million award to the Open Science Grid Consortium to operate and expand the OSG, a computing environment used by scientists to harness computing resources and scientific data from around the world. RENCI will recruit scientists to the OSG from many disciplines, such as the biological, materials and environmental sciences. RENCI researchers will work with these new users to integrate new applications into the OSG framework and to ensure that the OSG’s networked environments and collaborative resources can serve a larger scope of scientific domains.  <!--more--></p>

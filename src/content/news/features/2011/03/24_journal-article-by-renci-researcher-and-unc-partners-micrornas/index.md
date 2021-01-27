@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Clark Jeffries","microRNAs","RNA Journal"]
+    -
 ---
+
 <p><img class="alignnone size-full wp-image-7210" title="microRNAs" src="https://www.renci.org/wp-content/uploads/2011/03/microRNAs.jpg" alt="" width="640" height="426" /></p>
 
 <p>One of biology’s most talked-about breakthroughs of the past decade involves microRNAs—small, non-coding strands of RNA—and their prevalence in all living cells. <!--more--></p>
@@ -40,3 +41,9 @@ tags:
 <p>Understanding the characteristics of these nucleus-based miRNAs in neural stem cells could lead scientists to someday create drugs that enter the nucleus and act much like miRNAs in inhibiting the production of genetic materials associated with psychiatric illnesses or diseases of the brain and nervous system, he added.</p>
 
 <p>The research described in the paper is funded by the San Francisco Foundation, the Stanley Medical Research Institute, and the National Institutes of Health.</p>
+
+<!-- old news
+
+["Clark Jeffries","microRNAs","RNA Journal"]
+
+-->

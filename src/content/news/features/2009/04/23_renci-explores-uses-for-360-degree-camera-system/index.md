@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["emergency management","immersive media","Scott Madry"]
+    ["emergency management","immersive media","Scott Madry"]
 ---
 Every picture tells a story, but high-definition, 360-degree imagery can put you in a real situation, able to look around in all directions and notice the details.
 

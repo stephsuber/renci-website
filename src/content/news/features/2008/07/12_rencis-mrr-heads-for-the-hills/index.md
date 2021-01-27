@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Duke University","Ken Galluppi","Micro Rain Radar (MRR)","UNC Asheville"]
+    ["Duke University","Ken Galluppi","Micro Rain Radar (MRR)","UNC Asheville"]
 ---
 CHAPEL HILL, NC, July 10, 2008 – Rainfall varies greatly across the mountains of North Carolina, falling as everything from light rain to torrents that cause landslides and widespread flooding. To learn more about the rainfall patterns in the mountains and how elevation effects rainfall amounts, RENCI has partnered with Duke University and the University of North Carolina at Asheville on a field research project funded by NASA. <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["John Dorman","Ken Galluppi","Ocracoke"]
+    ["John Dorman","Ken Galluppi","Ocracoke"]
 ---
 CHAPEL HILL, NC, August 8, 2007 – Residents living in flood-prone coastal areas of North Carolina can rest a little easier knowing that state emergency managers and the Federal Emergency Management Agency (FEMA) will soon have new state-of-the-art storm surge models to help them determine the best flood response to storms .
 

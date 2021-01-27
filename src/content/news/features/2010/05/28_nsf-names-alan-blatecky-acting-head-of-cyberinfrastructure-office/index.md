@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Alan Blatecky","Edward Seidel","National Science Foundation (NSF)","Office of Cyberinfrastrcuture (OSI)"]
+    ["Alan Blatecky","Edward Seidel","National Science Foundation (NSF)","Office of Cyberinfrastrcuture (OSI)"]
 ---
 [caption id="attachment_5104" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2010/05/alan-OCI.jpg"><img class="wp-image-5104 size-full" src="https://www.renci.org/wp-content/uploads/2010/05/alan-OCI.jpg" alt="" width="630" height="400" /></a> Alan Blatecky, far left, with UNC Vice Chancellor for Research and Economic Development Tony Waldrop, School of Government Dean Mike Smith, and former Chancellor James Moeser.[/caption]
 

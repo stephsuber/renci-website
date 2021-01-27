@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["EAGER","Earth Cube","iRODS","National Science Foundation","SILS"]
+    -
 ---
+
 <a href="https://www.renci.org/wp-content/uploads/2012/04/earth.png"><img class="size-large wp-image-12067 alignleft" title="earth" src="https://www.renci.org/wp-content/uploads/2013/11/earth.png" alt="" width="640" height="247" /></a>
 
 CHAPEL HILL - RENCI and the <a href="http://sils.unc.edu/">School of Information and Library Sciences</a> (SILS) at UNC Chapel Hill have joined a nationwide effort to build an integrated data management infrastructure that will help scientists better understand the complex processes of the planet Earth, from meteorology to solid earth sciences to hydrology and oceanography.<!--more-->
@@ -41,3 +42,7 @@ RENCI researcher Michael Shoffner will participate in the early-stage project by
 Other participating organizations in the project are George Mason University, Woods Hole Oceanographic Institute, the Open Geospatial Consortium (a group aimed at building consensus on publically available interface standards), the National Center for Supercomputing Applications at the University of Illinois, the Institute for the Environment at UNC Chapel Hill, the University of California at San Diego, and Colorado State University.
 
 &nbsp;
+
+<!-- old tags
+    ["EAGER","Earth Cube","iRODS","National Science Foundation","SILS"]
+-->

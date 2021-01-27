@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["business accelerator","Carolina Launch Pad","entrepreneurs"]
+    -
 ---
+
 <a href="https://www.renci.org/wp-content/uploads/2012/03/CLP1.jpg"><img class="size-large wp-image-12067 alignleft" title="CLP" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/CLP1.jpg" width="640" height="353" /></a>
 
 CHAPEL HILL, NC—Faculty, staff, and student entrepreneurs at the University of North Carolina at Chapel Hill are encouraged to apply for a spot in the Carolina Launch Pad, the pre-commercial technology business accelerator located at RENCI.<!--more-->
@@ -49,3 +50,7 @@ Carolina Launch Pad and RENCI support the Innovate@Carolina Roadmap, UNC’s pla
 &nbsp;
 
 &nbsp;
+
+<!-- old tags
+    ["business accelerator","Carolina Launch Pad","entrepreneurs"]
+-->

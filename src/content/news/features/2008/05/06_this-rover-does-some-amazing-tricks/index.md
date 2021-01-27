@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Bridget O'Hara","RENCI at UNC Asheville","RENCI Outreach Vehicle for Education and Research (ROVER)"]
+    ["Bridget O'Hara","RENCI at UNC Asheville","RENCI Outreach Vehicle for Education and Research (ROVER)"]
 ---
 <p>ASHEVILLE, NC, May 6, 2008 – The teachers who make science an up close and personal experience for children in Western North Carolina have an impressive new tool to use, thanks to an outreach education van offered by Renaissance Computing Institute (RENCI) at UNC Asheville.<!--more--></p>
 

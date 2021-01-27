@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bio","bioinformatics","Charles Schmitt","Lineberger Comprehensive Cancer Center","melanoma","UNC-Chapel Hill School of Medicine"]
+    ["bio","bioinformatics","Charles Schmitt","Lineberger Comprehensive Cancer Center","melanoma","UNC-Chapel Hill School of Medicine"]
 ---
 CHAPEL HILL, NC, March 11, 2008 - A new collaboration between melanoma researchers in the School of Medicine at the University of North Carolina at Chapel Hill, the Renaissance Computing Institute (RENCI), and researchers from the departments of computer science, epidemiology, biostatistics, and statistics and operations research at UNC Chapel Hill aims to use image analysis techniques to aid doctors in the fight against melanoma, the most serious form of skin cancer.<!--more-->
 

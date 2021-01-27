@@ -18,6 +18,7 @@ collaborations:
 tags:
     - 
 ---
+
 <img class="size-large wp-image-12067 alignleft" title="REACH-NC" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/REACH-NC_Feature-story-img.jpg" width="640" height="386" />
 
 For Tom White, director of North Carolina State University’s Economic Development Partnership, a typical day includes answering a wide range of questions from business and industry representatives, economic developers and workforce specialists seeking university expertise to help solve problems, conduct research, or determine whether a business expansion makes sense.<!--more-->

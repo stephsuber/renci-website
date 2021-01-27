@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Engagement Center"]
+    ["Engagement Center"]
 ---
 CHAPEL HILL, NC, January 14, 2008 - The Renaissance Computing Institute (RENCI) will host an open house for its new engagement center at the University of North Carolina Chapel Hill on Thursday, Feb. 7, featuring state-of-the-art visualization technology and collaboration tools. <!--more-->
 

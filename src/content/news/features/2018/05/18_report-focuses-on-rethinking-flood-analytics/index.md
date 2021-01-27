@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - artificial intelligence
+    - artificial-intelligence
 ---
 [caption id="attachment_17522" align="aligncenter" width="821"]<img class="wp-image-17522 size-full" src="https://renci.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-18-at-2.50.29-PM.png" alt="" width="821" height="626" /> Aerial photo of flooding caused by Hurricane Katrina (2005).[/caption]
 

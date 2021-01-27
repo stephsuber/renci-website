@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Center for Applied Geographic Information Science (CAGIS)","RENCI at UNC Charlotte"]
+    -
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png"><img class="alignnone size-full wp-image-8639" title="RENCI-historical-maps" src="https://www.renci.org/wp-content/uploads/2012/03/RENCI-historical-maps-700x906.png" alt="" width="580" height="681" /></a></p>
 
@@ -61,3 +61,7 @@ tags:
 <p><a href="http://uncc.edu">UNC Charlotte</a> is North Carolina’s urban research university. It is the fourth largest campus among the 17 institutions of The University of North Carolina system and the largest institution of higher education in the Charlotte region. Spring 2012 enrollment exceeded 25,300 students, including 5,000 graduate students.</p>
 
 <p>For more information about FUTURES, or to schedule an interview with the study’s authors, contact Sara Gleave at (704) 687-1193 or <a href="mailto:sgleave@uncc.edu">sgleave@uncc.edu</a>.</p>
+
+<!-- old tags
+    ["Center for Applied Geographic Information Science (CAGIS)","RENCI at UNC Charlotte"]
+-->

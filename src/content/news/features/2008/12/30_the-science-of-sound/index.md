@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","cochlear implants"]
+    ["3D visualization","cochlear implants"]
 ---
 <p><em>Visualization project aims to help the deaf hear.</em></p>
 

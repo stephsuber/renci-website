@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["NC-EONS","Rick Luettich"]
+    ["NC-EONS","Rick Luettich"]
 ---
 CHAPEL HILL, NC, February 6, 2008--A platform to be built this spring three miles offshore in the Pamlico Sound will give researchers across North Carolina a site to conduct scientific experiments and collect environmental data that will be critical to understanding the behavior of this huge body of water, its role in North Carolina’s marine ecosystem and its response to climate change.  <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Doug Hoell","Ken Galluppi","North Carolina Emergency Managers Association (NCEMA)","SmileTiger"]
+    ["Doug Hoell","Ken Galluppi","North Carolina Emergency Managers Association (NCEMA)","SmileTiger"]
 ---
 Doug Hoell, director of North Carolina’s Emergency Management Association (EMA), was able to reach a larger audience than usual on April 30, when he delivered his annual overview of emergency management in North Carolina.
 

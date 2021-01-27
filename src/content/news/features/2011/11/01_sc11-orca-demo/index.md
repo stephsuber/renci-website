@@ -16,8 +16,14 @@ teams:
 collaborations:
     - 
 tags:
-    - ["BEN","Duke University","ESnet","GENI","NERSC","NLR","ORCA","SC11"]
+    - 
+
 ---
+
+<!-- tags: 
+["BEN","Duke University","ESnet","GENI","NERSC","NLR","ORCA","SC11"]
+-->
+
 SEATTLE, Nov. 1, 2011--Scientists studying data or compute-intensive problems require high bandwidth and computational resources, often from heterogeneous systems at different sites.
 
 But they don’t need these resources all the time.

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Jessica Proud","Mobile Micro Rain Radar (MMRR)"]
+    ["Jessica Proud","Mobile Micro Rain Radar (MMRR)"]
 ---
 CHAPEL HILL, NC, February 19, 2008 – Information about the atmosphere above the ground is severely lacking across North Carolina. This information, such as the temperature of the air and the type of precipitation falling aloft, is critical to short-term forecasts during hazardous weather events such as ice storms. <!--more-->
 

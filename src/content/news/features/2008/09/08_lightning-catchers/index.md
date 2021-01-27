@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["lightning detection","NC State University","NC-FIRST","North Carolina State Climate Office (SCO)"]
+    ["lightning detection","NC State University","NC-FIRST","North Carolina State Climate Office (SCO)"]
 ---
 Collaboration means listening to the needs of your partners. So when emergency managers across North Carolina said they needed a better way to track lightning strikes, their partners at RENCI set out to apply technology and ingenuity to the problem.
 

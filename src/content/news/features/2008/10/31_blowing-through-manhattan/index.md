@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization"]
+    ["3D visualization"]
 ---
 <p><a title="Winds and airborne particles make their way through the urban landscape in RENCI visualization. " href="https://www.renci.org/wp-content/uploads/2009/03/msg_empire_streamlines_01_0042.jpg"><img class="alignnone size-large wp-image-3366" title="msg_empire_streamlines_01_0042" src="https://www.renci.org/wp-content/uploads/2009/03/msg_empire_streamlines_01_0042-630x291.jpg" alt="msg_empire_streamlines_01_0042" width="630" height="291" /></a></p>
 

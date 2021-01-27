@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville","UNC Asheville"]
+    ["RENCI at UNC Asheville","UNC Asheville"]
 ---
 Community leaders in Asheville aim to build on the area's history in climate analysis and digital arts to build Western North Carolina into a center for climate-related services. RENCI's engagement center in Asheville is expected to play a key role in that effort.
 

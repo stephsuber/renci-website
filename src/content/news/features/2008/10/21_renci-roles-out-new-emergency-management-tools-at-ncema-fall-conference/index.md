@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Automated Vehicle Locator (AVL)","David Price","immersive media","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)","RENCI at UNC Asheville","SmileTiger"]
+    ["Automated Vehicle Locator (AVL)","David Price","immersive media","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)","RENCI at UNC Asheville","SmileTiger"]
 ---
 Clemmons, NC – The 2008 annual fall meeting of the North Carolina Emergency Management Association (NCEMA) featured a variety of resources and disaster management tools developed by RENCI. <!--more-->
 

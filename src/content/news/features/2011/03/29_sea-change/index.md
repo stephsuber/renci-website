@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ADCIRC","Brian Blanton","coastal modeling","sea level rise","Tom Shay"]
+    -
 ---
+
 <p>[vimeo 21498910]</p>
 
 <p><em>Researchers use computer modeling to understand rising seas and coastal risks. </em></p>
@@ -59,3 +60,9 @@ tags:
 <p>The end product, he said, will be a scientific evaluation of the risk of living on the coast—whether economic risk, risk to infrastructure or risk to lives—under changed conditions, which planners, emergency managers, scientists and policymakers will then be able to compare to their current understanding of coastal risks.</p>
 
 <p>“With an understanding of not only the flood hazard data and the risk data but also of the uncertainty that goes along with that data—because the uncertainty can be quite high when your talking about a 100-year future climate—we hope to be able to inform the discussion on policy at the state, regional and maybe down at the county level as to what possible future risks may be,” said Blanton.</p>
+
+<!-- old news
+
+["ADCIRC","Brian Blanton","coastal modeling","sea level rise","Tom Shay"]
+
+-->

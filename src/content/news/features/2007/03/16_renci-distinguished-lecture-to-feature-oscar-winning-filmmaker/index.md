@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Chris Landreth"]
+    ["Chris Landreth"]
 ---
 CHAPEL HILL, NC -  An Oscar winning independent filmmaker who began his career in fluid mechanics and worked his way into animated filmmaking will speak about his experiences at the second 2007 Renaissance Computing Institute (RENCI) Distinguished Lecture.
 

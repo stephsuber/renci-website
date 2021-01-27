@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Chapel Hill","Social Computing Room (SCR)"]
+    ["RENCI at UNC Chapel Hill","Social Computing Room (SCR)"]
 ---
 CHAPEL HILL, NC, November 6, 2008 - The staff at RENCI’s engagement center on the UNC Chapel Hill campus have been using InfoMesa, a Technology Demonstrator being built by a community of developers and sponsored by Microsoft Life Science, as a tool for working with datasets in the center’s Social Computing Room (SCR). The SCR operates as a 360-degree desktop with visual displays running on all four walls, using 12 projectors behind each wall.<!--more-->
 

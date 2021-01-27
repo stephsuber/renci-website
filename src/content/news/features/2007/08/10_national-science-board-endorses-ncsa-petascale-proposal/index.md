@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Center for Supercomputing (NCSA)"]
+    ["National Center for Supercomputing (NCSA)"]
 ---
 The National Science Board has approved a resolution authorizing the National Science Foundation (NSF) to fund the acquisition and deployment of the world's most powerful "leadership-class" supercomputer.
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Asheville","RENCI at UNC Charlotte","Urban Growth Model"]
+    ["Asheville","RENCI at UNC Charlotte","Urban Growth Model"]
 ---
 <p>[vimeo 6640594]</p>
 

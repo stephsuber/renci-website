@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Keith Kocis","REALTROMINS"]
+    ["Keith Kocis","REALTROMINS"]
 ---
 CHAPEL HILL, NC, February 22, 2008 – Keith Kocis, a collaborator with the Renaissance Computing Institute (RENCI), professor of pediatrics, and M.D. in the School of Medicine at the University of North Carolina at Chapel Hill, has received funding for further research and development of a new medical device to revolutionize how critically ill infants and children are monitored and cared for in pediatric intensive care units. <!--more-->
 

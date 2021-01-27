@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Bennett Academy","Social Computing Room","visualization"]
+    ["Bennett Academy","Social Computing Room","visualization"]
 ---
 <p>[vimeo 5495510]</p>
 

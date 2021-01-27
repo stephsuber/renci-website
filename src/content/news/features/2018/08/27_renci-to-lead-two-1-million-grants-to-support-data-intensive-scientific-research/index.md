@@ -17,7 +17,7 @@ teams:
 collaborations:
     - 
 tags:
-    - machine learning
+    - machine-learning
     - networking
 ---
 <i><span style="font-weight: 400;">Projects aim to improve scientific productivity and protect data from inadvertent errors</span></i>

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["LiDAR","North Carolina State University","RENCI at NC State","visualization"]
+    ["LiDAR","North Carolina State University","RENCI at NC State","visualization"]
 ---
 [caption id="attachment_6551" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2010/12/tilled-field1.jpg" rel="Digital Elevation Model (DEM) showing preferred paths of water flow on a tilled field. The project is part of the new Applied and Scientific Visualization Program at RENCI@NC State. "><img class="  wp-image-6551 size-large" title="tilled-field1" src="https://www.renci.org/wp-content/uploads/2010/12/tilled-field1-630x319.jpg" alt="" width="630" height="319" /></a> Digital Elevation Model (DEM) showing preferred paths of water flow on a tilled field. The project is part of the new Applied and Scientific Visualization Program at RENCI@NC State.[/caption]
 

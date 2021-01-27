@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["University of North Carolina at Greensboro (UNCG)","Visual History Archive (VHA)"]
+    ["University of North Carolina at Greensboro (UNCG)","Visual History Archive (VHA)"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg"><img class="alignnone size-full wp-image-3688" title="vha_story_img" src="https://www.renci.org/wp-content/uploads/2009/05/vha_story_img.jpg" alt="vha_story_img" width="630" height="500" /></a></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at East Carolina University","RENCI Outreach Vehicle for Education and Research (ROVER)"]
+    ["RENCI at East Carolina University","RENCI Outreach Vehicle for Education and Research (ROVER)"]
 ---
 Greenville, NC—At East Carolina University (ECU), a newly outfitted and staffed RENCI Outreach Vehicle for Education and Research (ROVER) is fulfilling its potential on all fronts: education, research, and emergency response. <!--more-->
 

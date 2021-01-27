@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["HydroMet","National Climate Data Center (NCDC)","Unmanned Aerial Vehicle (UAV)"]
+    ["HydroMet","National Climate Data Center (NCDC)","Unmanned Aerial Vehicle (UAV)"]
 ---
 Disasters—from hurricanes and floods in the east to landslides in the mountains to ice storms in the central Piedmont—are a prime example of a multifaceted issue that no single discipline can effectively address. And they are costly: Between 1980 and 2005, North Carolina suffered more than 20 weather-related disasters that caused at least $1 billion in damage, according to NOAA’s National Climate Data Center. It is one of four states, along with Florida, Georgia and Alabama, to endure more than 20 billion-dollar weather disasters during that time.
 

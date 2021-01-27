@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","Emerging Company Showcase","Impulsonic","Innovation"]
+    -
 ---
 <a href="https://www.renci.org/wp-content/uploads/2012/04/innovation-img.jpg"><img class="size-large wp-image-12067 alignleft" title="innovation-img" alt="" src="https://www.renci.org/wp-content/uploads/2013/11/innovation-img.jpg" width="640" height="311" /></a>
 
@@ -61,3 +61,7 @@ The event supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina 
 NC TraCS Institute contact: Michelle Maclay, (919) 843-5365, Michelle_Maclay@med.unc.edu
 
 News Services contact: Patric Lane, (919) 962-8596, <a href="mailto:patric_lane@unc.edu">patric_lane@unc.edu</a>
+
+<!-- old tags
+    ["Carolina Launch Pad","Emerging Company Showcase","Impulsonic","Innovation"]
+-->

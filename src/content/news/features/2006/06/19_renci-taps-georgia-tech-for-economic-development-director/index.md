@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["David Knowles","economic development"]
+    ["David Knowles","economic development"]
 ---
 David A. Knowles, an executive experienced in economic development, business assistance and strategic planning, will lead economic development programs at the Renaissance Computing Institute (RENCI), RENCI Director Dan Reed announced today.<!--more-->
 

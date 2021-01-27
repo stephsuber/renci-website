@@ -8,7 +8,7 @@ featuredImage: null
 groups:
     - 
 projects:
-    - 
+    - exogeni
 people:
     - 
 teams: 
@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["CENIC","ExoGENI","GENI","Open Resource Control Architecture (ORCA)"]
+    - 
 ---
 <img class="size-large wp-image-12067 alignleft" title="networking" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/networking.jpg" width="640" height="325" />
 
@@ -43,3 +43,9 @@ Publicity and Communications Manager, CENIC
 (818) 823-3677
 
 <a href="mailto:jcortese@cenic.org">jcortese@cenic.org</a>
+
+<!-- old tags
+    - CENIC
+    - GENI
+    - Open Resource Control Architecture (ORCA)
+-->

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)"]
+    ["President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 A delegation from the President’s Council of Advisors on Science and Technology (PCAST) received an overview of computing programs at Lawrence Livermore National Laboratory (LLNL), on Monday, Aug. 7. The group, including RENCI Director Dan Reed, toured the lab’s Terascale Simulation Facility (TSF).<!--more-->
 

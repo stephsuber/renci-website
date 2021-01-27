@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Center for Supercomputing (NCSA)"]
+    ["National Center for Supercomputing (NCSA)"]
 ---
 A scientific paper written by a research team from RENCI and the National Center for Supercomputing Applications (NCSA) was named the best application paper at the recent IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2007).
 

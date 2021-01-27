@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Gillings Innovation Labs","Gillings School of Global Public Health","informatics","market locator"]
+    ["Gillings Innovation Labs","Gillings School of Global Public Health","informatics","market locator"]
 ---
 <img class="alignnone size-full wp-image-4770" title="farmers-market-story" src="https://www.renci.org/wp-content/uploads/2010/03/farmers-market-story.jpg" alt="farmers-market-story" width="630" height="473" />
 

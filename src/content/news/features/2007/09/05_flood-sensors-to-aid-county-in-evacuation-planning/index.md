@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ken Galluppi","NC-FIRST"]
+    ["Ken Galluppi","NC-FIRST"]
 ---
 Chapel Hill, NC, September 5, 2007 – A hybrid network of flood and weather sensors to be installed over the next two months will give Brunswick County emergency managers advance warning about how fast water is rising along critical flood-prone roads in the county.
 

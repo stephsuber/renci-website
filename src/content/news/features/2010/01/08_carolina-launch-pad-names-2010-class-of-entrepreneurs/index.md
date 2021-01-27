@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","David Knowles","Dyzen","Kenan-Flagler Business School","Office of Technology Development (OTD)"]
+    ["Carolina Launch Pad","David Knowles","Dyzen","Kenan-Flagler Business School","Office of Technology Development (OTD)"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg"><img class="alignnone size-full wp-image-4604" title="launchpad-move-in" src="https://www.renci.org/wp-content/uploads/2010/01/launchpad-move-in.jpg" alt="launchpad-move-in" width="630" height="414" /></a></p>
 

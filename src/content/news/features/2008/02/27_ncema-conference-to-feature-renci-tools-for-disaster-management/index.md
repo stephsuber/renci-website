@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Automated Vehicle Locator (AVL)","lightning detection","Mobile Micro Rain Radar (MMRR)","NC-FIRST","NCEM Geospatial and Technology Management","NCEMA Technology Committee","North Carolina Emergency Managers Association (NCEMA)","Portable GIS"]
+    ["Automated Vehicle Locator (AVL)","lightning detection","Mobile Micro Rain Radar (MMRR)","NC-FIRST","NCEM Geospatial and Technology Management","NCEMA Technology Committee","North Carolina Emergency Managers Association (NCEMA)","Portable GIS"]
 ---
 CHAPEL HILL, NC, February 27, 2008 – The 2008 North Carolina All Hazards Conference, the semi-annual meeting of the North Carolina Emergency Management Association (NCEMA), will feature a variety of projects and training programs of the Renaissance Computing Institute (RENCI) aimed at helping emergency managers.<!--more-->
 

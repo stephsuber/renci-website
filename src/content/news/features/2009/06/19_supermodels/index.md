@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ADCIRC","Floodplain remapping","NC-FIRST","WRF"]
+    ["ADCIRC","Floodplain remapping","NC-FIRST","WRF"]
 ---
 <p>[vimeo 4535004 nolink]<em></em></p>
 

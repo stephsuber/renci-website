@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Hurricane Katrina","Ocracoke"]
+    ["Hurricane Katrina","Ocracoke"]
 ---
 The 2005 Atlantic hurricane season, the most active in recorded history, brought catastrophe to the U.S. Gulf Coast and Central America: at least 2,280 deaths from Katrina and other storms; record damages of more than $128 billion and thousands of people displaced who have yet to return home.<!--more-->
 

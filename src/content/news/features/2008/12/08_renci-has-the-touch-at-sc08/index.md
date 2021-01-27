@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["holopanel","multi-touch table","SC08"]
+    ["holopanel","multi-touch table","SC08"]
 ---
 CHAPEL HILL, December 8, 2008 -- RENCI’S custom-built multi-touch table and holopanel display system piqued the interest of attendees at SC08, the international conference of high performance computing, networking, storage and analysis held Nov. 15-21 in Austin, TX.
 

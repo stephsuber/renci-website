@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ADCIRC","DHS","Rick Luettich","storm surge"]
+    ["ADCIRC","DHS","Rick Luettich","storm surge"]
 ---
 [caption id="attachment_4866" align="alignnone" width="630"]<img class="wp-image-4866 size-large" title="adcirc" src="https://www.renci.org/wp-content/uploads/2010/03/adcirc-rick-story1-630x368.png" alt="adcirc" width="630" height="368" /> Rick Luettich's ADCIRC model showing storm surge on the North Carolina coast.[/caption]
 

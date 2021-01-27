@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Facebook","Flickr","Twitter","YouTube"]
+    ["Facebook","Flickr","Twitter","YouTube"]
 ---
 <a href="https://www.renci.org/wp-content/uploads/2009/02/story_image.jpg"><img class="alignnone size-full wp-image-2398" title="story_image" src="https://www.renci.org/wp-content/uploads/2009/02/story_image.jpg" alt="story_image" width="630" height="522" />
 </a>We have redesigned our website in order to give our users a web presence that is robust, interactive, visually interesting and takes full advantage of social networking tools.

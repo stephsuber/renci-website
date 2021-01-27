@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at East Carolina University","Visualization Challenge"]
+    ["RENCI at East Carolina University","Visualization Challenge"]
 ---
 <p style="text-align: left;">The Renaissance Computing Institute at East Carolina University invites students to participate in a competition of innovative visualization using the RENCI at ECU visualization wall located in Brewster Hall C-202 on the ECU campus.</p>
 <!--more-->

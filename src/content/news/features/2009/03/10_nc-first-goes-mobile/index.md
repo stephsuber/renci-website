@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["mobile","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)"]
+    ["mobile","NC-FIRST","North Carolina Emergency Managers Association (NCEMA)"]
 ---
 <p style="text-align: center;"><a href="https://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile.jpg"><img class="size-large wp-image-3225 aligncenter" title="ncfirst-mobile" src="https://www.renci.org/wp-content/uploads/2009/03/ncfirst-mobile-375x630.jpg" alt="ncfirst-mobile" width="375" height="630" /></a></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville"]
+    ["RENCI at UNC Asheville"]
 ---
 Three years ago, floods caused by Hurricanes Ivan and Frances devastated western North Carolina, claiming a dozen lives and leaving behind millions of dollars in property damage in and around Asheville.<!--more-->
 

@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Cisco Systems","distance learning","e-learning","MCNC","NCREN","Telepresence","UNC","Video Services","VoIP"]
+    -
 ---
+
 <img class="alignnone size-large wp-image-7719" title="MCNC" src="https://www.renci.org/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-11.09.53-AM-630x434.png" alt="" width="630" height="434" />
 
 RESEARCH TRIANGLE PARK, N.C., June 23, 2011 /PRNewswire-USNewswire/ -- <a title="MCNC Site" href="https://www.mcnc.org/" target="_blank">MCNC</a> announced today that the video services infrastructure on the North Carolina Research and Education Network (NCREN) is scheduled to be upgraded on July 1.
@@ -42,3 +43,9 @@ MCNC is an independent, non-profit organization that employs advanced Internet n
 
 <span class="head2">About NCREN Community</span>
 NCREN, operated by the non-profit organization MCNC, is one of the nation's first statewide education and research networks. It provides broadband communications technology services and support to K-12 school districts, higher education campuses and academic research institutions across North Carolina. MCNC offers the NCREN network, technology tools and services to guarantee equal access to 21st century learning by providing a future-proof technology network that is the foundation for change and innovation in our educational systems. In addition to all public school districts in North Carolina, the NCREN user-community now includes: 17 institutions of the UNC System and General Administration; 14 North Carolina Charter Schools, 27 of the 36 North Carolina Independent Colleges and Universities; 58 North Carolina Community Colleges; research institutions and foundations; and, along with the N.C. Office of Information Technology Services and other partners, MCNC will provide broadband services for the Public Health and Non-Profit Hospitals Phases of the N.C. Telehealth Network in 2011 and beyond.
+
+<!-- old tags
+
+["Cisco Systems","distance learning","e-learning","MCNC","NCREN","Telepresence","UNC","Video Services","VoIP"]
+
+-->

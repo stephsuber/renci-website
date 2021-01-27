@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)","President's Council of Advisors on Science and Technology (PCAST)"]
+    ["high performance computing (HPC)","President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 A Birds of a Feather session at SC07 will examine U.S. research initiatives, their focus and how they need to change in order to ensure that important scientific questions are answered and that the nation maintains a global leadership position science and technology.
 

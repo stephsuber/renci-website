@@ -1,0 +1,32 @@
+- id: data-management
+  name: Data Management
+- id: covid-19
+  name: COVID-19
+- id: data-analysis
+  name: Data Analysis
+- id: visualization
+  name: Visualization
+- id: ai
+  name: Artificial-intelligence
+- id: open-source
+  name: Open Source
+- id: knowledge-graphs
+  name: Knowledge Graphs
+- id: networking
+  name: Networking
+- id: testbed
+  name: Testbed
+- id: training
+  name: Training
+- id: hackathon
+  name: Hackathon
+- id: machine-learning
+  name: Machine Learning
+- id: hpc
+  name: High Performance Computing
+- id: cyberinfrastructure
+  name: Cyberinfrastructure
+- id: team-science
+  name: Team Science
+- id: students
+  name: Students

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["BEN","GENI","Infinera","National Science Foundation","ORCA"]
+    ["BEN","GENI","Infinera","National Science Foundation","ORCA"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg"><img class="size-full wp-image-4267 alignnone" title="ben-story-logo" src="https://www.renci.org/wp-content/uploads/2009/10/ben-story-logo.jpg" alt="ben-story-logo" width="630" height="309" /></a></p>
 

@@ -18,6 +18,7 @@ collaborations:
 tags:
     - 
 ---
+
 <img class="size-large wp-image-12067 alignleft" title="Giftboogle" alt="" src="https://www.renci.org/wp-content/uploads/2013/10/Giftboogle-Story1.jpg" width="640" height="386" />
 
 <em>Above: Gift Boogle CEO Eric McAfee (left), and COO Scott Kleist.</em>

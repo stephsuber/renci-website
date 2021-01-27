@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Asheville","Erskine Bowles","RENCI at UNC Asheville","Stan Ahalt"]
+    ["Asheville","Erskine Bowles","RENCI at UNC Asheville","Stan Ahalt"]
 ---
 [caption id="attachment_4171" align="alignnone" width="630"]<img class="wp-image-4171 size-full" style="margin-top: 10px; margin-bottom: 10px;" title="RENCIatAsheville1" src="https://www.renci.org/wp-content/uploads/2009/10/RENCIatAsheville1.jpg" alt="RENCIatAsheville1" width="630" height="439" /> Demonstrations on the 20-foot visualization wall were featured at the opening of RENCI's new downtown Asheville center.[/caption]
 

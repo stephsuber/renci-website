@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["High Performance Linpack (HPL)","Ocracoke","Topsail"]
+    ["High Performance Linpack (HPL)","Ocracoke","Topsail"]
 ---
 CHAPEL HILL, NC—New benchmarking results on Topsail, the Renaissance Computing Institute’s (RENCI) Dell cluster, showed a maximum performance of 28.77 teraflops—nearly 30 trillion calculations per second—more than quadruple the machine’s previous maximum performance.
 

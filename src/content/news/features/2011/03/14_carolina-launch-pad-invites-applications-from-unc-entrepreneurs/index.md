@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Altometrics","Carolina Launch Pad","Dyzen","Kenan-Flagler Business School","Office of Technology Development (OTD)","Rheomics"]
+    -
 ---
+
 [caption id="attachment_6519" align="aligncenter" width="640"]<a href="https://www.renci.org/wp-content/uploads/2010/11/rheomics.jpg"><img class="wp-image-6519 size-full" title="rheomics" src="https://www.renci.org/wp-content/uploads/2010/11/rheomics.jpg" alt="" width="640" height="427" /></a> Russell Taylor, Ricky Spero and Richard Superfine of Rheomics, a Carolina Launch Pad firm.[/caption]
 
 CHAPEL HILL, NC, March 14, 2011—Entrepreneurs at the University of North Carolina at Chapel Hill are encouraged to apply for a spot in the Carolina Launch Pad, the pre-commercial technology business accelerator located at the Renaissance Computing Institute (RENCI).
@@ -49,3 +50,9 @@ RENCI applies advanced cyber technologies to university research initiatives and
 
 <strong>
 </strong>
+
+<!-- old tags
+
+["Altometrics","Carolina Launch Pad","Dyzen","Kenan-Flagler Business School","Office of Technology Development (OTD)","Rheomics"]
+
+-->

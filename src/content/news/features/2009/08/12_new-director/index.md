@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Stan Ahalt"]
+    ["Stan Ahalt"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg"><img class="alignnone size-full wp-image-3974" title="stan-story-img" src="https://www.renci.org/wp-content/uploads/2009/08/stan-story-img.jpg" alt="stan-story-img" width="630" height="400" /></a></p>
 

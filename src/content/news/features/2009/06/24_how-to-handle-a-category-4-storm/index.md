@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["AVL","disaster research","North Carolina Emergency Management","SmileTiger"]
+    ["AVL","disaster research","North Carolina Emergency Management","SmileTiger"]
 ---
 Hurricane season officially began June 1, and while North Carolinians hope major storms will once again steer clear of our coast, the state’s emergency management division is taking no chances.
 

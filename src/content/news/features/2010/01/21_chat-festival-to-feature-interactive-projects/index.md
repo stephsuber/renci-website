@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["CHAT"]
+    ["CHAT"]
 ---
 <p><img class="alignnone size-full wp-image-4658" title="chat-festival" src="https://www.renci.org/wp-content/uploads/2010/01/chat-festival.jpg" alt="chat-festival" width="630" height="204" /></p>
 

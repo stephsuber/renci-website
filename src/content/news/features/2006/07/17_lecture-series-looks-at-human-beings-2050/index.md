@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Endeavors magazine","Friday Center"]
+    ["Endeavors magazine","Friday Center"]
 ---
 What will it mean to be human in 2050? Environmentalists speculate that by then, the climate in central North Carolina may feel like Central Florida today. A better understanding of genetics could lead to cures for deadly diseases and new technologies could put sensors in our bodies to monitor vital signs and administer personalized doses of medicines. <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at East Carolina University","Visualization Challenge"]
+    ["RENCI at East Carolina University","Visualization Challenge"]
 ---
 GREENVILLE, NC, May 19, 2008 – East Carolina University students Robert Howard, geological sciences, and  Christopher Betancourt, biology, will become the first RENCI at ECU Masters Fellows. The one-semester fellowships for fall 2008 provide support for students’ thesis work.<!--more-->
 

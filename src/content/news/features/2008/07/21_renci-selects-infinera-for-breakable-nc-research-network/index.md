@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Breakable Experimental Network (BEN)","Duke University","Global Environments for Network Innovation (GENI)","Infinera","NC State University","North Carolina Research Education Network (NCREN)","Research Triangle"]
+    ["Breakable Experimental Network (BEN)","Duke University","Global Environments for Network Innovation (GENI)","Infinera","NC State University","North Carolina Research Education Network (NCREN)","Research Triangle"]
 ---
 Sunnyvale, CA, July 21, 2008 – The Renaissance Computing Institute (RENCI) has selected Infinera (Nasdaq: INFN) to support its research on the experimental network testbed dubbed BEN (Breakable Experimental Network), which links RENCI to sites at three universities in North Carolina’s Research Triangle Park.<!--more-->
 In addition, RENCI, Duke University and Infinera are collaborating on a proposal to the National Science Foundation (NSF) for the GENI project, a federally backed research effort to build a nationwide networking testbed to enable the exploration of technologies for a future Internet with enhanced security, stability, and advanced features.

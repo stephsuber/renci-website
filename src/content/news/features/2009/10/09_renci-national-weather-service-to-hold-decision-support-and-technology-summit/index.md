@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["disaster research","National Oceanic and Atmospheric Administration (NOAA)","NOAA"]
+    ["disaster research","National Oceanic and Atmospheric Administration (NOAA)","NOAA"]
 ---
 <p><img class="alignleft size-full wp-image-4245" title="US-NationalWeatherService-Logo" src="https://www.renci.org/wp-content/uploads/2009/10/US-NationalWeatherService-Logo.jpg" alt="US-NationalWeatherService-Logo" width="630" height="481" /></p>
 

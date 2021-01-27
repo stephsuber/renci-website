@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ken Galluppi","lightning detection","Mobile Micro Rain Radar (MMRR)","NC-FIRST","NCEM Geospatial and Technology Management","NCEMA Collaborative Workspace","NCEMA Technology Committee","North Carolina Emergency Managers Association (NCEMA)"]
+    ["Ken Galluppi","lightning detection","Mobile Micro Rain Radar (MMRR)","NC-FIRST","NCEM Geospatial and Technology Management","NCEMA Collaborative Workspace","NCEMA Technology Committee","North Carolina Emergency Managers Association (NCEMA)"]
 ---
 CHAPEL HILL, NC, March 18, 2008 – The 2008 North Carolina All Hazards Conference, the semi-annual meeting of the North Carolina Emergency Management Association (NCEMA), featured a variety of projects and programs of the Renaissance Computing Institute (RENCI) aimed at helping emergency managers.
 

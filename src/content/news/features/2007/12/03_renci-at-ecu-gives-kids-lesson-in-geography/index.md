@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Michael Bassman"]
+    ["3D visualization","Michael Bassman"]
 ---
 Students and teachers from Belvoir Elementary School in Greenville became some of the first people to learn about weather and geography using RENCI at East Carolina University’s new state-of- the-art high resolution visualization wall. More than 40 students and their teachers attended a program on Oct. 30 that was put together by Theodore “Teddy” Allen, a geography graduate student and RENCI at ECU research assistant, and Sue Chapman, administrative support specialist for the University Honors, ECU Scholars, and Undergraduate Research Programs.<!--more-->
 

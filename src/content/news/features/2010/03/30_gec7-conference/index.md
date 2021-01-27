@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["BEN","GCii","GENI","GENI Engineering Conference (GEC7)","Open Cobalt","OpenFlow","ORCA"]
+    ["BEN","GCii","GENI","GENI Engineering Conference (GEC7)","Open Cobalt","OpenFlow","ORCA"]
 ---
 [caption id="attachment_4827" align="aligncenter" width="630"]<img class="wp-image-4827 size-large" title="GEC7-Feature-IMage" src="https://www.renci.org/wp-content/uploads/2010/03/GEC7-Feature-IMage-630x273.png" alt="GEC7-Feature-IMage" width="630" height="273" /> A screen shot of GENI’s Collaborative Interactive Infrastructure (GCii) using Open Cobalt interface[/caption]
 

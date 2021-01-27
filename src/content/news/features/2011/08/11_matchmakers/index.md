@@ -16,8 +16,11 @@ teams:
 collaborations:
     - 
 tags:
-    - ["cancer research","Duke University","Vorakarn Chanyavanich"]
+    -
 ---
+
+<!-- tags: ["cancer research","Duke University","Vorakarn Chanyavanich"] -->
+
 <p>[vimeo 27485178]</p>
 
 <p>Prostate cancer, the most common form of cancer in U.S. men, is also one of the most treatable: 90 percent of patients who undergo intensity modulated radiation therapy (IMRT) in the early stages are disease free after five years, according to the journal <em>Seminars in Radiation Oncology.</em><!--more--></p>

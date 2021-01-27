@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Science Foundation (NSF)","RENCI-Duke Engagement Center"]
+    ["National Science Foundation (NSF)","RENCI-Duke Engagement Center"]
 ---
 CHAPEL HILL, NC, April 3, 2008 – A two-day, invitation-only workshop at Duke University's R. David Thomas Executive Conference Center will bring together a select group of thought leaders from government, industry and academia to develop a guiding vision and cross-cutting research agenda for human-computer interface and interaction design over the next decade.<!--more-->
 The workshop, titled “The Future of Human-Computer Interaction for 21st Century Discovery” is sponsored by an award from the National Science Foundation and will be held April 24 and 25. Marilyn Lombardi, director of RENCI at Duke, said the meeting is designed to encourage researchers to think about new, more intuitive ways for people to interact with their machines using cutting-edge interactive interfaces and tools for real-time exchanges of data.

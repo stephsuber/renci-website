@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Eric Knisley","Renaissance Bistro","RENCI at UNC Chapel Hill","touch screen"]
+    ["3D visualization","Eric Knisley","Renaissance Bistro","RENCI at UNC Chapel Hill","touch screen"]
 ---
 CHAPEL HILL, NC, June 2, 2008 – The Renaissance Computing Institute (RENCI) invites the public to the latest in its Renaissance Bistro series of lunchtime demonstrations and lectures from noon to 1 p.m. in the Showcase Dome room at the RENCI engagement center at UNC Chapel Hill on Thursday, June 26.  <!--more-->
 

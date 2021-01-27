@@ -16,8 +16,11 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Livable Communities Initiative","RENCI at UNC Asheville","The Elumenati","visualization","Western North Carolina","Worldviews Network"]
+    -
 ---
+
+<!-- tags: ["Livable Communities Initiative","RENCI at UNC Asheville","The Elumenati","visualization","Western North Carolina","Worldviews Network"] -->
+
 <p>[caption id="attachment_8331" align="alignnone" width="620" caption="Asheville area community members enter a portable dome to experience Living Maps: From Cosmos to Community."]<img class="size-large wp-image-8331  " title="Asheville Geodome" src="https://www.renci.org/wp-content/uploads/2011/10/geodome-630x381.jpg" alt="" width="620" height="370" />[/caption]</p>
 <p><em>Story by Nancy Foltz</em></p>
 <p>ASHEVILLE, NC—Experts from American institutions known for their pioneering efforts in Earth systems research, education and evaluation have come together to turn economic literacy education on its ear, and RENCI is part of the effort.</p>

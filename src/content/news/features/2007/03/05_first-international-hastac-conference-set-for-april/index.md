@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
+    ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
 ---
 The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced “haystack”) will hold its first international conference April 19 – 21, at Duke University and the Marriott Civic Center in Durham, NC. It is sponsored by RENCI, Duke University and the John D. and Catherine T. MacArthur Foundation. Registration is now open and space is limited. For a registration form, hotel information and a full conference agenda, see <a href="http://www.hastac.org/" target="_blank">www.hastac.org</a>.
 

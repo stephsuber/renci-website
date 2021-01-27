@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)"]
+    ["high performance computing (HPC)"]
 ---
 Dan Reed, director of the Renaissance Computing Institute, is among the newest fellows of the American Association for the Advancement of Science.
 

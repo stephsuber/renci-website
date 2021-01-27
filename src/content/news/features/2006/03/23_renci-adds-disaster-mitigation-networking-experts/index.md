@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Duke University","environmental issues","NC State University","UNC - Chapel Hill"]
+    ["Duke University","environmental issues","NC State University","UNC - Chapel Hill"]
 ---
 A scientist with expertise in environmental issues and disaster mitigation and response and a senior network engineer are the newest additions to the senior staff at the Renaissance Computing Institute (RENCI), a multidisciplinary institute affiliated with the University of North Carolina at Chapel Hill, Duke and North Carolina State universities.<!--more-->
 

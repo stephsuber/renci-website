@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Jeff Michael"]
+    ["3D visualization","Jeff Michael"]
 ---
 CHAPEL HILL, NC, October 24, 2007--The Renaissance Computing Institute (RENCI) today announced a partnership with the University of North Carolina at Charlotte to create a new RENCI engagement center focused on forecasting urban growth and its impacts.
 

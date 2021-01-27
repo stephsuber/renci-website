@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Rick Luettich"]
+    ["Rick Luettich"]
 ---
 Researchers at the Renaissance Computing Institute (RENCI) have compiled new data on ocean floor and coastal typography that will help state and local emergency managers and scientists who model, predict, plan for, and respond to floods and storms along the North Carolina coast.<!--more-->
 

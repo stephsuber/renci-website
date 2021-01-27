@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["decision making","Duke University Engagement Center","Duke University School of Nursing","visualization"]
+    ["decision making","Duke University Engagement Center","Duke University School of Nursing","visualization"]
 ---
 <p>[vimeo 13831155]</p>
 

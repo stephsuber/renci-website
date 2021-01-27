@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Distinguished Lecture Series"]
+    ["Distinguished Lecture Series"]
 ---
 CHAPEL HILL, NC, January 18, 2008 – The Renaissance Computing Institute (RENCI) is presenting another lecture in its “Distinguished Lecture Series.” Michael Jones, chief technology advocate of Google, will speak on Feb. 21 at the FedEx Global Education Center on the campus of the University of North Carolina at Chapel Hill.
 

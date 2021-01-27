@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)"]
+    ["high performance computing (HPC)"]
 ---
 Chapel Hill, NC—Full-time faculty at the University of North Carolina at Chapel Hill are invited to collaborate with the Renaissance Computing Institute (RENCI) through the RENCI Faculty Fellows Program.
 

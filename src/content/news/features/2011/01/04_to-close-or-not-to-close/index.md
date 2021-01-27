@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["decision support","ECU","emergency management","WxEM"]
+    -
 ---
+
 [caption id="attachment_6587" align="aligncenter" width="630"]<a title="A prototype graphic display of ice storm information lets the user see how much ice will accumulate and what roads will be affected." href="https://www.renci.org/wp-content/uploads/2011/01/NCEMA_Transportation_Proto3.jpg"><img class="wp-image-6587 size-large" title="NCEMA_Transportation_Proto3" src="https://www.renci.org/wp-content/uploads/2011/01/NCEMA_Transportation_Proto3-630x486.jpg" alt="" width="630" height="486" /></a> A prototype graphic display of ice storm information lets the user see how much ice will accumulate and what roads will be affected.[/caption]
 
 A school snow day often leaves kids jumping for joy and their parents scrambling to readjust their work schedules.
@@ -55,3 +56,9 @@ The RENCI team expects to introduce its decision support tools to selected schoo
 ###
 
 <em><a href="http://innovate.unc.edu/" target="_blank"><img class="alignright size-medium wp-image-6527" title="innovate-logo" src="https://www.renci.org/wp-content/uploads/2010/11/innovate-logo-300x78.png" alt="" width="300" height="78" /></a>RENCI WxEM project supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">innovate.unc.edu</a>.</em>
+
+<!-- old tags
+
+    ["decision support","ECU","emergency management","WxEM"]
+
+-->

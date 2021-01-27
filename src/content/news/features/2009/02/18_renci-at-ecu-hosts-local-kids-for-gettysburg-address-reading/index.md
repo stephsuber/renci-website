@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["East Carolina University","RENCI at ECU"]
+    ["East Carolina University","RENCI at ECU"]
 ---
 [caption id="attachment_2865" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/02/ecu_wall1.jpg"><img class="wp-image-2865 size-full" title="ecu_wall1" src="https://www.renci.org/wp-content/uploads/2009/02/ecu_wall1.jpg" alt="ecu_wall1" width="630" height="486" /></a> Kids at RENCi at ECU read the Gettysburg Address simultaneously with school children across the nation as part of the celebration of Lincoln’s 200th birthday.[/caption]
 

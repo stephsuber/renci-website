@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)"]
+    ["President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 The Networking and Information Technology Subcommittee of the President’s Council of Advisors on Science and Technology (PCAST) delivered a report on the National Coordination Office’s Networking and Information Technology Research and Development (NITRD) program at the April 24 PCAST meeting in Washington.
 

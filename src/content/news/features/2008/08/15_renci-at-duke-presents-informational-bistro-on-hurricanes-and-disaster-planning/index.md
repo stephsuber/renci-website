@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Jessica Proud","Renaissance Bistro","RENCI at Duke University"]
+    ["Jessica Proud","Renaissance Bistro","RENCI at Duke University"]
 ---
 <p>Chapel Hill, NC, August 15, 2008 – To attain a better understanding of hurricanes and their effects on North Carolina, the Renaissance Computing Institute (RENCI) will present another informal informational Renaissance Bistro on Thursday, Sept. 11, at its new RENCI at Duke University Engagement Center.<!--more--></p>
 <p>The Bistro will focus on disaster research, including collaborations with the state of North Carolina on hurricane and storm surge prediction and disaster planning and mitigation.</p>

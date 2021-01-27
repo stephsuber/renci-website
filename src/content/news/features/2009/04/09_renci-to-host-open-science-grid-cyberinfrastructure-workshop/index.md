@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Cyberinfrastructure","grid computing","Open Science Grid (OSG)"]
+    ["Cyberinfrastructure","grid computing","Open Science Grid (OSG)"]
 ---
 Registration is now open for the Open Science Grid Campus and National Cyberinfrastructure Workshop, which will take place April 22-23 at the Renaissance Computing Institute (RENCI), 100 Europa Drive, Chapel Hill. A registration form is available at <a href="http://indico.fnal.gov/confRegistrationFormDisplay.py/display?confId=2504" target="_blank">http://indico.fnal.gov/confRegistrationFormDisplay.py/display?confId=2504</a>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["NC-FIRST"]
+    ["NC-FIRST"]
 ---
 Just in time for the hurricane season, emergency service providers across North Carolina have a new tool available to help them interpret weather data and coordinate response plans, called NC-FIRST.<!--more-->
 

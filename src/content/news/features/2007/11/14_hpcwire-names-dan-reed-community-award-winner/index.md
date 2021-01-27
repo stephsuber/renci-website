@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)"]
+    ["President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 RENO, Nev., Nov. 14 -- RENCI Director Dan Reed was named winner of the 2007 Community Recognition Award by the editors of <em>HPCwire</em>, the leading publication of the high performance computing community.
 

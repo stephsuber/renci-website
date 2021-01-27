@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ken Galluppi","Ryan Boyles","Weather Web"]
+    ["Ken Galluppi","Ryan Boyles","Weather Web"]
 ---
 CHAPEL HILL, NC, January 24, 2008 - Counties in North Carolina that lack weather stations--and therefore lack detailed weather data--will have the chance to acquire a research and operational grade weather station through a new RENCI project aimed at enhancing weather-related K-12 education and at improving the quantity and quality of weather data in underserved areas of the state.<!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Clemson Computing and Information Technology group","Cyberinfrastructure","John McGee","Open Science Grid (OSG)","Ruth Pordes"]
+    ["Clemson Computing and Information Technology group","Cyberinfrastructure","John McGee","Open Science Grid (OSG)","Ruth Pordes"]
 ---
 CHAPEL HILL, NC, April 15, 2008—The Renaissance Computing Institute (RENCI), an Open Science Grid partner, will lead an effort to involve more university research teams and more campuses in using cyberinfrastructure (CI) as a tool for research and discovery.<!--more-->
 

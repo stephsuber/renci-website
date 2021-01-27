@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioportal"]
+    ["bioportal"]
 ---
 CHAPEL HILL, NC, September 12, 2006 — The North Carolina/TeraGrid Bioportal, developed by the Renaissance Computing Institute, was recognized by the readers of <em>GRIDtoday</em> in the publication’s inaugural Readers’ and Editors’ Choice Awards.<!--more-->
 

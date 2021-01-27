@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","embedded immersive engagement (EIE)","Jim Fox","National Oceanic and Atmospheric Administration (NOAA)"]
+    ["3D visualization","embedded immersive engagement (EIE)","Jim Fox","National Oceanic and Atmospheric Administration (NOAA)"]
 ---
 ASHEVILLE, NC—The Asheville-based Applied Visualization Lab premiered its climate and visualization expertise on a global stage at the 5th International Symposium on Digital Earth in Berkeley, CA, June 5 – 9.
 

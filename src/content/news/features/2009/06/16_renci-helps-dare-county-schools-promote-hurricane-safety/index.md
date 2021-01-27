@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["hurricane awareness","RENCI at ECU"]
+    ["hurricane awareness","RENCI at ECU"]
 ---
 [caption id="attachment_3787" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg"><img class="wp-image-3787 size-full" title="classroom_story" src="https://www.renci.org/wp-content/uploads/2009/06/classroom_story.jpg" alt="classroom_story" width="630" height="422" /></a> Michelle Covi, RENCI at ECU outreach coordinator, shows students at Nags Head Elementary School how to track the course of a hurricane during a hurricane awareness presentation by RENCI and National Weather Service staff. (photo: S. Daniel Siepert, RENCI at ECU)[/caption]
 

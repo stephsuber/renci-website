@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)","storm prediction"]
+    ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)","storm prediction"]
 ---
 RENCI Director Dan Reed will join Ed Seidel, director of the Center for Computation and Technology at Louisiana State University, and University of Illinois atmospheric scientist Bob Wilhelmson for a live virtual discussion of how advance technology can aid in understanding hurricanes and other severe storms. <!--more-->
 

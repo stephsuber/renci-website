@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["NC-EONS","Sensor Data Bus"]
+    ["NC-EONS","Sensor Data Bus"]
 ---
 CHAPEL HILL, NC, June 18, 2008 – The North Carolina Environmental Observation Network System (NC-EONS) is nearly operational as RENCI engineers continue to install the power and communications infrastructure for the platform in the Pamlico Sound off the North Carolina coast.<!--more-->
 

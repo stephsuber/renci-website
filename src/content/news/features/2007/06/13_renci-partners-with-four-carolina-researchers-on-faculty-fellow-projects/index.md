@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Charles Finley","Research Triangle","Ted Zoller"]
+    ["Charles Finley","Research Triangle","Ted Zoller"]
 ---
 CHAPEL HILL, NC, June 18, 2007 — Four faculty members at the University of North Carolina at Chapel Hill have been named Faculty Fellows of the Renaissance Computing Institute (RENCI) and will spend the next year working closely with RENCI staff on innovative research projects that use advanced technologies.
 

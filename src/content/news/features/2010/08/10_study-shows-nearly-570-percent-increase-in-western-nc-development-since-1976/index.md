@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at UNC Asheville","RENCI at UNC Charlotte","UNC Charlotte Urban Institute","Urban Growth Model"]
+    ["RENCI at UNC Asheville","RENCI at UNC Charlotte","UNC Charlotte Urban Institute","Urban Growth Model"]
 ---
 <p><strong><a href="https://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1.jpg"><img class="alignnone size-large wp-image-5882" title="UNCC-western-nc1" src="https://www.renci.org/wp-content/uploads/2010/08/UNCC-western-nc1-630x458.jpg" alt="" width="630" height="458" /></a></strong></p>
 

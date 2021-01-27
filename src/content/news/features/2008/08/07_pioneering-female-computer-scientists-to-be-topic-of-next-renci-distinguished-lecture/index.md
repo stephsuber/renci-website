@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Distinguished Lecture Series","Duke University","Kathy Kleiman"]
+    ["Distinguished Lecture Series","Duke University","Kathy Kleiman"]
 ---
 <p>CHAPEL HILL, NC, August 7, 2008 - It has been over 60 years since the world’s first all-electronic programmable computer, the ENIAC (or Electronic Numerical Integrator And Computer), was developed during World War II.  A group of skilled mathematicians programmed the machine, but they were overlooked in the annals of computer history for one primary reason: they were women.<!--more--></p>
 <p>Kathy Kleiman, historian, computer programmer, telecommunications lawyer and head of the ENIAC Programmers Project, will speak about these women—whom ABC News referred to “Rosie the Riveter meets Bill Gates”—and about her efforts to produce a film documenting their unique and unsung accomplishments at the Fall 2008 Renaissance Computing Institute (RENCI) Distinguished Lecture.</p>

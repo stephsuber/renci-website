@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Automated Vehicle Locator (AVL)","emergency operations center"]
+    ["Automated Vehicle Locator (AVL)","emergency operations center"]
 ---
 <p style="text-align: center;"><a title="Chapel Hill Assistant Fire Marshall Dace Bergen on board a fire truck equipped with the RENCI-developed Automated Vehicle Location System." href="https://www.renci.org/wp-content/uploads/2009/02/avl_intruck.jpg"><img class="aligncenter size-large wp-image-2265" title="Chapel Hill Assistant Fire Marshall Dace Bergen on board a fire truck equipped with the RENCI-developed Automated Vehicle Location System." src="https://www.renci.org/wp-content/uploads/2009/02/avl_intruck-630x472.jpg" alt="Chapel Hill Assistant Fire Marshall Dace Bergen on board a fire truck equipped with the RENCI-developed Automated Vehicle Location System." width="630" height="472" /></a></p>
 

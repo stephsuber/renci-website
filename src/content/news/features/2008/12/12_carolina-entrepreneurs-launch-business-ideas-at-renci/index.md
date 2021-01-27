@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Carolina Launch Pad","Kenan-Flagler Business School","Office of Technology Development (OTD)"]
+    ["Carolina Launch Pad","Kenan-Flagler Business School","Office of Technology Development (OTD)"]
 ---
 <p style="text-align: left;">CHAPEL HILL, December 12, 2008--Carolina Launch Pad, the new pre-commercial incubator for UNC-Chapel Hill faculty, staff and students, is underway and its five inaugural ventures moved into office space at the Renaissance Computing Institute (RENCI) in early December.<!--more--></p>
 Launch Pad, a collaboration between RENCI, the UNC-Chapel Hill Office of Technology Development (OTD) and UNC-Chapel Hill’s Kenan-Flagler Business School, targets aspiring IT entrepreneurs who are part of the UNC community and who have not yet developed their business ideas into funded start-ups. The Launch Pad Selection Advisory Committee chose five participants for the program after reviewing 15 applications from across the UNC campus. Launch Pad is funded by RENCI through funds from the UNC-Chapel Hill Office of the Provost.

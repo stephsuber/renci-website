@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Breakable Experimental Network (BEN)","Global Environment for Network Innovations (GENI)","RENCI at NC State"]
+    ["Breakable Experimental Network (BEN)","Global Environment for Network Innovations (GENI)","RENCI at NC State"]
 ---
 [caption id="attachment_3257" align="alignnone" width="630"]<a title="The NC State node of BEN, consisting of Infinera digital optical networking hardware, connects campus researchers to the experimental network through RENCI at NC State. " href="https://www.renci.org/wp-content/uploads/2009/03/ben_story1.jpg"><img class="wp-image-3257 size-full" title="BEN" src="https://www.renci.org/wp-content/uploads/2009/03/ben_story1.jpg" alt="The NC State node of BEN, consisting of Infinera digital optical networking hardware, connects campus researchers to the experimental network through RENCI at NC State. " width="630" height="493" /></a> The NC State node of BEN, consisting of Infinera digital optical networking hardware, connects campus researchers to the experimental network through RENCI at NC State.[/caption]
 

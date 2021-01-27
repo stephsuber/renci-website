@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["biomedicine","Computing Research Association (CRA)"]
+    ["biomedicine","Computing Research Association (CRA)"]
 ---
 Researchers and practitioners from the high performance computing and biomedical communities are invited to attend a workshop that addresses the challenges and opportunities collaboration and cooperation between these two communities. Called "Challenges in Biomedicine," the workshop is sponsored by the Computing Research Association (CRA) and the National Institutes of Health (NIH). It will be held June 15 – 16 at the Bethesda Marriott Hotel, Bethesda, MD.<!--more-->
 

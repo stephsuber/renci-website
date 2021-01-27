@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Susan Harbage Page","UNC - Chapel Hill"]
+    ["Susan Harbage Page","UNC - Chapel Hill"]
 ---
 [caption id="attachment_2909" align="alignnone" width="630"]<a title="A Student project reinterprets the well-known photograph of a Vietnamese general executing a suspected traitor at point blank range by shifting the action to a hair salon and replacing the hand gun with a blow dryer" href="https://www.renci.org/wp-content/uploads/2009/02/story_image_big.jpg"><img class="wp-image-2909 size-full" title="A Student project reinterprets the well-known photograph of a Vietnamese general executing a suspected traitor at point blank range by shifting the action to a hair salon and replacing the hand gun with a blow dryer" src="https://www.renci.org/wp-content/uploads/2009/02/story_image_big.jpg" alt="A Student project reinterprets the well-known photograph of a Vietnamese general executing a suspected traitor at point blank range by shifting the action to a hair salon and replacing the hand gun with a blow dryer" width="630" height="441" /></a> A Student project reinterprets the well-known photograph of a Vietnamese general executing a suspected traitor at point blank range by shifting the action to a hair salon and replacing the hand gun with a blow dryer.[/caption]
 

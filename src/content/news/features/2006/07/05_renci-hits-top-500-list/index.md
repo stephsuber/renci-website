@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ocracoke","supercomputing","Top 500"]
+    ["Ocracoke","supercomputing","Top 500"]
 ---
 CHAPEL HILL – The Renaissance Computing Institute (RENCI) scored its first ranking on the Top 500 supercomputers list with Ocracoke, its new IBM Blue Gene/L system.
 

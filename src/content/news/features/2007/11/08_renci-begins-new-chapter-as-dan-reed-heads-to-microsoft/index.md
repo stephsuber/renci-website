@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Alan Blatecky","James Moeser"]
+    ["Alan Blatecky","James Moeser"]
 ---
 CHAPEL HILL, NC, Nov. 8, 2007--The Renaissance Computing Institute, launched in 2004 to build partnerships and apply advanced technologies to complex, multidisciplinary problems, enters a new stage in December as founder Daniel A. Reed joins Microsoft Research and Deputy Director Alan Blatecky takes the helm as interim director.
 

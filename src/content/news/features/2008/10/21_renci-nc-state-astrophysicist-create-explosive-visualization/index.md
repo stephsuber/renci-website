@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["John Blondin","NC State University","RENCI at NC State University"]
+    ["John Blondin","NC State University","RENCI at NC State University"]
 ---
 BALTIMORE—RENCI visualization researchers and John Blondin, an astrophysicist and professor in the NC State physics department, won the awards for Best Scientific and Best Overall Image at the Computational Engineering International (CEI) Visualization 2008 conference held recently in Baltimore. <!--more-->
 

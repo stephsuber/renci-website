@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Distinguished Lecture Series","Irving Wladawsky-Berger"]
+    ["Distinguished Lecture Series","Irving Wladawsky-Berger"]
 ---
 CHAPEL HILL, NC, December 18, 2006—A renowned technology expert from IBM who is responsible for identifying emerging technologies and marketplace developments critical to the future of the IT industry will launch the Renaissance Computing Institute’s (RENCI) Distinguished Lecture Series with a talk at 2 p.m. Feb. 8, 2007 at the Friday Center for Continuing Education, 100 Friday Center Drive.<!--more-->
 

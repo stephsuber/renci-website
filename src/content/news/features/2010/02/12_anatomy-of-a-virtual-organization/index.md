@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["cyb","Cyberinfrastructure","UNC - Chapel Hill","Virtual Organization"]
+    ["cyb","Cyberinfrastructure","UNC - Chapel Hill","Virtual Organization"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg"><img class="alignnone size-full wp-image-4696" title="virtual-org2" src="https://www.renci.org/wp-content/uploads/2010/02/virtual-org2.jpg" alt="virtual-org2" width="630" height="302" /></a></p>
 

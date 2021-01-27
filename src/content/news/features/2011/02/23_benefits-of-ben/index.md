@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Breakable Experimental Network (BEN)","National LambdaRail (NLR)"]
+    -
 ---
+
 <p>[vimeo 20372580]</p>
 
 <p><em> RENCI’s Breakable Experimental Network means new research opportunities at UNC</em></p>
@@ -61,3 +62,9 @@ tags:
 <p><a href="https://www.renci.org/">RENCI</a></p>
 
 <p><em>RENCI supports the Innovate@Carolina Roadmap, UNC’s  plan to help Carolina become a world leader in launching university-born  ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">http://innovate.unc.edu</a>.</em></p>
+
+<!-- old tags
+
+["Breakable Experimental Network (BEN)","National LambdaRail (NLR)"]
+
+ -->

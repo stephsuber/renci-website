@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Coastal Studies Institute (CSI)","Engagement","Engagement Center","Kevin Gamiel","Manteo"]
+    ["Coastal Studies Institute (CSI)","Engagement","Engagement Center","Kevin Gamiel","Manteo"]
 ---
 CHAPEL HILL, NC, January 5, 2009—The Renaissance Computing Institute (RENCI), a multi-institutional North Carolina research organization, now has a presence in Dare County through an agreement with the University of North Carolina Coastal Studies Institute (CSI) to locate a RENCI technology specialist at CSI.
 

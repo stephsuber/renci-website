@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Duke University","multi-touch visualization wall","RENCI-Duke Engagement Center"]
+    ["Duke University","multi-touch visualization wall","RENCI-Duke Engagement Center"]
 ---
 DURHAM, NC, September 16, 2008 – The Renaissance Computing Institute (RENCI) at Duke University will host an open house on Tuesday, Oct. 14, featuring its newly completed research environments.<!--more-->
 

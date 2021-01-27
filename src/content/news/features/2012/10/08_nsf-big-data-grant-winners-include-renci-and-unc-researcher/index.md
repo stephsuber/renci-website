@@ -10,13 +10,13 @@ groups:
 projects:
     - 
 people:
-    - 
+    - arcot-rajasekar
 teams: 
     - 
 collaborations:
     - 
 tags:
-    - ["Arcot Rajasekar","data","DataBridge","National Science Foundation (NSF)","School of Information and Library Science(SILS)"]
+    -
 ---
 <a href="https://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg"><img class="size-large wp-image-12067 alignleft" title="renci-article" src="https://www.renci.org/wp-content/uploads/2013/10/renci-article.jpg" alt="" width="640" height="427" /></a>
 
@@ -43,3 +43,7 @@ The DataBridge project is a collaboration with Gary King, a professor at Harvard
 
 <a href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=125610&amp;org=NSF&amp;from=news" target="_blank">NSF Big Data announcement
 </a><a href="http://sils.unc.edu/" target="_blank">SILS Website</a>
+
+<!-- old tags
+    ["arcot-rajasekar","data","DataBridge","National Science Foundation (NSF)","School of Information and Library Science(SILS)"]
+-->

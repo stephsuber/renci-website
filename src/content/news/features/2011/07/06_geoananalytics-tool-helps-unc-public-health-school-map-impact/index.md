@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Geoanalytics","Gillings School of Global Public Health","visualization"]
+    -
 ---
+
 &nbsp;
 
 [caption id="attachment_7739" align="aligncenter" width="630"]<a href="https://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png"><img class="wp-image-7739 size-full" title="UNC Gillings School of Global Public Health map" src="https://www.renci.org/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-4.16.55-PM.png" alt="" width="630" height="298" /></a> Research at the UNC Gillings School of Global Public Health doesn't stop in Chapel Hill. Our maps of North Carolina and the world show where School faculty, staff and students make a difference.[/caption]
@@ -35,3 +36,5 @@ Hong Yi, a senior research software developer at RENCI, migrated SPH data from R
 Because many UNC schools, colleges, departments and research centers could benefit from a Web-based geo-visualization tool, the framework was developed to be easily adaptable to the needs of other UNC campus units. Given time and resources, RENCI has the capacity to geo-reference and visualize the entire RAMSeS database, said Yi.
 
 RENCI Senior Research Software Developer Jeff Heard developed the Geoanalytics Framework as a flexible infrastructure that can be extended and customized for any project that would benefit from integrating data with a Web-based mapping system. The National Weather Service funded development of the framework as part of a project to incorporate weather and climate information into emergency management decision-making tools.
+
+<!-- old tags: ["Geoanalytics","Gillings School of Global Public Health","visualization"] -->

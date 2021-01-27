@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Jim Fox","RENCI at UNC Asheville"]
+    ["Jim Fox","RENCI at UNC Asheville"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg"><img class="alignnone size-full wp-image-3713" title="conv-story2" src="https://www.renci.org/wp-content/uploads/2009/06/conv-story2.jpg" alt="conv-story2" width="630" height="437" /></a></p>
 

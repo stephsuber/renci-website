@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Alan Blatecky","Chancellor Holden Thorp","Cyberinfrastructure","Data Intensive Cyber Environments (DICE)","José-Marie Griffiths","School of Information and Library Sciences (SILS)"]
+    ["Alan Blatecky","Chancellor Holden Thorp","Cyberinfrastructure","Data Intensive Cyber Environments (DICE)","José-Marie Griffiths","School of Information and Library Sciences (SILS)"]
 ---
 August 27, 2008--The University of North Carolina at Chapel Hill is now home to the world-renowned Data Intensive Cyber Environments (DICE) group (formerly known as Data Intensive Computing Environments group), long of the San Diego’s Supercomputer Center at UC San Diego.<!--more-->
 

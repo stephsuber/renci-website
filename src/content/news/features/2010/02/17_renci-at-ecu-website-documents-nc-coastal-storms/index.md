@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["RENCI at ECU","Storms to Life"]
+    ["RENCI at ECU","Storms to Life"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg"><img class="alignnone size-full wp-image-4705" title="Hurricane Floyd" src="https://www.renci.org/wp-content/uploads/2010/02/Hurricane_Floyd.jpg" alt="Hurricane Floyd" width="630" height="567" /></a><br class="spacer_" /></p>
 

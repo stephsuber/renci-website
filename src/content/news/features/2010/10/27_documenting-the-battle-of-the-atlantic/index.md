@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Coastal Studies Institute (CSI)","East Carolina University (ECU)","Minerals Management Service","National Oceanic and Atmospheric Administration (NOAA)","National Park Service","RED"]
+    ["Coastal Studies Institute (CSI)","East Carolina University (ECU)","Minerals Management Service","National Oceanic and Atmospheric Administration (NOAA)","National Park Service","RED"]
 ---
 <p>[vimeo 16219530]<br /><em>Video: John McCord, Coastal Studies Institute</em></p>
 <p>One of the most overlooked battles of World War II played out in our own backyard, claiming 80 ships and hundreds of lives.</p>

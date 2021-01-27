@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Friday Institute for Educational Innovation","RENCI at NC State University","Sidharth Thakur"]
+    ["Friday Institute for Educational Innovation","RENCI at NC State University","Sidharth Thakur"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/02/release_fri_inst_viz_tool.jpg"><img class="alignnone size-large wp-image-3123" title="release_fri_inst_viz_tool" src="https://www.renci.org/wp-content/uploads/2009/02/release_fri_inst_viz_tool-630x203.jpg" alt="release_fri_inst_viz_tool" width="630" height="203" /></a></p>
 

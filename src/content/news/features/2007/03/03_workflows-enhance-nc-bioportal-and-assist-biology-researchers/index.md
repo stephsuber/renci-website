@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["bioinformatics"]
+    ["bioinformatics"]
 ---
 The end results of research in genetics, proteomics and other fields that use bioinformatics are often dramatic: discoveries that reveal the causes of cancer or that lead to new drugs and treatments. But the research process can be redundant, time consuming and tedious.
 

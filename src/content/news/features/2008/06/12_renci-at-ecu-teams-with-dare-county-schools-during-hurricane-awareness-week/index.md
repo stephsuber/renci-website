@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Manteo","RENCI at East Carolina University","RENCI Outreach Vehicle for Education and Research (ROVER)","Tom Allen"]
+    ["Manteo","RENCI at East Carolina University","RENCI Outreach Vehicle for Education and Research (ROVER)","Tom Allen"]
 ---
 GREENVILLE, NC, June 12, 2008 – Faculty and graduate students from RENCI’s engagement center at East Carolina University hit the road in the RENCI Outreach Vehicle for Education and Research (ROVER) to discuss the weather at several Dare County schools during the last week in May. <!--more-->
 

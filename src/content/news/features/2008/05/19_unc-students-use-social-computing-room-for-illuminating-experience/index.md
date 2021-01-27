@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Eric Knisley","RENCI at UNC Chapel Hill","Social Computing Room (SCR)"]
+    ["3D visualization","Eric Knisley","RENCI at UNC Chapel Hill","Social Computing Room (SCR)"]
 ---
 CHAPEL HILL, NC, May 19, 2008 – The Social Computing Room at RENCI’s UNC Chapel Hill engagement center isn’t your typical classroom, but it was the perfect environment for final exams for a class in the UNC Chapel Hill art department.<!--more-->
 

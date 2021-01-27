@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data-intensive computing","Hadoop","parallel computing","supercomputing","Topsail"]
+    - 
 ---
 [caption id="" align="alignnone" width="640"]<img class=" wp-image-12067 " title="Sailing again" src="http://farm9.static.flickr.com/8509/8538872427_c857f0a614_b.jpg" alt="" width="640" height="427" /> UNC’s Topsail supercomputer comes out of retirement with a RENCI makeover from Erik Scott (left) and Mark Montazer (right).[/caption]
 
@@ -52,3 +52,10 @@ Smith needed a computing resource that would allow his students to work with <a 
 “Having access to a cluster of this scale is a great opportunity,” said Smith. “It gives the students the chance to do work that is very similar to something they would do in industry.”
 
 The computer science students will begin using Topsail for their final projects when classes reconvene after Spring Break. Smith said they will be encouraged to tackle big data problems related to their interests, including genomics, medical imaging and Web analytics.
+<!-- old tags
+    - data-intensive computing
+    - Hadoop
+    - parallel computing
+    - supercomputing
+    - Topsail
+-->

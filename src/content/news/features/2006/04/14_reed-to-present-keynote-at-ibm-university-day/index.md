@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["IBM"]
+    ["IBM"]
 ---
 RENCI director Dan Reed will kick off IBM's annual University Day with a talk on the role of computing in innovative research, education and economic development efforts. IBM University Day, scheduled for 8 a.m. to 3:30 p.m. April 26, is an opportunity for the Triangle area academic community to showcase what it offers to industry. For students, it offers the chance to meet with prospective employers in the IBM Research Triangle Park development community. Representatives from all IBM divisions will be on hand, as will staff from corporate and local IBM university relations programs that support joint research or recruit students. <!--more-->
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Renaissance Bistro","Shoah VHA","Visual History Archive (VHA)"]
+    ["Renaissance Bistro","Shoah VHA","Visual History Archive (VHA)"]
 ---
 CHAPEL HILL, NC, March 27, 2008 – The public is invited to feed their minds—as well as their stomachs—at the Renaissance Computing Institute’s (RENCI) Renaissance Bistro. RENCI’s informal informational bistro session will focus on the University of Southern California Shoah Foundation Institute Visual History Archive (VHA) and how to use it for personal and professional research. <!--more-->
 

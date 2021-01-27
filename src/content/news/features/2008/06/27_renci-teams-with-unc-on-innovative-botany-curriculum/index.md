@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Alan Weakley","Jane Greenburg","Michael Shoffner","School of Information and Library Sciences (SILS)"]
+    ["Alan Weakley","Jane Greenburg","Michael Shoffner","School of Information and Library Sciences (SILS)"]
 ---
 CHAPEL HILL, NC, June 27, 2008 – RENCI will be part of a UNC Chapel Hill team that launches a new curriculum designed to recruit, educate and retain nontraditional students in the study of botanical science.  The curriculum, which will be introduced to students this summer,  weaves together four key themes – botany, environmental conservation, the use of social technologies and metadata literacy.<!--more-->
 

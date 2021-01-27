@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Jessica Proud","NC-FIRST","Renaissance Bistro"]
+    ["Jessica Proud","NC-FIRST","Renaissance Bistro"]
 ---
 Chapel Hill, NC, August 17, 2007 – The public is invited to feed their minds—as well as their stomachs—at the Renaissance Computing Institute’s Renaissance Bistros. RENCI has scheduled two bistros, informal informational sessions to discuss RENCI focus areas, in September, which will focus on disaster research, including collaborations with the state of North Carolina on hurricane and storm surge prediction and disaster planning and mitigation. Both bistros are free and open to the public.
 

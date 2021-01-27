@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["East Carolina University (ECU)","RENCI at ECU","Visualization Challenge"]
+    ["East Carolina University (ECU)","RENCI at ECU","Visualization Challenge"]
 ---
 [caption id="attachment_3420" align="alignnone" width="630"]<a href="https://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg"><img class="wp-image-3420 size-full" title="vischal2009_web" src="https://www.renci.org/wp-content/uploads/2009/03/vischal2009_web.jpg" alt="vischal2009_web" width="630" height="422" /></a> John Wagner won the RENCI at ECU Visualization Challenge with this representation of a 19th century gunboat.[/caption]
 

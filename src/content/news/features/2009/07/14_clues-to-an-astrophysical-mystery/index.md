@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["John Blondin","RENCI at NC State","TeraGrid"]
+    ["John Blondin","RENCI at NC State","TeraGrid"]
 ---
 <p>[vimeo 5597072]</p>
 

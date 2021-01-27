@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Donna Cox","scientific visualization"]
+    ["Donna Cox","scientific visualization"]
 ---
 Science, technology, and art are not different realms with nothing in common, says Professor Donna J. Cox, a pioneer in visualizing scientific information. Rather, artists can compliment the work of scientists by giving them new ways to look at their data and technology can be the glue that helps brings together scientific researchers and visual artists. <!--more-->
 

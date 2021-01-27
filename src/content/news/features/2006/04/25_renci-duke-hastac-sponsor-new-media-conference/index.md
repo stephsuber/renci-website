@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Arts","Duke University","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)","New Media"]
+    ["Arts","Duke University","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)","New Media"]
 ---
 Graduate students interested in new media technologies and their impact on art, culture, science, commerce and the environment will convene on the Duke University campus June 7 and 8 to discuss the latest research in the field and new uses for technology in scholarship. <!--more-->
 

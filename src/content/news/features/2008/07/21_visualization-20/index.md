@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Add new tag","multi-touch visualization wall","RENCI at Duke University"]
+    ["Add new tag","multi-touch visualization wall","RENCI at Duke University"]
 ---
 <p><em>Multi-touch visualization wall is the focal point of RENCI’s new Duke engagement center</em></p>
 

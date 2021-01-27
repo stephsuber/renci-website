@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization"]
+    ["3D visualization"]
 ---
 Stephen Marshall, associate professor of epidemiology and orthopedics in the University of North Carolina’s Schools of Public Health and Medicine and biostatistician at UNC’s Injury Prevention Research Center, expected to analyze his research findings at his personal computer until he heard about the visualization wall at RENCI’s Health Sciences Collaboration Center.<!--more-->
 Instead, he was able to display multiple kinds of research data simultaneously on the 8-foot by 10-foot tiled display wall in the Collaboration Center, and the results were better than expected.

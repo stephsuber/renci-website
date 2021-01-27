@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["grid computing","high performance computing (HPC)","technical reports series"]
+    ["grid computing","high performance computing (HPC)","technical reports series"]
 ---
 RENCI researchers and their collaborators are continually producing technical results as a result of projects with collaborators in high performance computing, grid computing, networking infrastructure development and other areas.
 

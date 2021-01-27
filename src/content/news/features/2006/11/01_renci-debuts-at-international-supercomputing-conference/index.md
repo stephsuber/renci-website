@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["North Carolina Forecasting System","supercomputing"]
+    ["North Carolina Forecasting System","supercomputing"]
 ---
 TAMPA, FLA, November 1, 2006-Imagine if, in the midst of a hurricane, flood or severe storm, emergency response teams could interface with a high-resolution, near real-time computer model and determine what neighborhoods were likely to be affected, how far inland storm surges would reach, how water runoff and flooding might be impacted by development, and the safest evacuation routes based on constantly changing conditions.<!--more-->
 

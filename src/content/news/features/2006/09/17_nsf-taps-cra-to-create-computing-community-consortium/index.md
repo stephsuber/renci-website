@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Computing Research Association (CRA)","National Science Foundation (NSF)"]
+    ["Computing Research Association (CRA)","National Science Foundation (NSF)"]
 ---
 WASHINGTON, DC, September 18, 2006 - The National Science Foundation today announced an agreement with the Computing Research Association (CRA) to establish a consortium of computing experts that will provide scientific leadership and vision on issues related to computing research and future large-scale computing research projects.<!--more-->
 

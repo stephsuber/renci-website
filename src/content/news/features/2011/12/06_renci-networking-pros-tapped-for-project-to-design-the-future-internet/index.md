@@ -16,8 +16,13 @@ teams:
 collaborations:
     - 
 tags:
-    - ["ChoiceNet","FIA","National Science Foundation (NSF)","Networking","North Carolina State University","SILO"]
+    - 
 ---
+
+<!-- tags: 
+["ChoiceNet","FIA","National Science Foundation (NSF)","Networking","North Carolina State University","SILO"]
+-->
+
 CHAPEL HILL--RENCI’s networking research group is part of a team that will design a blueprint for a future version of the Internet.
 
 The University of Massachusetts, Amherst, leads the $2.7 million, three-year project, named ChoiceNet, which is funded by the National Science Foundation. In addition to RENCI at UNC Chapel Hill, North Carolina State University and the University of Kentucky have roles in the project. The project complements the work of the NSF program, Future Internet Architecture (FIA). FIA’s goal is to stimulate innovative and creative research to explore, design, and evaluate trustworthy future Internet architectures. <!--more-->

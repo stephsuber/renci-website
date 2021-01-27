@@ -38,11 +38,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       projects: [ProjectsYaml] @link(by: "members.id", from: "id")
       role: String
     }
-    type OrganizationsYaml implements Node {
-      id: ID!
-      name: String!
-      url: String!
-    }
   `
   createTypes(typeDefs)
 }

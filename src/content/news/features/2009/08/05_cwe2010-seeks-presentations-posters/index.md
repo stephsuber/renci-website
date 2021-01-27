@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)","wind engineering"]
+    ["high performance computing (HPC)","wind engineering"]
 ---
 <a href="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg"><img class="alignnone size-full wp-image-3948" title="wind-conf-img" src="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg" alt="wind-conf-img" width="630" height="269" /></a>
 

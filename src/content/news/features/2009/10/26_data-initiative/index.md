@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Date Intensive Cyber Environments (DICE)","School of Information and Library Science (SILS)","TUCASCI"]
+    ["Date Intensive Cyber Environments (DICE)","School of Information and Library Science (SILS)","TUCASCI"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg"><img class="size-full wp-image-4301 alignnone" title="TUCASI-story-img" src="https://www.renci.org/wp-content/uploads/2009/10/TUCASI-story-img.jpg" alt="TUCASI-story-img" width="630" height="320" /></a></p>
 

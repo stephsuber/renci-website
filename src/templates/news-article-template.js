@@ -15,21 +15,23 @@ export default ({ data, pageContext }) => {
   const { article: {
     frontmatter: {
       title, subtitle, publishDate, author, featuredImage, previewImage,
-      people, groups, projects, teams, collaborations, organizations,
+      people, groups, projects, teams, collaborations, organizations, tags
     },
     fields,
     html: articleHTML
   }} = data
+  console.log(tags)
   const { prevArticle, nextArticle } = pageContext
   // collect all related objects
-  const tags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
-    // turn into shape { id, name, path }
+  const articleTags = groups.concat(collaborations).concat(projects).concat(teams).concat(people)
+    // turn into array of objects with shape { id, name, path }
     .map(item => {
       if (item.__typename == 'PeopleYaml') {
         return ({ id: item.id, name: item.fullName, path: item.fields.path })
       }
       return ({ id: item.id, name: item.name, path: item.fields.path })
     })
+    .concat(tags.map((item, i) => ({ id: item.id, name: item.name, path: `/news?tag=${ item.id }` })))
     // alphabetize
     .sort((t, u) => t.name < u.name ? -1 : 1)
 
@@ -61,7 +63,7 @@ export default ({ data, pageContext }) => {
           </Meta>
 
           <Tags>
-            { tags.map(tag => <Tag link to={ tag.path } key={ tag.path }>{ tag.name }</Tag>) }
+            { articleTags.map(tag => <Tag link to={ tag.path } key={ tag.path }>{ tag.name }</Tag>) }
           </Tags>
 
           <br />
@@ -174,6 +176,10 @@ export const newsQuery = graphql`
           __typename
           name
           url
+        }
+        tags {
+          id
+          name
         }
       }
       fields {

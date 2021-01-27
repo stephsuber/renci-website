@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","Friday Center","high performance computing (HPC)"]
+    ["3D visualization","Friday Center","high performance computing (HPC)"]
 ---
 Registration is now open for the 2007 Microsoft eScience Workshop, hosted by the Renaissance Computing Institute (RENCI). This free workshop will be held Oct. 21-23 at the University of North Carolina's Friday Center for Continuing Education. To register, go to <a href="http://www.mses07.net/" target="_blank" rel="noopener">http://www.mses07.net</a>.
 

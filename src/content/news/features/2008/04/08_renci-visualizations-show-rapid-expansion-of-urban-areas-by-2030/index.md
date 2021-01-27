@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["scientific visualization","UNC - Charlotte"]
+    ["scientific visualization","UNC - Charlotte"]
 ---
 At RENCI at UNC Charlotte, the new engagement center that involves UNC Charlotte’s Center for Applied Geographic Information Science, the UNC Charlotte Urban Institute and the Charlotte Visualization Center, researchers are developing visual models to illustrate the impacts of urban growth.<!--more-->
 

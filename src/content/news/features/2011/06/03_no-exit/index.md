@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["informatics","NC TraCS","secure medical research workspace","SILS","virtual environments"]
+    -
 ---
+
 [vimeo 24627418]
 
 <em>RENCI team tackles the challenge of securing sensitive medical research data </em>
@@ -65,3 +66,9 @@ Ken Langley, UNC School of Medicine
 <a href="http://www.med.unc.edu/">UNC School of Medicine</a>
 
 RENCI Brown Bag Presentation: <a href="../news/videos/secure-medical-workspace">Developing a Secure Medical Research Workspace</a>
+
+<!-- old tags
+
+["informatics","NC TraCS","secure medical research workspace","SILS","virtual environments"]
+
+-->

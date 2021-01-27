@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Open Science Grid (OSG)","UNC - Chapel Hill"]
+    ["Open Science Grid (OSG)","UNC - Chapel Hill"]
 ---
 Brian Kuhlman is always on the lookout for resources that can make it simpler and quicker to study the innumerable shapes and sequences proteins can adopt.<!--more-->
 

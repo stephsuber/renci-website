@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Botany through Web 2.0 (BOT 2.0)","UNC - Chapel Hill"]
+    ["Botany through Web 2.0 (BOT 2.0)","UNC - Chapel Hill"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg"><img class="alignnone size-full wp-image-3989" title="bot-story-img" src="https://www.renci.org/wp-content/uploads/2009/08/bot-story-img.jpg" alt="Students from across the state took part in BotCamp 2009 at the University of North Carolina at Chapel Hill" width="630" height="419" /></a></p>
 

@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Big Board","emergency management","NCEMA"]
+    ["Big Board","emergency management","NCEMA"]
 ---
 <p>[vimeo 3622163]</p>
 

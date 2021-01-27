@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)"]
+    ["President's Council of Advisors on Science and Technology (PCAST)"]
 ---
 WASHINGTON—The President’s Council of Advisors on Science and Technology (PCAST) today delivered its report Leadership Under Challenge: Information Technology R&amp;D in a Competitive World. The report assesses global U.S. competitiveness in networking and information technology and provides recommendations aimed at ensuring that the Federally funded Networking and Information Technology R&amp;D (NITRD) Program is appropriately focused and implemented.<!--more-->
 

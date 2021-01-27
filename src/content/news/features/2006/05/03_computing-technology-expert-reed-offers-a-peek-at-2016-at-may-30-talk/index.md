@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["high performance computing (HPC)","Tony Waldrop"]
+    ["high performance computing (HPC)","Tony Waldrop"]
 ---
 Daniel A. Reed, a world-renowned authority on high-performance computing, will offer a glimpse of 2016 and the wonders (and annoyances) that new technologies are likely to bring over the next decade in a presentation Tuesday, May 30, on the UNC-Chapel Hill campus.<!--more-->
 

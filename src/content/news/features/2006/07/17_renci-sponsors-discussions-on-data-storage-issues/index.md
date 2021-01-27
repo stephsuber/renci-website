@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["data storage","IBM"]
+    ["data storage","IBM"]
 ---
 Researchers at Triangle area universities create, process and analyze huge amounts of data every day, and managing that growing stream has become a key challenge for the knowledge age university.  <!--more-->
 

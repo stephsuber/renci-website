@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["President's Council of Advisors on Science and Technology (PCAST)","UNC - Chapel Hill"]
+    ["President's Council of Advisors on Science and Technology (PCAST)","UNC - Chapel Hill"]
 ---
 Daniel A. Reed, director of the Renaissance Computing Institute (RENCI), Chancellor's Eminent Professor and Vice-Chancellor for Information Technology at the University of North Carolina at Chapel Hill, will be appointed to the President's Council of Advisors on Science and Technology (PCAST) the White House announced this week.<!--more-->
 

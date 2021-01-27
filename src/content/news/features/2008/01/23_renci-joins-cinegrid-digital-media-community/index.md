@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["3D visualization","collaborative environments"]
+    ["3D visualization","collaborative environments"]
 ---
 CHAPEL HILL, NC, January 23, 2008--A new RENCI partnership will give North Carolina the opportunity to contribute digital films, scientific visualizations, and filmed performances to a worldwide network of high-resolution digital media content.<!--more-->
 

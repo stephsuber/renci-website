@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["National Science Foundation (NSF)","RENCI at UNC Charlotte","UNC Charlotte Urban Institute"]
+    ["National Science Foundation (NSF)","RENCI at UNC Charlotte","UNC Charlotte Urban Institute"]
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/09/Model-Diagram.jpeg"><img class="alignnone size-large wp-image-6335" title="Model Diagram" src="https://www.renci.org/wp-content/uploads/2010/09/Model-Diagram-630x473.jpg" alt="" width="630" height="473" /></a></p>
 <p>The four organizations that comprise RENCI at UNC Charlotte have been awarded $300,000 from the National Science Foundation to study how land owners’ decision processes affect forest persistence.<!--more--></p>

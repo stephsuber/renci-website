@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Ocracoke"]
+    ["Ocracoke"]
 ---
 <p class="head2">CHAPEL HILL, NC--RENCI’S IBM Blue Gene®/L computing system will double its size and power in February with the addition of another 1,024 compute nodes. The upgraded system, named Ocracoke after the oldest active lighthouse in North Carolina, will consist of 2,048 compute nodes and will have a peak performance of 11.4 teraflops, meaning it will be capable of more than 11 trillion calculations per second.  <!--more--></p>
 Ocracoke runs the Linux operating system, and each node consists of two 700 MHz PowerPC 440 processors with 1 gigabyte (GB) of memory. The system also includes 11 terabytes of disk storage.

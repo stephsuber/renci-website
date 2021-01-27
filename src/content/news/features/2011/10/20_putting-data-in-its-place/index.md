@@ -16,8 +16,11 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Geoanalytics","geographical data research","Gillings School of Global Public Health","Open Geospatial Consortium"]
+    - 
 ---
+
+<!-- tags: ["Geoanalytics","geographical data research","Gillings School of Global Public Health","Open Geospatial Consortium"] -->
+
 <p>[vimeo 30816935]</p>
 
 <p>Understanding data often requires understanding the geography associated with it.</p>

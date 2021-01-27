@@ -16,8 +16,9 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Altometrics","Carolina KickStart","Carolina Launch Pad","Dyzen","Kenan-Flagler Business School","Rheomics","UNC Office of Technology Development"]
+    -
 ---
+
 <em><img class="alignleft wp-image-7375 " title="carolina_kickstart_logo" src="https://www.renci.org/wp-content/uploads/2011/04/carolina_kickstart_logo-630x295.jpg" alt="" width="329" height="154" /></em>
 
 Twelve startup companies based on innovations at the University of North Carolina at Chapel Hill will present at the annual Emerging Company Showcase on May 3.
@@ -51,3 +52,9 @@ This event supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina
 <strong>NC TraCS Institute contact:</strong> Michelle Maclay,  (919) 843-5365, <a href="mailto:Michelle_Maclay@med.unc.edu">Michelle_Maclay@med.unc.edu</a>
 
 <strong>News Services contact:</strong> Patric Lane, (919) 962-8596, <a href="mailto:patric_lane@unc.edu">patric_lane@unc.edu</a>
+
+<!--old tags
+
+["Altometrics","Carolina KickStart","Carolina Launch Pad","Dyzen","Kenan-Flagler Business School","Rheomics","UNC Office of Technology Development"]
+
+-->

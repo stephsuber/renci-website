@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["David E. Shaw","molecular dynamics","protein folding","Triangle Computer Science Distinguished Lecture Series (TCSDLS)"]
+    - 
 ---
 
 
@@ -30,3 +30,7 @@ tags:
 <p>Proteins are long chains of amino acids that play a central role in the activities of all living organisms. Understanding how a protein folds into its characteristic three-dimensional structure has long been considered one of the “grand challenge problems” in the field of molecular biology. A number of diseases, including Alzheimer’s, Parkinson’s, cystic fibrosis, and ALS, are associated with the incorrect folding of proteins. Understanding the process of protein folding at an atomic level of detail has the potential to shed light on the origins, and perhaps ultimately the treatment, of such diseases.</p>
 <p>The timescale on which most proteins fold, however, has previously fallen far outside the reach of biomolecular simulation. By vastly accelerating the process of “molecular dynamics” simulation, Anton has allowed scientists at D. E. Shaw Research to observe for the first time the repeated folding and unfolding of proteins, and to answer key questions. These advances led the journal <em>Science</em> to name the machine, and the research it enables, as one of the 10 most important scientific breakthroughs of 2010.</p>
 <p>Dr. Shaw received his Ph.D. from Stanford University in 1980, served on the faculty of the computer science department at Columbia University until 1986, and founded the D. E. Shaw group in 1988. Since 2001, he has devoted his time to hands-on computational biochemistry research at D. E. Shaw Research. Shaw was appointed to the President’s Council of Advisors on Science and Technology by President Clinton in 1994, and again by President Obama in 2009. He was elected to the National Academy of Engineering in 2012, and is a fellow of the American Academy of Arts and Sciences and a winner of the Gordon Bell Prize.</p>
+
+<!-- old tags
+    ["David E. Shaw","molecular dynamics","protein folding","Triangle Computer Science Distinguished Lecture Series (TCSDLS)"]
+-->

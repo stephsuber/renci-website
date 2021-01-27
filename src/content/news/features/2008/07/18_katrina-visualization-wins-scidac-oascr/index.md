@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    - ["Gary Lackmann","SCiDAC","Weather Research Forecast (WRF)"]
+    ["Gary Lackmann","SCiDAC","Weather Research Forecast (WRF)"]
 ---
 <p>CHAPEL HILL, NC, July 18, 2008 –It wasn’t quite an Oscar, but a RENCI visualization by Steve Chall and Theresa-Marie Rhyne of RENCI’s NC State engagement center won top honors at the annual meeting of the U.S. Department of Energy’s Scientific Discovery through Advanced Computing (SciDAC) program held in Seattle July 13 – 17. <!--more--></p>
 <p>The visualization, a Weather Research Forecast (WRF) model of Hurricane Katrina, is the work of Gary Lackmann, an associate professor in NC State’s department of Marine, Earth and Atmospheric Sciences, and Megan Gentry, a doctoral student and member of Lackmann’s research team.</p>
