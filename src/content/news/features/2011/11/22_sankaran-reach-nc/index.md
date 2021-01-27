@@ -16,7 +16,7 @@ teams:
 collaborations:
     - 
 tags:
-    "NC State University","REACH NC","UNC - Chapel Hill"]
+    ["NC State University","REACH NC","UNC - Chapel Hill"]
 ---
 <p><img class="alignnone size-full wp-image-8560" title="REACH NC" src="https://www.renci.org/wp-content/uploads/2011/11/reach-nc-logo.jpg" alt="" width="630" height="221" /></p>
 
