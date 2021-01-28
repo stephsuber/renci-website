@@ -1,19 +1,11 @@
 import React, { Fragment } from 'react'
 import { graphql, Link } from 'gatsby'
-import { navigate, useLocation } from '@reach/router'
 import { Container, Hero, HorizontalRule, Section } from '../components/layout'
 import { Meta, Title, Subtitle } from '../components/typography'
 import { ArrowLink } from '../components/link'
 import { Tag, Tags } from '../components/news/tag'
 import { Label } from '../components/news/label'
 import { NewsDate } from '../components/news/news-date'
-
-const PreviousArticleLink = ({ title, path }) => (
-  <Fragment>
-    <ArrowLink to={ path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
-    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
-  </Fragment>
-)
 
 const filtersUrl = (params, basePath = '/news') => {
   if (Object.values(params).join('') === '')
@@ -24,6 +16,13 @@ const filtersUrl = (params, basePath = '/news') => {
   return basePath + '?' + q
 }
 
+const PreviousArticleLink = ({ title, path }) => (
+  <Fragment>
+    <ArrowLink to={ path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
+    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
+  </Fragment>
+)
+
 const NextArticleLink = ({ title, path }) => (
   <Fragment>
     <ArrowLink to={ path } text="NEXT ARTICLE" arrowPlacement="right" />
@@ -32,7 +31,6 @@ const NextArticleLink = ({ title, path }) => (
 )
 
 export default ({ data, pageContext }) => {
-  const location = useLocation()
   const { article: {
     frontmatter: {
       title, subtitle, publishDate, author, featuredImage,
