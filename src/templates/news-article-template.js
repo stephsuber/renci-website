@@ -19,14 +19,14 @@ const filtersUrl = (params, basePath = '/news') => {
 const PreviousArticleLink = ({ title, path }) => (
   <Fragment>
     <ArrowLink to={ path } text="PREVIOUS ARTICLE" arrowPlacement="left" />
-    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
+    <Meta>{ title }</Meta>
   </Fragment>
 )
 
 const NextArticleLink = ({ title, path }) => (
   <Fragment>
     <ArrowLink to={ path } text="NEXT ARTICLE" arrowPlacement="right" />
-    <Meta style={{ paddingLeft: '1rem' }}>{ title }</Meta>
+    <Meta>{ title }</Meta>
   </Fragment>
 )
 
@@ -105,7 +105,7 @@ export default ({ data, pageContext }) => {
 
         <HorizontalRule />
 
-        <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-between', padding: '1rem 0' }}>
+        <div style={{ display: 'flex', gap: '1rem', flexDirection: 'row', justifyContent: 'space-between', padding: '1rem' }}>
           <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start' }}>
             { prevArticle && <PreviousArticleLink title={ prevArticle.frontmatter.title } path={ prevArticle.fields.path } /> }
           </div>

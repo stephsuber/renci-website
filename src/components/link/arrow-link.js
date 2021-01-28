@@ -6,20 +6,28 @@ import { Icon } from '../icon'
 
 const Wrapper = styled.span(({ theme, float }) => `
   float: ${ float ? float : 'none' };
+  position: relative;
   & .icon {
     fill: ${ theme.color.darkgrey };
     padding-top: 2px;
     transform-origin: 50% 50%;
     transition: transform 100ms, opacity 250ms;
-    opacity: 0.25;
+    // opacity: 0.25;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) scale(0.9);
   }
-  & .icon-left { transform: scale(0.9); }
-  & .icon-right { transform: scale(0.9); }
+  & .icon-left {
+    right: 100%;
+  }
+  & .icon-right {
+    left: 100%;
+  }
   &:hover, &:focus {
     transition: transform 250ms, opacity 100ms;
     & .icon { opacity: 1.0; }
-    & .icon-left { transform: scale(1.0) translateX(-0.2rem); }
-    & .icon-right { transform: scale(1.0) translateX(0.2rem); }
+    & .icon-left { transform: translateY(-50%) scale(1.0) translateX(-0.2rem); }
+    & .icon-right { transform: translateY(-50%) scale(1.0) translateX(0.2rem); }
   }
 `)
 
