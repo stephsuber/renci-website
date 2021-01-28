@@ -18,16 +18,18 @@ const PageLink = styled(Link)(({ theme }) => `
   min-width: 2rem;
   text-align: center;
   border-radius 4px;
-  font-size: 80%;
-  transition: background-color 500ms, color 250ms;
+  font-size: 90%;
+  transition: background-color 500ms, color 250ms, transform 250ms;
   display: flex;
   justify-content: center;
   align-items: center;
+  transform: scale(0.9);
   &:hover {
     background-color: ${ theme.color.lightgrey };
   }
   &.active {
-    transition: background-color 250ms, color 250ms;
+    transform: scale(1.0);
+    transition: background-color 250ms, color 250ms, transform 250ms;
     background-color: ${ theme.color.grey };
     color: ${ theme.color.white };
   }
