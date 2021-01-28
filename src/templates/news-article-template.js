@@ -52,6 +52,11 @@ export default ({ data, pageContext }) => {
     // turn into array of objects with shape { id, name, path }
     .map(item => {
       switch (item.__typename) {
+        // case 'GroupsYaml':
+        // case 'CollaborationsYaml':
+        //   return ({ id: item.id, name: item.name, path: filtersUrl({ group: item.id }) })
+        // case 'ProjectsYaml':
+        //   return ({ id: item.id, name: item.name, path: filtersUrl({ project: item.id }) })
         case 'PeopleYaml':
           return ({ id: item.id, name: item.fullName, path: item.fields.path })
         case 'OrganizationsYaml':

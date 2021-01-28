@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, useMemo, useState } from 'react'
 import { SEO } from '../components/seo'
 import styled, { useTheme } from 'styled-components'
-import { useLocation } from '@reach/router'
+import { navigate, useLocation } from '@reach/router'
 import { Container, Section, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
 import { useNews, useWindow } from '../hooks'
@@ -58,8 +58,7 @@ const NewsPage = () => {
   const [paginationRadius, setPaginationRadius] = useState(PAGINATION_RADIUS.mobile)
 
   const changeFilterSelect = filterKey => event => {
-    setFilters({ ...filters, [filterKey]: event.target.value })
-    setPage(1)
+    navigate(filtersUrl({ ...filters, page: 1, [filterKey]: event.target.value }))
   }
 
   const clearFilters = event => {
@@ -75,9 +74,9 @@ const NewsPage = () => {
     const queryParams = new URLSearchParams(location.search)
     const queryPage = +queryParams.get('page') || 1
     const queryGroup = queryParams.get('group') || ''
+    const queryProject = queryParams.get('project') || ''
     const queryTopic = queryParams.get('topic') || ''
-    setPage(queryPage)
-    setFilters({ ...filters, group: queryGroup, topic: queryTopic })
+    setFilters({ ...filters, page: queryPage, group: queryGroup, project: queryProject, topic: queryTopic })
   }, [location.search])
 
   useEffect(() => {
@@ -134,7 +133,7 @@ const NewsPage = () => {
           }
         </Section>
 
-        <PaginationTray />
+        { pageCount > 0 && <PaginationTray /> }
 
         <br />
 
