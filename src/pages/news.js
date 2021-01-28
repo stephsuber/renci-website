@@ -28,6 +28,13 @@ const FlexHeader = styled.div`
     flex-direction: row;
     align-items: flex-end;
   }
+  & nav svg {
+    transition: opacity 250ms;
+    opacity: 0.4;
+  }
+  &:hover svg {
+    opacity: 1.0;
+  }
 `
 
 const filtersUrl = (params, basePath = '/news') => {
