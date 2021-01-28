@@ -3,7 +3,7 @@ title: "Data Matters Summer Workshops to focus on data issues in business and re
 slug: data-matters-summer-workshop-series-2014
 spotlight: false
 publishDate: 2014-04-04
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

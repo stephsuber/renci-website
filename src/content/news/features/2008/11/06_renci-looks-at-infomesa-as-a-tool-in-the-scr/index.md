@@ -3,7 +3,7 @@ title: "RENCI looks at InfoMesa as a tool in the SCR"
 slug: renci-looks-at-infomesa-as-a-tool-in-the-scr
 spotlight: false
 publishDate: 2008-11-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

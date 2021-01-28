@@ -3,7 +3,7 @@ title: "RENCI at Duke to present workshop on human-computer interaction"
 slug: renci-at-duke-to-present-workshop-on-human-computer-interaction
 spotlight: false
 publishDate: 2008-04-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

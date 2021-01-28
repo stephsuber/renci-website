@@ -3,7 +3,7 @@ title: "RENCI teams with Carolina medical researchers to develop better bioinfor
 slug: renci-teams-with-carolina-medical-researchers-to-develop-better-bioinformatics-tools
 spotlight: false
 publishDate: 2006-01-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

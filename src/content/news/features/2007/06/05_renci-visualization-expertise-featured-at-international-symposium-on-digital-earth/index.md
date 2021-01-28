@@ -3,7 +3,7 @@ title: "RENCI visualization expertise featured at International Symposium on Dig
 slug: renci-visualization-expertise-featured-at-international-symposium-on-digital-earth
 spotlight: false
 publishDate: 2007-06-05
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

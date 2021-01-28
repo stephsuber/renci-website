@@ -3,7 +3,7 @@ title: "NCGENES project recognized as a health IT innovation by NCHICA"
 slug: ncgenes-project-recognized-by-nchica
 spotlight: false
 publishDate: 2013-05-10
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

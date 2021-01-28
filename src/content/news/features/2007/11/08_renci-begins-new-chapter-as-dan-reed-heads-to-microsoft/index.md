@@ -3,7 +3,7 @@ title: "RENCI begins new chapter as Dan Reed heads to Microsoft"
 slug: renci-begins-new-chapter-as-dan-reed-heads-to-microsoft
 spotlight: false
 publishDate: 2007-11-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

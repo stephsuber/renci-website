@@ -3,7 +3,7 @@ title: "IHSS funding to help RENCI evaluate, improve biometric recognition syste
 slug: ihss-funding-help-renci-improve-biometric-recog-sys-dept-homeland-sec
 spotlight: false
 publishDate: 2010-05-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: OpenIO joins iRODS Consortium
 slug: openio-joins-irods
 spotlight: true
 publishDate: 2019-11-14
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: hero.png
 previewImage: preview.png
 groups:

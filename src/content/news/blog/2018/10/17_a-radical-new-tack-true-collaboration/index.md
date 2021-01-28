@@ -3,7 +3,7 @@ title: "A Radical New Tack: True Collaboration"
 slug: a-radical-new-tack-true-collaboration
 spotlight: false
 publishDate: 2018-10-17T15:56:44
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

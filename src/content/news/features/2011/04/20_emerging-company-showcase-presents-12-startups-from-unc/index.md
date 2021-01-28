@@ -3,7 +3,7 @@ title: "Emerging company showcase presents 12 startups from UNC"
 slug: emerging-company-showcase-presents-12-startups-from-unc
 spotlight: false
 publishDate: 2011-04-20
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

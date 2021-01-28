@@ -3,7 +3,7 @@ title: "Techno Being 2050"
 slug: techno-being-2050
 spotlight: false
 publishDate: 2006-09-29
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

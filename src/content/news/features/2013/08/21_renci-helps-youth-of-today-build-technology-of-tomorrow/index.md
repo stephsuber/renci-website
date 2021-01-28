@@ -3,7 +3,7 @@ title: "RENCI helps youth of today build technology of tomorrow"
 slug: renci-helps-youth-of-today-build-technology-of-tomorrow
 spotlight: false
 publishDate: 2013-08-21
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

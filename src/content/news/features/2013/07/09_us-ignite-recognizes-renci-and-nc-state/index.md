@@ -3,7 +3,7 @@ title: "US Ignite recognizes RENCI and NC State for innovative app for monitorin
 slug: us-ignite-recognizes-renci-and-nc-state
 spotlight: false
 publishDate: 2013-07-09
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "PCAST subcommittee delivers draft report"
 slug: pcast-subcommittee-delivers-draft-report
 spotlight: false
 publishDate: 2007-05-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

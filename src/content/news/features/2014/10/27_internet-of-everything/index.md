@@ -3,7 +3,7 @@ title: "What’s bigger than big data? The Internet of Everything"
 slug: internet-of-everything
 spotlight: false
 publishDate: 2014-10-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

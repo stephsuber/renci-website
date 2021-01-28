@@ -3,7 +3,7 @@ title: "NSF campus bridging workshop report now available online"
 slug: nsf-campus-bridging-workshop
 spotlight: false
 publishDate: 2011-05-04
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

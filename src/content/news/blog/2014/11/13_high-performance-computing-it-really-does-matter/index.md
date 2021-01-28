@@ -3,7 +3,7 @@ title: "High performance computing: It really does matter"
 slug: high-performance-computing-it-really-does-matter
 spotlight: false
 publishDate: 2014-11-13T15:20:23
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

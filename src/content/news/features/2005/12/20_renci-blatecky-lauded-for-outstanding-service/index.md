@@ -3,7 +3,7 @@ title: "RENCI's Blatecky lauded for outstanding service"
 slug: renci-blatecky-lauded-for-outstanding-service
 spotlight: false
 publishDate: 2005-12-20
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "Ocracoke doubles its power"
 slug: ocracoke-doubles-its-power
 spotlight: false
 publishDate: 2008-01-17
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

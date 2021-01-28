@@ -3,7 +3,7 @@ title: "REACH NC Resource Finder expands capabilities of successful statewide re
 slug: reach-nc-resource-finder-expands-capabilities-of-successful-statewide-researcher-portal
 spotlight: false
 publishDate: 2014-06-24
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

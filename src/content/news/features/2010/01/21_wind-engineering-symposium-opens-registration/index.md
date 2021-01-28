@@ -3,7 +3,7 @@ title: "Wind Engineering Symposium opens registration"
 slug: wind-engineering-symposium-opens-registration
 spotlight: false
 publishDate: 2010-01-21
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

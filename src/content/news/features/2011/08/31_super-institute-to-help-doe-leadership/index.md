@@ -3,7 +3,7 @@ title: "SUPER Institute to help scientists exploit DOE leadership class computin
 slug: super-institute-to-help-doe-leadership
 spotlight: false
 publishDate: 2011-08-31
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

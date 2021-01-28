@@ -3,7 +3,7 @@ title: "RENCI joins CineGrid digital media community"
 slug: renci-joins-cinegrid-digital-media-community
 spotlight: false
 publishDate: 2008-01-23
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

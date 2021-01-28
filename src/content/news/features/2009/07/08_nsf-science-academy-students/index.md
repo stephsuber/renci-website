@@ -3,7 +3,7 @@ title: "NSF Science Academy students get hands-on look at RENCI visualization sy
 slug: nsf-science-academy-students
 spotlight: false
 publishDate: 2009-07-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "RENCI hits Top 500 list"
 slug: renci-hits-top-500-list
 spotlight: false
 publishDate: 2006-07-05
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

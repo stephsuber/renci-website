@@ -3,7 +3,7 @@ title: "RENCI-Duke project aims to use data to improve medical treatment decisio
 slug: renci-duke-project-improve-medical-treatment
 spotlight: false
 publishDate: 2011-07-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

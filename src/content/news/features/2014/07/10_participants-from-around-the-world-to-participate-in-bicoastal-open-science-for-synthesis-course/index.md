@@ -3,7 +3,7 @@ title: "Participants from around the world to participate in bicoastal Open Scie
 slug: participants-from-around-the-world-to-participate-in-bicoastal-open-science-for-synthesis-course
 spotlight: false
 publishDate: 2014-07-10
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

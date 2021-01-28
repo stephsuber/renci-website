@@ -3,7 +3,7 @@ title: "RENCI to demonstrate on-demand resources and provisioning at SC11"
 slug: sc11-orca-demo
 spotlight: false
 publishDate: 2011-11-01
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

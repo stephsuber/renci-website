@@ -3,7 +3,7 @@ title: "A new water view"
 slug: a-new-water-view
 spotlight: false
 publishDate: 2007-08-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

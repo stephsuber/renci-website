@@ -4,7 +4,7 @@ subtitle: iRODS users and consortium members will gather virtually June 9-12
 slug: irods-ugm-2020-expectations
 spotlight: true
 publishDate: 2020-06-08
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 projects:
   - irods

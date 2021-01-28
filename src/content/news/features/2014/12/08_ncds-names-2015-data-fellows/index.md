@@ -3,7 +3,7 @@ title: "National Consortium for Data Science Names 2015 Data Fellows"
 slug: ncds-names-2015-data-fellows
 spotlight: false
 publishDate: 2014-12-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

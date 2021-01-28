@@ -3,7 +3,7 @@ title: "Renowned historian and cyberinfrastructure pioneer to speak March 29"
 slug: renowned-historian-and-cyberinfrastructure-pioneer
 spotlight: false
 publishDate: 2012-03-01
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "North Carolina researchers to demonstrate distributed computing as a def
 slug: nc-researchers-to-demo-distribute-computing-as-a-defense-against-cyber-attacks
 spotlight: false
 publishDate: 2014-06-04
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "The Science of Sound"
 slug: the-science-of-sound
 spotlight: false
 publishDate: 2008-12-30
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

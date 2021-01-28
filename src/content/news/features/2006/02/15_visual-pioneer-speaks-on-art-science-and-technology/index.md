@@ -3,7 +3,7 @@ title: "Visual pioneer speaks on art, science and technology"
 slug: visual-pioneer-speaks-on-art-science-and-technology
 spotlight: false
 publishDate: 2006-02-15
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

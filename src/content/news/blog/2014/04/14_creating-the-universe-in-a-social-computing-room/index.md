@@ -3,7 +3,7 @@ title: "Creating the universe in a Social Computing Room"
 slug: creating-the-universe-in-a-social-computing-room
 spotlight: false
 publishDate: 2014-04-14T12:19:22
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

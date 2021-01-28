@@ -3,7 +3,7 @@ title: "Educators offer tips on making sense of the data revolution"
 slug: educators-offer-tips-on-making-sense-of-the-data-revolution
 spotlight: false
 publishDate: 2017-10-19T12:56:58
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

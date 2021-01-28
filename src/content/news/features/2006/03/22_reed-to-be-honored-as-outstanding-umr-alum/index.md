@@ -3,7 +3,7 @@ title: "Reed to be honored as outstanding UMR alum"
 slug: reed-to-be-honored-as-outstanding-umr-alum
 spotlight: false
 publishDate: 2006-03-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

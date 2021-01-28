@@ -3,7 +3,7 @@ title: "RENCI at Duke Presents Informational Bistro on Hurricanes and Disaster P
 slug: renci-at-duke-presents-informational-bistro-on-hurricanes-and-disaster-planning
 spotlight: false
 publishDate: 2008-08-15
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

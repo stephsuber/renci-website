@@ -3,7 +3,7 @@ title: "RENCI part of Asheville partnership to target climate-related businesses
 slug: renci-part-of-asheville-partnership-to-target-climate-related-businesses
 spotlight: false
 publishDate: 2007-12-20
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

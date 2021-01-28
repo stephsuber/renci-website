@@ -3,7 +3,7 @@ title: "Genetics “bake-off” results to be announced at February meeting"
 slug: genetics-bake-off-results-to-be-announced-at-february-meeting
 spotlight: false
 publishDate: 2006-12-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

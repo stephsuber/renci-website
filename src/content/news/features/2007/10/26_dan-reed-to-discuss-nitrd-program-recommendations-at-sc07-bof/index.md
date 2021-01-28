@@ -3,7 +3,7 @@ title: "Dan Reed to discuss NITRD program recommendations at SC07 BoF"
 slug: dan-reed-to-discuss-nitrd-program-recommendations-at-sc07-bof
 spotlight: false
 publishDate: 2007-10-26
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "RENCI CTO speaks to high school students on the future of computer scien
 slug: renci-cto-speaks-to-high-school-students-on-the-future-of-computer-science
 spotlight: false
 publishDate: 2016-03-04T12:23:08
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

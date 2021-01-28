@@ -3,7 +3,7 @@ title: "Creekside coders create and engage during 'Hour of Code' event"
 slug: creekside-coders-collaborate-and-engage-during-hour-of-code-event
 spotlight: false
 publishDate: 2014-12-18T18:26:01
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

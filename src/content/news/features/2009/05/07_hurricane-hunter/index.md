@@ -3,7 +3,7 @@ title: "Hurricane Hunter"
 slug: hurricane-hunter
 spotlight: false
 publishDate: 2009-05-07
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

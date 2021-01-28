@@ -3,7 +3,7 @@ title: "New RENCI project looks to improve coastal evacuation plans"
 slug: new-renci-project-looks-to-improve-coastal-evacuation-plans
 spotlight: false
 publishDate: 2014-02-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

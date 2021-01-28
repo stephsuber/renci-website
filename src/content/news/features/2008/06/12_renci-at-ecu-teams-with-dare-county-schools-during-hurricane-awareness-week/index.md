@@ -3,7 +3,7 @@ title: "RENCI at ECU teams with Dare County Schools during Hurricane Awareness W
 slug: renci-at-ecu-teams-with-dare-county-schools-during-hurricane-awareness-week
 spotlight: false
 publishDate: 2008-06-12
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

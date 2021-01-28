@@ -3,7 +3,7 @@ title: "Researchers forecast 150% rise in developed land in Triangle/Rocky Mount
 slug: researchers-forecast-150-percent-rise-in-developed-land
 spotlight: false
 publishDate: 2012-03-01
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

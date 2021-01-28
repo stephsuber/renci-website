@@ -3,7 +3,7 @@ title: "To understand human-induced global changes, there’s no place like dome
 slug: no-place-like-dome
 spotlight: false
 publishDate: 2011-10-12
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

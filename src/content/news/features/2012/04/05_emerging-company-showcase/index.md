@@ -3,7 +3,7 @@ title: "Emerging Company Showcase presents 14 UNC startups"
 slug: emerging-company-showcase
 spotlight: false
 publishDate: 2012-04-05
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

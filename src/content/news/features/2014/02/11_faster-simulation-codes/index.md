@@ -3,7 +3,7 @@ title: "Faster simulation codes for the world’s most powerful particle acceler
 slug: faster-simulation-codes
 spotlight: false
 publishDate: 2014-02-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

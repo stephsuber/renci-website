@@ -3,7 +3,7 @@ title: "Carolina Launch Pad welcomes Rheomics, Inc."
 slug: rheomics-inc
 spotlight: false
 publishDate: 2010-11-15
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

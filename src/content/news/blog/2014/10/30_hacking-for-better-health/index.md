@@ -3,7 +3,7 @@ title: "Hacking for better health"
 slug: hacking-for-better-health
 spotlight: false
 publishDate: 2014-10-30T15:12:47
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

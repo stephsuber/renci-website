@@ -3,7 +3,7 @@ title: "Carolina Launch Pad seeks campus entrepreneurs for 2012-2013 program yea
 slug: carolina-launch-pad-2012-13
 spotlight: false
 publishDate: 2012-03-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

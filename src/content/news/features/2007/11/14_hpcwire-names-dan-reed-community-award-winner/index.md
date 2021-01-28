@@ -3,7 +3,7 @@ title: "HPCwire names Dan Reed community award winner"
 slug: hpcwire-names-dan-reed-community-award-winner
 spotlight: false
 publishDate: 2007-11-14
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

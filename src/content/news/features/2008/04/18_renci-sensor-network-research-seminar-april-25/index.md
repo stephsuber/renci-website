@@ -3,7 +3,7 @@ title: "RENCI sensor network research seminar April 25"
 slug: renci-sensor-network-research-seminar-april-25
 spotlight: false
 publishDate: 2008-04-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

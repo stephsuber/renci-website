@@ -3,7 +3,7 @@ title: "Putting data in its place"
 slug: putting-data-in-its-place-3
 spotlight: false
 publishDate: 2014-07-24
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

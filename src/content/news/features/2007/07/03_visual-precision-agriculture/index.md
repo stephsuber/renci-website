@@ -3,7 +3,7 @@ title: "Visual Precision Agriculture"
 slug: visual-precision-agriculture
 spotlight: false
 publishDate: 2007-07-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

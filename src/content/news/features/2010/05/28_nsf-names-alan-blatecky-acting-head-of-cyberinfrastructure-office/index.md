@@ -3,7 +3,7 @@ title: "NSF names Alan Blatecky acting head of cyberinfrastructure office"
 slug: nsf-names-alan-blatecky-acting-head-of-cyberinfrastructure-office
 spotlight: false
 publishDate: 2010-05-28
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

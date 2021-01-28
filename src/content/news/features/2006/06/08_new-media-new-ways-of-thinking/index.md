@@ -3,7 +3,7 @@ title: "New media, new ways of thinking"
 slug: new-media-new-ways-of-thinking
 spotlight: false
 publishDate: 2006-06-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "NCEMA conference to reveal new disaster management tools"
 slug: ncema-conference-to-reveal-new-disaster-management-tools
 spotlight: false
 publishDate: 2009-03-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

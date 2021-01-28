@@ -3,7 +3,7 @@ title: "Open Science Grid launches effort to build new cyber communities"
 slug: open-science-grid-launches-effort-to-build-new-cyber-communities
 spotlight: false
 publishDate: 2008-04-15
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

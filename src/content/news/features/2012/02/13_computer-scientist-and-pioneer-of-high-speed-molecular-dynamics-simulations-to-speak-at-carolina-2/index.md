@@ -3,7 +3,7 @@ title: "Computer scientist and pioneer of high-speed molecular dynamics simulati
 slug: computer-scientist-and-pioneer-of-high-speed-molecular-dynamics-simulations-to-speak-at-carolina-2
 spotlight: false
 publishDate: 2012-02-13
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

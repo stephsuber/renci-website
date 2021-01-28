@@ -3,7 +3,7 @@ title: "RENCI, Duke, HASTAC sponsor new media conference"
 slug: renci-duke-hastac-sponsor-new-media-conference
 spotlight: false
 publishDate: 2006-04-25
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

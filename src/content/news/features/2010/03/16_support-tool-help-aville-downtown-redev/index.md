@@ -3,7 +3,7 @@ title: "New decision support tool to help Asheville with downtown redevelopment"
 slug: support-tool-help-aville-downtown-redev
 spotlight: false
 publishDate: 2010-03-16
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

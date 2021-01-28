@@ -3,7 +3,7 @@ title: "RENCI partners on two DOE SciDAC awards"
 slug: renci-partners-on-two-doe-scidac-awards
 spotlight: false
 publishDate: 2006-09-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

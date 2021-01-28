@@ -3,7 +3,7 @@ title: "World's first intercontinental 100 gbps link for research and education 
 slug: worlds-first-intercontinental-100-gbps-link-for-research-and-education-demonstrated-at-terena-networking-conference
 spotlight: false
 publishDate: 2013-06-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

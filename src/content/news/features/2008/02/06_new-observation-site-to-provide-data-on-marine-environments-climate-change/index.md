@@ -3,7 +3,7 @@ title: "New observation site to provide data on marine environments, climate cha
 slug: new-observation-site-to-provide-data-on-marine-environments-climate-change
 spotlight: false
 publishDate: 2008-02-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

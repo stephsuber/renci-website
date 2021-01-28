@@ -3,7 +3,7 @@ title: "ROBOKOP technology offers faster, easier exploration of emerging COVID-1
 slug: robokop-technology-offers-faster-easier-exploration-of-emerging-covid-19-research
 spotlight: false
 publishDate: 2020-07-14T14:33:42
-author: jayasree-jaganatha
+author: ["jayasree-jaganatha"]
 featuredImage: null
 groups:
     - 

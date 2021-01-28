@@ -3,7 +3,7 @@ title: "NSF BIG DATA grant winners include RENCI and UNC researcher"
 slug: nsf-big-data-grant-winners-include-renci-and-unc-researcher
 spotlight: false
 publishDate: 2012-10-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

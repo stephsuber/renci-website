@@ -3,7 +3,7 @@ title: "Women to show their data science chops at 2018 WiDS conference"
 slug: women-to-show-their-data-science-chops-at-2018-wids-conference
 spotlight: false
 publishDate: 2018-03-02T15:19:01
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

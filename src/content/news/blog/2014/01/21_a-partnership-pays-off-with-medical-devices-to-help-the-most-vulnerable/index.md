@@ -3,7 +3,7 @@ title: "A partnership pays off with medical devices to help the most vulnerable"
 slug: a-partnership-pays-off-with-medical-devices-to-help-the-most-vulnerable
 spotlight: false
 publishDate: 2014-01-21T13:14:25
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

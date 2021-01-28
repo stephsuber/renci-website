@@ -3,7 +3,7 @@ title: "Carolina Launch Pad alumni win Small Business Innovation grant"
 slug: launch-pad-alum-innovation-grant
 spotlight: false
 publishDate: 2011-01-25
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

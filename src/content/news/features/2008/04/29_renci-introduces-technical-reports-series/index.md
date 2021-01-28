@@ -3,7 +3,7 @@ title: "RENCI introduces technical reports series"
 slug: renci-introduces-technical-reports-series
 spotlight: false
 publishDate: 2008-04-29
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

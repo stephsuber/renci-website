@@ -3,7 +3,7 @@ title: "DH Press featured in “Cedars in the Pines” exhibit at the N.C. Museu
 slug: dh-press-featured-in-nc-museum-of-history-exhibit
 spotlight: false
 publishDate: 2014-02-21
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

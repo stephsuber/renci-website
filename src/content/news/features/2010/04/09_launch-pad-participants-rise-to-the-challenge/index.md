@@ -3,7 +3,7 @@ title: "Launch Pad participants rise to the challenge"
 slug: launch-pad-participants-rise-to-the-challenge
 spotlight: false
 publishDate: 2010-04-09
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

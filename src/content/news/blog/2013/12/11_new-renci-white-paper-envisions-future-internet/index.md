@@ -3,7 +3,7 @@ title: "New RENCI White Paper Envisions Future Internet"
 slug: new-renci-white-paper-envisions-future-internet
 spotlight: false
 publishDate: 2013-12-11T16:27:55
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

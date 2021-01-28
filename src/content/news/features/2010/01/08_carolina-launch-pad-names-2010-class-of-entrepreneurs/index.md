@@ -3,7 +3,7 @@ title: "Carolina Launch Pad names 2010 class of entrepreneurs"
 slug: carolina-launch-pad-names-2010-class-of-entrepreneurs
 spotlight: false
 publishDate: 2010-01-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "REACH NC selected as top university-based economic development initiativ
 slug: reach-nc-selected
 spotlight: false
 publishDate: 2013-10-30
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

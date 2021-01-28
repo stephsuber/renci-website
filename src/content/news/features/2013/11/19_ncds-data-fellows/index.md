@@ -3,7 +3,7 @@ title: "National Consortium for Data Science awards fellowships to researchers w
 slug: ncds-data-fellows
 spotlight: false
 publishDate: 2013-11-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

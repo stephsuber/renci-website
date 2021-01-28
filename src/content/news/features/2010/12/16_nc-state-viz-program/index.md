@@ -3,7 +3,7 @@ title: "Two NC State research teams to participate in new campus info viz progra
 slug: nc-state-viz-program
 spotlight: false
 publishDate: 2010-12-16
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

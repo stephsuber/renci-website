@@ -3,7 +3,7 @@ title: "UNC scientist: Tropical storms will move Gulf oil"
 slug: unc-scientist-tropical-storms-will-move-gulf-oil
 spotlight: false
 publishDate: 2010-07-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

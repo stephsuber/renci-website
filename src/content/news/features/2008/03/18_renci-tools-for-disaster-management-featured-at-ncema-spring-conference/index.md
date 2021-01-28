@@ -3,7 +3,7 @@ title: "RENCI tools for disaster management featured at NCEMA spring conference"
 slug: renci-tools-for-disaster-management-featured-at-ncema-spring-conference
 spotlight: false
 publishDate: 2008-03-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

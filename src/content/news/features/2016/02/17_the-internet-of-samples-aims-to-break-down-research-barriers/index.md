@@ -3,7 +3,7 @@ title: "The Internet of Samples aims to break down research barriers"
 slug: the-internet-of-samples-aims-to-break-down-research-barriers
 spotlight: false
 publishDate: 2016-02-17
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - earth-data-science

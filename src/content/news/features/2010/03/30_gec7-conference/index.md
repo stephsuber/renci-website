@@ -3,7 +3,7 @@ title: "RENCI and Duke demonstrate network futures at GEC7 conference"
 slug: gec7-conference
 spotlight: false
 publishDate: 2010-03-30
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

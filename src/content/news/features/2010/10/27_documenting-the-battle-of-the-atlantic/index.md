@@ -3,7 +3,7 @@ title: "Documenting the Battle of the Atlantic"
 slug: documenting-the-battle-of-the-atlantic
 spotlight: false
 publishDate: 2010-10-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

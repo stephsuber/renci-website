@@ -3,7 +3,7 @@ title: "Reed to lecture in Second Life"
 slug: reed-to-lecture-in-second-life
 spotlight: false
 publishDate: 2007-03-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

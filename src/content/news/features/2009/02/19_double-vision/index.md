@@ -3,7 +3,7 @@ title: "Double Vision"
 slug: double-vision
 spotlight: false
 publishDate: 2009-02-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

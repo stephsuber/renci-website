@@ -3,7 +3,7 @@ title: "Leading the charge in biomedical visualization"
 slug: leading-the-charge-in-biomedical-visualization
 spotlight: false
 publishDate: 2016-08-27T17:55:27
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

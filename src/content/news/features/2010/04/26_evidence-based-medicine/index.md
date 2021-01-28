@@ -3,7 +3,7 @@ title: "Evidence-based medicine"
 slug: evidence-based-medicine
 spotlight: false
 publishDate: 2010-04-26
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "ECU students sought for second visualization challenge"
 slug: ecu-students-sought-for-second-visualization-challenge
 spotlight: false
 publishDate: 2008-11-24
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

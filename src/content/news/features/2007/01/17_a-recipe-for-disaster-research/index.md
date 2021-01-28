@@ -3,7 +3,7 @@ title: "A recipe for disaster research"
 slug: a-recipe-for-disaster-research
 spotlight: false
 publishDate: 2007-01-17
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

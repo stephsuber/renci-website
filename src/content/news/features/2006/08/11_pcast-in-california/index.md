@@ -3,7 +3,7 @@ title: "PCAST in California"
 slug: pcast-in-california
 spotlight: false
 publishDate: 2006-08-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

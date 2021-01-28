@@ -3,7 +3,7 @@ title: "National Science Foundation taps Carolina researchers to develop nationa
 slug: nsf-datanet
 spotlight: false
 publishDate: 2011-09-28
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

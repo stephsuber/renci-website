@@ -3,7 +3,7 @@ title: "Nature article looks at consortia as a key to kickstarting open science"
 slug: nature-article-looks-at-consortia-as-a-key-to-kickstarting-open-science
 spotlight: false
 publishDate: 2017-04-05T14:40:51
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

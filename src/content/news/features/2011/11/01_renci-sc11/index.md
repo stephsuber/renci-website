@@ -3,7 +3,7 @@ title: "RENCI@SC11, Washington State Convention Center, Seattle"
 slug: renci-sc11
 spotlight: false
 publishDate: 2011-11-01
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

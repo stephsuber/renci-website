@@ -3,7 +3,7 @@ title: "Image analysis project aims to classify characteristics of skin cancers"
 slug: image-analysis-project
 spotlight: false
 publishDate: 2010-09-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

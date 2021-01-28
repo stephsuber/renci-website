@@ -3,7 +3,7 @@ title: "Visualization Challenge examines history, science and more"
 slug: visualization-challenge-examines-history-science-and-more
 spotlight: false
 publishDate: 2009-03-30
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

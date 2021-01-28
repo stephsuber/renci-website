@@ -3,7 +3,7 @@ title: "RENCI Director to appear on UNC-TV"
 slug: renci-director-to-appear-on-unc-tv
 spotlight: false
 publishDate: 2013-10-08T10:02:24
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

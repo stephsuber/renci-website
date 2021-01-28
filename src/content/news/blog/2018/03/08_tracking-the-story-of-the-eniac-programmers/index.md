@@ -3,7 +3,7 @@ title: "Tracking the story of the ENIAC programmers"
 slug: tracking-the-story-of-the-eniac-programmers
 spotlight: false
 publishDate: 2018-03-08T13:10:48
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

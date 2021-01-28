@@ -3,7 +3,7 @@ title: "Training, talks, and a hackathon bring users together for iRODS 2019 Use
 slug: training-talks-and-a-hackathon-bring-users-together-for-irods-2019-user-group-meeting
 spotlight: false
 publishDate: 2019-06-11
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     -

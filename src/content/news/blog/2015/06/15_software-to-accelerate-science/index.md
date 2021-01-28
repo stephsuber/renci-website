@@ -3,7 +3,7 @@ title: "Software to accelerate science"
 slug: software-to-accelerate-science
 spotlight: false
 publishDate: 2015-06-15T10:46:21
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

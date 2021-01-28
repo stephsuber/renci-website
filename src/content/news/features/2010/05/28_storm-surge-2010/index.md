@@ -3,7 +3,7 @@ title: "Storm Surge 2010"
 slug: storm-surge-2010
 spotlight: false
 publishDate: 2010-05-28
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

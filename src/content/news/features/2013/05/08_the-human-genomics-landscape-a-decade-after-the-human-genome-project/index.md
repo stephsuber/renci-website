@@ -3,7 +3,7 @@ title: "Analysis of the human genomics landscape a decade after the Human Genome
 slug: the-human-genomics-landscape-a-decade-after-the-human-genome-project
 spotlight: false
 publishDate: 2013-05-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

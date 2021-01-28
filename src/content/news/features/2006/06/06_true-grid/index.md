@@ -3,7 +3,7 @@ title: "True Grid"
 slug: true-grid
 spotlight: false
 publishDate: 2006-06-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

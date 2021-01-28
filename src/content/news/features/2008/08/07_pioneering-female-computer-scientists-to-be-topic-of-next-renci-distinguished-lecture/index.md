@@ -3,7 +3,7 @@ title: "Pioneering female computer scientists to be topic of next RENCI Distingu
 slug: pioneering-female-computer-scientists-to-be-topic-of-next-renci-distinguished-lecture
 spotlight: false
 publishDate: 2008-08-07
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

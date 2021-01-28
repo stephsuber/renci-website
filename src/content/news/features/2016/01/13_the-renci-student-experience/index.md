@@ -3,7 +3,7 @@ title: "The RENCI student experience"
 slug: the-renci-student-experience
 spotlight: false
 publishDate: 2016-01-13
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - earth-data-science

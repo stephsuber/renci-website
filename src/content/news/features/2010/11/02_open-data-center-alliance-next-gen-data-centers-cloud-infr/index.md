@@ -3,7 +3,7 @@ title: "Open Data Center Alliance sets out to define requirements for next gener
 slug: open-data-center-alliance-next-gen-data-centers-cloud-infr
 spotlight: false
 publishDate: 2010-11-02
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

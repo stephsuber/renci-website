@@ -3,7 +3,7 @@ title: "RENCI participates in NSF Cyber Carpentry workshop to prepare early-care
 slug: renci-participates-in-nsf-cyber-carpentry-workshop-to-prepare-early-career-researchers
 spotlight: false
 publishDate: 2018-08-29T08:45:06
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

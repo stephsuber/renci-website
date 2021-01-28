@@ -3,7 +3,7 @@ title: "A particle of difference"
 slug: a-particle-of-difference
 spotlight: false
 publishDate: 2010-05-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "Carolina Entrepreneurs launch business ideas at RENCI"
 slug: carolina-entrepreneurs-launch-business-ideas-at-renci
 spotlight: false
 publishDate: 2008-12-12
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

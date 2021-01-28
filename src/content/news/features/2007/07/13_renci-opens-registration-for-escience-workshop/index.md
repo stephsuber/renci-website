@@ -3,7 +3,7 @@ title: "RENCI opens registration for eScience workshop"
 slug: renci-opens-registration-for-escience-workshop
 spotlight: false
 publishDate: 2007-07-13
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

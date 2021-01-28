@@ -3,7 +3,7 @@ title: "RENCI's UNC Charlotte partners team up to win NSF land use grant"
 slug: renci-collaborators-leverage-relationships-methods-to-land-important-nsf-grant
 spotlight: false
 publishDate: 2010-09-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

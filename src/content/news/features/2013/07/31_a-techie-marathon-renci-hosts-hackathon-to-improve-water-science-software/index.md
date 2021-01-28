@@ -3,7 +3,7 @@ title: "A techie marathon: RENCI hosts \"Hackathon\" to improve water science so
 slug: a-techie-marathon-renci-hosts-hackathon-to-improve-water-science-software
 spotlight: false
 publishDate: 2013-07-31
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "East Carolina celebrates science at regional festival"
 slug: east-carolina-celebrates-science-at-regional-festival
 spotlight: false
 publishDate: 2010-09-30
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

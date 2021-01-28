@@ -3,7 +3,7 @@ title: "Interview with Stan Ahalt"
 slug: interview-with-stan-ahalt
 spotlight: false
 publishDate: 2009-11-13
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

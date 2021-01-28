@@ -3,7 +3,7 @@ title: "SDSC’s DICE team moves to North Carolina"
 slug: sdscs-dice-team-moves-to-north-carolina
 spotlight: false
 publishDate: 2008-08-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

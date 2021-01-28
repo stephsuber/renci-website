@@ -3,7 +3,7 @@ title: "Coming soon: A &#8220;Facebook for hydrologists&#8221;"
 slug: coming-soon-a-facebook-for-hydrologists
 spotlight: false
 publishDate: 2014-05-30T10:02:12
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

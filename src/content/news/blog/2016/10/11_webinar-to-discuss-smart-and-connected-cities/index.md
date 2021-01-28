@@ -3,7 +3,7 @@ title: "Webinar to discuss smart and connected cities"
 slug: webinar-to-discuss-smart-and-connected-cities
 spotlight: false
 publishDate: 2016-10-11T15:28:22
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

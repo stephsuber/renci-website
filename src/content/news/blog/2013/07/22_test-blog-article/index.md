@@ -3,7 +3,7 @@ title: "Congratulations Mary Whitton!"
 slug: test-blog-article
 spotlight: false
 publishDate: 2013-07-22T09:45:50
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

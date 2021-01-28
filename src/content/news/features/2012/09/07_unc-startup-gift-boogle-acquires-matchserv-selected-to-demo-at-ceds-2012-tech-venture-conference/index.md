@@ -3,7 +3,7 @@ title: "UNC startup Gift Boogle acquires MatchServ, selected to demo at CED's 20
 slug: unc-startup-gift-boogle-acquires-matchserv-selected-to-demo-at-ceds-2012-tech-venture-conference
 spotlight: false
 publishDate: 2012-09-07
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

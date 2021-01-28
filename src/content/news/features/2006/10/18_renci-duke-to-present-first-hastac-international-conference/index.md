@@ -3,7 +3,7 @@ title: "RENCI, Duke to present first HASTAC international conference"
 slug: renci-duke-to-present-first-hastac-international-conference
 spotlight: false
 publishDate: 2006-10-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "New RENCI center at UNC Charlotte to focus on urbanization and regional 
 slug: new-renci-center-at-unc-charlotte-to-focus-on-urbanization-and-regional-growth
 spotlight: false
 publishDate: 2007-10-24
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "iRODS Consortium Welcomes Intel as Newest Member"
 slug: irods-consortium-welcomes-intel-as-newest-member
 spotlight: false
 publishDate: 2017-03-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

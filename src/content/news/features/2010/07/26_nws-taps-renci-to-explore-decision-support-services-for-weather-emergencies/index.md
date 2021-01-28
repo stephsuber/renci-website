@@ -3,7 +3,7 @@ title: "National Weather Service taps RENCI to explore decision support services
 slug: nws-taps-renci-to-explore-decision-support-services-for-weather-emergencies
 spotlight: false
 publishDate: 2010-07-26
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

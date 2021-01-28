@@ -3,7 +3,7 @@ title: "RENCI collaborates on award-winning paper"
 slug: renci-collaborates-on-award-winning-paper
 spotlight: false
 publishDate: 2013-09-16T13:55:00
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

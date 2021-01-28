@@ -3,7 +3,7 @@ title: "RENCI hosts Open House to introduce new Duke Engagement Center to campus
 slug: renci-hosts-open-house-to-introduce-new-duke-engagement-center-to-campus-community
 spotlight: false
 publishDate: 2008-09-16
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

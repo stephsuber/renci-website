@@ -3,7 +3,7 @@ title: "Green Team Meets at RENCI"
 slug: green-team-meets-at-renci
 spotlight: false
 publishDate: 2014-01-27T22:24:33
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "An eye on Earl"
 slug: an-eye-on-earl
 spotlight: false
 publishDate: 2010-08-31
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

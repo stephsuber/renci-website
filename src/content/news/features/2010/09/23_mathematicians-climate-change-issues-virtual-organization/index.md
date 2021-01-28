@@ -3,7 +3,7 @@ title: "Mathematicians to tackle climate change issues through new NSF-funded vi
 slug: mathematicians-climate-change-issues-virtual-organization
 spotlight: false
 publishDate: 2010-09-23
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

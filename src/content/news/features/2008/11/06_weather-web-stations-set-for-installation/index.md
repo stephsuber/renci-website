@@ -3,7 +3,7 @@ title: "Weather Web stations set for installation"
 slug: weather-web-stations-set-for-installation
 spotlight: false
 publishDate: 2008-11-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

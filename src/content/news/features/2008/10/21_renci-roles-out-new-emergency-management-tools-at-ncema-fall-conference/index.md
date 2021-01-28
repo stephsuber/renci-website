@@ -3,7 +3,7 @@ title: "RENCI roles out new emergency management tools at NCEMA fall conference"
 slug: renci-roles-out-new-emergency-management-tools-at-ncema-fall-conference
 spotlight: false
 publishDate: 2008-10-21
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

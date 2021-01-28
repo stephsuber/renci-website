@@ -3,7 +3,7 @@ title: "Computational Matchmaking"
 slug: computational-matchmaking
 spotlight: false
 publishDate: 2007-09-17
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

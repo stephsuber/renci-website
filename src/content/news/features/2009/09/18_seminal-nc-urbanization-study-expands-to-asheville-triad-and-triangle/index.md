@@ -3,7 +3,7 @@ title: "Seminal NC urbanization study expands to Asheville, Triad and Triangle"
 slug: seminal-nc-urbanization-study-expands-to-asheville-triad-and-triangle
 spotlight: false
 publishDate: 2009-09-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

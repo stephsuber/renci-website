@@ -3,7 +3,7 @@ title: "DataBridge tackles the problem of \u2018dark data'"
 slug: databridge-tackles-the-problem-of-dark-data
 spotlight: false
 publishDate: 2016-09-12T16:45:22
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

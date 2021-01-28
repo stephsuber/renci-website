@@ -3,7 +3,7 @@ title: "REACH NC named an Awards of Excellence finalist"
 slug: reach-nc-is-an-awards-finalist
 spotlight: false
 publishDate: 2013-08-08T12:18:52
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

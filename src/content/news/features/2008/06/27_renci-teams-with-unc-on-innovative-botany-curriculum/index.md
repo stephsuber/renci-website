@@ -3,7 +3,7 @@ title: "RENCI Teams with UNC on Innovative Botany Curriculum"
 slug: renci-teams-with-unc-on-innovative-botany-curriculum
 spotlight: false
 publishDate: 2008-06-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

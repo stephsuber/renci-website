@@ -3,7 +3,7 @@ title: "Making genomes make sense"
 slug: making-genomes-make-sense
 spotlight: false
 publishDate: 2012-07-27
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "RENCI takes flight"
 slug: renci-takes-flight-2
 spotlight: false
 publishDate: 2006-12-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

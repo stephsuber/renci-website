@@ -3,7 +3,7 @@ title: "RENCI staff to present at International Conference"
 slug: renci-staff-to-present-at-international-conference
 spotlight: false
 publishDate: 2013-08-05T13:43:02
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

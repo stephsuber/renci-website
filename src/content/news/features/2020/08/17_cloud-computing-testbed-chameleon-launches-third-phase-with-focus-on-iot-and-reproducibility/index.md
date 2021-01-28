@@ -5,7 +5,7 @@ slug: cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-a
 link: https://renci.org/news/cloud-computing-testbed-chameleon-launches-third-phase-with-focus-on-iot-and-reproducibility/
 spotlight: false
 publishDate: 2020-08-17T06:25:09
-author: stephanie-suber
+author: ["stephanie-suber", "jayasree-jaganatha"]
 featuredImage: null
 groups:
     - nrig

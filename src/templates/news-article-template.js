@@ -88,7 +88,14 @@ export default ({ data, pageContext }) => {
 
           <Meta>
             Published on { publishDate } <br />
-            { author && <span>Author: <Link to={ `/people/${ author.id }` }>{ author.fullName }</Link></span> }
+            {
+              author && (
+                <span>
+                  Author{ author.length > 1 && `s` }:&nbsp;
+                  { author.map((a, i) => <Fragment><Link to={ `/people/${ a.id }` }>{ a.fullName }</Link>{ i + 1 < author.length ? ', ' : '.' }</Fragment>) }
+                </span>
+              )
+            }
           </Meta>
 
           <br />

@@ -3,7 +3,7 @@ title: "Flood sensors to aid county in evacuation planning"
 slug: flood-sensors-to-aid-county-in-evacuation-planning
 spotlight: false
 publishDate: 2007-09-05
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

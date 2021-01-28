@@ -3,7 +3,7 @@ title: "RENCI 2.0 is here"
 slug: renci-20-is-here
 spotlight: false
 publishDate: 2009-02-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

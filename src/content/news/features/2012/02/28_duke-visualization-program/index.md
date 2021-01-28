@@ -3,7 +3,7 @@ title: "RENCI seeks proposals for Duke visualization program"
 slug: duke-visualization-program
 spotlight: false
 publishDate: 2012-02-28
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

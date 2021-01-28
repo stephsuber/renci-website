@@ -3,7 +3,7 @@ title: "Hacking for the public good"
 slug: hacking-for-the-public-good
 spotlight: false
 publishDate: 2014-03-12T15:48:09
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

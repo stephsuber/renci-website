@@ -3,7 +3,7 @@ title: "Catch a wave"
 slug: catch-a-wave
 spotlight: false
 publishDate: 2011-04-20
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

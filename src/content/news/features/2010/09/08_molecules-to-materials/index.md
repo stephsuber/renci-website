@@ -3,7 +3,7 @@ title: "Molecules to Materials"
 slug: molecules-to-materials
 spotlight: false
 publishDate: 2010-09-08
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

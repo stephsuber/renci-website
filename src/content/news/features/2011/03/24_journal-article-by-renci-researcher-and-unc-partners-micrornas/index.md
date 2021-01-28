@@ -3,7 +3,7 @@ title: "Journal article by RENCI researcher and UNC partners explores properties
 slug: journal-article-by-renci-researcher-and-unc-partners-micrornas
 spotlight: false
 publishDate: 2011-03-24
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "RENCI Sponsors TEDxUNC Conference"
 slug: renci-sponsors-tedxunc-conference
 spotlight: false
 publishDate: 2014-02-04T14:52:59
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "NC-FIRST goes mobile"
 slug: nc-first-goes-mobile
 spotlight: false
 publishDate: 2009-03-10
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

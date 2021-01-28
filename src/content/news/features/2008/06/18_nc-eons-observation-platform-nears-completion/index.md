@@ -3,7 +3,7 @@ title: "NC-EONS observation platform nears completion"
 slug: nc-eons-observation-platform-nears-completion
 spotlight: false
 publishDate: 2008-06-18
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

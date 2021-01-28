@@ -3,7 +3,7 @@ title: "Grant helps REALTROMINS, RENCI develop medical devices to aid critically
 slug: grant-helps-realtromins-renci-develop-medical-devices-to-aid-critically-ill-children
 spotlight: false
 publishDate: 2008-02-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

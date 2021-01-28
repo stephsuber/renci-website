@@ -3,7 +3,7 @@ title: "The future perfect storm"
 slug: the-future-perfect-storm
 spotlight: false
 publishDate: 2008-03-06
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "Software skills for scientists"
 slug: software-skills-for-scientists
 spotlight: false
 publishDate: 2014-08-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

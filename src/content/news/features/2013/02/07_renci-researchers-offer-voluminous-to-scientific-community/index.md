@@ -3,7 +3,7 @@ title: "RENCI researchers offer Voluminous to scientific community"
 slug: renci-researchers-offer-voluminous-to-scientific-community
 spotlight: false
 publishDate: 2013-02-07
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

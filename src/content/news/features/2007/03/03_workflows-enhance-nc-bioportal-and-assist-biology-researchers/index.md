@@ -3,7 +3,7 @@ title: "Workflows enhance NC bioportal and assist biology researchers"
 slug: workflows-enhance-nc-bioportal-and-assist-biology-researchers
 spotlight: false
 publishDate: 2007-03-03
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

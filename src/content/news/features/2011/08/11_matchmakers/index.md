@@ -3,7 +3,7 @@ title: "Matchmakers"
 slug: matchmakers
 spotlight: false
 publishDate: 2011-08-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

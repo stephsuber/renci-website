@@ -3,7 +3,7 @@ title: "RENCI&#8217;s Social Computing Room in Action"
 slug: rencis-social-computing-room-in-action
 spotlight: false
 publishDate: 2013-12-12T17:01:40
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

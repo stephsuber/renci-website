@@ -3,7 +3,7 @@ title: "RENCI to help lead effort to make cancer research data more useful and a
 slug: renci-to-help-lead-effort-to-make-cancer-research-data-more-useful-and-accessible
 spotlight: false
 publishDate: 2019-10-17
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - analytics

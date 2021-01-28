@@ -3,7 +3,7 @@ title: "Director hired to lead development of statewide portal for university re
 slug: sankaran-reach-nc
 spotlight: false
 publishDate: 2011-11-22
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

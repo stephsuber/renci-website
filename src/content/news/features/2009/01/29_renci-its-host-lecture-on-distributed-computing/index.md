@@ -3,7 +3,7 @@ title: "RENCI, ITS host lecture on distributed computing"
 slug: renci-its-host-lecture-on-distributed-computing
 spotlight: false
 publishDate: 2009-01-29
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

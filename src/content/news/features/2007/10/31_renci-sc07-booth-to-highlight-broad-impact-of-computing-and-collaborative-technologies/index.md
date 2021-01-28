@@ -3,7 +3,7 @@ title: "RENCI SC07 booth to highlight broad impact of computing and collaborativ
 slug: renci-sc07-booth-to-highlight-broad-impact-of-computing-and-collaborative-technologies
 spotlight: false
 publishDate: 2007-10-31
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

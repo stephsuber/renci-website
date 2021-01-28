@@ -3,7 +3,7 @@ title: "RENCI researchers spearhead $20 million project to test a reimagined Int
 slug: fabric-award
 spotlight: false
 publishDate: 2019-09-17
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - nrig

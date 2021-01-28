@@ -3,7 +3,7 @@ title: "Muscles in Motion"
 slug: muscles-in-motion
 spotlight: false
 publishDate: 2007-05-11
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

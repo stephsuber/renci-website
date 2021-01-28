@@ -3,7 +3,7 @@ title: "SUSE joins the iRODS Consortium"
 slug: suse-joins-the-irods-consortium
 spotlight: false
 publishDate: 2019-07-18
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

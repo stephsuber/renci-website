@@ -3,7 +3,7 @@ title: "RENCI makes an impact at fall AGU meeting"
 slug: renci-makes-an-impact-at-fall-agu-meeting
 spotlight: false
 publishDate: 2017-12-14T15:13:45
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "iRODS Consortium welcomes UK’s Sanger Institute as newest member"
 slug: irods-consortium-welcomes-sanger-institute
 spotlight: false
 publishDate: 2014-02-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

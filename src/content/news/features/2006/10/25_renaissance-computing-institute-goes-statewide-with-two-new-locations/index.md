@@ -3,7 +3,7 @@ title: "Renaissance Computing Institute goes statewide with two new locations"
 slug: renaissance-computing-institute-goes-statewide-with-two-new-locations
 spotlight: false
 publishDate: 2006-10-25
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

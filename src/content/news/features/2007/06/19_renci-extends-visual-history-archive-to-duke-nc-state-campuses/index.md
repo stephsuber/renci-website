@@ -3,7 +3,7 @@ title: "RENCI extends visual history archive to Duke, NC State campuses"
 slug: renci-extends-visual-history-archive-to-duke-nc-state-campuses
 spotlight: false
 publishDate: 2007-06-19
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

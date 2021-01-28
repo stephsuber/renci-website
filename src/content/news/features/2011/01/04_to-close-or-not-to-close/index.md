@@ -3,7 +3,7 @@ title: "To close or not to close"
 slug: to-close-or-not-to-close
 spotlight: false
 publishDate: 2011-01-04
-author: subers
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 

@@ -3,7 +3,7 @@ title: "Research Triangle Analysts at RENCI: Topological Data Analysis"
 slug: research-triangle-analysts-at-renci-topological-data-analysis
 spotlight: false
 publishDate: 2016-02-04T10:02:37
-author: stephanie-suber
+author: ["stephanie-suber"]
 featuredImage: null
 groups:
     - 
