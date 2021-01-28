@@ -41,7 +41,7 @@ export const PaginationTray = () => {
     <Wrapper>
       <PageLink to={ filtersUrl({ page: 1, ...filters }) }><Icon icon="first-page" /></PageLink>
       <PageLink to={ filtersUrl({ page: prevPage, ...filters }) }><Icon icon="chevron-left" /></PageLink>
-      <Icon icon="ellipsis" fill={ page > paginationRadius + 1 ? '#ccc' : 'transparent' } />
+      <Icon icon="ellipsis" fill={ pageCount > 2 * paginationRadius + 1 && page > paginationRadius + 1 ? '#ccc' : 'transparent' } />
 
       {
         [...Array(pageCount).keys()].map(index => {
@@ -78,7 +78,7 @@ export const PaginationTray = () => {
           )
         })
       }
-      <Icon icon="ellipsis" fill={ pageCount > 2 * paginationRadius - 1 && page < pageCount - paginationRadius ? '#ccc' : 'transparent' } />
+      <Icon icon="ellipsis" fill={ pageCount > 2 * paginationRadius + 1 && pageCount > 2 * paginationRadius - 1 && page < pageCount - paginationRadius ? '#ccc' : 'transparent' } />
       <PageLink to={ filtersUrl({ page: nextPage, ...filters }) }><Icon icon="chevron-right" /></PageLink>
       <PageLink to={ filtersUrl({ page: pageCount, ...filters }) }><Icon icon="last-page" /></PageLink>
     </Wrapper>
