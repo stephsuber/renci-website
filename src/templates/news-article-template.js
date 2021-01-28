@@ -62,7 +62,7 @@ export default ({ data, pageContext }) => {
     })
     .concat(tags.map((item, i) => ({ id: item.id, name: item.name, path: filtersUrl({ topic: item.id }) })))
     // alphabetize
-    .sort((t, u) => t.name < u.name ? -1 : 1)
+    .sort((t, u) => t.name.toLowerCase() < u.name.toLowerCase() ? -1 : 1)
 
   return (
     <Fragment>
