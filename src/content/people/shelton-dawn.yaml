@@ -1,7 +1,7 @@
 id: dawn-shelton
 name: 
   first: Dawn
-  last: Carsey
+  last: Shelton
 photo: shelton-dawn.jpg
 email: dshelton@renci.org
 title: Research Project Manager
@@ -12,4 +12,5 @@ www:
   instagram: null
   linkedin: null
   youtube: null
-bio: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti eius dolore iste, facere esse.'
+bio: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti eius dolore iste, facere esse.
