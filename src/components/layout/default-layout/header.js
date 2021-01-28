@@ -1,11 +1,12 @@
 import styled from 'styled-components'
 import PropTypes from 'prop-types'
 
-export const Header = styled.header(({ theme, compact, dark }) => `
+export const Header = styled.header(({ theme, height, dark }) => `
     position: sticky;
     top: 0;
     z-index: 1;
     width: 100%;
+    height: ${ height };
     display: flex;
     flex-direction: row;
     justify-content: space-between;

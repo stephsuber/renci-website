@@ -105,11 +105,7 @@ export const DefaultLayout = ({ children, currentPath }) => {
     <Page>
       <Header dark={ darkHeader }>
         <Link to="/" alt="Navigate to RENCI Home">
-          {
-            darkHeader
-            ? <Img fixed={ logos.dark } style={{ width: '180px', margin: '6px 1rem' }} imgStyle={{ width: 'auto', height: '100%' }} alt="Navigate to RENCI Home" />
-            : <Img fixed={ logos.light } style={{ width: '180px', margin: '6px 1rem' }} imgStyle={{ width: 'auto', height: '100%' }} alt="Navigate to RENCI Home" />
-          }
+          <Img fixed={ darkHeader ? logos.dark : logos.light } style={{ width: '180px', margin: '6px 1rem' }} imgStyle={{ width: 'auto', height: '100%' }} alt="" />
         </Link>
         { compact ? <MobileMenu items={ menuItems } /> : <Menu items={ menuItems } dark={ darkHeader } /> }
       </Header>
