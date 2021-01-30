@@ -74,9 +74,9 @@ export const NewsFilterForm = () => {
   useEffect(() => {
     // when filters, groups, or collaborations change
     // update the corresponding project options for the selected group
-    setGroupOptions(groups.concat(collaborations).map(group => ({ value: group.id, label: group.name })))
-    setProjectOptions(projects.map(project => ({ value: project.id, label: project.name })))
-    setTopicOptions(tags.map(tag => ({ value: tag.id, label: tag.name })))
+    setGroupOptions(groups.concat(collaborations).map(group => ({ value: group.id, label: group.name })).sort((g, h) => g.label.toLowerCase() < h.label.toLowerCase() ? -1 : 1))
+    setProjectOptions(projects.map(project => ({ value: project.id, label: project.name })).sort((p, q) => p.label.toLowerCase() < q.label.toLowerCase() ? -1 : 1))
+    setTopicOptions(tags.map(tag => ({ value: tag.id, label: tag.name })).sort((t, s) => t.label.toLowerCase() < s.label.toLowerCase() ? -1 : 1))
   }, [])
 
   useEffect(() => {
