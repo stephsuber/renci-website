@@ -76,7 +76,13 @@ const NewsPage = () => {
     const queryGroup = queryParams.get('group') || ''
     const queryProject = queryParams.get('project') || ''
     const queryTopic = queryParams.get('topic') || ''
-    setFilters({ ...filters, page: queryPage, group: queryGroup, project: queryProject, topic: queryTopic })
+    setPage(queryPage)
+    setFilters({
+      ...filters,
+      group: queryGroup,
+      project: queryProject,
+      topic: queryTopic,
+    })
   }, [location.search])
 
   useEffect(() => {
@@ -85,6 +91,7 @@ const NewsPage = () => {
 
   useEffect(() => {
     let newArticles = [...articles]
+    console.table(filters)
     if (filters.group) {
       newArticles = newArticles.filter(article => {
         const groupMatch = article.frontmatter.groups && article.frontmatter.groups.findIndex(g => g.id === filters.group) > -1
