@@ -19,6 +19,7 @@ export const BaseTag = styled.span(({ theme }) => `
   line-height: ${ theme.spacing.medium };
   filter: brightness(1.1);
   transition: filter 250ms;
+  white-space: nowrap;
   &:hover {
     filter: brightness(1.05);
   }
@@ -46,5 +47,6 @@ Tag.defaultProps = {
 // simple flexible tray for tags
 export const Tags = styled.div(({ theme }) => `
   display: flex;
+  flex-wrap: wrap;
   gap: ${ theme.spacing.small };
 `)
