@@ -91,7 +91,6 @@ const NewsPage = () => {
 
   useEffect(() => {
     let newArticles = [...articles]
-    console.table(filters)
     if (filters.group) {
       newArticles = newArticles.filter(article => {
         const groupMatch = article.frontmatter.groups && article.frontmatter.groups.findIndex(g => g.id === filters.group) > -1
