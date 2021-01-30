@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useMemo, useState } from 'react'
 import styled, { useTheme } from 'styled-components'
 import { useFormState } from 'react-use-form-state'
 import { Select, TextInput } from '../form'
@@ -6,6 +6,7 @@ import { useCollaborations, useGroups, useProjects, useTags } from '../../hooks'
 import { useNewsContext } from './news-context'
 import { Button } from '../../components/buttons'
 import { Icon } from '../../components/icon'
+import { animated, useTransition } from 'react-spring'
 
 const Wrapper = styled.div(({ theme }) => `
   padding: ${ theme.spacing.large } 0 ${ theme.spacing.extraLarge } 0;
@@ -71,6 +72,8 @@ export const NewsFilterForm = () => {
   const [topicOptions, setTopicOptions] = useState([])
   const [, { text, select }] = useFormState()
 
+  const usingFilters = useMemo(() => (filters.group || filters.project || filters.topic), [filters])
+
   useEffect(() => {
     // when filters, groups, or collaborations change
     // update the corresponding project options for the selected group
@@ -84,6 +87,12 @@ export const NewsFilterForm = () => {
     const filteredProjects = index > -1 ? groupsAndCollaborations[index].projects : projects
     setProjectOptions(filteredProjects.map(project => ({ value: project.id, label: project.name })))
   }, [filters, groupsAndCollaborations])
+
+  const transitions = useTransition(usingFilters, null, {
+    from: { opacity: 0.0 },
+    enter: { opacity: 1.0 },
+    leave: { opacity: 0.0 },
+  })
 
   return (
     <Wrapper>
@@ -108,8 +117,11 @@ export const NewsFilterForm = () => {
         />
       </Selects>
       {
-        (filters.group || filters.project || filters.topic) &&
-        <ClearButton onClick={ clearFilters }><Icon icon="cancel" size={ 14 } fill={ theme.color.extended.contessa } />Clear Filters</ClearButton>
+        transitions.map(({ item, key, props }) => item && (
+          <animated.div key={ key } style={ props }>
+            <ClearButton onClick={ clearFilters }><Icon icon="cancel" size={ 14 } fill={ theme.color.extended.contessa } />Clear Filters</ClearButton>
+          </animated.div>
+        ))
       }
     </Wrapper>
   )
