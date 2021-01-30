@@ -22,6 +22,14 @@ export const Page = styled.div(({ theme }) => `
   width: 100%;
   margin: auto;
   // overflow: auto;
+  & *::selection {
+    background-color: ${ theme.color.lightgrey };
+    color: ${ theme.color.renciBlue };
+  }
+  & *::-moz-selection {
+    background-color: ${ theme.color.lightgrey };
+    color: ${ theme.color.renciBlue };
+  }
 `)
 
 const FooterContents = () => {
