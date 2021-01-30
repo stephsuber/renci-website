@@ -74,7 +74,7 @@ export default ({ data, pageContext }) => {
       { featuredImage && <Hero backgroundImage={ featuredImage && featuredImage.childImageSharp.fluid } /> }
 
       <Container>
-        <Section>
+        <Section title=" ">
           <NewsDate>{ publishDate }</NewsDate>
 
           <Label style={{ float: 'right' }} className={ fields.newsType }>{ fields.newsType }</Label>
