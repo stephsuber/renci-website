@@ -6,6 +6,7 @@ import { Container, Section, HorizontalRule } from '../components/layout'
 import { Title } from '../components/typography'
 import { useNews, useWindow } from '../hooks'
 import { ArticlePreview, NewsFilterForm, PaginationTray, NewsContext } from '../components/news'
+import { LoadingIndicator } from '../components/loading-indicator'
 
 // constants
 const PER_PAGE = 10
@@ -56,6 +57,7 @@ const NewsPage = () => {
   const [news, setNews] = useState([]) // articles to render
   const [page, setPage] = useState(1) // page number currently beingviewed
   const [paginationRadius, setPaginationRadius] = useState(PAGINATION_RADIUS.mobile)
+  const [loading, setLoading] = useState(false)
 
   const changeFilterSelect = filterKey => event => {
     navigate(filtersUrl({ ...filters, page: 1, [filterKey]: event.target.value }))
@@ -65,6 +67,13 @@ const NewsPage = () => {
     setFilters(INITIAL_FILTERS)
     setPage(1)
   }
+
+  useEffect(() => {
+    const loadingTimer = setTimeout(() => {
+      setLoading(false)
+    }, 500)
+    return () => clearTimeout(loadingTimer)
+  }, [loading])
 
   const pageCount = useMemo(() => Math.ceil(filteredArticles.length / PER_PAGE), [filteredArticles.length])
   const prevPage = useMemo(() => Math.max(1, page - 1), [page, pageCount])
@@ -90,6 +99,7 @@ const NewsPage = () => {
   }, [windowWidth])
 
   useEffect(() => {
+    setLoading(true)
     let newArticles = [...articles]
     if (filters.group) {
       newArticles = newArticles.filter(article => {
@@ -128,18 +138,27 @@ const NewsPage = () => {
 
         <NewsFilterForm />
         
-        <Section title={ `${ filteredArticles.length } News Item${ filteredArticles.length === 1 ? '' : 's' }` }>
-          {
-            news.map((article, i) => (
-              <Fragment key={ article.id }>
-                <ArticlePreview article={ article } path={ article.fields.path } />
-                { i < articles.length - 1 && <HorizontalRule /> }
-              </Fragment>
-            ))
-          }
-        </Section>
+        {
+          loading ? (
+            <div style={{ minHeight: '400px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+              <LoadingIndicator duration={ 500 / 2 } />
+            </div>
+          ) : (
+          <Fragment>
+            <Section title={ `${ filteredArticles.length } News Item${ filteredArticles.length === 1 ? '' : 's' }` }>
+              { news.map((article, i) => (
+                  <Fragment key={ article.id }>
+                    <ArticlePreview article={ article } path={ article.fields.path } />
+                    { i < articles.length - 1 && <HorizontalRule /> }
+                  </Fragment>
+                ))
+              }
+            </Section>
+            { pageCount > 0 && <PaginationTray /> }
+          </Fragment>
+          )
+        }
 
-        { pageCount > 0 && <PaginationTray /> }
 
         <br />
 
