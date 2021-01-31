@@ -52,7 +52,6 @@ const newsQuery = graphql`{
           path
           newsType
         }
-        html
         excerpt(pruneLength: 500)
       }
     }
