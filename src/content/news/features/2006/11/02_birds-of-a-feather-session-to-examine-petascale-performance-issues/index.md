@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["Cyberinfrastructure","petabytes"]
 ---
-TAMPA, FLA, November 1, 2006—Those interested in the challenge of evaluating the performance and reliability of petascale computing systems and of developing application codes that scale effectively on these systems should plan to attend the SC06 Birds of a Feather Session  “Evaluating Petascale Infrastructure Systems: Benchmarks, Models, and Applications.” The BoF will take place Wednesday, Nov. 15, from 5:30 – 7:30 p.m. at the Tampa Convention Center, room 17 (please confirm the room number with signs in the convention center).  <!--more-->
+TAMPA, FLA, November 1, 2006—Those interested in the challenge of evaluating the performance and reliability of petascale computing systems and of developing application codes that scale effectively on these systems should plan to attend the SC06 Birds of a Feather Session  "Evaluating Petascale Infrastructure Systems: Benchmarks, Models, and Applications." The BoF will take place Wednesday, Nov. 15, from 5:30 – 7:30 p.m. at the Tampa Convention Center, room 17 (please confirm the room number with signs in the convention center).  
 
 Sponsored by the Renaissance Computing Institute (RENCI) and the <a href="http://www.sdsc.edu/" target="_blank" rel="noopener">San Diego Supercomputer Center (SDSC)</a>, the BoF will address a variety of topics, including:
 <ul type="disc">

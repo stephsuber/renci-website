@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["petabytes"]
 ---
-In the mid 1990s, Amazon and Ebay were not household names, spam referred to a canned meat product, phishing was not in the dictionary, and cell phones were still a bit of a luxury.  Technological advances have driven exponential change over the last decade; what will another 10 years of innovation bring?<!--more-->
+In the mid 1990s, Amazon and Ebay were not household names, spam referred to a canned meat product, phishing was not in the dictionary, and cell phones were still a bit of a luxury.  Technological advances have driven exponential change over the last decade; what will another 10 years of innovation bring?
 
 According to RENCI Director Dan Reed, the future holds great possibilities for democratizing information, personalizing medical care and giving people the ability to store an entire petaflop of data on a device as simple and small as an iPod. The future also poses challenging questions about how to protect personal information and how to balance our needs for security, privacy and personal freedom.
 

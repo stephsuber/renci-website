@@ -21,25 +21,25 @@ tags:
 ---
 Typically, finals week brings to mind sleepless nights and groans of frustration as students slave away over last-minute projects and papers. This is not the case for students in <em>GEO 445: Medical Geography</em>, taught by Ashley R. Ward, PhD.
 
-This course culminates in an interactive poster session in the RENCI Social Computing Room (SCR) located in the ITS Manning Building on the UNC Chapel Hill campus. According to Ward, “there’s a lot of excitement, and it’s a really fun final exam.”
+This course culminates in an interactive poster session in the RENCI Social Computing Room (SCR) located in the ITS Manning Building on the UNC Chapel Hill campus. According to Ward, "there's a lot of excitement, and it's a really fun final exam."
 
-<!--more-->
+
 
 The SCR is a square room with a floor-to-ceiling desktop on all four walls, making it ideal for presenting large volumes of information, interactions with data, and group projects that involve multimedia.
 
 For the past two years, Ward has structured GEO 445 as a project-based course where students spend their semester researching a problem related to medical geography. The poster sessions in the SCR allow students to share their final work with each other rather than just turning in a paper to the professor.
 
-“Presenting one poster per student would take forever, and students would likely check out. Instead, using the SCR closely mimics something you might see at a professional conference, and it lets students relax and have more time with posters they like,” said Ward.
+"Presenting one poster per student would take forever, and students would likely check out. Instead, using the SCR closely mimics something you might see at a professional conference, and it lets students relax and have more time with posters they like," said Ward.
 
 [caption id="attachment_14252" align="aligncenter" width="640"]<a href="https://renci.org/wp-content/uploads/2015/01/IMG_62361.jpg"><img class="wp-image-14252 size-large" src="https://renci.org/wp-content/uploads/2015/01/IMG_62361-1024x273.jpg" alt="GEO 445 Poster Session" width="640" height="171" /></a> Students in GEO 445 present their posters during the final exam session.[/caption]
 
 &nbsp;
 
-For the final exam class period, Ward breaks the class of 40 into different sessions (A, B, and C). Students not presenting during session A visit their peers’ posters to learn what they discovered and to offer critiques.
+For the final exam class period, Ward breaks the class of 40 into different sessions (A, B, and C). Students not presenting during session A visit their peers' posters to learn what they discovered and to offer critiques.
 
 As an added bonus, the posters are useful to Ward and her students after the semester is completed. Among her current students, one has already had a poster accepted for presentation at a conference in April. Two former students have used their posters as work samples for admission to medical school.
 
-Before the SCR came to campus, the GEO 445 course was lecture-driven with a written final exam. When Ward heard about the SCR from Amanda Henley, GIS librarian located in Davis Library, she had the idea to implement the poster sessions as the new culmination for a project-based class. Ward plans to maintain this structure: “I can’t foresee any other way because feedback has been so positive.” She is also working with RENCI staff to brainstorm a new idea for her Disease Ecology class using the SCR as a massive Google Earth display.
+Before the SCR came to campus, the GEO 445 course was lecture-driven with a written final exam. When Ward heard about the SCR from Amanda Henley, GIS librarian located in Davis Library, she had the idea to implement the poster sessions as the new culmination for a project-based class. Ward plans to maintain this structure: "I can't foresee any other way because feedback has been so positive." She is also working with RENCI staff to brainstorm a new idea for her Disease Ecology class using the SCR as a massive Google Earth display.
 
 For more on the SCR, see <a href="https://renci.org/news/built-for-interaction/" target="_blank">Built for Interaction</a>, or to reserve the RENCI SCR, email <a href="mailto:scr-help@renci.org" target="_blank">scr-help@renci.org</a>.
 

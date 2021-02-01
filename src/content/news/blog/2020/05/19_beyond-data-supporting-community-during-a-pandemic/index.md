@@ -38,11 +38,11 @@ Jeffrey Tilson, senior research scientist, began making masks for his neighbors 
 
 Senior Project Manager Sarah Davis was looking for a way to help, and creating masks seemed to be an efficient choice based on her sewing skills and the supplies she had at home. She and her mother have set up an assembly line where her mother cuts fabric and Davis sews the masks. They started making masks solely for family and friends -especially for those with a high risk of contracting COVID-19) – but they have since added prisoners, nursing home residents, and nurses to their list of recipients. 
 
-"Our inspiration to give to [UNC Rockingham Rehabilitation and Nursing Care Center](https://www.uncrockingham.org/locations/profile/unc-rockingham-rehabilitation-and-nursing-care-center/) was actually an accident," said Davis. "I intended to take masks to somewhere in Durham but accidentally texted someone in Eden, N.C. The nurse who responded was so appreciative that we decided that would be where we would send our masks. It’s important to remember this isn’t a city problem or a neighborhood problem – every town is going to be affected."
+"Our inspiration to give to [UNC Rockingham Rehabilitation and Nursing Care Center](https://www.uncrockingham.org/locations/profile/unc-rockingham-rehabilitation-and-nursing-care-center/) was actually an accident," said Davis. "I intended to take masks to somewhere in Durham but accidentally texted someone in Eden, N.C. The nurse who responded was so appreciative that we decided that would be where we would send our masks. It's important to remember this isn't a city problem or a neighborhood problem – every town is going to be affected."
 
 Davis urges people to find a small way they can help based on their skills and availability. 
 
-"Not everyone has a sewing machine, a 10-year supply of fabric scraps, and an unopened package of pipe cleaners on hand," said Davis. "But it’s great to ask what tiny thing you can do to make life a bit better for someone else."
+"Not everyone has a sewing machine, a 10-year supply of fabric scraps, and an unopened package of pipe cleaners on hand," said Davis. "But it's great to ask what tiny thing you can do to make life a bit better for someone else."
 
 ![Hiles, wearing a mask of her own design](https://renci.org/wp-content/uploads/2020/05/image-1-1022x1024.png)
 
@@ -62,7 +62,7 @@ Davis and Hiles have also worked to assist food banks in their areas.
 
 Hiles' story is a little different. Her family "adopted" the milk shelf of their neighborhood food bank a few months ago. Their responsibility as milk sponsors is to keep the shelf full of Ultra-High Temperature (UHT) milk.
 
-"Many non-perishable foods are very hard to come by, putting the folks in our communities who were already food insecure in a riskier position," said Hiles. "I have been working with our nation’s leading UHT milk providers to donate milk to Durham food banks, as well as to get grants written for our food bank to create more stability for our future."
+"Many non-perishable foods are very hard to come by, putting the folks in our communities who were already food insecure in a riskier position," said Hiles. "I have been working with our nation's leading UHT milk providers to donate milk to Durham food banks, as well as to get grants written for our food bank to create more stability for our future."
 
 ![Hiles, after dropping off her first milk donation to the neighborhood food bank](https://renci.org/wp-content/uploads/2020/05/image.png)
 
@@ -74,7 +74,7 @@ Additionally, Hiles is helping to organize the Helpful Engineering effort. Helpf
 
 Hiles has been helping the organization as a project manager, as well as assisting in communications efforts, such as writing blogs and organizing social media posts.
 
-"Keeping busy keeps my anxiety down, and I found that contributing to efforts that can impact real change has helped me feel more in control during this crazy pandemic time," said Hiles. "There is so much going on that we genuinely can’t do anything about, but helping out in a way that I can control has made an amazing impact on my mental health."
+"Keeping busy keeps my anxiety down, and I found that contributing to efforts that can impact real change has helped me feel more in control during this crazy pandemic time," said Hiles. "There is so much going on that we genuinely can't do anything about, but helping out in a way that I can control has made an amazing impact on my mental health."
 
 Helpful Engineering is always taking on recruits, both for their projects and to assist on the backend. You can learn more about Helpful Engineering on their [website](https://www.helpfulengineering.org/) and join the effort via [Slack](https://www.helpfulengineering.org/volunteer/).
 

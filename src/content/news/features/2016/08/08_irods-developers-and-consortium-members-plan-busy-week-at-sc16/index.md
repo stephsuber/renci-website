@@ -27,7 +27,7 @@ tags:
 
 SALT LAKE CITY, UTAH – Attendees of SC16 who are interested in open source data management will have plenty of opportunities to learn about the integrated Rule-Oriented Data System (iRODS) and the new iRODS 4.2, which will be released just in time for the conference.
 
-iRODS, is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. A team of software engineers based at the <a href="https://www.renci.org/">Renaissance Computing Institute</a> (RENCI) at UNC-Chapel Hill develop iRODS and the software is sustained by the <a href="http://irods.org/consortium/">iRODS Consortium</a>, a membership-based organization with 15 active members in the U.S. and Europe. SC16 attendees can visit the RENCI booth on the SC show floor (#3628) during regular exhibit hours to learn about what’s new in iRODS 4.2, hear case studies, and see demonstrations from iRODS developers and Consortium members. Free iRODS t-shirts will be available to conference participants who attend a presentation in the booth.<!--more-->
+iRODS, is free open source software for data discovery, workflow automation, secure collaboration, and data virtualization. A team of software engineers based at the <a href="https://www.renci.org/">Renaissance Computing Institute</a> (RENCI) at UNC-Chapel Hill develop iRODS and the software is sustained by the <a href="http://irods.org/consortium/">iRODS Consortium</a>, a membership-based organization with 15 active members in the U.S. and Europe. SC16 attendees can visit the RENCI booth on the SC show floor (#3628) during regular exhibit hours to learn about what's new in iRODS 4.2, hear case studies, and see demonstrations from iRODS developers and Consortium members. Free iRODS t-shirts will be available to conference participants who attend a presentation in the booth.
 
 <strong>iRODS 4.2: Enhanced integration meets expert software engineering</strong>
 
@@ -45,7 +45,7 @@ The new iRODS 4.2 integrates best practices of iRODS Consortium members and the 
 
 Those who want to dig deeper into iRODS 4.2 are encouraged to attend a free workshop sponsored by iRODS Consortium member DDN from 9 a.m. – 11 a.m. Monday, Nov. 14, in the Wasatch Room at the Radisson Hotel Salt Lake City Downtown, 215 S. Temple. To register, please visit <a href="http://irods.org/sc16/">http://irods.org/sc16/</a>.
 
-The workshop will include information about installing and upgrading iRODS and an overview of the consortium’s new use of APT and YUM repositories for managing software installation. Other topics to be covered include: composable resources, an iRODS feature that allows the user to encode data management policies in a decision tree; workflow automation, a process that encodes policies into machine-actionable rules; and rule engine plugins, the feature that allows users to write iRODS plugins in commonly used programming languages such as Python and C++.  A question and answer session will wrap up the workshop.
+The workshop will include information about installing and upgrading iRODS and an overview of the consortium's new use of APT and YUM repositories for managing software installation. Other topics to be covered include: composable resources, an iRODS feature that allows the user to encode data management policies in a decision tree; workflow automation, a process that encodes policies into machine-actionable rules; and rule engine plugins, the feature that allows users to write iRODS plugins in commonly used programming languages such as Python and C++.  A question and answer session will wrap up the workshop.
 
 All workshop attendees will be expected to bring their own laptop with a Secure Shell (SSH) client. Amazon's Elastic Compute Cloud (EC2) instances will be provided for the workshop.
 
@@ -71,7 +71,7 @@ iRODS Software and Consortium Update
 </div>
 <strong>Other iRODS presentations and Consortium members at SC16</strong>
 
-iRODS Senior Data Scientist Terrell Russell will present <em>iRODS and Reproducible Science</em> at 5 p.m. on Wednesday, Nov. 16 in DDN’s SC16 Booth Theatre (Booth #1931) and in the Dell/EMC booth (#2209) at 1:30 p.m. Thursday, Nov. 17.  In addition, many iRODS Consortium members will have booths at the conference with information about how they use iRODS to control their data: HGST (#442), IBM (#1018), DDN (#1931), Seagate (#1209), EMC (#2209), and NICS/University of Tennessee (#3874).
+iRODS Senior Data Scientist Terrell Russell will present <em>iRODS and Reproducible Science</em> at 5 p.m. on Wednesday, Nov. 16 in DDN's SC16 Booth Theatre (Booth #1931) and in the Dell/EMC booth (#2209) at 1:30 p.m. Thursday, Nov. 17.  In addition, many iRODS Consortium members will have booths at the conference with information about how they use iRODS to control their data: HGST (#442), IBM (#1018), DDN (#1931), Seagate (#1209), EMC (#2209), and NICS/University of Tennessee (#3874).
 
 <strong>About the iRODS Consortium</strong>
 

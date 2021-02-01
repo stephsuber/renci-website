@@ -20,7 +20,7 @@ tags:
 ---
 Registration is now open for the 2007 Microsoft eScience Workshop, hosted by the Renaissance Computing Institute (RENCI). This free workshop will be held Oct. 21-23 at the University of North Carolina's Friday Center for Continuing Education. To register, go to <a href="http://www.mses07.net/" target="_blank" rel="noopener">http://www.mses07.net</a>.
 
-<!--more-->
+
 
 The conference also seeks presentation ideas on topics related to all areas of e-science. Some examples include:
 <ul type="disc">

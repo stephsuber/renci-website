@@ -23,7 +23,7 @@ tags:
 
 In that role, he will lead efforts to implement iRODS software development strategies, build and nurture relationships with existing and potential consortium members, and serve as the chief spokesperson on iRODS development and strategies to the worldwide iRODS community. He replaces Dan Bedard who left the position at the end of April.
 
-<!--more-->
+
 
 As iRODS Consortium Chief Technologist, Coposky managed the iRODS development team located at the Renaissance Computing Institute (RENCI) at UNC-Chapel Hill. He led the successful effort to transform the iRODS research software developed over more than 20 years into the enterprise version of iRODS now known as iRODS 4.0. In that role, he managed the software development team, directed the full software development lifecycle, and coordinated code hardening, testing, and application of formal software engineering practices. Under his leadership of the development team, the iRODS Consortium has more than doubled in size and iRODS 4.0 has been implemented as a data management and data sharing solution at businesses, research centers, and government agencies in the U.S., Europe, and Asia.
 

@@ -24,7 +24,7 @@ Users of the integrated Rule Oriented Data System (iRODS) from around the globe 
 
 The week of activities begins Tuesday, June 7 with one-day workshops aimed at beginner and advanced iRODS users. The iRODS User Group Meeting (UGM) will follow on June 8 and 9. Registration for both the workshops and the UGM runs through May 27 and early bird discounts are available through April 22.  Participants can register for both the UGM and a workshop or the UGM only. To register visit <a href="http://irods.org/ugm2016/" target="_blank"><span class="s2">http://irods.org/ugm2016/</span></a>.
 
-<!--more-->
+
 
 The UGM is expected to bring as many as 200 iRODS users from industry, academia, and government to Chapel Hill, home of the iRODS development team and the iRODS Consortium, to meet other users and consortium members, hear presentations and use cases, and participate in demonstrations and discussions about requested iRODS features. The two workshops will focus on planning, deploying, and using iRODS 4.2 for both beginner and advanced users.
 

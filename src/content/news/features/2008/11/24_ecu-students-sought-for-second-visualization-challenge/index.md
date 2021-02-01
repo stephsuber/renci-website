@@ -19,7 +19,7 @@ tags:
     ["RENCI at East Carolina University","Visualization Challenge"]
 ---
 <p style="text-align: left;">The Renaissance Computing Institute at East Carolina University invites students to participate in a competition of innovative visualization using the RENCI at ECU visualization wall located in Brewster Hall C-202 on the ECU campus.</p>
-<!--more-->
+
 
 All students interested in scientific, educational, or artistic visualization are encouraged to enter the competition and to stretch their skills and imaginations and demonstrate their prowess at analytical, artistic or cartographic visualization.
 
@@ -29,7 +29,7 @@ All those who enter will be given access to the visualization wall and ongoing t
 
 Modeler, FluxPlayer VRML, and 3DEM. For other software needs or more information, contact Stephen Sanchagrin at <a href="mailto:sanchagrins@ecu.edu">sanchagrins@ecu.edu</a> or call (252) 737-1864.
 
-The contest is open to all currently enrolled ECU students. A limited number of stipends will be provided to winning entrants.  Entrants must display their visualization on the RENCI Visualization Wall during ECU’s Research Week and Creative Achievement Week, March 30 - April 3, 2009.  Each student will give a five-minute presentation.
+The contest is open to all currently enrolled ECU students. A limited number of stipends will be provided to winning entrants.  Entrants must display their visualization on the RENCI Visualization Wall during ECU's Research Week and Creative Achievement Week, March 30 - April 3, 2009.  Each student will give a five-minute presentation.
 
 A panel of faculty judges will determine the winners. The RENCI at ECU Visualization Challenge is sponsored by RENCI at ECU, the Center for Natural Hazards Research, Thomas Harriot College of Arts and Sciences, the Center for GIScience, and the ECU geography department.  For more information, see the<a href="http://www.ecu.edu/renci" target="_blank"> RENCI at ECU website</a>.
 

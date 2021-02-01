@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["Linked Environments for Atmospheric Discovery (LEAD)"]
 ---
-Each year across the United States, floods, tornadoes, hail, strong winds, lightning and winter storms—what meteorologists call mesoscale weather events—cause many deaths, routinely disrupt transportation and commerce, and result in annual economic losses greater than $13 billion. <!--more-->
+Each year across the United States, floods, tornadoes, hail, strong winds, lightning and winter storms—what meteorologists call mesoscale weather events—cause many deaths, routinely disrupt transportation and commerce, and result in annual economic losses greater than $13 billion. 
 
 Unfortunately, the information technology framework that is used by most researchers and working meteorologists to respond to weather emergencies has little ability to adapt to weather conditions that change rapidly and dramatically. By the time new data is collected and new forecasts distributed, it is often too late to disseminate timely severe weather warnings or to reroute air traffic to avoid costly delays.
 

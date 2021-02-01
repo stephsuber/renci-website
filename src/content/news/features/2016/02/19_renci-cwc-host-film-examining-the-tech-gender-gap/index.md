@@ -24,11 +24,11 @@ The scarcity of female and minority computer scientists and software engineers i
 
 The film <em>CODE: Debugging the Gender Gap</em> examines why girls and people of color are not seeking educational opportunities in computer science and explains how cultural mindsets, stereotypes, educational hurdles, unconscious biases, and sexism play a role in this national crisis.
 
-<!--more-->
+
 
 The film, directed by Robin Hauser Reynolds, features experts from the worlds of tech, psychology, science, policy, and education as well as inspiring stories of women from various backgrounds who are engaged in the fight to challenge complacency in the tech industry and have their voices heard. <em>CODE </em>aims to inspire girls, women, and people of color to consider computer science as a viable career choice.
 
-RENCI, a Carolina institute that builds and deploys advanced technologies used in research, business and government, and the <a href="http://womenscenter.unc.edu/" target="_blank">Carolina Women’s Center</a> (CWC) are bringing <em>CODE</em> to campus for a screening on Monday, Feb. 29 from 5 p.m. to 6:30 p.m. at the Sonja Haynes Stone Theatre in the Stone Center for Black Culture and History.
+RENCI, a Carolina institute that builds and deploys advanced technologies used in research, business and government, and the <a href="http://womenscenter.unc.edu/" target="_blank">Carolina Women's Center</a> (CWC) are bringing <em>CODE</em> to campus for a screening on Monday, Feb. 29 from 5 p.m. to 6:30 p.m. at the Sonja Haynes Stone Theatre in the Stone Center for Black Culture and History.
 
 The screening will kick off <a href="http://womenscenter.unc.edu/events/gender-week/" target="_blank">Gender Week</a> on campus and is meant to inspire the campus community to discuss and address issues of equity, gender and race in technical education and employment.
 

@@ -20,7 +20,7 @@ tags:
 ---
 A scientific paper written by a research team from RENCI and the National Center for Supercomputing Applications (NCSA) was named the best application paper at the recent IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2007).
 
-<!--more-->
+
 
 The paper, <em>MotifNetwork: A Grid-enabled Workflow for High-throughput Domain Analysis of Biological Sequences</em>, was one of more than 600 submitted on scientific applications and the only one to receive an award. Its authors are RENCI Research Scientist Jeffrey L. Tilson and Gloria Rendon, Mao-Feng Ger and Eric Jakobsson of NCSA at the University of Illinois.
 

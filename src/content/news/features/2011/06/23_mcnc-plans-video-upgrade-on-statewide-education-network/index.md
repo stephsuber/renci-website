@@ -23,7 +23,7 @@ tags:
 
 RESEARCH TRIANGLE PARK, N.C., June 23, 2011 /PRNewswire-USNewswire/ -- <a title="MCNC Site" href="https://www.mcnc.org/" target="_blank">MCNC</a> announced today that the video services infrastructure on the North Carolina Research and Education Network (NCREN) is scheduled to be upgraded on July 1.
 
-MCNC has entered the final testing phases of Cisco TelePresence interoperability with H.323 point-to-point (standard on most desktops) and multipoint video services, and TelePresence Management System (TMS) scheduling. Also, a select pilot group is testing centrally-managed soft client licenses for additional devices including laptop and desktop computers and tablets. New services are scheduled to be widely available to NCREN users during the fall semester of the 2011-2012 school year. <!--more-->
+MCNC has entered the final testing phases of Cisco TelePresence interoperability with H.323 point-to-point (standard on most desktops) and multipoint video services, and TelePresence Management System (TMS) scheduling. Also, a select pilot group is testing centrally-managed soft client licenses for additional devices including laptop and desktop computers and tablets. New services are scheduled to be widely available to NCREN users during the fall semester of the 2011-2012 school year. 
 
 As a result of these upgrades, MCNC will be able to provide several additional services to NCREN Video Service customers and to support the use of Cisco TelePresence across the statewide community. MCNC is providing the TelePresence infrastructure capabilities so schools need only to purchase the TelePresence screen or any H.323 compatible in-room devices.
 

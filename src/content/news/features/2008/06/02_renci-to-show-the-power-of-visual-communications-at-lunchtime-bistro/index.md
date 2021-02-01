@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["3D visualization","Eric Knisley","Renaissance Bistro","RENCI at UNC Chapel Hill","touch screen"]
 ---
-CHAPEL HILL, NC, June 2, 2008 – The Renaissance Computing Institute (RENCI) invites the public to the latest in its Renaissance Bistro series of lunchtime demonstrations and lectures from noon to 1 p.m. in the Showcase Dome room at the RENCI engagement center at UNC Chapel Hill on Thursday, June 26.  <!--more-->
+CHAPEL HILL, NC, June 2, 2008 – The Renaissance Computing Institute (RENCI) invites the public to the latest in its Renaissance Bistro series of lunchtime demonstrations and lectures from noon to 1 p.m. in the Showcase Dome room at the RENCI engagement center at UNC Chapel Hill on Thursday, June 26.  
 
 The Bistro is free and includes lunch on a first-come, first-served basis. RENCI experts, Eric Knisley, 3D visualization researcher, and Josh Coyle, new media specialist, will demonstrate how RENCI is using new digital technologies and visualization techniques to communicate scientific, educational and general information. Three-dimensional visualizations created for the dome environment and interactive touchscreen displays are among the new media tools the pair will show. Attendees will observe a brief demonstration of the Showcase Dome, a research environment equipped with a 15-foot tilted multi-projector dome display for interacting with data in an immersive 180-degree field of view.
 

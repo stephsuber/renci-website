@@ -32,15 +32,15 @@ I was teaching a computer science course called Introduction to Scientific Progr
 
 Fortunately, the course was relatively easy to adapt to virtual teaching. The UNC Computer Science department, and my colleague John Majikes who was teaching another section of the same course, have set up this course in such a way that taking it online was quite straightforward.
 
-It was already structured where daily lessons were supplied to students in what’s called a Jupyter notebook, a format that lets them view material from an internet browser. Using notebooks, course material can be fetched, and assignments can be completed and then automatically graded, all online. During in-person lectures, the students and I work through the notebook together. When we went to online teaching, students could, for the most part, continue to do assignments like they did before.
+It was already structured where daily lessons were supplied to students in what's called a Jupyter notebook, a format that lets them view material from an internet browser. Using notebooks, course material can be fetched, and assignments can be completed and then automatically graded, all online. During in-person lectures, the students and I work through the notebook together. When we went to online teaching, students could, for the most part, continue to do assignments like they did before.
 
 ### What were some challenges that students encountered with remote teaching?
 
-Even though the course could be easily moved online, the quick transition to a virtual format still brought challenges. When the students left campus, they went home to places all over the country and the world. Some were logging in to class from places as far away as China and Singapore. Not only were the students in different time zones, but they also didn't always have access to the consistent bandwidth needed to access the UNC virtual private network, or VPN, to get the course material. The transition added extra stress for the students. Suddenly something wouldn’t work, or a network wouldn't be accessible. I really give kudos to the students who adjusted and still learned.
+Even though the course could be easily moved online, the quick transition to a virtual format still brought challenges. When the students left campus, they went home to places all over the country and the world. Some were logging in to class from places as far away as China and Singapore. Not only were the students in different time zones, but they also didn't always have access to the consistent bandwidth needed to access the UNC virtual private network, or VPN, to get the course material. The transition added extra stress for the students. Suddenly something wouldn't work, or a network wouldn't be accessible. I really give kudos to the students who adjusted and still learned.
 
 ### What were the biggest adjustments you made as an instructor?
 
-I count a lot on being able to see students’ faces and their reactions to know how they are absorbing the material. This is almost impossible to do virtually. It's not that the students wouldn’t speak up during a Zoom session, but the nonverbal feedback is very valuable to get a feel for when they're not getting the concept and need material to be presented in a different way.
+I count a lot on being able to see students' faces and their reactions to know how they are absorbing the material. This is almost impossible to do virtually. It's not that the students wouldn't speak up during a Zoom session, but the nonverbal feedback is very valuable to get a feel for when they're not getting the concept and need material to be presented in a different way.
 
 I also had to get used to watching for messages in the chat window or for someone to use Zoom's hand raise function while I was lecturing. Although this was not as spontaneous as in-person interactions, it offered a reasonable way to interact under the circumstances.
 
@@ -52,7 +52,7 @@ Exams and quizzes were sent ahead of time to prevent any issues with students no
 
 ### Do you have any advice for teachers that are still involved in virtual teaching or may be doing it again in the future?
 
-It's important to realize that when you are teaching in a classroom and you can see the students, you get feedback from the students that helps with your pacing. You can tell if there is something you need to repeat or when they’re having trouble because they didn't get something that was discussed two days earlier.
+It's important to realize that when you are teaching in a classroom and you can see the students, you get feedback from the students that helps with your pacing. You can tell if there is something you need to repeat or when they're having trouble because they didn't get something that was discussed two days earlier.
 
 Without this feedback, a lecture you might plan for more than an hour might be finished in 30 or 45 minutes on Zoom. The main advice I would give instructors is to go as slow as you can. You need to feel like you are crawling along. Only then are you probably giving the students enough time to absorb the material and relate it back. It's also important to keep soliciting feedback in whatever way you can, through whatever mechanisms are available while teaching online.
 

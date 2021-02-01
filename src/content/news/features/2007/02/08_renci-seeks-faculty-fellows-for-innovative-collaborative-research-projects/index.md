@@ -20,7 +20,7 @@ tags:
 ---
 Chapel Hill, NC—Full-time faculty at the University of North Carolina at Chapel Hill are invited to collaborate with the Renaissance Computing Institute (RENCI) through the RENCI Faculty Fellows Program.
 
-<!--more-->
+
 
 The RENCI Faculty Fellows program gives UNC-Chapel Hill faculty the opportunity to partner with RENCI in order to explore new research opportunities and directions; translate new ideas into technology prototypes; develop new community service or educational programs; or develop interdisciplinary projects that integrate the arts or humanities with science.
 

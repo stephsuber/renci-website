@@ -22,9 +22,9 @@ tags:
 
 RENCI is seeking two new Duke University research teams to participate in the RENCI at Duke Faculty Engagement Program in Applied Scientific and Information Visualization.
 
-<!--more-->
 
-The program targets Duke faculty members and researchers in all domains and disciplines who could benefit by incorporating scientific visualization or visual analytics into their research. The program began in 2010 and two new 2012 awardee will be chosen. In addition to $12,000 in funding, the awardees will have access to the resources and staff at RENCI’s Duke engagement center in the Telecom Building on the Duke campus.
+
+The program targets Duke faculty members and researchers in all domains and disciplines who could benefit by incorporating scientific visualization or visual analytics into their research. The program began in 2010 and two new 2012 awardee will be chosen. In addition to $12,000 in funding, the awardees will have access to the resources and staff at RENCI's Duke engagement center in the Telecom Building on the Duke campus.
 
 The program has two goals: 1) to expand the use of advanced visualization tools among the Duke research community and help researchers advance their work to new levels of academic achievement; and 2) to set the stage for future externally funded proposals and awards.  Successful applicants will be expected to generate concrete deliverables such as new methods, models, applications, or prototypes that can become the foundation of larger, externally funded research projects.
 

@@ -20,11 +20,11 @@ tags:
 ---
 <a href="https://www.renci.org/news/irods-4-0-release-brings-popular-data-management-tool-to-wider-audience/"><img class="alignnone  wp-image-13241" src="https://www.renci.org/wp-content/uploads/2014/04/iRODS-Consortium-Logo-Dark-1024x444.jpg" alt="iRODS-Consortium-Logo-Dark" width="640" height="278" /></a>Chapel Hill, NC, April 2, 2014 – The iRODS Consortium today announced the release of iRODS 4.0, a sustainable and production-oriented version of the integrated Rule-Oriented Data System (iRODS) data management platform.
 
-<!--more-->
 
-iRODS is a popular, highly configurable, open source technology used in high-demand production sites around the world for data management, sharing and integration. It was originally developed by the Data Intensive Cyber Environments (DICE) group at the University of North Carolina (UNC) at Chapel Hill and the University of California at San Diego (UCSD). iRODS Consortium software developers at UNC’s Renaissance Computing Institute (RENCI), in collaboration with the DICE group, continue to develop and maintain iRODS, resulting in the 4.0 release.
 
-“This is a major release that brings enterprise-quality production, using industry-accepted best practices for development and testing, to the open source data management community,” said Brand Fortner, PhD, executive director of the iRODS Consortium. “iRODS 4.0 is easy to install, easier to use, and makes iRODS a suitable data management solution for a much wider group of customers.”
+iRODS is a popular, highly configurable, open source technology used in high-demand production sites around the world for data management, sharing and integration. It was originally developed by the Data Intensive Cyber Environments (DICE) group at the University of North Carolina (UNC) at Chapel Hill and the University of California at San Diego (UCSD). iRODS Consortium software developers at UNC's Renaissance Computing Institute (RENCI), in collaboration with the DICE group, continue to develop and maintain iRODS, resulting in the 4.0 release.
+
+"This is a major release that brings enterprise-quality production, using industry-accepted best practices for development and testing, to the open source data management community," said Brand Fortner, PhD, executive director of the iRODS Consortium. "iRODS 4.0 is easy to install, easier to use, and makes iRODS a suitable data management solution for a much wider group of customers."
 
 Key features of the new iRODS release include:
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-CHAPEL HILL, NC — Leading researchers in data science and genomics are recommending strategies to help genomic scientists better manage, share, analyze and archive massive research and clinical data sets in an effort to ensure that the big data explosion results in better health outcomes and faster research discoveries.  <!--more-->
+CHAPEL HILL, NC — Leading researchers in data science and genomics are recommending strategies to help genomic scientists better manage, share, analyze and archive massive research and clinical data sets in an effort to ensure that the big data explosion results in better health outcomes and faster research discoveries.  
 
 The recommendations are presented in the first white paper published by the National Consortium for Data Science (NCDS), a public-private partnership launched in North Carolina to push the development of data science, foster better data science education, and encourage the development of new data-related products and services.
 

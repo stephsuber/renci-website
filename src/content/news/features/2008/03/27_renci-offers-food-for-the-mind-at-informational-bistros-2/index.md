@@ -1,5 +1,5 @@
 ---
-title: "RENCI offers “food for the mind” at informational ‘Bistros’"
+title: "RENCI offers \"food for the mind\" at informational \"Bistros\""
 slug: renci-offers-food-for-the-mind-at-informational-bistros-2
 spotlight: false
 publishDate: 2008-03-27
@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["Renaissance Bistro","Shoah VHA","Visual History Archive (VHA)"]
 ---
-CHAPEL HILL, NC, March 27, 2008 – The public is invited to feed their minds—as well as their stomachs—at the Renaissance Computing Institute’s (RENCI) Renaissance Bistro. RENCI’s informal informational bistro session will focus on the University of Southern California Shoah Foundation Institute Visual History Archive (VHA) and how to use it for personal and professional research. <!--more-->
+CHAPEL HILL, NC, March 27, 2008 – The public is invited to feed their minds—as well as their stomachs—at the Renaissance Computing Institute's (RENCI) Renaissance Bistro. RENCI's informal informational bistro session will focus on the University of Southern California Shoah Foundation Institute Visual History Archive (VHA) and how to use it for personal and professional research. 
 
 The VHA is a video archive of testimonials from Holocaust survivors and witnesses offered through the USC Shoah Foundation Institute. The archive includes nearly 52,000 video testimonies of Holocaust survivors, witnesses and liberators collected in 32 languages and from 56 countries.
 

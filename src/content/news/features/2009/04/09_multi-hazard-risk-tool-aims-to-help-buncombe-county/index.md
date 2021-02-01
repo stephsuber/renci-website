@@ -20,7 +20,7 @@ tags:
 ---
 Emergency personnel and town planners and managers in Buncombe County have a new online tool for analyzing natural hazard risks and their potential costs.
 
-The Buncombe County Multi-hazard Risk Tool was introduced to emergency responders and government officials from Asheville and nearby communities by Todd Pierce of RENCI at UNC Asheville at a March meeting to discuss the county’s Multi-jurisdiction Hazard Mitigation Plan. <!--more-->
+The Buncombe County Multi-hazard Risk Tool was introduced to emergency responders and government officials from Asheville and nearby communities by Todd Pierce of RENCI at UNC Asheville at a March meeting to discuss the county's Multi-jurisdiction Hazard Mitigation Plan. 
 
 The web-based tool allows users to view information about the risks of natural hazards, including floods, landslides, fires, dam breaks and winter storms, in specific areas. A user who wants to know the flood risks in the town of Black Mountain, for example, will learn that 446 land parcels, or about 1,740 acres, sit in the 100-year floodplain. Users can also view a map that displays multiple layers of geographic information about an area of inquiry, including roads and other critical infrastructure, current and projected land use, and sensitive or vulnerable populations.
 

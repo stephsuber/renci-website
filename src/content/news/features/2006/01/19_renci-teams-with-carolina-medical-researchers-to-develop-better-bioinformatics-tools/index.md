@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["bioinformatics","Dr. William Kaufman","UNC School of Medicine"]
 ---
-Scientists studying the genetic changes in skin tissue linked to a life-threatening skin cancer, or melanoma, will soon have new analysis tools and more research data at their fingertips thanks to a collaboration with the Renaissance Computing Institute (RENCI), a multidisciplinary institute affiliated with the University of North Carolina at Chapel Hill, Duke and North Carolina State universities. <!--more-->
+Scientists studying the genetic changes in skin tissue linked to a life-threatening skin cancer, or melanoma, will soon have new analysis tools and more research data at their fingertips thanks to a collaboration with the Renaissance Computing Institute (RENCI), a multidisciplinary institute affiliated with the University of North Carolina at Chapel Hill, Duke and North Carolina State universities. 
 
 Dr. William Kaufmann, a professor of pathology and laboratory medicine at <a href="http://www.med.unc.edu/" target="_blank"> UNC's School of Medicine,</a> is working with a RENCI team led by Dr. Xiaojun Guan on overcoming some of the thorniest technical challenges in understanding melanoma; their work could lead to better treatments for the deadly disease. Those challenges include pulling together biological data from disparate databases and experiments, merging data sets into comprehensive data visualizations, and developing standard methods for visualizing genetic pathways, which is the series of interactions that take place among related genes that lead to mutations and the development of cancer cells.
 

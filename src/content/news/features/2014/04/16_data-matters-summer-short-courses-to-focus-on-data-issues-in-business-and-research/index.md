@@ -22,7 +22,7 @@ tags:
 
 Business managers, data analytics specialists, academic researchers, data center administrators and anyone else who grapples with big data are the target audience for a weeklong workshop series on data issues sponsored by the National Consortium for Data Science (NCDS), the Odum Institute for Social Science Research at UNC Chapel Hill, and the Renaissance Computing Institute (RENCI).
 
-<!--more-->
+
 
 &nbsp;
 <ul style="display: inline;">

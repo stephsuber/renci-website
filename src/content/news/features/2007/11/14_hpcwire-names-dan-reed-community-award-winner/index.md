@@ -20,7 +20,7 @@ tags:
 ---
 RENO, Nev., Nov. 14 -- RENCI Director Dan Reed was named winner of the 2007 Community Recognition Award by the editors of <em>HPCwire</em>, the leading publication of the high performance computing community.
 
-<!--more-->
+
 
 The HPCwire Readers' and Editors' Choice awards were announced at SC07, the international conference for high performance computing, networking, storage and analysis. SC07 was held in Reno, NV, Nov. 10 - 16.
 

@@ -22,7 +22,7 @@ tags:
 
 RALEIGH, December 16, 2010—Two North Carolina State University research teams will work with RENCI visual analytics experts through the new RENCI@NC State Faculty Engagement Program in Applied Scientific and Information Visualization.
 
-The program is an effort to expand the use of visualization tools and technologies among NC State researchers.  Each research team will receive up to $12,000 to support their work over the next year and will be expected to develop new research methods, models, applications or prototypes that can lead to larger projects supported by grant money.<!--more-->
+The program is an effort to expand the use of visualization tools and technologies among NC State researchers.  Each research team will receive up to $12,000 to support their work over the next year and will be expected to develop new research methods, models, applications or prototypes that can lead to larger projects supported by grant money.
 
 The projects are:
 <ul>
@@ -32,7 +32,7 @@ Prof. Yingling's research group will work with RENCI Senior Research Software De
 
 Yi and Yingling will create a visual 3D mapping tool that allows researchers to compare the sequential and structural differences between cellulose synthase proteins from different plants.  The research team will also visualize the results of molecular dynamics simulations in order to understand the relationship between mutations caused by a change in a single amino acid and changes to the protein structure.  Because these single amino acid mutations are functionally important to the protein, a better understanding of their impact on the protein structure could help scientists learn to manipulate cellulose synthesis.
 
-“Three dimensional comparisons of protein structure can provide many insights into protein functions and how to manipulate proteins to better understand the effects of mutations,” said Yingling. “Current visualization techniques lack simple and clean tools that allow the use of 3D structural information to analyze the genetic alignments and mutations. We want to work with RENCI to create a tool that uses spatial distance in the 3D structure to create images that are much more useful for analysis.”
+"Three dimensional comparisons of protein structure can provide many insights into protein functions and how to manipulate proteins to better understand the effects of mutations," said Yingling. "Current visualization techniques lack simple and clean tools that allow the use of 3D structural information to analyze the genetic alignments and mutations. We want to work with RENCI to create a tool that uses spatial distance in the 3D structure to create images that are much more useful for analysis."
 <ul>
 	<li><strong>Visualization of terrain evolution: from animations to space-time cube</strong>
 
@@ -42,11 +42,11 @@ Margery F. Overton, Ph.D., department of civil, construction and environmental e
 
 Laura Tateosian, department of parks, recreation and tourism management</em></li>
 </ul>
-Prof. Mitasova and her research team plan to use high-resolution elevation data of North Carolina's coast obtained from Light Detection and Ranging (LiDAR) remote sensing technology to create 3D models of the dynamics of coastal terrain. Working with RENCI’s Sidharth Thakur, a senior research software developer and visualization expert, the researchers will create visual, geographically accurate digital elevation models (DEMs) of the topography of the Outer Banks over time in order to study the effects of large events (such as hurricanes and storm surge) and long-term phenomena (such as winds and rising sea levels) on the terrain of the Outer Banks.
+Prof. Mitasova and her research team plan to use high-resolution elevation data of North Carolina's coast obtained from Light Detection and Ranging (LiDAR) remote sensing technology to create 3D models of the dynamics of coastal terrain. Working with RENCI's Sidharth Thakur, a senior research software developer and visualization expert, the researchers will create visual, geographically accurate digital elevation models (DEMs) of the topography of the Outer Banks over time in order to study the effects of large events (such as hurricanes and storm surge) and long-term phenomena (such as winds and rising sea levels) on the terrain of the Outer Banks.
 
 Understanding the dynamics of terrain evolution will build a better understanding of the risks of associated with coastal storms, flooding and erosion. The visual models will also make it easier for researchers and public officials to communicate the impacts of storms and floods to citizens and could be used to guide the development of sustainable land use plans and emergency plans.
 
-“LiDAR surveys have generated elevation data of unprecedented resolution and have given us new opportunities to study evolution of topography as a dynamic, three-dimensional process,” said Mitasova. “But these massive datasets cannot be visualized at full spatial and temporal resolutions using traditional techniques. We are turning to RENCI to develop new approaches and tools to extract and visualize information captured by these unique data sets.”
+"LiDAR surveys have generated elevation data of unprecedented resolution and have given us new opportunities to study evolution of topography as a dynamic, three-dimensional process," said Mitasova. "But these massive datasets cannot be visualized at full spatial and temporal resolutions using traditional techniques. We are turning to RENCI to develop new approaches and tools to extract and visualize information captured by these unique data sets."
 
 <strong>About RENCI@NC State</strong>
 

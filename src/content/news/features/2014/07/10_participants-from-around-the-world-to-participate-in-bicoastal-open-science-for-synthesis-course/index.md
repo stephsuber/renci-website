@@ -23,7 +23,7 @@ CHAPEL HILL, NC and SANTA BARBARA, CA - A unique training course that will take 
 
 Open Science for Synthesis (OSS) is aimed at early career scientists who want to learn new software and technology skills needed for open, collaborative, and reproducible synthesis research. The three-week intensive program will run through August 8, with 45 participants who completed a competitive application process participating in the program.
 
-<!--more-->
+
 
 During the three-week, bicoastal training, OSS participants will receive hands-on guided experience from a dynamic group of instructors assembled to provide a mixture of instructive lectures, discussions forums, exercises, and real-world application of skills to collaborative group synthesis research projects.
 

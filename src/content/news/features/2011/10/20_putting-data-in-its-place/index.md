@@ -25,7 +25,7 @@ tags:
 
 <p>Understanding data often requires understanding the geography associated with it.</p>
 
-<p>Hurricane and storm surge models mean little unless tied to a specific location.  Trends in diseases and public health can be spotted and analyzed by comparing data from different counties, regions or states.<!--more--></p>
+<p>Hurricane and storm surge models mean little unless tied to a specific location.  Trends in diseases and public health can be spotted and analyzed by comparing data from different counties, regions or states.</p>
 
 <p>Today anyone with a smart phone can collect geographic data, but using it to solve problems or gain insight poses greater challenges. For scientists to use geo-referenced data, the data must be integrated with a mapping system, such as Google Maps or Google Earth. For communities of scientists to share and learn from geo-referenced data, including real-time environmental data, it must be catalogued, archived and made easily accessible no matter the format.</p>
 
@@ -33,19 +33,19 @@ tags:
 
 <p><strong class="head2">CI for working with geo-referenced data</strong></p>
 
-<p>RENCI’s Geoanalytics Framework is cyberinfrastructure (CI) that makes working with geo-referenced data easier so it can be used to gain new knowledge, understand trends or make more informed decisions. Developed by Jeff Heard, a RENCI senior research software developer, the framework integrates data tied to specific locations with a Web-based mapping system (think Google). The tool enables researchers to view their data as a Web-based visualization, with data points linked to locations on a map designated by zip codes, latitude and longitude, or even street addresses.</p>
+<p>RENCI's Geoanalytics Framework is cyberinfrastructure (CI) that makes working with geo-referenced data easier so it can be used to gain new knowledge, understand trends or make more informed decisions. Developed by Jeff Heard, a RENCI senior research software developer, the framework integrates data tied to specific locations with a Web-based mapping system (think Google). The tool enables researchers to view their data as a Web-based visualization, with data points linked to locations on a map designated by zip codes, latitude and longitude, or even street addresses.</p>
 
 <p>The flexible infrastructure can be extended and customized to suit the needs of any project that would benefit from integrating geo-referenced data with a Web-based mapping system. The framework aims to implement, and in some instances extend, standards set by the <a href="http://www.opengeospatial.org/" target="_blank">Open Geospatial Consortium</a> for geographic data and visualization interchange. These standards allow researchers to share data from disparate sources in an interchangeable way and make it easier to work with data across platforms and disciplines.</p>
 
 <p>Some uses of the Geoanalytics Framework include:</p>
 
 <ul>
-	<li><strong class="head2">Gillings School of Global Public Health</strong>: Hong Yi, a RENCi senior research software developer, migrated data on the school’s research projects into a dynamic database that designates a latitude and longitude for each project. Yi merged the database with an online mapping tool to create an interactive Web interface that allows users to see the impact of the school’s research across North Carolina and around the globe. For more, see the Gillings School Website.</li>
+	<li><strong class="head2">Gillings School of Global Public Health</strong>: Hong Yi, a RENCi senior research software developer, migrated data on the school's research projects into a dynamic database that designates a latitude and longitude for each project. Yi merged the database with an online mapping tool to create an interactive Web interface that allows users to see the impact of the school's research across North Carolina and around the globe. For more, see the Gillings School Website.</li>
 	<li><strong class="head2">National Archives and Records Administration</strong>: As part of its research into making public records more accessible, NARA deployed a 60 terabyte collection of records and turned to RENCI to implement new ways to browse and view the that data. The Geoanalytics Framework allows users of the NARA database to zoom in and out on geographic regions and to explore public records from that region. URL?</li>
 	<li><strong><span class="head2">Emergency management decision support</span>:</strong> The National Weather Service funded RENCI to merge geo-referenced weather and climate data—often real-time data generated during weather emergencies—with Web-based mapping and video conferencing capabilities.  The goal was to enable North Carolina emergency managers to see easily understandable, real-time, geo-referenced data during weather emergencies in order to make more informed decisions. </li>
 </ul>
 
-<p>The resulting tool, dubbed “The Big Board,” combines teleconferencing and a map-based shared work surface. EMs can see what’s happening at points around their county and across the state and can add their own geo-referenced annotations to the board.  The tool was incorporated into the RENCI-developed <a href="../focus-areas/environmental-research/nc-first">NC-FIRST</a> weather data portal.</p>
+<p>The resulting tool, dubbed "The Big Board," combines teleconferencing and a map-based shared work surface. EMs can see what's happening at points around their county and across the state and can add their own geo-referenced annotations to the board.  The tool was incorporated into the RENCI-developed <a href="../focus-areas/environmental-research/nc-first">NC-FIRST</a> weather data portal.</p>
 
 <p><br class="spacer_" /></p>
 

@@ -22,7 +22,7 @@ tags:
 
 <p><span style="font-size: large;">Note: Enrollement for the Many-core Processors course is now closed.</span></p>
 
-<p>CHAPEL HILL, NC—Graduate students, post-docs and faculty and industry professionals can participate in summer programs offered by the Virtual School of Computational Science and Engineering (VSCSE) free of charge at RENCI (the Renaissance Computing Institute), 100 Europa Dr., Chapel Hill. <!--more--></p>
+<p>CHAPEL HILL, NC—Graduate students, post-docs and faculty and industry professionals can participate in summer programs offered by the Virtual School of Computational Science and Engineering (VSCSE) free of charge at RENCI (the Renaissance Computing Institute), 100 Europa Dr., Chapel Hill. </p>
 
 <p>RENCI will host two VSCSE summer courses:</p>
 

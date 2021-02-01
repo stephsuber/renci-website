@@ -23,7 +23,7 @@ tags:
 <p>Registration is now open for the Fifth International Symposium on Computational Wind Engineering (CWE2010) to be held at the Friday Center for Continuing Education in Chapel Hill May 23-27.</p>
 
 <p>Scientists, academics, technologists, architects and engineers from around the world are encouraged to register by March 1 to take advantage of the early bird discount. Students pay an even smaller registration fee and the National Science Foundation will reimburse some expenses for students attending U.S. institutions. For registration details and an online registration form, see http://www.cwe2010.org/registration.html<br />
- <!--more--><br />
+ <br />
  The symposium, hosted by RENCI, the UNC <a href="http://hazardscenter.unc.edu/" target="_blank">Center for the Study of Natural Hazards and Disasters</a>, and the University of North Carolina <a href="http://www.ie.unc.edu/" target="_blank">Institute for the Environment</a>, will provide a platform for discussing and exchanging the latest information on all computational wind engineering topics, including computational fluid dynamics (CFD) simulations used in wind engineering. Each CWE symposium reflects the scientific advances in the developing CWE sciences as well as the rapid advances in high performance computing hardware and software used by wind engineers.</p>
 
 <p>The theme for CWE2010 is CWE Applications for Homeland and Societal Security. Theme topics include natural and human-caused hazards and disasters, linking human health effects and property damage with CWE, simulation of meteorological phenomena, fires in buildings, cities and forests, use of CWE in developing wind energy systems and finding the optimal sites for wind energy systems, and much more.</p>

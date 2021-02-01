@@ -18,9 +18,9 @@ collaborations:
 tags:
     ["high performance computing (HPC)"]
 ---
-RENCI is hosting a two-week summer institute for high school students to explore key concepts in computers, electronics and robotics. The summer institute will take place July 16-27 at the Renaissance Computing Institute’s Chapel Hill location, 100 Europa Drive.
+RENCI is hosting a two-week summer institute for high school students to explore key concepts in computers, electronics and robotics. The summer institute will take place July 16-27 at the Renaissance Computing Institute's Chapel Hill location, 100 Europa Drive.
 
-<!--more-->
+
 
 Talented high school juniors and seniors involved in the Math Science Education Network Program through UNC-Chapel Hill and juniors and seniors from the North Carolina School of Science and Mathematics are invited to apply. The students will engage in hands-on learning activities, career exploration and networking with RENCI scientists, researchers and developers, and skill building in advanced computing technologies.  The deadline for applications is March 30 or until the program is full.
 

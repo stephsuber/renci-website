@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["Hurricane Katrina","Ocracoke"]
 ---
-The 2005 Atlantic hurricane season, the most active in recorded history, brought catastrophe to the U.S. Gulf Coast and Central America: at least 2,280 deaths from Katrina and other storms; record damages of more than $128 billion and thousands of people displaced who have yet to return home.<!--more-->
+The 2005 Atlantic hurricane season, the most active in recorded history, brought catastrophe to the U.S. Gulf Coast and Central America: at least 2,280 deaths from Katrina and other storms; record damages of more than $128 billion and thousands of people displaced who have yet to return home.
 
 But what if a hurricane season of that magnitude were to occur in 50 or 75 years, when experts predict water temperatures are likely to be warmer, carbon dioxide levels in the atmosphere higher, and coastal water levels higher? How will climate change affect the severity of tropical storms?
 

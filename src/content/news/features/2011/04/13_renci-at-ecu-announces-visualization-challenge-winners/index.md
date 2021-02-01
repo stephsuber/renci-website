@@ -23,7 +23,7 @@ tags:
 
 <p>The Visualization Challenge hosted by RENCI at East Carolina University (ECU) drew excellent presentations again this year.</p>
 
-<p>Cal Scheinert, undergraduate winner, and Thad Wester, graduate winner, as well as Hillary Huffer, first runner up, were recognized at the 2011 Research and Creative Week Luncheon at ECU on April 8.<!--more--></p>
+<p>Cal Scheinert, undergraduate winner, and Thad Wester, graduate winner, as well as Hillary Huffer, first runner up, were recognized at the 2011 Research and Creative Week Luncheon at ECU on April 8.</p>
 
 <p>Scheinert and Wester are both geography majors working with Prof. Thad Wasklewicz on laser scanning projects. Huffer is a Ph.D. student in coastal resources management working with Prof. Jamie Kruse in economics department.</p>
 

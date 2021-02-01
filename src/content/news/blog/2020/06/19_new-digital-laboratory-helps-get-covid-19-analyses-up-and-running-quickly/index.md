@@ -41,7 +41,7 @@ The fact that the Blackbalsam infrastructure is cloud-ready will allow a scienti
 
 RENCI researchers plan to use Blackbalsam to examine COVID-19 and fine particulate matter pollution in North Carolina. "We\u2019ve been involved in an ongoing project that has collected data on this type of air pollution in the state," said Cox. "When we saw the research about higher mortality rates for COVID-19 in the presence of particulate matter, it created the opportunity to investigate the impact of COVID-19 in communities based on pollution levels."
 
-Although COVID-19 is the current focus of Blackbalsam, the design process accounts for the continuing need for unified analytics platforms that allow scientists to get started quickly. "We don’t want to be in the situation again where something happens that requires many people to quickly begin analyzing data, but we don’t have a consolidated environment ready for it," said Cox.
+Although COVID-19 is the current focus of Blackbalsam, the design process accounts for the continuing need for unified analytics platforms that allow scientists to get started quickly. "We don't want to be in the situation again where something happens that requires many people to quickly begin analyzing data, but we don't have a consolidated environment ready for it," said Cox.
 
 Blackbalsam can be accessed at [https://github.com/helxplatform/blackbalsam](https://github.com/helxplatform/blackbalsam).
 

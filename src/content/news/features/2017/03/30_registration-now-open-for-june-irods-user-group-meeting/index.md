@@ -24,7 +24,7 @@ Users of the integrated Rule Oriented Data System (iRODS) from around the globe 
 
 Thousands of businesses<a href="https://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2.jpg"><img class="alignleft wp-image-16263 size-medium" src="https://renci.org/wp-content/uploads/2017/03/iRODS-UGM-2-300x159.jpg" alt="" width="300" height="159" /></a>, research centers, and government agencies located in the U.S., Europe, Asia, Australia, South America, and Africa use iRODS for flexible, policy-based data management that provides long-term preservation and federation.
 
-<!--more-->
+
 
 The 9th iRODS User Group Meeting begins Tuesday, June 13 with two optional one-day training sessions aimed at beginner and advanced iRODS users. The iRODS User Group Meeting (UGM) will follow on June 14 and 15. The last day of early bird registration for the training sessions is May 1. More information, including a registration form, can be found at <a href="https://irods.org/ugm2017/">https://irods.org/ugm2017/</a>.
 

@@ -18,9 +18,9 @@ collaborations:
 tags:
     ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
 ---
-The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced “haystack”) will hold its first international conference April 19 – 21, at Duke University and the Marriott Civic Center in Durham, NC. It is sponsored by RENCI, Duke University and the John D. and Catherine T. MacArthur Foundation. Registration is now open and space is limited. For a registration form, hotel information and a full conference agenda, see <a href="http://www.hastac.org/" target="_blank">www.hastac.org</a>.
+The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced "haystack") will hold its first international conference April 19 – 21, at Duke University and the Marriott Civic Center in Durham, NC. It is sponsored by RENCI, Duke University and the John D. and Catherine T. MacArthur Foundation. Registration is now open and space is limited. For a registration form, hotel information and a full conference agenda, see <a href="http://www.hastac.org/" target="_blank">www.hastac.org</a>.
 
-<!--more-->
+
 The conference, titled <em>Electronic Techtonics: Thinking at the Interface</em>, will be an unprecedented three-day forum of ideas, demos, exhibits, art and conversation, driven by digital visionaries and practitioners from across domains and disciplines. Topics will include race in cyberspace, theorizing interface, genealogies of old and new media, funding the digital future, games and narratives, and the future of the Internet and Web 3.0. The conference also will feature performances in virtual Reality, and in Second Life.
 Keynote addresses will be given by:
 <ul>

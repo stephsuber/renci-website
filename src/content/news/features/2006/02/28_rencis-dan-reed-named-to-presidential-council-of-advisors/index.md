@@ -1,5 +1,5 @@
 ---
-title: "RENCI’s Dan Reed named to presidential council of advisors"
+title: "RENCI's Dan Reed named to presidential council of advisors"
 slug: rencis-dan-reed-named-to-presidential-council-of-advisors
 spotlight: false
 publishDate: 2006-02-28
@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["President's Council of Advisors on Science and Technology (PCAST)","UNC - Chapel Hill"]
 ---
-Daniel A. Reed, director of the Renaissance Computing Institute (RENCI), Chancellor's Eminent Professor and Vice-Chancellor for Information Technology at the University of North Carolina at Chapel Hill, will be appointed to the President's Council of Advisors on Science and Technology (PCAST) the White House announced this week.<!--more-->
+Daniel A. Reed, director of the Renaissance Computing Institute (RENCI), Chancellor's Eminent Professor and Vice-Chancellor for Information Technology at the University of North Carolina at Chapel Hill, will be appointed to the President's Council of Advisors on Science and Technology (PCAST) the White House announced this week.
 
 Reed had been a member of the President's Information Technology Advisory Committee (PITAC), a group whose federal charter expired last June. In October, President Bush announced that the functions of PITAC - to advise the president on IT research and development - would be folded into PCAST and that PCAST membership would be expanded to take on the broader role. PCAST advises the president on technology, scientific research priorities, and math and science education. Its members are national leaders in business, research and education, including Dell founder Michael Dell, Intel co-founder Gordon Moore, and MIT President Emeritus Charles Vest. Reed was one of 14 appointees announced Monday. Others include F. Duane Ackerman, chairman and CEO of Bell South; Paul M. Anderson, CEO of Duke Energy; Hector de Jesus Ruiz, CEO of AMD; Robert E. Witt, president of the University of Alabama; and Tadataka Yamada, chairman of research and development for GlaxoSmithKline and soon to be executive director of the Global Health Program for the Bill and Melinda Gates Foundation.
 

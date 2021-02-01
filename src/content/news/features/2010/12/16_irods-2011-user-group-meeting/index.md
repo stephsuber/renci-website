@@ -20,15 +20,15 @@ tags:
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg"><img class="alignright size-full wp-image-6572" title="Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill" src="https://www.renci.org/wp-content/uploads/2010/12/irods-story-img.jpg" alt="" width="630" height="360" /></a></p>
 
-<p>The Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill will hold the third annual User Group Meeting for iRODS, the Integrated Rule-Oriented Data System, on “Sustainable Policy-Based Data Management, Sharing, and Preservation.”</p>
+<p>The Data Intensive Cyber Environments Center (DICE Center) at the University of North Carolina at Chapel Hill will hold the third annual User Group Meeting for iRODS, the Integrated Rule-Oriented Data System, on "Sustainable Policy-Based Data Management, Sharing, and Preservation."</p>
 
-<p>The meeting is cosponsored by RENCI and will be held February 17 - 18, 2011, at RENCI’s Europa Center headquarters in Chapel Hill.<!--more--></p>
+<p>The meeting is cosponsored by RENCI and will be held February 17 - 18, 2011, at RENCI's Europa Center headquarters in Chapel Hill.</p>
 
-<p>The user meeting is an opportunity for the growing iRODS community to participate in sessions on applications of iRODS, discuss sustainability initiatives, and learn about new planned technology development.  The sessions are all focused on helping users implement and extend the new paradigm of sustainable policy-based data management for the sharing and preservation of today’s diverse and rapidly growing digital data collections.</p>
+<p>The user meeting is an opportunity for the growing iRODS community to participate in sessions on applications of iRODS, discuss sustainability initiatives, and learn about new planned technology development.  The sessions are all focused on helping users implement and extend the new paradigm of sustainable policy-based data management for the sharing and preservation of today's diverse and rapidly growing digital data collections.</p>
 
 <p>Meeting organizers invite papers and posters on applications of iRODS, client interfaces, integration examples, and more, with submissions due January 17, 2011. More information on the meeting, the call for papers and posters, and registration is available on the iRODS wiki.</p>
 
-<p>iRODS is advanced open source data grid technology for creating shareable “virtual” digital data collections, which can range from personal collections to the largest scales—petabytes of data with hundreds of millions of files—and span sites distributed across the hall or around the globe.</p>
+<p>iRODS is advanced open source data grid technology for creating shareable "virtual" digital data collections, which can range from personal collections to the largest scales—petabytes of data with hundreds of millions of files—and span sites distributed across the hall or around the globe.</p>
 
 <p>The iRODS User Meeting will bring together users new to iRODS who want to learn how to get the most out of the advanced technology with others already using iRODS and developers in the open source project.</p>
 
@@ -52,7 +52,7 @@ tags:
 
 <p>Since its introduction in 2008 the iRODS data grid system has steadily grown in users, with more downloads with each release.  Making use of the significant set of iRODS generic capabilities, projects across the U.S. and international collaborations are applying the versatile iRODS system in a wide range of fields, from sharing data in scientific research collaborations to managing real-time data streams, publishing collections in digital libraries, and preserving electronic records over the long term in archives.</p>
 
-<p>Core development of iRODS is led by the DICE team at UNC-Chapel Hill, UCSD and RENCI. As the iRODS open source community expands, more projects and developers are contributing code with the goal of extending the open source iRODS system for their applications and the benefit of all. Development partners include CC-IN2P3, the Centre de Calcul de l’Institut National de Physique Nucléaire et de Physique des Particules; SHAMAN, the EU Sustaining Heritage Access through Multivalent ArchiviNg project and the University of Liverpool; ARCS, the Australian Research Collaboration Service; UK e-Science; CeRch, the Centre for e-Research at King's College, London; the KEK High Energy Accelerator Research Organization in Japan, and others.</p>
+<p>Core development of iRODS is led by the DICE team at UNC-Chapel Hill, UCSD and RENCI. As the iRODS open source community expands, more projects and developers are contributing code with the goal of extending the open source iRODS system for their applications and the benefit of all. Development partners include CC-IN2P3, the Centre de Calcul de l'Institut National de Physique Nucléaire et de Physique des Particules; SHAMAN, the EU Sustaining Heritage Access through Multivalent ArchiviNg project and the University of Liverpool; ARCS, the Australian Research Collaboration Service; UK e-Science; CeRch, the Centre for e-Research at King's College, London; the KEK High Energy Accelerator Research Organization in Japan, and others.</p>
 
 <p>Core iRODS development has been supported by the National Science Foundation (NSF) and the National Archives and Records Administration (NARA), and most recently, RENCI.</p>
 

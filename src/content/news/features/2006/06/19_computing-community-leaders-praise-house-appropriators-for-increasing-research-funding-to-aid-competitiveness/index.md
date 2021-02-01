@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["American Competitiveness Initiative (ACI)","Computing Research Association (CRA)"]
 ---
-Washington, D.C. - Leaders of the Computing Research Association (CRA) and ACM's U.S. Public Policy Committee (USACM) today commended Rep. Frank Wolf (R-VA) and his colleagues on a House Appropriations Subcommittee for fully supporting the President's American Competitiveness Initiative (ACI) in legislation passed by the subcommittee today. <!--more-->
+Washington, D.C. - Leaders of the Computing Research Association (CRA) and ACM's U.S. Public Policy Committee (USACM) today commended Rep. Frank Wolf (R-VA) and his colleagues on a House Appropriations Subcommittee for fully supporting the President's American Competitiveness Initiative (ACI) in legislation passed by the subcommittee today. 
 
 The bill, approved by the House Appropriations Subcommittee for Science, State, Justice and Commerce, would provide an 8 percent increase in research funding at the National Science Foundation - an increase of $439 million over last year's level - and an additional $104 million increase to the core laboratories of the National Institute of Standards and Technology. Both increases are key parts of the ACI proposed by the President in his State of the Union address last January.
 

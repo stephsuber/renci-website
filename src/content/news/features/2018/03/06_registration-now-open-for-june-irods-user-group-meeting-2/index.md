@@ -24,7 +24,7 @@ tags:
 
 DURHAM, NC - Users of the integrated Rule Oriented Data System (iRODS) will come to Durham, NC from points around the globe to attend the 2018 iRODS User Group Meeting (UGM) June 5 – 7.
 
-<!--more-->
+
 
 The meeting gives iRODS users and those interested in using iRODS the chance to learn about the latest updates to iRODS software, hear about iRODS implementations from users in different research domains and business sectors, discuss iRODS-enabled applications and discoveries, and glimpse the future of iRODS and the iRODS Consortium.
 

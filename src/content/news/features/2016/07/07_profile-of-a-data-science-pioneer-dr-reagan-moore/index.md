@@ -22,7 +22,7 @@ tags:
 ---
 <em>As he approaches retirement, Reagan Moore reflects on SRB, iRODS, and the ongoing challenge of helping scientists manage their data.</em>
 
-In 1994, Reagan Moore managed the production computing systems at the San Diego Supercomputer Center (SDSC), a job that entailed running and maintaining huge Cray computing systems as well as networking, archival storage, security, job scheduling, and visualization systems.<!--more-->
+In 1994, Reagan Moore managed the production computing systems at the San Diego Supercomputer Center (SDSC), a job that entailed running and maintaining huge Cray computing systems as well as networking, archival storage, security, job scheduling, and visualization systems.
 
 At the time, research was evolving from analyses done by individuals on single computers into a collaborative activity using distributed, interconnected and heterogeneous resources. With those changes came challenges. As Moore recalls, the software needed to manage data and interactions in a widely distributed environment didn't exist.
 
@@ -42,7 +42,7 @@ It's a software and enabling science success story that developed over two decad
 
 [caption id="attachment_3909" align="alignleft" width="640"]<a title="iRODS User Group Meeting 2016" href="https://www.flickr.com/photos/irods/27866210021/in/album-72157669709739022/" title="iRODS User Group Meeting 2016" data-flickr-embed="true"><img src="https://farm8.staticflickr.com/7313/27866206401_44bc60e1d1_z.jpg" alt="iRODS User Group Meeting 2016" width="640" height="426" /></a> <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> Reagan Moore, left, with RENCI Director Stan Ahalt after receiving recognition for long and successful career at the recent iRODS User Group meeting in Chapel Hill, NC.[/caption]
 
-"Reagan is a visionary," said Arcot Rajasekar, who started working with Moore in the mid 1990s and made the move from SDSC to UNC-Chapel Hill with him in 2008. "He was talking about massive data analysis and data intensive computing a full 15 years before the phrase ‘big data' was coined. These days the word ‘policy' in data management, curation, sharing and analysis is becoming mainstream. But Reagan was talking about it a long while back."
+"Reagan is a visionary," said Arcot Rajasekar, who started working with Moore in the mid 1990s and made the move from SDSC to UNC-Chapel Hill with him in 2008. "He was talking about massive data analysis and data intensive computing a full 15 years before the phrase 'big data' was coined. These days the word 'policy' in data management, curation, sharing and analysis is becoming mainstream. But Reagan was talking about it a long while back."
 
 Rajasekar, also a professor in UNC's SILS and a RENCI data scientist, was a key member of the original Data Intensive Computing Environments (DICE) research group, the team established to develop the SRB. Other members were system architect Mike Wan, principal developer Wayne Schroeder, and technical manager Chaitan Baru. Over 20 years, the DICE group landed 34 research grants.
 

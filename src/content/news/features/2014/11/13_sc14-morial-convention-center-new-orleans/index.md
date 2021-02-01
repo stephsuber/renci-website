@@ -20,9 +20,9 @@ tags:
 ---
 <img class="alignleft size-news-large wp-image-13845" src="https://renci.org/wp-content/uploads/2014/11/sc2014-banner-640x206.png" alt="sc2014-banner" width="640" height="206" />
 
-RENCI and its partners, the iRODS Consortium and the National Consortium for Data Science, will feature their work in an exhibit at SC14, the world’s premier conference for high performance computing, networking, storage, and analysis.
+RENCI and its partners, the iRODS Consortium and the National Consortium for Data Science, will feature their work in an exhibit at SC14, the world's premier conference for high performance computing, networking, storage, and analysis.
 
-<!--more-->
+
 
 The RENCI booth (#533) will open at 7 p.m. Monday, Nov. 17, featuring information on advanced networking; Networking Infrastructure as a Service (NIaaS), the integrated Rule Oriented Data System (iRODS) and the iRODs Consortium, the National Consortium for Data Science, and data science research projects at RENCI.
 

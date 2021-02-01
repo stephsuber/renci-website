@@ -1,5 +1,5 @@
 ---
-title: "RENCI-SILS CI-BER project cited in White House “Big Data” announcement"
+title: "RENCI-SILS CI-BER project cited in White House \"Big Data\" announcement"
 slug: renci-sils-ci-ber-project
 spotlight: false
 publishDate: 2012-04-02
@@ -22,7 +22,7 @@ tags:
 
 CHAPEL HILL, NC - On March 29, 2012, the White House announced the "Big Data Research and Development Initiative."
 
-<!--more-->
+
 
 According Tom Kalil, deputy director for Policy at the Office of Science and Technology Policy, six federal departments and agencies will share more than $200 million in new commitments that, together, promise to greatly improve the tools and techniques needed to access, organize and glean discoveries from huge volumes of digital data.
 

@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["bioportal","National Science Foundation (NSF)","TeraGrid"]
 ---
-A web-based work environment developed at the Renaissance Computing Institute (RENCI) will give users of the National Science Foundation's TeraGrid easy access to a wide range of bioinformatics and biomedical applications and databases and will allow the national biology research community to access computing, data, and other resources offered through the TeraGrid.<!--more-->
+A web-based work environment developed at the Renaissance Computing Institute (RENCI) will give users of the National Science Foundation's TeraGrid easy access to a wide range of bioinformatics and biomedical applications and databases and will allow the national biology research community to access computing, data, and other resources offered through the TeraGrid.
 
 The TeraGrid Bioportal is a shared, extensible portal environment that brings together more than 100 applications and many standard biological data sets. It provides access to high-end computing resources, including a dedicated cluster and TeraGrid systems across the U.S. Through the Bioportal, biological researchers, students and educators are able to seamlessly access data, resources and applications, compare biological data stored in different formats and remotely collaborate with colleagues.
 

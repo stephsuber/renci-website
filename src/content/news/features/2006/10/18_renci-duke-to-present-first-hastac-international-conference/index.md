@@ -18,9 +18,9 @@ collaborations:
 tags:
     ["Arts","Humanities","Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC)"]
 ---
-The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced “haystack”) will hold its first international conference April 19 – 21, 2007, in Durham, NC.
+The Humanities, Arts, Science and Technology Advanced Collaboratory (HASTAC, pronounced "haystack") will hold its first international conference April 19 – 21, 2007, in Durham, NC.
 
-The conference, titled <em>Electronic Techtonics: Thinking at the Interface</em>, will be one of the culminating events of HASTAC’s In|Formation Year, which began last June and runs through May 2007. In|Formation Year events include a series of networked discussions, lectures and performances hosted by HASTAC member institutions that highlight the human and humane dimensions of advanced technology. <!--more-->
+The conference, titled <em>Electronic Techtonics: Thinking at the Interface</em>, will be one of the culminating events of HASTAC's In|Formation Year, which began last June and runs through May 2007. In|Formation Year events include a series of networked discussions, lectures and performances hosted by HASTAC member institutions that highlight the human and humane dimensions of advanced technology. 
 
 The <em>Electronic Techtonics</em> international conference is co-sponsored by HASTAC members Duke University in Durham and the Renaissance Computing Institute (RENCI) in Chapel Hill, NC.
 
@@ -45,7 +45,7 @@ Other highlights of the conference will include a keynote address by John Seely 
 
 Details on registration fees, hotel accommodations, and a full conference agenda will be posted at the HASTAC website (link: www.hastac.org) as they become available.
 
-Some scholarship funding will be available to graduate students to help defray conference costs. For more information or to request HASTAC’s In|Formation Year poster, contact Jonathan Tarr, HASTAC Project Manager, at  info@hastac.org or 919 684-8471.
+Some scholarship funding will be available to graduate students to help defray conference costs. For more information or to request HASTAC's In|Formation Year poster, contact Jonathan Tarr, HASTAC Project Manager, at  info@hastac.org or 919 684-8471.
 
 HASTAC is a worldwide consortium of humanists, artists, scientists, social scientists and engineers from universities and other civic institutions committed to new forms of collaboration fostered by creative uses of technology. Since 2003 HASTAC members have worked to develop tools for multimedia archiving and social interaction, gaming environments for teaching, innovative educational programs in information science and information studies, virtual museums, and other digital projects.
 

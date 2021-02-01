@@ -1,5 +1,5 @@
 ---
-title: "RENCI, NC State astrophysicist create ‘explosive’ visualization"
+title: "RENCI, NC State astrophysicist create 'explosive' visualization"
 slug: renci-nc-state-astrophysicist-create-explosive-visualization
 spotlight: false
 publishDate: 2008-10-21
@@ -18,13 +18,13 @@ collaborations:
 tags:
     ["John Blondin","NC State University","RENCI at NC State University"]
 ---
-BALTIMORE—RENCI visualization researchers and John Blondin, an astrophysicist and professor in the NC State physics department, won the awards for Best Scientific and Best Overall Image at the Computational Engineering International (CEI) Visualization 2008 conference held recently in Baltimore. <!--more-->
+BALTIMORE—RENCI visualization researchers and John Blondin, an astrophysicist and professor in the NC State physics department, won the awards for Best Scientific and Best Overall Image at the Computational Engineering International (CEI) Visualization 2008 conference held recently in Baltimore. 
 
-Blondin’s image of the beginnings of a supernova shockwave in the core of a star was simulated using computational resources at Oak Ridge National Laboratory, a US Department of Energy (DOE) lab, and visualized by Steve Chall and Theresa-Marie Rhyne at RENCI at NC State. The conference attracts members of the global computer-aided engineering, medical imaging, and scientific visualization communities. CEI, based in Apex, NC, develops cutting-edge visualization and animation software for customers worldwide. The Blondin/RENCI image was created using CEI’s EnSight software.
+Blondin's image of the beginnings of a supernova shockwave in the core of a star was simulated using computational resources at Oak Ridge National Laboratory, a US Department of Energy (DOE) lab, and visualized by Steve Chall and Theresa-Marie Rhyne at RENCI at NC State. The conference attracts members of the global computer-aided engineering, medical imaging, and scientific visualization communities. CEI, based in Apex, NC, develops cutting-edge visualization and animation software for customers worldwide. The Blondin/RENCI image was created using CEI's EnSight software.
 <div class="fs_news_image"></div>
-Supernovas are dying stars that explode, causing a sudden burst of radiation that can briefly outshine an entire galaxy before fading after several weeks or months. Astrophysicists theorize that as the iron core of a star cools and runs short on fuel, a shockwave of energy ripples back through the star and it explodes. Observation has backed up the theory, but so far no scientist has been able to create a complete simulation of a star’s death because of the massive computational power needed.
+Supernovas are dying stars that explode, causing a sudden burst of radiation that can briefly outshine an entire galaxy before fading after several weeks or months. Astrophysicists theorize that as the iron core of a star cools and runs short on fuel, a shockwave of energy ripples back through the star and it explodes. Observation has backed up the theory, but so far no scientist has been able to create a complete simulation of a star's death because of the massive computational power needed.
 
-Blondin’s simulations and visualizations give researchers a better understanding of the dynamics of a supernova and also push the limits of supercomputing processing and data processing. Originally funded by the DOE’s Terascale Supernova Initiative, which involved NC State and seven other universities, the work aims to answer the question “How does a supernova explode?” and illustrates how supernova shockwaves move through the universe.
+Blondin's simulations and visualizations give researchers a better understanding of the dynamics of a supernova and also push the limits of supercomputing processing and data processing. Originally funded by the DOE's Terascale Supernova Initiative, which involved NC State and seven other universities, the work aims to answer the question "How does a supernova explode?" and illustrates how supernova shockwaves move through the universe.
 
 The visualization was also picked by CEI as the November image for the company's 2009 calendar.
 

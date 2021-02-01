@@ -22,7 +22,7 @@ tags:
 
 The result of a recent three-way partnership between <a href="http://www.unc.edu">The University of North Carolina at Chapel Hill</a>, <a href="http://www.archives.gov/">National Archives and Records Administration (NARA)</a> and the <a href="http://www.nsf.gov/dir/index.jsp?org=OCI">National Science Foundation (NSF)</a>, the <a href="http://ci-ber.blogspot.com/p/about-ci-ber.html">Cyberinfrastructure for Billions of Electronic Records project (CI-BER) </a>held its official kickoff meeting on Thursday, October 28, 2010 in Chapel Hill.
 
-One of the first federally-funded projects of its kind to bring the benefits of social media and public reports of its progress via a blogging format, CI-BER will create master copies of NARA's Center for Advanced Systems and Technologies' testbed collections of electronic records and  store them at the University of North Carolina at Chapel Hill.<!--more-->
+One of the first federally-funded projects of its kind to bring the benefits of social media and public reports of its progress via a blogging format, CI-BER will create master copies of NARA's Center for Advanced Systems and Technologies' testbed collections of electronic records and  store them at the University of North Carolina at Chapel Hill.
 
 CI-BER involves research partnerships between the <a href="http://sils.unc.edu/">School of Information and Library Science (SILS), </a>the <a href="https://renci.org/">Renaissance Computing Institute (RENCI)</a> and the <a href="http://dice.unc.edu/">Data Intensive Computing Environments (DICE) Center</a>, as well as with staff at the <a href="http://www.ucsd.edu/">University of California San Diego (UCSD)</a>. SILS professor Richard Marciano, leads the UNC portion of the project.
 

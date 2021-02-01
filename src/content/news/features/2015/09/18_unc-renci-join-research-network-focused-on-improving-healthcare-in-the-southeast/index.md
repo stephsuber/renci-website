@@ -22,11 +22,11 @@ tags:
 
 CHAPEL HILL – The University of North Carolina at Chapel Hill is one of multiple new sites to join the Mid-South Clinical Data Research Network (CDRN), a collaborative partnership that is harnessing data from electronic health records to improve outcomes for patients throughout the Southeast. The expansion is funded by a three-year, $8.5 million funding award from the Patient-Centered Outcomes Research Institute (PCORI).
 
-<!--more-->
+
 
 The <a href="https://midsouthcdrn.mc.vanderbilt.edu/">Mid-South CDRN</a> will focus on improving treatments and outcomes for health conditions ranging from heart disease, diabetes and cancer to sickle cell anemia, sleep apnea, autism and arthritis. It is also participating in national studies addressing the optimal dose of aspirin in patients with coronary heart disease, and optimal surgical approaches for obesity. The goal is to rapidly translate research findings into clinical practice.
 
-"Over the past decade the U.S. government has made a major investment in electronic health record technology, so it's wonderful to see that investment being used for the improvement of health for North Carolinians," said Tim Carey, M.D., MPH, principal investigator of the Mid-South CDRN and co-principal investigator of the NC Translational and Clinical Sciences (<a href="https://tracs.unc.edu/">NC TraCS</a>) Institute at UNC-Chapel Hill. “This partnership will enable us to put the data we are already collecting in the clinic to work to compare which approaches have the greatest impact for our patients. At UNC, we call this 'research as a public good.'"
+"Over the past decade the U.S. government has made a major investment in electronic health record technology, so it's wonderful to see that investment being used for the improvement of health for North Carolinians," said Tim Carey, M.D., MPH, principal investigator of the Mid-South CDRN and co-principal investigator of the NC Translational and Clinical Sciences (<a href="https://tracs.unc.edu/">NC TraCS</a>) Institute at UNC-Chapel Hill. "This partnership will enable us to put the data we are already collecting in the clinic to work to compare which approaches have the greatest impact for our patients. At UNC, we call this 'research as a public good.'"
 
 The Mid-South CDRN is one of 13 clinical data research networks in the National Patient-Centered Clinical Research Network (<a href="http://www.pcornet.org/">PCORnet</a>), designed to transform clinical research by engaging patients, care providers, and health systems in collaborative partnerships that leverage health data to advance medical knowledge and improve health care.
 

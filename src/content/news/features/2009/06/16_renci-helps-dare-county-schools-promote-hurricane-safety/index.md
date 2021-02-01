@@ -22,8 +22,8 @@ tags:
 
 Donna Kain, outreach director at RENCI at East Carolina University (ECU),  and Michelle Covi, outreach coordinator at RENCI at ECU, recently traveled to Nags Head Elementary School on the Outer Banks to promote Hurricane Preparedness Week in Dare County.
 
-<!--more-->
 
-Fourth and fifth graders learned about the science of hurricanes from meteorologist John Cole, warning coordination meteorologist at the National Weather Service Forecast Office in Newport/Morehead City. The students also participated in a hurricane tracking exercise, during which a simulated hurricane threatened the North Carolina coast and its path was tracked using amateur radio, cell phone alert, the Internet, television and other sources. Covi showed the students how to use the National Weather Service’s cell phone alert system to receive up-to-date information about incoming storms.  Anyone can sign up for the alerts through the National Weather Service.
+
+Fourth and fifth graders learned about the science of hurricanes from meteorologist John Cole, warning coordination meteorologist at the National Weather Service Forecast Office in Newport/Morehead City. The students also participated in a hurricane tracking exercise, during which a simulated hurricane threatened the North Carolina coast and its path was tracked using amateur radio, cell phone alert, the Internet, television and other sources. Covi showed the students how to use the National Weather Service's cell phone alert system to receive up-to-date information about incoming storms.  Anyone can sign up for the alerts through the National Weather Service.
 
 For more on RENCI at ECU, see <a href="http://www.ecu.edu/renci">http://www.ecu.edu/renci</a>

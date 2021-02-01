@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["high performance computing (HPC)"]
 ---
-On July 19, the Senate Subcommittee on Technology, Innovation, and Competitiveness listened to testimony from expert witnesses on the subject of high performance computing in the context of national competitiveness. <!--more-->The witnesses shared their diverse experiences to create a varied portrait of the state of high performance computing and its role in maintaining a competitive advantage for U.S. industries.  The witnesses were:
+On July 19, the Senate Subcommittee on Technology, Innovation, and Competitiveness listened to testimony from expert witnesses on the subject of high performance computing in the context of national competitiveness. The witnesses shared their diverse experiences to create a varied portrait of the state of high performance computing and its role in maintaining a competitive advantage for U.S. industries.  The witnesses were:
 <ul type="disc">
  	<li>Simon Szykman, Director, National Coordination Office for</li>
  	<li>Networking and Information Technology Research and Development</li>

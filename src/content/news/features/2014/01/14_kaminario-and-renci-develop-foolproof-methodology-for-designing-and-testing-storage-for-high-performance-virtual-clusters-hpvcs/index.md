@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-NEWTON, MA--(Marketwired - Jan 14, 2014) - <a href="http://kaminario.com" target="_blank">Kaminario</a>, the leading scale-out all-flash array provider, and the Renaissance Computing Institute at the University of North Carolina-Chapel Hill (RENCI), today announced a joint report that provides guidelines on how to test storage for deploying High Performance Virtual Clusters (HPVCs). Aimed at IT administrators, the paper outlines two successful reference architectures for building HPVCs that support large and medium cluster workload requirements and allow for future growth.  <!--more-->
+NEWTON, MA--(Marketwired - Jan 14, 2014) - <a href="http://kaminario.com" target="_blank">Kaminario</a>, the leading scale-out all-flash array provider, and the Renaissance Computing Institute at the University of North Carolina-Chapel Hill (RENCI), today announced a joint report that provides guidelines on how to test storage for deploying High Performance Virtual Clusters (HPVCs). Aimed at IT administrators, the paper outlines two successful reference architectures for building HPVCs that support large and medium cluster workload requirements and allow for future growth.  
 
 In the white paper, "Reference Architecture: Scalable SSD Storage for Building a High Performance ESX Cluster," Kaminario and RENCI developed a new methodology for testing HPVCs that takes into account the consistency of performance needed in competitive virtual environments.
 

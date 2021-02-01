@@ -20,7 +20,7 @@ tags:
 ---
 Community leaders in Asheville aim to build on the area's history in climate analysis and digital arts to build Western North Carolina into a center for climate-related services. RENCI's engagement center in Asheville is expected to play a key role in that effort.
 
-<!--more-->
+
 
 In November, the Asheville Hub, a community-based effort to promote new economic development and build on the region's strengths in climatology, media arts and other fields, launched the Centers for Environmental and Climatic Interaction (CECI). Led by George Briggs, who also directs the North Carolina Arboretum, CECI will focus on growing service businesses related to climate issues and climate change. Much of CECI's initial focus will be on securing federal and state grants and on building partnerships with government agencies, businesses and academia to develop Ashville as an area with the expertise and resources to turn climatic data into services that can be used in decision making.
 

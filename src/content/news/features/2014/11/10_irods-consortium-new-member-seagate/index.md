@@ -20,19 +20,19 @@ tags:
 ---
 <img class="alignright size-medium wp-image-13783" src="https://renci.org/wp-content/uploads/2014/11/seagate-2c-pos-R-300x96.jpg" alt="seagate_2c_pos R" width="300" height="96" />CHAPEL HILL, NC, November 10, 2014, 2014 – Seagate Technology, a world leader in storage solutions, is the latest corporation to join the iRODS Consortium, a group that supports and guides the continued development of the integrated Rule-Oriented Data System, or iRODS.
 
-<!--more-->
+
 
 The iRODS Consortium was formed almost two years ago by founding members RENCI and the Data Intensive Cyber Environment (DICE) research group, both based at the University of North Carolina at Chapel Hill. Seagate joins three additional Consortium members: DataDirect Networks (DDN), the UK-based Wellcome Trust Sanger Institute, and EMC Corporation.
 
 iRODS is highly configurable free open source software that provides data discovery, management, and sharing capabilities to an extensive user base, particularly in the life sciences and digital library community. The iRODS Consortium staffs a full-time engineering and support team that continues to develop iRODS, based on the software code originally developed by the DICE group.
 
-Seagate recently announced it has further strengthened its position as a trusted storage solutions leader by delivering cloud systems and solutions for original equipment manufacturers (OEMs) and “do-it-yourself (DIY)” organizations. Seagate is building on its position as a steward of digital information, and its acquisitions of Xyratex and EVault, to deliver Intelligent Information Infrastructure systems that help partners and their customers manage the massive growth in digital data and deliver on next generation workloads.
+Seagate recently announced it has further strengthened its position as a trusted storage solutions leader by delivering cloud systems and solutions for original equipment manufacturers (OEMs) and "do-it-yourself (DIY)" organizations. Seagate is building on its position as a steward of digital information, and its acquisitions of Xyratex and EVault, to deliver Intelligent Information Infrastructure systems that help partners and their customers manage the massive growth in digital data and deliver on next generation workloads.
 
-Engineered for high-performance computing, Seagate’s ClusterStor solutions combine ultra dense data enclosures, operating system, hardware controllers, and the Lustre<sup>®</sup> file system in a consolidated, scale-out platform. The award-winning Seagate ClusterStor solution removes the complexities associated with deploying and maintaining traditional high-performance systems yielding faster time to results, ease of use and management, and world-class performance to meet mission-critical needs.
+Engineered for high-performance computing, Seagate's ClusterStor solutions combine ultra dense data enclosures, operating system, hardware controllers, and the Lustre<sup>®</sup> file system in a consolidated, scale-out platform. The award-winning Seagate ClusterStor solution removes the complexities associated with deploying and maintaining traditional high-performance systems yielding faster time to results, ease of use and management, and world-class performance to meet mission-critical needs.
 
-“Our customers require the ability to process ever-growing digital data sets for simulations, modeling, and real-time analytics with the highest performance possible,” said Ken Claffey, Vice President of ClusterStor, Seagate Cloud Systems and Solutions. “As these data sets grow to multiple petabytes in size tools for data management and collaboration are increasingly essential. We see iRODS as an important technology for data management and we look forward to taking an active role in the success of iRODS and the iRODS Consortium.”
+"Our customers require the ability to process ever-growing digital data sets for simulations, modeling, and real-time analytics with the highest performance possible," said Ken Claffey, Vice President of ClusterStor, Seagate Cloud Systems and Solutions. "As these data sets grow to multiple petabytes in size tools for data management and collaboration are increasingly essential. We see iRODS as an important technology for data management and we look forward to taking an active role in the success of iRODS and the iRODS Consortium."
 
-“Both Seagate and the iRODS Consortium understand how important it is to address the data management needs of research and business organizations who are facing an explosion of digital data,” said iRODS Consortium Executive Director Brand Fortner. “Seagate’s insights and expertise will make this consortium stronger. We enthusiastically welcome them to the iRODS community.”
+"Both Seagate and the iRODS Consortium understand how important it is to address the data management needs of research and business organizations who are facing an explosion of digital data," said iRODS Consortium Executive Director Brand Fortner. "Seagate's insights and expertise will make this consortium stronger. We enthusiastically welcome them to the iRODS community."
 
 <strong>iRODS@SC14</strong>
 
@@ -44,9 +44,9 @@ For more on iRODS and the iRODS consortium, visit <a href="http://www.irods.org"
 
 <strong>Seagate@SC14</strong>
 
-Please visit Seagate’s booth (#3239) to hear from industry thought leaders, ClusterStor customers and Seagate technology leaders on how HPC is addressing today’s complex market problems.
+Please visit Seagate's booth (#3239) to hear from industry thought leaders, ClusterStor customers and Seagate technology leaders on how HPC is addressing today's complex market problems.
 
-Seagate invites SC’14 attendees to its Inaugural Seagate HPC User Group in New Orleans, November 17, 4:30 to 7 p.m. at the New Orleans Downtown Marriott at the Convention Center.   Attendees are encouraged to register online here as space is limited.
+Seagate invites SC'14 attendees to its Inaugural Seagate HPC User Group in New Orleans, November 17, 4:30 to 7 p.m. at the New Orleans Downtown Marriott at the Convention Center.   Attendees are encouraged to register online here as space is limited.
 
 <strong>About Seagate</strong>
 

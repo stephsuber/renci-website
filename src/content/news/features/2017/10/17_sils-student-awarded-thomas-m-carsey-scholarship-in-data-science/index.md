@@ -21,11 +21,11 @@ tags:
 ---
 Xueli Fan, a graduate student in the <a href="https://sils.unc.edu/">School of Information and Library Science</a> (SILS) at UNC-Chapel Hill, was recently named 2017-2018 recipient of the Thomas M. Carsey Scholarship in Data Science.
 
-The scholarship program gives talented UNC-Chapel Hill students the chance to work on real data science problems and domain science problems that use data and data science techniques in the discovery process. Launched by RENCI, Carsey scholars are paid for up to 20 hours per week to work with RENCI research teams and collaborators.<!--more-->
+The scholarship program gives talented UNC-Chapel Hill students the chance to work on real data science problems and domain science problems that use data and data science techniques in the discovery process. Launched by RENCI, Carsey scholars are paid for up to 20 hours per week to work with RENCI research teams and collaborators.
 
 <a href="https://renci.org/wp-content/uploads/2017/10/XueliFan-forarticle-2.jpg"><img class="alignleft wp-image-16802 size-medium" src="https://renci.org/wp-content/uploads/2017/10/XueliFan-forarticle-2-227x300.jpg" alt="" width="227" height="300" /></a>
 
-Fan, who is studying for an MS in information science, will work with Arcot Rajasekar, PhD, a SILS professor and chief data scientist at RENCI; and Howard Lander, a senior research software developer at RENCI; on the <a href="https://renci.org/research/databridge/">DataBridge</a> project. Funded by the National Science Foundation, DataBridge aims to make research data more easily discoverable and usable by a wider community of scientists. The DataBridge system uses relevance detection algorithms to find similarities between data sets and create searchable “communities” of data.
+Fan, who is studying for an MS in information science, will work with Arcot Rajasekar, PhD, a SILS professor and chief data scientist at RENCI; and Howard Lander, a senior research software developer at RENCI; on the <a href="https://renci.org/research/databridge/">DataBridge</a> project. Funded by the National Science Foundation, DataBridge aims to make research data more easily discoverable and usable by a wider community of scientists. The DataBridge system uses relevance detection algorithms to find similarities between data sets and create searchable "communities" of data.
 
 Fan will contribute to the DataBridge effort by investigating similarity algorithms, clustering algorithms, and visualization techniques. In addition to being a SILS student, she holds an undergraduate degree in surveying and mapping engineering from Tongji University in Shanghai, China. More recently, she has conducted data analytics research related to smart cities for Rajasekar.
 

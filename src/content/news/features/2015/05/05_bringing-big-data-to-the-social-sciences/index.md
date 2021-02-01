@@ -22,11 +22,11 @@ Much has been said about big data and its potential to improve business producti
 
 With so much human-focused data available, social scientists have the opportunity to learn much from the big data revolution, but they need the technological infrastructure and resources to work with massive amounts of what is often unstructured and unwieldy data. Gleaning knowledge from data requires powerful computers, flexible and reliable data management platforms, high performance networks for moving and sharing data, and massive amounts of storage.
 
-<!--more-->
+
 
 For the most part, these resources have not made the leap into the social sciences.
 
-The Virtual Institute for Social Research (VISR), created by UNC Chapel Hill’s Renaissance Computing Institute and Odum Institute for Research in Social Science, will give social science researchers access to a powerful, secure cyberinfrastructure where they can store, analyze, and share big data.
+The Virtual Institute for Social Research (VISR), created by UNC Chapel Hill's Renaissance Computing Institute and Odum Institute for Research in Social Science, will give social science researchers access to a powerful, secure cyberinfrastructure where they can store, analyze, and share big data.
 
 When fully developed, VISR will allow social science researchers to come together in a virtual collaborative environment with enough computing power to analyze and gain insights from big data while addressing the challenges of big data management. It will serve as a data repository, provide high performance computing power, and allow researchers to remotely access and work with data throughout the data lifecycle.
 

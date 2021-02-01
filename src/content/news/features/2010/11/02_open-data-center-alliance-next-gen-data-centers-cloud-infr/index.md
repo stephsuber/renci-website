@@ -20,11 +20,11 @@ tags:
 ---
 <p><a href="https://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg"><img class="alignnone size-full wp-image-6467" title="ODCA_logo" src="https://www.renci.org/wp-content/uploads/2010/11/ODCA_logo.jpg" alt="" width="630" height="435" /></a></p>
 
-<p>SAN FRANCISCO - The Open Data Center Alliance, an independent consortium of global IT leaders this week announced its formation and previewed the Alliance's 0.5 vendor-agnostic Usage Model Roadmap.<!--more--></p>
+<p>SAN FRANCISCO - The Open Data Center Alliance, an independent consortium of global IT leaders this week announced its formation and previewed the Alliance's 0.5 vendor-agnostic Usage Model Roadmap.</p>
 
 <p>The roadmap comprises 19 prioritized usage models that address emerging technical requirements for data center and cloud infrastructure and is based on open, interoperable solutions that can be sourced from multiple vendors and interoperate across data centers.</p>
 
-<p>Members of the Open Data Center Alliance - with over $50 billion in collective IT spending - are committed to the roadmap to guide their data center and cloud purchasing decisions today and for planning their data center deployments of the future.  Both RENCI and UNC Chapel Hill’s Research Computing are members of the Alliance.</p>
+<p>Members of the Open Data Center Alliance - with over $50 billion in collective IT spending - are committed to the roadmap to guide their data center and cloud purchasing decisions today and for planning their data center deployments of the future.  Both RENCI and UNC Chapel Hill's Research Computing are members of the Alliance.</p>
 
 <p>The Alliance is led by a Steering Committee comprised of global IT leaders -including BMW; China Life; Deutsche Bank; JPMorgan Chase; Lockheed Martin; Marriott International, Inc.; National Australia Bank; Shell; Terremark; and UBS - who are joined by more than 70 members representing a broad array of industries and the research sector. The Open Data Center Alliance Steering Committee has selected Intel Corporation to serve as the technical advisor for the organization due to Intel's unique role in the industry and deep experience working within industry consortiums.</p>
 

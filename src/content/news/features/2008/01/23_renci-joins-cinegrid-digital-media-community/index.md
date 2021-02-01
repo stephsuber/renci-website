@@ -18,7 +18,7 @@ collaborations:
 tags:
     ["3D visualization","collaborative environments"]
 ---
-CHAPEL HILL, NC, January 23, 2008--A new RENCI partnership will give North Carolina the opportunity to contribute digital films, scientific visualizations, and filmed performances to a worldwide network of high-resolution digital media content.<!--more-->
+CHAPEL HILL, NC, January 23, 2008--A new RENCI partnership will give North Carolina the opportunity to contribute digital films, scientific visualizations, and filmed performances to a worldwide network of high-resolution digital media content.
 
 Late in 2007 RENCI joined CineGrid, a non-profit organization aimed at bringing together filmmakers, visualization specialists, animators and other digital media experts to share very high-quality digital media over high-speed photonic networks. CineGrid hopes to build a worldwide community that uses high-performance grids and grid infrastructure to share projects, ideas and applications, test new collaboration tools, experiment with distributed online production techniques, and evaluate new ways of delivering digital media content. CineGrid members include artists, filmmakers, researchers, educators and others interested in new ways of sharing and producing media-rich content for education, research, entertainment and artistic expression.
 

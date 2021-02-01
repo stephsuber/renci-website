@@ -23,11 +23,11 @@ tags:
 
 A school snow day often leaves kids jumping for joy and their parents scrambling to readjust their work schedules.
 
-But what about the people who make the decision to cancel classes? They are usually school transportation officials, who analyze changing weather conditions and gather information on road conditions, and school district administrators, who make the final decision. Most of the time, they have no training in meteorology or emergency management, yet the safety of thousands rests in their hands during winter weather emergencies. <!--more-->
+But what about the people who make the decision to cancel classes? They are usually school transportation officials, who analyze changing weather conditions and gather information on road conditions, and school district administrators, who make the final decision. Most of the time, they have no training in meteorology or emergency management, yet the safety of thousands rests in their hands during winter weather emergencies. 
 
 Through a project called Weather for Emergency Management, or WxEM, RENCI and its partners are working to understand the dynamics of school closing decisions and are testing new technologies—including easy-to-understand visual presentations of weather data and real-time collaboration tools—so that school officials will be able to make closing decisions using the best, most relevant and up-to-date information.
 
-“If you want to turn information into knowledge and then into action, you need more than just raw data,” said Ken Galluppi, RENCI’s director of disaster and environmental programs. “The information needs to be presented in the context of what’s important. If I’m the transportation director at a school, I need to know more than the weather forecast. If the forecast calls for snow or ice, I need to know how it will affect road conditions and for how long. And I need to be able to get to that information quickly in a format that is easy to understand.”
+"If you want to turn information into knowledge and then into action, you need more than just raw data," said Ken Galluppi, RENCI's director of disaster and environmental programs. "The information needs to be presented in the context of what's important. If I'm the transportation director at a school, I need to know more than the weather forecast. If the forecast calls for snow or ice, I need to know how it will affect road conditions and for how long. And I need to be able to get to that information quickly in a format that is easy to understand."
 
 <strong class="renci_head">WxEM: decision support for emergencies</strong>
 
@@ -43,7 +43,7 @@ Burrell Montz, chair of the geography department at ECU, leads the effort to col
 
 RENCI leads the rapid prototyping work and the effort to introduce new collaboration tools to emergency response communities. As a first use case for their work, the research team chose K-12 schools and the decision making process involved in winter weather school closings. School decision makers, according to Galluppi, have few decision support tools.
 
-“In the schools, the people making closing decisions usually are not trained as emergency managers, they don’t have a system for sharing information and they don’t have tools that help them interpret the impacts of severe weather,” Galluppi said.
+"In the schools, the people making closing decisions usually are not trained as emergency managers, they don't have a system for sharing information and they don't have tools that help them interpret the impacts of severe weather," Galluppi said.
 
 This winter, the research team will introduce school decision makers to visual models that display key facts about an impending winter storm: when it will start, how long it is likely to last, and whether the precipitation will be snow, ice, rain, or some combination. By looking at the visualizations, a school decision maker will be able to easily figure out when a storm will start and what kind of precipitation will fall at what time.
 
@@ -55,7 +55,7 @@ The RENCI team expects to introduce its decision support tools to selected schoo
 
 ###
 
-<em><a href="http://innovate.unc.edu/" target="_blank"><img class="alignright size-medium wp-image-6527" title="innovate-logo" src="https://www.renci.org/wp-content/uploads/2010/11/innovate-logo-300x78.png" alt="" width="300" height="78" /></a>RENCI WxEM project supports the Innovate@Carolina Roadmap, UNC’s plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">innovate.unc.edu</a>.</em>
+<em><a href="http://innovate.unc.edu/" target="_blank"><img class="alignright size-medium wp-image-6527" title="innovate-logo" src="https://www.renci.org/wp-content/uploads/2010/11/innovate-logo-300x78.png" alt="" width="300" height="78" /></a>RENCI WxEM project supports the Innovate@Carolina Roadmap, UNC's plan to help Carolina become a world leader in launching university-born ideas for the good of society. To learn more about the roadmap, visit <a href="http://innovate.unc.edu/" target="_blank">innovate.unc.edu</a>.</em>
 
 <!-- old tags
 

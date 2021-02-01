@@ -18,7 +18,7 @@ collaborations:
 tags:
     - 
 ---
-RENCI Deputy Director Alan Blatecky was named 2005 Employee of the Year by Tony Waldrop, Vice Chancellor for Research and Economic Development at the University of North Carolina, Chapel Hill. The award is presented to the year's most outstanding employee in the UNC Research and Economic Division.<!--more-->
+RENCI Deputy Director Alan Blatecky was named 2005 Employee of the Year by Tony Waldrop, Vice Chancellor for Research and Economic Development at the University of North Carolina, Chapel Hill. The award is presented to the year's most outstanding employee in the UNC Research and Economic Division.
 
 Blatecky, the first employee recruited by RENCI Director Dan Reed, came to Chapel Hill in early 2004 from the San Diego Supercomputer Center (SDSC), where he had been executive director. He worked tirelessly on all the details involved in launching a new institute, from recruiting staff to negotiating office space agreements to acquiring computing systems. Throughout his tenure at RENCI, Blatecky has been a strong advocate for state and national partnerships that allow other campuses and organizations to take full advantage of RENCI's resources and expertise. In addition, he has used his national reputation in the high-performance computing and computational science communities to establish RENCI as a leader in developing collaborations in the sciences, engineering, arts, humanities, and commerce.
 

@@ -20,7 +20,7 @@ tags:
 ---
 <a href="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg"><img class="alignnone size-full wp-image-3948" title="wind-conf-img" src="https://www.renci.org/wp-content/uploads/2009/08/wind-conf-img.jpg" alt="wind-conf-img" width="630" height="269" /></a>
 
-Scientists, academicians, technologists, architects and engineers from around the world are invited to present their ideas, experience and views related to computational wind engineering at the Fifth International Symposium on Computational Wind Engineering (CWE2010) in Chapel Hill, NC, May 23-27, 2010. The deadline for submitting all proposals is October 17, 2009.  <!--more-->
+Scientists, academicians, technologists, architects and engineers from around the world are invited to present their ideas, experience and views related to computational wind engineering at the Fifth International Symposium on Computational Wind Engineering (CWE2010) in Chapel Hill, NC, May 23-27, 2010. The deadline for submitting all proposals is October 17, 2009.  
 
 The symposium, hosted by the Renaissance Computing Institute (RENCI), the UNC Center for the Study of Natural Hazards and Disasters, and the University of North Carolina Institute for the Environment, will provide a platform for discussing and exchanging the latest information on all computational wind engineering topics, including (but not limited to) Computational Fluid Dynamics (CFD) simulations used in wind engineering. Each CWE symposium reflects the scientific advances in the developing CWE sciences as well as the rapid advances in high performance computing hardware and software used by wind engineers.
 
