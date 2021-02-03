@@ -10,7 +10,7 @@ groups:
 projects:
     - data-translator-robokop
 people:
-    - 
+    - chris-bizon
 teams: 
     - 
 collaborations:
