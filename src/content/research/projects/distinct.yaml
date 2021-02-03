@@ -1,8 +1,8 @@
 id: distinct
 name: DISTINCT
-email: fake@email.com
+email: 
 featuredImage: distinct.jpg
-description: DISTINCT aims to improve the robustness and reliability of electric power systems by creating a distributed multi-loop networked system for wide-area control of large power grids.
+description: DISTINCT aims to develop a highly resilient, fault-tolerant, and reliable distributed network control system for tomorrow's power grids using cutting-edge emerging technologies, such as cloud computing and software defined networks. The merit of this research lies in the proposed multidisciplinary and cross-layer approach to address the challenges in developing distributed smart grids and cyberphysical systems.
 renciRole: !markdown |
   This project aims to develop a transformative distributed networked control system for wide-area power grid systems. RENCI is one of three collaborating institutions, along with North Carolina State University and the University of South Florida. The project uses the RENCI-developed [ExoGENI](http://www.exogeni.net/) testbed. 
 members:
