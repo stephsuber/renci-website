@@ -45,6 +45,6 @@ RENCI scientists have created a special COVID instance of ROBOKOP called COVID-K
 
 The Scigraph and SciBite co-occurrence graphs are available at [automat.renci.org](https://automat.renci.org/).
 
-The new COVID-19 version of ROBOKOP is available at [covidkop.renci.org](http://covidkop.renci.org/).
+The new COVID-19 version of ROBOKOP is available at [covidkop.renci.org](https://covidkop.renci.org/).
 
 _By Nancy Lamontagne, Senior Science Writer, Creative Science Writing_
